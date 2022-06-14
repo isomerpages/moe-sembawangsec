@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us.md
       - Our School Song.md
       - Principal’s Message.md
       - Our VMV.md
@@ -10,3 +9,4 @@ collections:
       - Advisory Committee.md
       - School Management Committee.md
       - Our Staff.md
+      - Contact Us.md
