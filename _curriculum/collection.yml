@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Signature Programme.md
-      - ICT.md
-      - Physical Education.md
-      - Mother Tongue.md
-      - Craft & Technology.md
-      - Humanities.md
-      - Science.md
-      - Mathematics.md
       - English.md
+      - Mathematics.md
+      - Science.md
+      - Humanities.md
+      - Craft & Technology.md
+      - Mother Tongue.md
+      - Physical Education.md
+      - ICT.md
