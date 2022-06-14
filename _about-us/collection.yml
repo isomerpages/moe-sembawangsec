@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Advisory Committee.md
-      - Achievements.md
       - Principal’s Message.md
       - Our VMV.md
+      - Achievements.md
+      - Advisory Committee.md
