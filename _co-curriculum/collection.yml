@@ -2,8 +2,8 @@ collections:
   co-curriculum:
     output: true
     order:
-      - CCA.md
       - Character & Citizenship Education.md
       - Student Leadership.md
       - Student Well Being & Development.md
       - SkillsFuture Student Portal.md
+      - CCA.md
