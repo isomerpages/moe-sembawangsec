@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Sembawang Secondary School
+description: Leaders & Change Makers
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
@@ -33,3 +33,4 @@ sections:
       subtitle: Learn more
       button: View More
 ---
+
