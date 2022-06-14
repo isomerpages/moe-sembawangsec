@@ -4,33 +4,27 @@ title: Sembawang Secondary School
 description: Leaders & Change Makers
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Sembawang Secondary School
       subtitle: Leaders & Change Makers
       background: /images/dragon-boat-competition.jpeg
       button: Direct School Admission (2023 intake)
-      url: /contact-us/
+      url: /direct-school-admission/
       key_highlights:
         - title: Pearl
           description: Develop active learning
-          url: https://google.com
+          url: /pearl/
         - title: Applied Learning Programme
           description: Innovative curriculum
-          url: https://gmail.com
+          url: /applied-learning-programme/
         - title: Learning For Life Programme
           description: Developing Community Leaders
-          url: /privacy/
+          url: /learning-for-life/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
+      title: Contact Us
+      subtitle: Reach out to us today
+      button: Contact information
+      url: /contact-us/
 ---
-
