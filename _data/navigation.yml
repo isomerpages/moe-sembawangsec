@@ -1,7 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
   - title: About US
-    collection: collection
+    collection: about-us
   - title: Resource
     resource_room: true
   - title: Menu Title
