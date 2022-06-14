@@ -25,6 +25,6 @@ sections:
   - infobar:
       title: Contact Us
       subtitle: Reach out to us today
-      button: Contact information
+      button: Get in touch
       url: /contact-us/
 ---
