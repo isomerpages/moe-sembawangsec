@@ -2,5 +2,6 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Student Well Being & Development.md
       - Student Leadership.md
       - Character & Citizenship Education.md
