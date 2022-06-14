@@ -13,3 +13,5 @@ links:
         url: /sec-1-reg-2022
       - title: Home Based Learning
         url: /home-based-learning
+  - title: Curriculum
+    collection: curriculum
