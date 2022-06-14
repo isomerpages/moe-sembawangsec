@@ -1,11 +1,7 @@
 logo: /images/cropped-logo1-2021.jpg
 links:
-  - title: About US
+  - title: About Us
     collection: about-us
-  - title: Resource
-    resource_room: true
-  - title: Menu Title
-    collection: collection
   - title: Announcement
     url: /announcement
     sublinks:
@@ -15,3 +11,7 @@ links:
         url: /home-based-learning
   - title: Curriculum
     collection: curriculum
+  - title: Resource
+    resource_room: true
+  - title: Menu Title
+    collection: collection
