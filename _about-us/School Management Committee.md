@@ -47,7 +47,7 @@ description: ""
 |Subject Head (Food and Consumer Education)		| Mr Zeng Hengguang|
 | *_Information & Communications Technology_*| |
 | Head of Department	| Mr Goh Jiang Wee Alan|
-| *_Staff Learning & Development_*| |
+| **Staff Learning & Development**| |
 | School Staff Developer		| Mr Muzaffar Bin Johari|
 |**Student Development & Well Being**| |
 |*_Character & Citizenship Education_*| |
@@ -62,7 +62,3 @@ description: ""
 |Year Head (Upper Sec)			| Mr Loke Choek Meng Shamen|
 | Assistant Year Head (Sec 3)					| Mr Tan Choon Yong Calvin|
 | Assistant Year Head (Sec 2)			| Mr Mohd Zulqarnain|
-
-
-
-
