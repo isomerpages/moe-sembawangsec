@@ -11,7 +11,11 @@ links:
         url: /home-based-learning
   - title: Curriculum
     collection: curriculum
+  - title: Co-curriculum
+    collection: co-curriculum
+  - title: Outreach
+    collection: outreach
+  - title: Others
+    collection: others
   - title: Resource
     resource_room: true
-  - title: Menu Title
-    collection: collection
