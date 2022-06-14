@@ -2,7 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
-      - SkillsFuture Student Portal.md
-      - Student Well Being & Development.md
-      - Student Leadership.md
       - Character & Citizenship Education.md
+      - Student Leadership.md
+      - Student Well Being & Development.md
+      - SkillsFuture Student Portal.md
