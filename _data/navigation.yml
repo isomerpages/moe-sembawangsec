@@ -6,8 +6,8 @@ links:
     resource_room: true
   - title: Menu Title
     collection: collection
-  - title: Test submenu
-    url: /test-submenu
+  - title: Announcement
+    url: /announcement
     sublinks:
-      - title: Submenu Title
-        url: /permalink
+      - title: Secondary 1 Registration 2022
+        url: /sec-1-reg-2022
