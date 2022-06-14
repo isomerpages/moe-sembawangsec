@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Staff.md
       - School Management Committee.md
       - Principal’s Message.md
       - Our VMV.md
