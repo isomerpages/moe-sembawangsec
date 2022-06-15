@@ -18,6 +18,8 @@ Have **screen-time breaks** during scheduled recess/ lunch break specified in yo
 
 ![](/images/HBL%20routines%202021.jpeg)
 
+<br>
+<br>
 
 | Items | Contact Person(s) | Contact Details |
 | -------- | -------- | -------- |
