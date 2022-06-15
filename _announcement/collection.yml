@@ -2,6 +2,7 @@ collections:
   announcement:
     output: true
     order:
+      - Secondary One Registration/Welcome Letter.md
       - Secondary One Registration/Secondary One Registration for 2022.md
       - Secondary One Registration/.keep
       - SMB HOME BASED LEARNING.md
