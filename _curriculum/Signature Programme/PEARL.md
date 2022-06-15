@@ -9,11 +9,11 @@ PEARL
 
 **Programme to Empower Active and Responsible Learning (PEARL)**
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/it2.jpg)
+![pearl-image](/images/it2.jpeg)
 
 In alignment with the outcome goal of the MOE MasterPlan for ICT in Education – Quality learning in the hands of every learner empowered with technology, PEARL is the school’s very own 1-1 computing access initiative launched in 2017. PEARL aims to promote Active Learning in class through the use of ICT so that our students become better thinkers and more reflective learners.
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/it3.jpg)
+![pearl-image2](/images/it3.jpeg)
 
 Teachers, as designers of active learning experiences, are empowered to create an ICT-enriched classroom that is thinking, collaborative and connected. Hence, students would have opportunities to harness the use of technology for collaboration, brainstorming of ideas (making their thinking visible), co-construction of knowledge and even authentic problem-solving in the learning process.
 
@@ -51,7 +51,7 @@ The DMA Parent Portal (or Mobile Guardian) is made available for you to monitor 
 
 The current DMA setting for all students is “Default“:
 
-[![Dma Settings](https://sembawangsec.moe.edu.sg/wp-content/uploads/2022/05/DMA_settings-300x156.jpg)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2022/05/DMA_settings.jpg)
+![DMA-settings](/images/DMA_settings-1024x533.jpeg)
 
 Dma Settings
 
@@ -72,4 +72,4 @@ Please refer to the following guide for each of the options above:
 
 **Enquiries**
 
-Should there by any further enquiries, please feel free to email to us at **_sembawang\_ss@moe.edu.sg_**
+Should there by any further enquiries, please feel free to email to us at **_sembawang_ss@moe.edu.sg_**
