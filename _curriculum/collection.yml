@@ -2,10 +2,10 @@ collections:
   curriculum:
     output: true
     order:
-      - Signature Programme/PEARL.md
-      - Signature Programme/Learning for Life Programme.md
-      - Signature Programme/Applied Learning Programme.md
       - Signature Programme/.keep
+      - Signature Programme/Applied Learning Programme.md
+      - Signature Programme/Learning for Life Programme.md
+      - Signature Programme/PEARL.md
       - English.md
       - Mathematics.md
       - Science.md
