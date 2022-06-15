@@ -23,7 +23,9 @@ The ALP curriculum at Sembawang Secondary School aims to develop students as cri
 
 **What kind of media literacy skills do our students learn as part of the ALP?**
 
-_Firstly_, our students will learn **media reception skills**. This means they will be equipped with thinking skills to critically interpret, analyse, question, and evaluate information from different media sources (e.g. print, online, visual, oral). Our aim is for students to be better able to question the information they see in the media and to discern any hidden messages or purposes.[![schoolbag](https://sembawangsec.moe.edu.sg/wp-content/uploads/2017/04/schoolbag.jpg)](https://www.schoolbag.sg/story/ready-for-the-digital-world)
+_Firstly_, our students will learn **media reception skills**. This means they will be equipped with thinking skills to critically interpret, analyse, question, and evaluate information from different media sources (e.g. print, online, visual, oral). Our aim is for students to be better able to question the information they see in the media and to discern any hidden messages or purposes.
+
+![](/images/schoolbag.jpeg)
 
 _Secondly_, students will be equipped **media creation skills**. Our students will be trained in using appropriate media tools to convey a message, with the aim of persuading a target audience (e.g., creating posters, infographics, videos, graphs etc).
 
@@ -43,7 +45,7 @@ Science, Technology and Mathematics (STeM) is an interdisciplinary approach that
 
 Examples of our existing learning modules:
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/it5.jpg)
+![](/images/it5.jpeg)
 
 Upon completing this programme, students would be equipped with skills necessary to thrive in this technology-rich environment and solve problems applying programming knowledge and disciplinary thinking (i.e. scientific/mathematical) and computational thinking. In addition, this programme aims to excite and inspire students to pursue post-secondary ICT-related learning opportunities.
 
