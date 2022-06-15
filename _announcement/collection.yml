@@ -2,6 +2,7 @@ collections:
   announcement:
     output: true
     order:
+      - Secondary One Registration/Uniform and Book Sale.md
       - Secondary One Registration/Appeal for Transfer for Serious Medical
         Conditions.md
       - Secondary One Registration/Important Information for Students and
