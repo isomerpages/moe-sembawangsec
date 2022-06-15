@@ -16,7 +16,7 @@ Please follow your time-table accordingly:
 
 Have **screen-time breaks** during scheduled recess/ lunch break specified in your time-table.
 
-![](https://lh4.googleusercontent.com/VimgY_doCpW4h5ime9NeXWsKQYQjijukxs8MDFPQfKAHSmAUmiJ9nEM5v4uaX2AYl4gEqIBrygeZzcOxN4nxUI-J4wwmVPlZBXXoXTIRMozUIpoHRasu1Y8F0I5GTlFsJg=w1280)
+![](/images/HBL%20routines%202021.jpeg)
 
 
 | Items | Contact Person(s) | Contact Details |
