@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Signature Programme (f)/Signature Programme.md
       - Signature Programme (f)/.keep
       - English.md
       - Mathematics.md
