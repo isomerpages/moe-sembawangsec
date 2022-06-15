@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Signature Programme (f)/.keep
-      - Signature Programme.md
       - English.md
       - Mathematics.md
       - Science.md
