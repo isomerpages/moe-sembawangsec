@@ -3,8 +3,7 @@ title: Principal’s Message
 permalink: /principals-message
 description: ""
 ---
-
-![](/images/Mr-Singh.jpeg)
+<div style="text-align: left;"><img src="/images/Mr-Singh.jpeg" style="max-width: 20%;"></div>
 
 Welcome to the New Year!
 
