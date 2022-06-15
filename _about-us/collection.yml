@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - Achievements.md
-      - Achievements/test.md
-      - Achievements/.keep
       - Principal’s Message.md
       - Our VMV.md
       - Advisory Committee.md
