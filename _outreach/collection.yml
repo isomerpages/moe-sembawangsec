@@ -2,4 +2,5 @@ collections:
   outreach:
     output: true
     order:
+      - Example Title.md
       - Parent Support Group.md
