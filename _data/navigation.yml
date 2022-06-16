@@ -14,4 +14,18 @@ links:
     resource_room: true
   - title: Others
     url: /others
-    sublinks: []
+    sublinks:
+      - title: Personal Data Protection
+        url: /personal-data-protection
+      - title: Travel Declaration
+        url: https://www.form.gov.sg/#!/5cc7d2c509313a001745cb8a
+      - title: SEAB
+        url: https://www.seab.gov.sg/
+      - title: SSSC
+        url: https://nsg.moe.edu.sg/sssc
+      - title: Sports Education Programme
+        url: https://www.sportsingapore.gov.sg/sports-education/sports-education-programme
+      - title: Polytechnics
+        url: /polytechnics
+      - title: ITE
+        url: /ite
