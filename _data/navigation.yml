@@ -10,7 +10,5 @@ links:
     collection: co-curriculum
   - title: Outreach
     collection: outreach
-  - title: Others
-    collection: others
   - title: Resource
     resource_room: true
