@@ -2,5 +2,6 @@ collections:
   outreach:
     output: true
     order:
+      - Alumni Achievements.md
       - Life in Sembawang.md
       - Parent Support Group.md
