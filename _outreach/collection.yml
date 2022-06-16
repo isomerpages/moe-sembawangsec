@@ -2,6 +2,7 @@ collections:
   outreach:
     output: true
     order:
+      - FAMILY MATTERS @ SCHOOL.md
       - Alumni Achievements.md
       - Life in Sembawang.md
       - Parent Support Group.md
