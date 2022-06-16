@@ -10,8 +10,6 @@ links:
     collection: co-curriculum
   - title: Outreach
     collection: outreach
-  - title: Resource
-    resource_room: true
   - title: Others
     url: /others
     sublinks:
