@@ -2,9 +2,9 @@ collections:
   outreach:
     output: true
     order:
-      - Cyberwellness.md
-      - Sexuality Education.md
-      - FAMILY MATTERS @ SCHOOL.md
-      - Alumni Achievements.md
-      - Life in Sembawang.md
       - Parent Support Group.md
+      - Life in Sembawang.md
+      - Alumni Achievements.md
+      - FAMILY MATTERS @ SCHOOL.md
+      - Sexuality Education.md
+      - Cyberwellness.md
