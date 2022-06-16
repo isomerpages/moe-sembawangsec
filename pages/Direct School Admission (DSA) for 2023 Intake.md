@@ -4,7 +4,6 @@ permalink: /direct-school-admission
 description: ""
 ---
 # Direct School Admission (DSA) Exercise for 2023 Intake
-# 
 
 Sembawang Secondary School (SMB) invites all current P6 students to apply for admission to our school in the academic year of 2023 through the **Direct School Admission (DSA)** exercise.
 
