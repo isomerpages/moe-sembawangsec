@@ -3,7 +3,7 @@ title: Alumni Achievements
 permalink: /outreach/alumni-achievements
 description: ""
 ---
-
+![](/images/Alumni-Page.png)
 
 | **NAME** | **INSTITUTION** | **YEAR OF AWARD** | **AWARD(S)**|
 | -------- | -------- | -------- | -------- |
@@ -33,7 +33,7 @@ description: ""
 | NEO CHAI HOON     | REPUBLIC POLYTECHNIC     | 2014     | Diploma, Lee Kuan Yew Award for Mathematics and Science Award, IDA Singapore Gold Medal Award and Module Award     |
 | MUHAMMAD ISKANDAR B AB RAHIM     | REPUBLIC POLYTECHNIC     | 2014     | Diploma, Module Award     |
 | LIM JUN SHENG, ZACHARY     | NANYANG POLYTECHNIC	     | 2014     | Diploma in Chemical & Green Technology, Hyflux Silver Award     |
-| KOH MING XIANG     | ITE CENTRAL	     | 2014     | Outstanding Graduate in NITIEC in Product Design course.     |
+| KOH MING XIANG     | ITE CENTRAL	     | 2014     | Outstanding Graduate in NITIEC in Product Design course     |
 | TAN YI YUE AMANDA     | PIONEER JUNIOR COLLEGE     | 2014     | GCE A – CH (A), MA (A), PH (A), CS in EL (B), GP (C), PW (A), L1R5 (11)    |
 | HANNA JOHAN ADAM CHIN     | REPUBLIC POLYTECHNIC     | 2013     | Diploma in New Media with Merit, Gold Medal Award    |
 | REBEKAH TOH LIN	     | SINGAPORE POLYTECHNIC     | 2013     | Diploma in Integrated Events and Project Management, Silver Medalist     |
