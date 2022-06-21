@@ -6,7 +6,7 @@ description: ""
 Our Staff
 =========
 
-| Secondary One - Year Head |  | | 
+| Secondary 1 - Year Head |  | | 
 | -------- | -------- | -------- |
 |Year Head|Mr|Marc Ong Yew Kang|
 
