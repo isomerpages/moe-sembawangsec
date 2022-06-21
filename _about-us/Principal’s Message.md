@@ -5,6 +5,8 @@ description: ""
 ---
 <div style="text-align: left;"><img src="/images/Mr-Singh.jpeg" style="max-width: 20%;"></div>
 
+**Soaring Towards Excellence**
+
 Welcome to the New Year!
 
 The last two years have undoubtedly been challenging with the COVID-19 situation affecting everyone. Nevertheless, we have persevered and learnt to adapt to the circumstances so that we can continue to learn and grow.
