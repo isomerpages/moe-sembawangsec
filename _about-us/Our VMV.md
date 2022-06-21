@@ -15,7 +15,7 @@ To nurture our learners to lead purposeful lives by guiding them to be morally u
 
 #### Our Values
 
-_RESP2I2RE (RESPIRE)_
+_RESP<sup>2</sup>I<sup>2</sup>RE (RESPIRE)_
 
 Respect  
 Responsibility  
