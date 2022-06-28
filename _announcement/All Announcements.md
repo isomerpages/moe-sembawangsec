@@ -102,19 +102,19 @@ Application forms are available in General Office. You may click on this link to
 
 Dear students, please refer to Semester 2 timetable for
 
-(i) [odd week (starting 28 June)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/06/2021-SEM-2-ODD-Classes-vJun24.pdf),
+(i) [odd week (starting 28 June)](/files/2021-SEM-2-ODD-Classes-vJun24.pdf),
 
-(ii) [even week (starting 6 Jul)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/06/2021-SEM-2-EVEN-Classes-vJun24.pdf).
+(ii) [even week (starting 6 Jul)](/files/2021-SEM-2-EVEN-Classes-vJun24.pdf).
 
 <table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 782px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 782px;"></td></tr></tbody></table>
 
-3 Jun 2021
+**3 Jun 2021**
 
-[Vaccination for students infographic](https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/06/Vaccination-for-students-Infographic.pdf)
+[Vaccination for students infographic](/files/Vaccination-for-students-Infographic.pdf)
 
-21 May 2021
+**21 May 2021**
 
-**PDLP Parents’ Engagement (Secondary 1 – 3 cohorts)** 
+PDLP Parents’ Engagement (Secondary 1 – 3 cohorts)
 
 Briefing on Personalised Digital Learning Programme (PDLP) for parents of Secondary 1 – 3 students will take place virtually.
 
@@ -124,26 +124,25 @@ Time: 3 – 4 pm (The session has ended.)
 
 If you have any enquiry, please email to us. The email address is indicated on Page 3 of the letter distributed through your child/ward.
 
-21 May 2021
+**21 May 2021**
 
-Dear parents and students,21 May 2021
+Dear parents and students,
 
 SPF, CNB, NCPC and NCADA have jointly provided an advisory to all students for the upcoming June holidays.  This advisory reminds all students to stay away from crime and drug/inhalant abuse. It also reminds all students to take measures to prevent themselves from becoming victims of crime, especially through online platforms.
 
 Please refer to the attachment for the advisory.  The school strongly encourages all students to read and adhere to the reminders in the advisory.
 
-Click [here](https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/05/Jun-2021-crime-advisory.pdf) to access the advisory.
-
+Click [here](/files/Jun-2021-crime-advisory.pdf) to access the advisory.
   
-20 May 2021
+**20 May 2021**
 
-**NRIC Registration for Secondary 3 Students**
+NRIC Registration for Secondary 3 Students
 
 Due to implementation of HBL, the NRIC registration for Secondary 3 students is postponed to a later date. Once the date/time is finalised, we will keep you posted.
 
-29 Apr 2021
+**29 Apr 2021**
 
-**Collection of 2020 SGC for 4NA Classes**
+Collection of 2020 SGC for 4NA Classes
 
 <table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">2020 4NA classes</strong></td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Documents to bring</strong></td><td colspan="2" style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Dates and Time of collection</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px;">4TE3<p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;">4TE4</p></td><td style="box-sizing: inherit; padding: 5px 10px;">NRIC / Student Ezlink card</td><td colspan="2" style="box-sizing: inherit; padding: 5px 10px;">1. 03 May 2021 (Mon) – 8.00am to 4.00pm<p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;">2. 05 May 2021 (Wed) – 2.30pm to 4.30pm</p><p style="box-sizing: inherit; font-size: 1em;">3. 07 May 2021 (Fri) – 2.30pm to 4.30pm</p></td></tr></tbody></table>
 
@@ -157,8 +156,8 @@ You need to declare your travel history and general well-being and take temperat
 
 Information for Parents regarding 2021 MOE-OBS programme
 
-*   [2021 MOE-OBS Slides for Parents](https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/04/2021-MOE-OBS-Parent-Briefing-Slides.pdf)
-*   [2021 MOE-OBS FAQs](https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/04/2021-MOE-OBS-FAQs.docx)
+*   [2021 MOE-OBS Slides for Parents](/files/2021-MOE-OBS-Parent-Briefing-Slides.pdf)
+*   [2021 MOE-OBS FAQs](/files/2021-MOE-OBS-FAQs.pdf)
 
 10 Mar 2021
 
@@ -188,15 +187,15 @@ Dear Parents
 
 Please click the link for
 
-[Polytechnic and Specilaised Institutes Open Houses 2021](https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/01/Polytechnic-and-Specilaised-Institutes-Open-Houses-2021.pdf)
+[Polytechnic and Specilaised Institutes Open Houses 2021](/files/Polytechnic-and-Specilaised-Institutes-Open-Houses-2021.pdf)
 
-[Ngee Ann Poly Parents Forum](https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/01/Ngee-Ann-Poly-Parents-Forum.pdf)
+[Ngee Ann Poly Parents Forum](/files/Ngee-Ann-Poly-Parents-Forum.pdf)
 
-[NYP Parent’s Letter](https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/01/NYP-Parents-Letter.pdf)
+[NYP Parent’s Letter](/files/NYP-Parents-Letter.pdf)
 
 * * *
 
-30 Dec 2020
+**30 Dec 2020**
 
 Dear Students, Parents/Guardians
 
