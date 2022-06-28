@@ -92,7 +92,7 @@ Please click on the following to access your class timetable for the new term:
 
 MOE Financial Assistance Scheme (FAS) application for 2022 is open now.
 
-Application forms are available in General Office. You may click on this link to find out more information – [MOE Financial Assistance Scheme 2022 Brochure.](https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/09/MOE-FAS-Brochure-2022.pdf)
+Application forms are available in General Office. You may click on this link to find out more information – [MOE Financial Assistance Scheme 2022 Brochure.](/files/MOE-FAS-Brochure-2022.pdf)
 
 * * *
 
