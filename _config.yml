@@ -1,6 +1,6 @@
 title: Isomer Title
 url: ""
-favicon: /images/favicon-isomer.ico
+favicon: /images/sembicon2.png
 colors:
   primary-color: "#1fd39a"
   secondary-color: "#4372d6"
@@ -53,3 +53,4 @@ plugins:
 staging: https://moe-sembawangsec-staging.netlify.app
 prod: https://moe-sembawangsec-prod.netlify.app
 shareicon: /images/isomer-logo.svg
+is_government: false
