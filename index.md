@@ -10,7 +10,7 @@ sections:
       title: Sembawang Secondary School
       subtitle: Leaders & Change Makers
       background: /images/dragon-boat-competition.jpeg
-      button: DIRECT SCHOOL ADMISSION
+      button: DIRECT SCHOOL ADMISSION 2023 intake
       url: /direct-school-admission/
       key_highlights:
         - title: Pearl
