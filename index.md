@@ -7,10 +7,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Sembawang Secondary School
-      subtitle: Leaders & Change Makers
-      background: /images/dragon-boat-competition.jpeg
-      button: Direct School Admission (2023 intake)
+      title: Hero Title
+      subtitle: Hero Subtitle
+      background: /images/hero-banner.png
+      button: Hero Button
       url: /direct-school-admission/
       key_highlights:
         - title: Pearl
@@ -28,6 +28,3 @@ sections:
       button: Get in touch
       url: /contact-us/
 ---
-
-
-
