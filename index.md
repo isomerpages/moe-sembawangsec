@@ -7,10 +7,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hero Title
-      subtitle: Hero Subtitle
-      background: /images/hero-banner.png
-      button: Hero Button
+      title: Sembawang Secondary School
+      subtitle: Leaders & Change Makers
+      background: /images/dragon-boat-competition.jpeg
+      button: DIRECT SCHOOL ADMISSION
       url: /direct-school-admission/
       key_highlights:
         - title: Pearl
