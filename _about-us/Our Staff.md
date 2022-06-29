@@ -3,8 +3,8 @@ title: Our Staff
 permalink: /about-us/our-staff
 description: ""
 ---
-Our Staff
-=========
+## Our Staff
+
 
 | Secondary 1 - Year Head |  | | 
 | -------- | -------- | -------- |
