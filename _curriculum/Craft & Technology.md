@@ -3,13 +3,14 @@ title: Craft & Technology
 permalink: /curriculum/craft-technology
 description: ""
 ---
-Craft & Technology
-==================
+![](/images/CT-Feature.jpeg)
+
+## Craft & Technology
 
 **Craft and Technology Department**
 
-**WHO**
--------
+#### WHO
+
 
 Our C&T department is closely knitted department where every teacher contributes willingly and selflessly to create lessons to motivate and engage student to learn in a conducive learning environment. We firmly believe every child can learn and we work hard at ensuring that.
 
@@ -33,19 +34,18 @@ Faridah (SH/F&N), Fong Man Lin, Salwiyah,
 
 Ho Yam Chiew, Mohamad Hafiz (AED)
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CT5-1-1024x710.jpg)
+<div style="display:block"><img src="/images/CT1.jpeg" style="max-width: 100%;"></div>
 
 * * *
 
-**WHY**
--------
+#### WHY
 
 Craft and Technology Department aims to nurture our students to be creative and innovative thinkers who lead change with empathy. Our students learn through reflecting on doing (Experiential Learning) and we seek to develop them into explorative, independent and versatile learners who are adaptable and undaunted by changes.
 
 * * *
 
-**HOW**
--------
+#### HOW
+
 
 **Teaching and Learning Practice**
 
@@ -57,30 +57,29 @@ We use Gradual Release of Responsibilities Instructional framework to plan our l
 
 Our department’s Teaching and Learning Framework
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CT1-220x300.png)
+<div style="display:block"><img src="/images/CT2.png" style="max-width: 100%;"></div>
 
 We ensure that our students are clear of the success criteria for every lesson based on the learning objectives. Our students can monitor their own learning and can experience success knowing that they have learned.
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CT2-300x217.jpg)
+<div style="display:block"><img src="/images/CT3.jpeg" style="max-width: 100%;"></div>
 
-**WHAT**
---------
+#### WHAT
 
 To prepare our students for an increasingly complex, interconnected and tech-driven world. We design our curriculum so that our students develop competencies to acquire and apply knowledge (K), skills (S), to build attitudes(A) and values(V) to meet the complex demands. Our curriculum provide opportunities for our students to apply KSAV in different context and scenarios.
 
 **LEARNING CONTEXT**
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CT3-300x298.png)
+<div style="display:block"><img src="/images/CT4.png" style="max-width: 100%;"></div>
 
 **Acquisition and Application of Skills and Knowledge**
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CT4.jpg)
+<div style="display:block"><img src="/images/CT5.jpeg" style="max-width: 100%;"></div>
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CT5.jpg)
+<div style="display:block"><img src="/images/CT6.jpeg" style="max-width: 100%;"></div>
+
 
 **Acquisition and Application of Thinking Skills**
-
-![Ct6](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CT6.jpg)
+<div style="display:block"><img src="/images/CT7.jpeg" style="max-width: 100%;"></div>
 
 **EXPOSURE & EXPERIENCE**
 
@@ -113,10 +112,10 @@ iCanSee Group
 
 2019 C&T Learning Journey to Central Vietnam
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CT7.jpg)
+<div style="display:block"><img src="/images/CT8.jpeg" style="max-width: 100%;"></div>
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CT8.jpg)
+<div style="display:block"><img src="/images/CT9.jpeg" style="max-width: 100%;"></div>
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CT9.jpg)
+<div style="display:block"><img src="/images/CT10.jpeg" style="max-width: 100%;"></div>
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CT10.jpg)
+<div style="display:block"><img src="/images/CT11.jpeg" style="max-width: 100%;"></div>
