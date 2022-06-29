@@ -4,8 +4,8 @@ permalink: /announcement/Secondary-One-Registration/appeal-for-transfer-for-seri
 description: ""
 third_nav_title: Secondary One Registration
 ---
-Appeal for Transfer for Serious Medical Conditions
-==================================================
+## Appeal for Transfer for Serious Medical Conditions
+
 
 Appeals will **only** be considered on exceptional basis for students with:
 
