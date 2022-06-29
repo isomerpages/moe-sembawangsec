@@ -398,7 +398,7 @@ Your child/ward has been informed through his/her form teacher on how to access 
 
 We have also enclosed this issue of Parent Kit which provides tips on how you can support your child’s HBL and addresses some of your concerns.   Join MOE’s Facebook Live Session, “Ask Me Anything About… Home-Based Learning” on 1 April 2020, 8pm, to learn more about what HBL really means and the role you can play in your child’s HBL. Click [HERE](http://bit.ly/moe-amaa-hbl) to RSVP.
 
-[Resource Kit – HBL](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/04/Resource-Kit-HBL.pdf)
+[Resource Kit – HBL](/files/Resource-Kit-HBL.pdf)
 
 * * *
 
@@ -412,7 +412,7 @@ Home-based learning (HBL) will take place on Thursday, 2 April 2020. Please acce
 
 25 March 2020
 
-[![1](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/03/1-1.png)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/03/1-1.png)
+![](/images/25Mar20-Collection-Table.png)
 
 Due to COVID-19 situation, as per health advisory issued by the Ministry of Health, students who are unwell, have been placed on Leave Of Absence (LOA) or Stay-Home Notice (SHN), or have travelled overseas in the last 14 days, please come and collect your certificates after the lapse of your LOA or SHN, once you are well.
 
@@ -437,15 +437,15 @@ Dear Students, Parents/Guardians
 
 Click the link for Semester 1 Term 2 Timetable
 
-[2020 Semester 1 Term 2 ODD WEEK](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/03/2020-Sem-1-Term-2-Odd.pdf)
+[2020 Semester 1 Term 2 ODD WEEK]
 
-[2020 Semester 1 Term 2 EVEN WEEK](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/03/2020-Sem-1-Term-2-Even.pdf)
+[2020 Semester 1 Term 2 EVEN WEEK]
 
 * * *
 
 9 March 2020
 
-[![4e5n](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/03/4E5N.png)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/03/4E5N.png)
+![collection-2019-4E5N](/images/9Mar20-4E5N.png)
 
 Due to COVID-19 situation,  
 As per health advisory issued by the Ministry of Health, persons who are unwell, have been placed on leave of absence (LOA) or “Stay-Home Notice” (SHN) , or have travel history to mainland China, South Korea, Iran and Northern Italy in the last 14 days, please come and collect your certificates after the lapse of your LOA, SHN, once you are well.  
@@ -455,7 +455,7 @@ You need to declare your travel history and take temperature at the guard post. 
 
 21 February 2020
 
-[![Collection](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/02/Collection.png)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/02/Collection.png)
+![Collection-GCE-NT-SGC](/images/21Feb20-Collection-GCE-NT-SGC.png)
 
 Due to COVID-19 situation,  
 As per health advisory issued by the Ministry of Health, persons who are unwell,  
@@ -469,9 +469,9 @@ Dear Students, Parents/Guardians
 
 In view of the COVID-19 situation, the school has generated a new timetable with effect from 17 Feb 2020 (Mon)
 
-[2020 Semester 1 ODD WEEK (With effect from 17 Feb 2020)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/02/2020-Sem-1-Odd-nCoV_Feb13.pdf)
+[2020 Semester 1 ODD WEEK (With effect from 17 Feb 2020)]
 
-[2020 Semester 1 EVEN WEEK (With effect from 17 Feb 2020)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/02/2020-Sem-1-Even-nCoV_Feb13.pdf)
+[2020 Semester 1 EVEN WEEK (With effect from 17 Feb 2020)]
 
 * * *
 
@@ -479,7 +479,7 @@ In view of the COVID-19 situation, the school has generated a new timetable with
 
 Dear Parents/Guardians,
 
-Please click here for [Enhanced school measures for novel coronavirus](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/01/Letter-to-Parents-27Jan2020.pdf)
+Please click here for [Enhanced school measures for novel coronavirus](/files/Letter-to-Parents-27Jan2020.pdf)
 
 * * *
 
@@ -487,7 +487,7 @@ Please click here for [Enhanced school measures for novel coronavirus](https://
 
 Dear Parents/Guardians,
 
-If you travel with your child/ward, you may submit a travel declaration via Parents Gateway. The steps are indicated in the attached [Parents Guide for PG Travel Declaration Update Particulars](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/01/Parents-Guide-for-PG-Travel-Declaration-Update-Particulars.pdf).
+If you travel with your child/ward, you may submit a travel declaration via Parents Gateway. The steps are indicated in the attached [Parents Guide for PG Travel Declaration Update Particulars](/files/Parents-Guide-for-PG-Travel-Declaration-Update-Particulars.pdf).
 
 * * *
 
@@ -495,7 +495,7 @@ If you travel with your child/ward, you may submit a travel declaration via Pare
 
 Dear Sec 1 parents/ guardians,
 
-Please click the link for [MTPS slides](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/01/Sec-1-MTPS-2020-Main-Slides.pdf)
+Please click the link for [MTPS slides](/files/Sec-1-MTPS-2020-Main-Slides.pdf)
 
 * * *
 
@@ -505,6 +505,6 @@ Dear Students, Parents/Guardians
 
 Please click the link for 2020 Class Timetable Semester 1. Do note that **2nd Jan 2020** is EVEN week.
 
-[2020 Semester 1 EVEN WEEK](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/01/EVEN-WEEK-Sem-2.pdf)
+[2020 Semester 1 EVEN WEEK]
 
-[2020 Semester 1 ODD WEEK](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/01/ODD-WEEK-Sem-1.pdf)
+[2020 Semester 1 ODD WEEK]
