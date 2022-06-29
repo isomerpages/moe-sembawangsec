@@ -4,9 +4,8 @@ permalink: /announcement/secondary-one-registration-for-2022
 description: ""
 third_nav_title: Secondary One Registration
 ---
+## Secondary One Registration for 2022
 
-# Secondary One Registration for 2022
-# 
 Dear students, congratulations on your posting to Sembawang Secondary School as you embark on a new phase of your education. We are happy to welcome you to be part of the Sembawang family.
 
 Please note that on **23 December 2021**, the school will conduct **e-Registration** for new secondary one students. There is no need to physically report to our school on that day.
