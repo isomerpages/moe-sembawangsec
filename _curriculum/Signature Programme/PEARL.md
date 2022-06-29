@@ -39,7 +39,7 @@ These are some useful resources for your reference:
 
 *   [Parent Handbook (Part 1)](/files/IP2-Parent-Handbook-I-on-Learning-with-a-PLD_8-Dec-21.pdf)
 *   [Parent Handbook (Part 2)](/files/IP3-Parent-Handbook-II-on-Learning-with-a-PLD_8-Dec-21.pdf)
-*   Parent kit on Cyber Wellness for your Child ([https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf](https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf))
+*   [Parent kit on Cyber Wellness for your Child](/files/cyber-wellness-for-your-child.pdf)
 *   Practising Cyber Wellness ([https://www.moe.gov.sg/programmes/cyber-wellness/](https://www.moe.gov.sg/programmes/cyber-wellness/))
 *   Resources from Media Literacy Council ([https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&persona=parents](https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&persona=parents))
 
