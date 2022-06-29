@@ -4,8 +4,8 @@ permalink: /announcement/Secondary-One-Registration/subject-based-banding
 description: ""
 third_nav_title: Secondary One Registration
 ---
-Subject-Based Banding (SBB) \[For Normal (Academic) and Normal (Technical) Courses\]
-====================================================================================
+## Subject-Based Banding (SBB) \[For Normal (Academic) and Normal (Technical) Courses\]
+
 
 **WHAT IS SUBJECT-BASED BANDING (SECONDARY)?** 
 
