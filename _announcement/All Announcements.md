@@ -3,10 +3,9 @@ title: All Announcements
 permalink: /announcement/all-announcements
 description: ""
 ---
-Announcements
-=============
+## Announcements
 
- **22 June 2022**
+#####  **22 June 2022**
 
 Dear Students,
 
@@ -17,7 +16,7 @@ Please click on the links to access your class timetable for Term 3.
 
 * * *
 
-**26 May 2022**
+##### **26 May 2022**
 
 **Collection of 2021 SGC for 4NA Classes**
 
@@ -29,7 +28,7 @@ As per health advisory issued by the Ministry of Health (MOH), students who are 
 If you are unable to come and collect your certificate within the stipulated time, then please call the school and make a prior appointment before you come down. (School tel no: 67566760)  
 You need to declare your travel history and general well-being and take temperature at the guard post. Please avoid coming in large groups. Thank You.
 
-**18 Apr 2022**
+##### **18 Apr 2022**
 
 **Collection of 2021 SGC for 4E5N Classes**
 
@@ -58,7 +57,7 @@ Click the link for Semester 1 Term 2 Timetable
 
 ##### **22 Feb 2022**
 
-##### **Collection of 2021 SGC for 4NT Classes**
+**Collection of 2021 SGC for 4NT Classes**
 
 <table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 782px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td rowspan="2" style="box-sizing: inherit; padding: 5px 10px; width: 126.734px; text-align: center;"><strong style="box-sizing: inherit; font-weight: bold;">2021 4NT classes</strong></td><td rowspan="2" style="box-sizing: inherit; padding: 5px 10px; width: 186.055px; text-align: center;"><strong style="box-sizing: inherit; font-weight: bold;">Documents to bring</strong></td><td rowspan="2" style="box-sizing: inherit; padding: 5px 10px; width: 238.641px; text-align: center;"><strong style="box-sizing: inherit; font-weight: bold;">Dates of collection</strong></td><td colspan="2" style="box-sizing: inherit; padding: 5px 10px; width: 230.57px; text-align: center;"><strong style="box-sizing: inherit; font-weight: bold;">Time</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 115.945px; text-align: center;"><strong style="box-sizing: inherit; font-weight: bold;">From</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 114.625px; text-align: center;"><strong style="box-sizing: inherit; font-weight: bold;">To</strong></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 126.734px; text-align: center;">4TE5</td><td style="box-sizing: inherit; padding: 5px 10px; width: 186.055px; text-align: center;">NRIC / Student Ezlink card</td><td style="box-sizing: inherit; padding: 5px 10px; width: 238.641px; text-align: center;">14 March 2022 (Mon) –<p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;">18 March 2022 (Fri)</p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 115.945px; text-align: center;">9.00 am</td><td style="box-sizing: inherit; padding: 5px 10px; width: 114.625px; text-align: center;">4.00 pm</td></tr></tbody></table>
 
@@ -69,7 +68,7 @@ You need to declare your travel history and general well-being and take temperat
 
 Thank You.
 
-**31 Dec 2021**
+##### **31 Dec 2021**
 
 Dear students,
 
@@ -80,7 +79,7 @@ Please click on the following to access your class timetable for the new term:
 
 * * *
 
-19 Nov 2021
+##### **19 Nov 2021**
 
 **Book lists for 2022**
 
@@ -88,7 +87,7 @@ Please click on the following to access your class timetable for the new term:
 
 * * *
 
-30 Sep 2021
+##### **30 Sep 2021**
 
 MOE Financial Assistance Scheme (FAS) application for 2022 is open now.
 
@@ -96,7 +95,7 @@ Application forms are available in General Office. You may click on this link to
 
 * * *
 
-25 Jun 2021
+##### **25 Jun 2021**
 
 <table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 782px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 403.133px;"><strong style="box-sizing: inherit; font-weight: bold;">Timetable for Term 3 (2021)</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 378.867px;"></td></tr></tbody></table>
 
@@ -108,11 +107,11 @@ Dear students, please refer to Semester 2 timetable for
 
 <table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 782px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 782px;"></td></tr></tbody></table>
 
-**3 Jun 2021**
+##### **3 Jun 2021**
 
 [Vaccination for students infographic](/files/Vaccination-for-students-Infographic.pdf)
 
-**21 May 2021**
+##### **21 May 2021**
 
 PDLP Parents’ Engagement (Secondary 1 – 3 cohorts)
 
@@ -124,7 +123,7 @@ Time: 3 – 4 pm (The session has ended.)
 
 If you have any enquiry, please email to us. The email address is indicated on Page 3 of the letter distributed through your child/ward.
 
-**21 May 2021**
+##### **21 May 2021**
 
 Dear parents and students,
 
@@ -134,15 +133,15 @@ Please refer to the attachment for the advisory.  The school strongly encourage
 
 Click [here](/files/Jun-2021-crime-advisory.pdf) to access the advisory.
   
-**20 May 2021**
+##### **20 May 2021**
 
 NRIC Registration for Secondary 3 Students
 
 Due to implementation of HBL, the NRIC registration for Secondary 3 students is postponed to a later date. Once the date/time is finalised, we will keep you posted.
 
-**29 Apr 2021**
+##### **29 Apr 2021**
 
-Collection of 2020 SGC for 4NA Classes
+**Collection of 2020 SGC for 4NA Classes**
 
 <table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">2020 4NA classes</strong></td><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Documents to bring</strong></td><td colspan="2" style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Dates and Time of collection</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px;">4TE3<p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;">4TE4</p></td><td style="box-sizing: inherit; padding: 5px 10px;">NRIC / Student Ezlink card</td><td colspan="2" style="box-sizing: inherit; padding: 5px 10px;">1. 03 May 2021 (Mon) – 8.00am to 4.00pm<p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;">2. 05 May 2021 (Wed) – 2.30pm to 4.30pm</p><p style="box-sizing: inherit; font-size: 1em;">3. 07 May 2021 (Fri) – 2.30pm to 4.30pm</p></td></tr></tbody></table>
 
@@ -152,14 +151,14 @@ As per health advisory issued by the Ministry of Health (MOH), students who are 
 (School tel no: 67566760)  
 You need to declare your travel history and general well-being and take temperature at the guard post. Please avoid coming in large groups. Thank You.
 
-28 Apr 2021
+##### **28 Apr 2021**
 
 Information for Parents regarding 2021 MOE-OBS programme
 
 *   [2021 MOE-OBS Slides for Parents](/files/2021-MOE-OBS-Parent-Briefing-Slides.pdf)
 *   [2021 MOE-OBS FAQs](/files/2021-MOE-OBS-FAQs.pdf)
 
-10 Mar 2021
+##### **10 Mar 2021**
 
 **Collection of 2020 GCE SGC for 4E/5N Classes**
 
@@ -171,7 +170,7 @@ who have been placed on leave of absence (LOA) or “Stay-Home Notice” (SHN) ,
 please come and collect your certificates after the lapse of your LOA or SHN. If you are unable to come and collect your certificate within the stipulated time, then please call the school and make a prior appointment before you come down. (School tel no: 67566760)  
 You need to declare your travel history and general well-being and take temperature at the guard post.
 
-27 Jan 2021
+##### **27 Jan 2021**
 
 **Collection of 2020 GCE NT SGC**
 
@@ -181,7 +180,7 @@ Due to COVID-19 situation,
 As per health advisory issued by the Ministry of Health, students who are unwell, who have been placed on leave of absence (LOA) or “Stay-Home Notice” (SHN),  please come and collect your certificates after the lapse of your LOA OR SHN. If you are unable to come and collect your certificate within the stipulated time, then please call the school and make a prior appointment before you come down. (School tel no: 67566760)  
 You need to declare your travel history and take temperature at the guard post.
 
-6 Jan 2021
+##### **6 Jan 2021**
 
 Dear Parents
 
@@ -195,7 +194,7 @@ Please click the link for
 
 * * *
 
-**30 Dec 2020**
+##### **30 Dec 2020**
 
 Dear Students, Parents/Guardians
 
@@ -207,7 +206,7 @@ Click the link below for **2021 Semester 1 timetable**
 
 * * *
 
-11 Dec 2020
+##### **11 Dec 2020**
 
 Dear parents and students,
 
@@ -246,7 +245,7 @@ MOE and SEAB will continue to monitor the COVID-19 situation and provide updates
 
 * * *
 
-2 Dec 2020
+##### **2 Dec 2020**
 
 Booklist and stationery for 2021
 
@@ -277,12 +276,12 @@ Booklist and stationery for 2021
 [2021 Sembawang Sec 5 NA](/files/2021-Sembawang-Sec-5-NA.pdf)
 * * *
 
-18 Nov 2020
+##### **18 Nov 2020**
 
 [MOE FAS Application Form](/files/MOE-FAS-Application-Form.pdf)
 * * *
 
-6 Nov 2020
+##### **6 Nov 2020**
 
 [Letter to Parents on Uniform Purchase](/files/Letter-to-Parents-on-EOY-Uniform-Purchase.pdf)
 
@@ -290,7 +289,7 @@ Booklist and stationery for 2021
 
 * * *
 
-16 Oct 2020
+##### **16 Oct 2020**
 <div style="text-align: left; display:block"><a href="http://go.gov.sg/pat2021"><img src="/images/ann-16Oct20-PAT.jpg" style="max-width: 50%;"></a></div>
 
 <div style="text-align: center; display:block"><a href="http://go.gov.sg/pat2021">go.gov.sg/pat2021</a></div>
@@ -314,7 +313,7 @@ Nominate Your Teacher Today!
 
 * * *
 
-28 May 2020
+##### **28 May 2020**
 
 Dear Students, Parents/Guardians
 
@@ -326,7 +325,7 @@ Click the link for Semester 2 Timetable
 
 * * *
 
-22 May 2020
+##### **22 May 2020**
 
 Dear Parents & Students,
 
@@ -334,7 +333,7 @@ Remember to collect your improved reusable face masks from Tues 26 may. For deta
 
 * * *
 
-4 May 2020
+##### **4 May 2020**
 
 **Revised dates for the ITE EAE 2020**
 
@@ -352,13 +351,13 @@ Table 1: Revised timeline for ITE EAE 2020 (changes in bold and highlighted in y
 
 * * *
 
-21 April 2020
+##### **21 April 2020**
 
 <div style="text-align: left; display:block"><img src="/images/Ask-SP-about-EAE-1350x1910.png" style="max-width: 70%;"></div>
 
 * * *
 
-15 April 2020
+##### **15 April 2020**
 
 Dear Students, Parents/Guardians,
 
@@ -366,7 +365,7 @@ Please click this link for [CDC STUDENT MEALS](/files/CDC-STUDENT-MEALS.pdf)
 
 * * *
 
-14 April 2020
+##### **14 April 2020**
 
 Dear Students, Parents/Guardians,
 
@@ -374,7 +373,7 @@ Please click this link for [ITE Early Admission Exercise 2020](/files/ITE-Early
 
 * * *
 
-6 April 2020
+##### **6 April 2020**
 
 Dear Students, Parents/Guardians,
 
@@ -386,7 +385,7 @@ Be self-directed in your home-based learning. Your subject teachers will schedul
 
 * * *
 
-31 March 2020
+##### **31 March 2020**
 
 **\[Parent Kit\] Home-Based Learning – Don’t worry, be steady!**
 
@@ -402,7 +401,7 @@ We have also enclosed this issue of Parent Kit which provides tips on how you ca
 
 * * *
 
-31 March 2020
+##### **31 March 2020**
 
 Dear Students, Parents/Guardians,
 
@@ -410,7 +409,7 @@ Home-based learning (HBL) will take place on Thursday, 2 April 2020. Please acce
 
 * * *
 
-25 March 2020
+##### **25 March 2020**
 
 ![](/images/25Mar20-Collection-Table.png)
 
@@ -422,7 +421,7 @@ If any of your household member(s) has returned from overseas within the past 14
 
 * * *
 
-20 March 2020
+##### **20 March 2020**
 
 Dear Students, Parents/Guardians,
 
@@ -431,7 +430,7 @@ Dear Students, Parents/Guardians,
 
 * * *
 
-12 March 2020
+##### **12 March 2020**
 
 Dear Students, Parents/Guardians
 
@@ -443,7 +442,7 @@ Click the link for Semester 1 Term 2 Timetable
 
 * * *
 
-9 March 2020
+##### **9 March 2020**
 
 ![collection-2019-4E5N](/images/9Mar20-4E5N.png)
 
@@ -453,7 +452,7 @@ You need to declare your travel history and take temperature at the guard post. 
 
 * * *
 
-21 February 2020
+##### **21 February 2020**
 
 ![Collection-GCE-NT-SGC](/images/21Feb20-Collection-GCE-NT-SGC.png)
 
@@ -463,7 +462,7 @@ have been placed on leave of absence (LOA) or “Stay-Home Notice” (SHN) , or 
 
 * * *
 
-14 February 2020
+##### **14 February 2020**
 
 Dear Students, Parents/Guardians
 
@@ -475,7 +474,7 @@ In view of the COVID-19 situation, the school has generated a new timetable with
 
 * * *
 
-27 January 2020
+##### **27 January 2020**
 
 Dear Parents/Guardians,
 
@@ -483,7 +482,7 @@ Please click here for [Enhanced school measures for novel coronavirus](/files/L
 
 * * *
 
-24 January 2020
+##### **24 January 2020**
 
 Dear Parents/Guardians,
 
@@ -491,7 +490,7 @@ If you travel with your child/ward, you may submit a travel declaration via Pare
 
 * * *
 
-14 January 2020
+##### **14 January 2020**
 
 Dear Sec 1 parents/ guardians,
 
@@ -499,7 +498,7 @@ Please click the link for [MTPS slides](/files/Sec-1-MTPS-2020-Main-Slides.pdf)
 
 * * *
 
-2 January 2020
+##### **2 January 2020**
 
 Dear Students, Parents/Guardians
 
