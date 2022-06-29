@@ -3,6 +3,8 @@ title: Our VMV
 permalink: /about-us/our-vmv
 description: ""
 ---
+## Our Vision Mission Values
+
 ![](/images/School.png)
 
 #### Our Vision
