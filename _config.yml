@@ -3,7 +3,7 @@ url: ""
 favicon: /images/sembicon2.png
 colors:
   primary-color: "#1fd39a"
-  secondary-color: "#84cab4"
+  secondary-color: "#1fd39a"
   media-colors:
     - title: media-color-one
       color: "#49759a"
