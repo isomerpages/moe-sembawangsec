@@ -3,6 +3,8 @@ title: Principal’s Message
 permalink: /principals-message
 description: ""
 ---
+## Principal's Message
+
 <div style="text-align: left;"><img src="/images/Mr-Singh.jpeg" style="max-width: 20%;"></div>
 
 **Soaring Towards Excellence**
