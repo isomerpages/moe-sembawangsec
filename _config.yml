@@ -1,9 +1,9 @@
-title: Isomer Title
+title: Sembawang Secondary School
 url: ""
 favicon: /images/sembicon2.png
 colors:
   primary-color: "#1fd39a"
-  secondary-color: "#4372d6"
+  secondary-color: "#84cab4"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -16,7 +16,7 @@ colors:
     - title: media-color-five
       color: "#00838f"
 resources_name: resource
-description: Isomer Description
+description: Leaders & Change Makers
 permalink: none
 baseurl: ""
 exclude:
@@ -52,5 +52,5 @@ plugins:
   - jekyll-remote-theme
 staging: https://moe-sembawangsec-staging.netlify.app
 prod: https://moe-sembawangsec-prod.netlify.app
-shareicon: /images/isomer-logo.svg
+shareicon: /images/cropped-logo1-2021.jpg
 is_government: false
