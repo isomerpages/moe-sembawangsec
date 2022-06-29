@@ -4,8 +4,8 @@ permalink: /curriculum/Signature-Programme/pearl
 description: ""
 third_nav_title: Signature Programme
 ---
-PEARL
-=====
+## PEARL
+
 
 **Programme to Empower Active and Responsible Learning (PEARL)**
 
@@ -35,8 +35,8 @@ The school has put in place some measures and policies to enable a safe and cond
 
 These are some useful resources for your reference:
 
-*   [Parent Handbook (Part 1)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/12/IP2-Parent-Handbook-I-on-Learning-with-a-PLD_8-Dec-21.pdf)
-*   [Parent Handbook (Part 2)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/12/IP3-Parent-Handbook-II-on-Learning-with-a-PLD_8-Dec-21.pdf)
+*   [Parent Handbook (Part 1)](/files/IP2-Parent-Handbook-I-on-Learning-with-a-PLD_8-Dec-21.pdf)
+*   [Parent Handbook (Part 2)](/files/IP3-Parent-Handbook-II-on-Learning-with-a-PLD_8-Dec-21.pdf)
 *   Parent kit on Cyber Wellness for your Child ([https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf](https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf))
 *   Practising Cyber Wellness ([https://www.moe.gov.sg/programmes/cyber-wellness/](https://www.moe.gov.sg/programmes/cyber-wellness/))
 *   Resources from Media Literacy Council ([https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&persona=parents](https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&persona=parents))
@@ -59,9 +59,9 @@ Dma Settings
 
 Please refer to the following guide for each of the options above:
 
-*   “Default” setting (as prescribed by school) – [DMA Guide for Parents](https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/11/DMA-Parent-Guide-Default.pdf)
-*   Option A setting – [DMA Guide for Parents](https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/11/DMA-Parent-Guide-Option-A.pdf)
-*   Option B setting – [DMA Guide for Parents](https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/11/DMA-Parent-Guide-Option-B.pdf)
+*   “Default” setting (as prescribed by school) – [DMA Guide for Parents](/files/DMA-Parent-Guide-Default.pdf)
+*   Option A setting – [DMA Guide for Parents](/files/DMA-Parent-Guide-Option-A.pdf)
+*   Option B setting – [DMA Guide for Parents](/files/DMA-Parent-Guide-Option-B.pdf)
 
 **Updates**
 
