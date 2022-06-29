@@ -3,7 +3,10 @@ title: English
 permalink: /curriculum/english
 description: ""
 ---
-### Mission of English Language Department
+![](/images/Eng-Feature-1.jpeg)
+## English
+
+#### Mission of English Language Department
 
 Students to use the English Language confidently and effectively as leaders and change-makers.
 
@@ -25,12 +28,13 @@ Secondary 1: Readers’ Theatre
 Secondary 2: Writing Competition  
 Secondary 3: Public-speaking and Debates
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/E1-300x223.png)
+<div style="display:block"><img src="/images/E1.png" style="max-width: 50%;"></div>
 
 **English Literature**  
 To cater to the interest of our students, the school offers Literature as a GCE ‘O’ level subject.  In the literature classroom, our lower secondary students read and respond to a variety of literary texts, including local texts, from the genres of prose, poetry and drama. Students are guided to explore different perspectives, to gain an appreciation for the literary word, and to deepen their understanding of the world at large.
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/E3-300x225.jpg) ![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/E4-300x225.jpg)
+<div style="display:block"><img src="/images/E3.jpeg" style="max-width: 70%;"></div>
+<div style="display:block"><img src="/images/E4.jpeg" style="max-width: 70%;"></div>
 
 **Competitions**
 
@@ -39,12 +43,12 @@ To give our students the exposure and the platform to showcase their talents and
 **2019**  
 Julia Gabriel’s Secondary Schools Debating Championships
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/E5-300x225.jpg)
+<div style="display:block"><img src="/images/E5.jpeg" style="max-width: 70%;"></div>
 
 **2020**  
 Tea, Tiffin and Poetry Competition
 
-[![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/E6.png)](https://sembawangsec.moe.edu.sg/curriculum/english/e6/)
+<div style="display:block"><img src="/images/E6.png" style="max-width: 100%;"></div>
 
 ### Team Members/Dept Teachers
 * Head of Department: Ms Muthamil Selvi
