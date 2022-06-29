@@ -3,6 +3,8 @@ title: Contact Us
 permalink: /about-us/contact-us
 description: ""
 ---
+## Contact Us
+
 **Mailing Address**  
 Sembawang Secondary School  
 30 Sembawang Crescent  
