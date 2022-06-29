@@ -291,10 +291,16 @@ Booklist and stationery for 2021
 * * *
 
 16 Oct 2020
+<div style="text-align: left; display:block"><a href="http://go.gov.sg/pat2021"><img src="/images/ann-16Oct20-PAT.jpg" style="max-width: 50%;"></a></div>
 
-[![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/10/PAT-300x225.jpg)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/10/PAT.jpg)         [![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/10/OYEA-300x225.jpg)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/10/OYEA.jpg)
+<div style="text-align: center; display:block"><a href="http://go.gov.sg/pat2021">go.gov.sg/pat2021</a></div>
 
-                       [go.gov.sg/pat2021](http://go.gov.sg/pat2021)                                                     [go.gov.sg/oyea2021](http://go.gov.sg/oyea2021)
+<br>
+<br>
+
+<div style="text-align: left; display:block"><a href="http://go.gov.sg/oyea2021"><img src="/images/ann-16Oct20-OYEA.jpg" style="max-width: 50%;"></a></div>
+
+<div style="text-align: center; display:block"><a href="http://go.gov.sg/oyea2021">go.gov.sg/oyea2021</a></div>
 
 Nominate Your Teacher Today!
 
@@ -304,7 +310,7 @@ Nominate Your Teacher Today!
 
 3\. The Outstanding Youth in Education Award (OYEA) seeks to recognise excellent young teachers for their youthful idealism, energy, enthusiasm and active involvement in the development of youths. Educators who are 35 years and younger are eligible for the award. For OYEA 2021, it is open to educators who are born on or after 30 June 1986. Nomination for OYEA 2021 is now open and will close on Tuesday, 12 January 2021.
 
-[Letter to Parents PAT & OYEA](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/10/Letter-to-Parents-PAT.pdf)
+[Letter to Parents PAT & OYEA](/files/Letter-to-Parents-PAT.pdf)
 
 * * *
 
@@ -314,9 +320,9 @@ Dear Students, Parents/Guardians
 
 Click the link for Semester 2 Timetable
 
-[2020 Semester 2 ODD WEEK](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/05/2020-SEM-2-Odd.pdf)
+[2020 Semester 2 ODD WEEK]
 
-[2020 Semester 2 EVEN WEEK](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/05/2020-SEM-2-Even.pdf)
+[2020 Semester 2 EVEN WEEK]
 
 * * *
 
@@ -348,7 +354,7 @@ Table 1: Revised timeline for ITE EAE 2020 (changes in bold and highlighted in y
 
 21 April 2020
 
-[![Ask Sp About Eae](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/04/Ask-SP-about-EAE-724x1024.png)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/04/Ask-SP-about-EAE.png)
+<div style="text-align: left; display:block"><img src="/images/Ask-SP-about-EAE-1350x1910.png" style="max-width: 70%;"></div>
 
 * * *
 
@@ -356,7 +362,7 @@ Table 1: Revised timeline for ITE EAE 2020 (changes in bold and highlighted in y
 
 Dear Students, Parents/Guardians,
 
-Please click this link for [CDC STUDENT MEALS](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/04/CDC-STUDENT-MEALS.pdf)
+Please click this link for [CDC STUDENT MEALS](/files/CDC-STUDENT-MEALS.pdf)
 
 * * *
 
@@ -364,7 +370,7 @@ Please click this link for [CDC STUDENT MEALS](https://sembawangsec.moe.edu.sg/
 
 Dear Students, Parents/Guardians,
 
-Please click this link for [ITE Early Admission Exercise 2020](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/04/ITE-Early-Admission-Exercise-2020.pdf)
+Please click this link for [ITE Early Admission Exercise 2020](/files/ITE-Early-Admission-Exercise-2020.pdf)
 
 * * *
 
