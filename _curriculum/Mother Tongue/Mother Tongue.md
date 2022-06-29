@@ -4,9 +4,8 @@ permalink: /curriculum/mother-tongue
 description: ""
 third_nav_title: Mother Tongue
 ---
+## Mother Tongue
 
-Mother Tongue
-=============
 
 **Vision/Mission for the Department**  
 
@@ -28,8 +27,37 @@ Special Programmes :
 *   Mother Tongue Reading Programme
 *   Art Appreciation Programme
 
-<table width="550" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 181px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td colspan="3" style="box-sizing: inherit; padding: 5px 10px; width: 540.8px; text-align: center;"><strong style="box-sizing: inherit; font-weight: bold;">Chinese Language Unit</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 176px;"><img class="alignnone size-medium wp-image-5550" src="https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/C1-300x233.jpg" alt="" width="300" height="233" srcset="/wp-content/uploads/2020/11/C1-300x233.jpg 300w, /wp-content/uploads/2020/11/C1.jpg 543w" sizes="(max-width: 300px) 100vw, 300px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"><p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em; text-align: center;">Learning Journey to NTU TCM Clinic</p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 176.8px;"><img class="alignnone size-medium wp-image-5551" src="https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/c2-300x233.jpg" alt="" width="300" height="233" srcset="/wp-content/uploads/2020/11/c2-300x233.jpg 300w, /wp-content/uploads/2020/11/c2.jpg 514w" sizes="(max-width: 300px) 100vw, 300px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"><p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em; text-align: center;">Learning Journey on Traditional Cuisine</p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 176.8px;"><img class="alignnone size-medium wp-image-5552" src="https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/C3-300x230.jpg" alt="" width="300" height="230" srcset="/wp-content/uploads/2020/11/C3-300x230.jpg 300w, /wp-content/uploads/2020/11/C3.jpg 541w" sizes="(max-width: 300px) 100vw, 300px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"><p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em; text-align: center;">Tea Appreciation Workshop</p></td></tr></tbody></table>
+**Chinese Language Unit**
 
-<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 356px; width: 550px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 1.40002px;"><td colspan="3" style="box-sizing: inherit; padding: 5px 10px; width: 540.8px; height: 1.40002px; text-align: center;"><strong style="box-sizing: inherit; font-weight: bold;">Malay Language Unit</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 54px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 175.2px; height: 54px;"><img class="alignnone wp-image-5553" src="https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/M1-300x234.jpg" alt="" width="173" height="135" srcset="/wp-content/uploads/2020/11/M1-300x234.jpg 300w, /wp-content/uploads/2020/11/M1.jpg 498w" sizes="(max-width: 173px) 100vw, 173px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"><p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em; text-align: center;">Sec 1 Learning Journey@Fort Canning</p><p style="box-sizing: inherit; font-size: 1em; text-align: center;">(Making Bunga Manggar)</p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 190.4px; height: 54px;"><img class="alignnone wp-image-5554" src="https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/M2-300x210.jpg" alt="" width="212" height="148" srcset="/wp-content/uploads/2020/11/M2-300x210.jpg 300w, /wp-content/uploads/2020/11/M2.jpg 528w" sizes="(max-width: 212px) 100vw, 212px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"><p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em; text-align: center;">Sec 4 Pulut Kuning Appreciation</p><p style="box-sizing: inherit; font-size: 1em;">&nbsp;</p><p style="box-sizing: inherit; font-size: 1em;">&nbsp;</p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 164px; height: 54px;"><img class="alignnone wp-image-5555" src="https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/m3-300x181.jpg" alt="" width="192" height="116" srcset="/wp-content/uploads/2020/11/m3-300x181.jpg 300w, /wp-content/uploads/2020/11/m3.jpg 568w" sizes="(max-width: 192px) 100vw, 192px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"><p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em; text-align: center;">Silat Workshop</p><p style="box-sizing: inherit; font-size: 1em;">&nbsp;</p><p style="box-sizing: inherit; font-size: 1em;">&nbsp;</p></td></tr></tbody></table>
+<img src="/images/CHI1.jpeg"></img>
+Learning Journey to NTU TCM Clinic
 
-<table width="550" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 303px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td colspan="3" style="box-sizing: inherit; padding: 5px 10px; width: 540.8px; text-align: center;"><strong style="box-sizing: inherit; font-weight: bold;">Tamil Language Unit</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 176px;"><img class="alignnone size-medium wp-image-5560" src="https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/T1-300x240.jpg" alt="" width="300" height="240" srcset="/wp-content/uploads/2020/11/T1-300x240.jpg 300w, /wp-content/uploads/2020/11/T1.jpg 502w" sizes="(max-width: 300px) 100vw, 300px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"><p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;">&nbsp;</p><p style="box-sizing: inherit; font-size: 1em;">Tying Saree Workshop</p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 176.8px;"><img class="alignnone size-medium wp-image-5561" src="https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/T2-300x211.jpg" alt="" width="300" height="211" srcset="/wp-content/uploads/2020/11/T2-300x211.jpg 300w, /wp-content/uploads/2020/11/T2.jpg 493w" sizes="(max-width: 300px) 100vw, 300px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"><p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;">&nbsp;</p><p style="box-sizing: inherit; font-size: 1em;">Deepavali Celebration</p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 176.8px;"><img class="alignnone size-medium wp-image-5562" src="https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/T3-300x232.jpg" alt="" width="300" height="232" srcset="/wp-content/uploads/2020/11/T3-300x232.jpg 300w, /wp-content/uploads/2020/11/T3.jpg 551w" sizes="(max-width: 300px) 100vw, 300px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"><p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;">Sec 1 Learning Journey @Fort Canning (Making Kolam)</p></td></tr></tbody></table>
+<img src="/images/CHI2.jpeg"></img>
+Learning Journey on Traditional Cuisine
+
+<img src="/images/CHI3.jpeg"></img>
+Tea Appreciation Workshop
+
+**Malay Language Unit**
+
+<img src="/images/MAL1.jpeg"></img>
+Sec 1 Learning Journey@Fort Canning
+
+(Making Bunga Manggar)
+
+<img src="/images/MAL2.jpeg"></img>
+Sec 4 Pulut Kuning Appreciation
+
+<img src="/images/MAL3.jpeg"></img>
+Silat Workshop
+
+**Tamil Language Unit**
+
+<img src="/images/TAM1.jpeg"></img>
+Tying Saree Workshop
+
+<img src="/images/TAM2.jpeg"></img>
+Deepavali Celebration
+
+<img src="/images/TAM3.jpeg"></img>
+Sec 1 Learning Journey @Fort Canning (Making Kolam)
