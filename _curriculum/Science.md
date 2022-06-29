@@ -3,8 +3,9 @@ title: Science
 permalink: /curriculum/science
 description: ""
 ---
-Science
-=======
+![](/images/Science-Cover-page.jpeg)
+## Science
+
 
 **Vision/Mission for the Department**
 
@@ -27,7 +28,8 @@ We want to inspire in pupils a curious mindset in their quest for knowledge.
 Sec 3 – Advanced Elective Module (AEM)  
 Talent Development Programme for all students e.g. IgnITE Challenge, Elementz, NUS Demo Labs
 
-![Nus Demo Labs](https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/11/NUS-demo-labs.jpg)
+<div style="display:block"><img src="/images/S0.jpeg" style="max-width: 50%;"></div>
+
 
 **Opportunities and Achievements**
 
@@ -37,17 +39,21 @@ In Sembawang Secondary School, our science department is committed to provide st
 
 The annual Elementz fair and conference provide a platform for our students to apply and sharpen their skills in the conduct of Science. They conduct experiments to prove their hypothesis and defend their projects against professionals in the field. To any student who is interested in Science, this competition is an invaluable opportunity to learn what it truly means to be a Scientist.
 
-![20210225 173513](https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/11/20210225_173513-225x300.jpg) ![20210219 152836](https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/11/20210219_152836-225x300.jpg)
-
-![20210219 155223](https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/11/20210219_155223-1024x768.jpg)
+<div style="display:block"><img src="/images/S1.jpeg" style="max-width: 50%;"></div>
+<br>
+<div style="display:block"><img src="/images/S2.jpeg" style="max-width: 50%;"></div>
+<br>
+<div style="display:block"><img src="/images/S3.jpeg" style="max-width: 50%;"></div>
 
 **IgnITE Skills Challenge**
 
 The IgnITE Skills Challenge was designed to introduce students to technical skills. In the Logistics Challenge, students learnt about emerging technologies in the logistics industry and apply their drone piloting knowledge to perform different logistics operations through gamification. They will also design and present a future warehouse concept.
 
-![20210429 160538](https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/11/20210429_160538-1024x576.jpg)
+<div style="display:block"><img src="/images/S4.jpeg" style="max-width: 50%;"></div>
 
-![20210429 155808](https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/11/20210429_155808-1024x576.jpg)
+<br>
+
+<div style="display:block"><img src="/images/S5.jpeg" style="max-width: 50%;"></div>
 
 **ICAS**
 
