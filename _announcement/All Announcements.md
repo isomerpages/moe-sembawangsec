@@ -201,9 +201,9 @@ Dear Students, Parents/Guardians
 
 Click the link below for **2021 Semester 1 timetable**
 
-[2021 Semester 1 ODD WEEK](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/12/2021-Odd.pdf)
+[2021 Semester 1 ODD WEEK](/files/ann-30Dec21-Odd.pdf)
 
-[2021 Semester 1 EVEN WEEK](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/12/2021-Even.pdf)
+[2021 Semester 1 EVEN WEEK](/files/ann-30Dec21-Even.pdf)
 
 * * *
 
@@ -250,31 +250,31 @@ MOE and SEAB will continue to monitor the COVID-19 situation and provide updates
 
 Booklist and stationery for 2021
 
-[2021 Sembawang Sec 1 E](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/12/2021-Sembawang-Sec-1-E.pdf)
+[2021 Sembawang Sec 1 E](/files/2021-Sembawang-Sec-1-E.pdf)
 
-[2021 Sembawang Sec 1 N(A)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/12/2021-Sembawang-Sec-1-NA.pdf)
+[2021 Sembawang Sec 1 N(A)](/files/2021-Sembawang-Sec-1-NA.pdf)
 
-[2021 Sembawang Sec 1 N(T)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/12/2021-Sembawang-Sec-1-NT.pdf)
+[2021 Sembawang Sec 1 N(T)](/files/2021-Sembawang-Sec-1-NT.pdf)
 
-[2021 Sembawang Sec 2 E](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/12/2021-Sembawang-Sec-2-E.pdf)
+[2021 Sembawang Sec 2 E](/files/2021-Sembawang-Sec-2-E.pdf)
 
-[2021 Sembawang Sec 2 N(A)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/12/2021-Sembawang-Sec-2-NA.pdf)
+[2021 Sembawang Sec 2 N(A)](/files/2021-Sembawang-Sec-2-NA.pdf)
 
-[2021 Sembawang Sec 2 N(T)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/12/2021-Sembawang-Sec-2-NT.pdf)
+[2021 Sembawang Sec 2 N(T)](/files/2021-Sembawang-Sec-2-NT.pdf)
 
-[2021 Sembawang Sec 3 E](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/12/2021-Sembawang-Sec-3-E.pdf)
+[2021 Sembawang Sec 3 E](/files/2021-Sembawang-Sec-3-E.pdf)
 
-[2021 Sembawang Sec 3 N(A)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/12/2021-Sembawang-Sec-3-NA.pdf)
+[2021 Sembawang Sec 3 N(A)](/files/2021-Sembawang-Sec-3-NA.pdf)
 
-[2021 Sembawang Sec 3 N(T)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/12/2021-Sembawang-Sec-3-NT.pdf)
+[2021 Sembawang Sec 3 N(T)](/files/2021-Sembawang-Sec-3-NT.pdf)
 
-[2021 Sembawang Sec 4 E](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/12/2021-Sembawang-Sec-4-E.pdf)
+[2021 Sembawang Sec 4 E](/files/2021-Sembawang-Sec-4-E.pdf)
 
-[2021 Sembawang Sec 4 N(A)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/12/2021-Sembawang-Sec-4-NA.pdf)
+[2021 Sembawang Sec 4 N(A)](/files/2021-Sembawang-Sec-4-NA.pdf)
 
-[2021 Sembawang Sec 4 N(T)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/12/2021-Sembawang-Sec-4-NT.pdf)
+[2021 Sembawang Sec 4 N(T)](/files/2021-Sembawang-Sec-4-NT.pdf)
 
-[2021 Sembawang Sec 5 NA](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/12/2021-Sembawang-Sec-5-NA.pdf)
+[2021 Sembawang Sec 5 NA](/files/2021-Sembawang-Sec-5-NA.pdf)
 
 * * *
 
