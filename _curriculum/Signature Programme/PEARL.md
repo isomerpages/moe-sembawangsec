@@ -4,6 +4,8 @@ permalink: /curriculum/Signature-Programme/pearl
 description: ""
 third_nav_title: Signature Programme
 ---
+![](/images/IMAG0303.jpg)
+
 ## PEARL
 
 
