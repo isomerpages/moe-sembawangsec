@@ -275,20 +275,18 @@ Booklist and stationery for 2021
 [2021 Sembawang Sec 4 N(T)](/files/2021-Sembawang-Sec-4-NT.pdf)
 
 [2021 Sembawang Sec 5 NA](/files/2021-Sembawang-Sec-5-NA.pdf)
-
 * * *
 
 18 Nov 2020
 
-[MOE FAS Application Form](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/MOE-FAS-Application-Form.pdf)
-
+[MOE FAS Application Form](/files/MOE-FAS-Application-Form.pdf)
 * * *
 
 6 Nov 2020
 
-[Letter to Parents on Uniform Purchase](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/Letter-to-Parents-on-EOY-Uniform-Purchase.pdf)
+[Letter to Parents on Uniform Purchase](/files/Letter-to-Parents-on-EOY-Uniform-Purchase.pdf)
 
-[Uniform Sale Procedures](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/Uniform-Sale-Procedures.pdf)
+[Uniform Sale Procedures](/files/Uniform-Sale-Procedures.pdf)
 
 * * *
 
