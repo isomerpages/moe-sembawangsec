@@ -3,7 +3,9 @@ title: Mathematics
 permalink: /curriculum/mathematics
 description: ""
 ---
-Mathematics Department
+![](/images/Maths-Feature.jpeg)
+
+## Mathematics Department
 
 The Mathematics department consists of 3 units – Mathematics, Principles of Accounts (POA) and Computer Applications (CPA).
 
@@ -19,12 +21,12 @@ Lifelong Mathematics Learners
 **Department Mission**  
 Our Mathematics curriculum aims to equip our pupils with Mathematical skills, processes and concepts so that they will become effective and creative problem solvers in life.
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/MA1-1024x605.png)
+![](/images/MA1.png)
 
 **Department Philosophy and Approach**  
 Our department programmes strive to equip our pupils with Mathematical skills, processes and concepts to solve problems in a variety of contexts within and outside Mathematics. Our teachers conscientiously practice the 3 phases of learning in the classroom – Readiness to Learn, Engagement in Learning and Mastery in Learning.
 
-[![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/MA2.png)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/MA2.png)
+![](/images/MA2.png)
 
 We provide opportunities for students to  
 • enhance conceptual understanding through use of various mathematical tools including ICT tools;  
@@ -32,17 +34,18 @@ We provide opportunities for students to
 • communicate their reasoning and connections through various mathematical tasks and activities;  
 • build confidence and foster interest in mathematics.
 
-  [![Ma3](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/MA3-300x175.png)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/MA3.png)[![Ma4](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/MA4-300x185.png)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/MA4.png)
+<div style="display:block"><img src="/images/MA3.png" style="max-width: 50%;"></div>
+
+<div style="display:block"><img src="/images/MA4.png" style="max-width: 50%;"></div>
 
 Students with potential in Mathematics are exposed to higher forms of Mathematical training beyond the curriculum. They are provided with opportunities to further stretch their abilities in National-Level Competitions such as the Singapore Mathematics Olympiad (SMO) and International Competitions and Assessments for Schools (ICAS).
 
-[![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/MMA1-300x201.jpg)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/MMA1.jpg)    [![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/MMA2-300x201.jpg)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/MMA2.jpg)
+<div style="display:block"><img src="/images/MMA1.jpeg" style="max-width: 50%;"></div>
+<div style="display:block"><img src="/images/MMA2.jpeg" style="max-width: 50%;"></div>
+<div style="display:block"><img src="/images/MMA3.jpeg" style="max-width: 50%;"></div>
+<div style="display:block"><img src="/images/MMA4.jpeg" style="max-width: 50%;"></div>
+<div style="display:block"><img src="/images/MMA5.jpeg" style="max-width: 50%;"></div>
 
-[![Mma3](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/MMA3-300x201.jpg)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/MMA3.jpg)
-
-### [![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/MMA4-300x201.jpg)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/MMA4.jpg)
-
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/MMA5-300x201.jpg)
 
 ### Principles of Accounts
 
@@ -52,7 +55,10 @@ The POA syllabus aims to develop in students the knowledge and skills to prepare
 
 The POA unit includes a series of activities to stimulate students’ interest and inquisitiveness towards the subject.
 
-[![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/POA1-300x225.jpg)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/POA1.jpg) [![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/POA2-300x296.png)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/POA2.png)
+<div style="display:block"><img src="/images/POA1.jpeg" style="max-width: 50%;"></div>
+
+<div style="display:block"><img src="/images/POA2.png" style="max-width: 50%;"></div>
+
 
 ### Computer Application (CPA)
 
@@ -64,7 +70,9 @@ All students will be exposed to internet technologies and tools. Hands-on activi
 
 Students will be given opportunities to be exposed to animation and game development projects that will be part of the curriculum in Secondary 2 and Secondary 3, respectively.
 
-[![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CPA1.png)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CPA1.png)[![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CPA2-300x251.png)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CPA2.png)
+<div style="display:block"><img src="/images/CPA1.png" style="max-width: 50%;"></div>
+
+<div style="display:block"><img src="/images/CPA2.png" style="max-width: 50%;"></div>
 
 Bronze awards recipients of the Animation and Game-Making Competition 2020
 
