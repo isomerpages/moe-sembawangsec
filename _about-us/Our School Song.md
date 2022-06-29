@@ -5,7 +5,6 @@ description: ""
 ---
 Our School Song
 ===============
-audio file here
 
 Strive, serve and soar  
 As we march on with highest endeavour  
