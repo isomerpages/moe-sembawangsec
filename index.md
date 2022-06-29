@@ -23,9 +23,27 @@ sections:
           description: Developing Community Leaders
           url: /learning-for-life/
   - infobar:
+      title: PEARL
+      description: Programme to Empower Active and Responsible Learning (PEARL) aims
+        to help students develop active learning habits through the use of
+        computers in the classroom.
+      button: Read more
+      url: /pearl/
+  - infobar:
+      title: APPLIED LEARNING PROGRAMME
+      description: Our school-based ALP is an innovative curriculum that is aligned
+        with SkillsFuture.
+      button: Read more
+      url: /applied-learning-programme/
+  - infobar:
+      title: LEARNING FOR LIFE PROGRAMME
+      description: Our School's Learning for Life Programme (LLP) is Developing
+        Community Leaders.
+      button: Read more
+      url: /learning-for-life/
+  - infobar:
       title: Contact Us
       subtitle: Reach out to us today
       button: Get in touch
       url: /contact-us/
 ---
-
