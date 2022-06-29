@@ -3,8 +3,8 @@ title: Humanities
 permalink: /curriculum/humanities
 description: ""
 ---
-Humanities
-==========
+![](/images/HumanitiesFeature.jpeg)
+## Humanities
 
 **Department’s Philosophy:**
 
@@ -19,7 +19,7 @@ Humanities subjects (Geography, History and Social Studies) are new to secondary
 
 We adopt an inquiry-based learning approach in our teaching of the Humanities. In general, it consists of four main areas:
 
-[![H1](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/H1-300x275.png)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/H1.png)
+<div style="display:block"><img src="/images/H1.png" style="max-width: 50%;"></div>
 
 Furthermore, as part of the department’s effort to cultivate the joy of learning and enhance students’ collaboration skills, our students are also provided platforms to take part in competitions such as the Geography and History Challenge.
 
@@ -33,7 +33,7 @@ In Secondary 1, students collected evidence to answer the inquiry question, ‘W
 
 In Secondary 2, students were tasked to find out what makes their neighbourhood special. They worked collaboratively to collect data (interview and questionnaire), analyse the data, justify reasons for it, and suggest solutions to improve the neighbourhood.
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/H3.jpg)
+<div style="display:block"><img src="/images/H2.jpeg" style="max-width: 100%;"></div>
 
 Lower Secondary Historical Investigation
 
@@ -41,19 +41,20 @@ Historical Investigation is a core component of our students’ learning experie
 
 Our Secondary 1 students do this through our Exploration at the Singapore River program. Due to the Covid-19 pandemic, we adapted this program into a virtual reality learning journey catered to our students’ learning needs. Our Secondary 2 students also have access to a similar virtual learning journey to the Japanese Cemetery Park as part of their historical investigation.
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/H4.jpg)
+<div style="display:block"><img src="/images/H3.jpeg" style="max-width: 100%;"></div>
+
 
 Experiential Learning and Authentic Learning
 
 In order to make learning come alive for Humanities students, students are exposed to experiential learning. In Geography, students also get their hands dirty by creating landforms models and explaining it to their peers to demonstrate their understanding of the content learnt. For History, students were given hands-on opportunities to work on exaction sites at Fort Canning. Through the experience, our students were actively engaged in authentic learning by experiencing the actual process of discovering history. After experiential and authentic leaning experience, students are encouraged to reflect on their learning to ensure that learning continues to take place beyond the textbook.
 
-![H](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/H5.jpg)
+<div style="display:block"><img src="/images/H4.jpeg" style="max-width: 100%;"></div>
 
 Virtual Reality (VR)
 
 The Humanities Department piloted the use of virtual reality (VR) videos as part of our students’ learning experience in 2018. We have developed a variety of VR videos allowing stronger engagement of students’ interests. For instance, students ‘go’ to the volcanoes through virtual reality (VR) to find out more about the landscape around
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/H7-300x225.jpg)
+<div style="display:block"><img src="/images/H5.jpeg" style="max-width: 100%;"></div>
 
 volcanoes and the impact of living near volcanoes. Our library of VR resources include virtual trips to the Singapore River, Amazon Rainforest, the Japanese Cemetery Park and the Berlin Wall, and continues to expand each year
 
