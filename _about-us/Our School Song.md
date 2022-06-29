@@ -3,8 +3,7 @@ title: Our School Song
 permalink: /about-us/our-school-song
 description: ""
 ---
-Our School Song
-===============
+## Our School Song
 
 Strive, serve and soar  
 As we march on with highest endeavour  
