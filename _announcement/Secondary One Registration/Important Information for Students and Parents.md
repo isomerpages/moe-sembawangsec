@@ -4,8 +4,8 @@ permalink: /announcement/Secondary-One-Registration/important-information-for-st
 description: ""
 third_nav_title: Secondary One Registration
 ---
-Important Information for Students and Parents
-==============================================
+## Important Information for Students and Parents
+
 
 To ensure you are well prepared for the start of your Secondary school journey with us, please note the following information:
 
