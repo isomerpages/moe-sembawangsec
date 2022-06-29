@@ -4,8 +4,8 @@ permalink: /announcement/Secondary-One-Registration/uniform-and-book-sale
 description: ""
 third_nav_title: Secondary One Registration
 ---
-Uniform and Book Sale
-=====================
+## Uniform and Book Sale
+
 
 **Note:**
 
