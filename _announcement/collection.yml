@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - All Announcements.md
-      - Secondary One Registration/Transfer Application.md
-      - Secondary One Registration/MOE Parents Gateway.md
       - Secondary One Registration/.keep
       - Secondary One Registration/Secondary One Registration for 2022.md
       - Secondary One Registration/Welcome Letter.md
@@ -16,4 +14,6 @@ collections:
       - Secondary One Registration/Uniform and Book Sale.md
       - Secondary One Registration/Financial Assistance Scheme (FAS).md
       - Secondary One Registration/Subject Based Banding.md
+      - Secondary One Registration/MOE Parents Gateway.md
+      - Secondary One Registration/Transfer Application.md
       - SMB HOME BASED LEARNING.md
