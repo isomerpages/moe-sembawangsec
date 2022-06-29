@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Title
-description: Isomer Description
-image: /images/isomer-logo.svg
+title: Sembawang Secondary School
+description: Leaders & Change Makers
+image: /images/cropped-logo1-2021.jpg
 permalink: /
 notification: ""
 sections:
@@ -28,3 +28,4 @@ sections:
       button: Get in touch
       url: /contact-us/
 ---
+
