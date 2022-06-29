@@ -4,6 +4,7 @@ permalink: /curriculum/Signature-Programme/learning-for-life-programme
 description: ""
 third_nav_title: Signature Programme
 ---
+![](/images/Leadership.jpeg)
 ## Learning for Life Programme
 
 
