@@ -4,8 +4,8 @@ permalink: /curriculum/Signature-Programme/applied-learning-programme
 description: ""
 third_nav_title: Signature Programme
 ---
-Applied Learning Programme
-==========================
+## Applied Learning Programme
+
 
 **What is the ALP at Sembawang Secondary School?**
 
