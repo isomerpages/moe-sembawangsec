@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - All Announcements.md
+      - Secondary One Registration/MOE Parents Gateway.md
       - Secondary One Registration/.keep
       - Secondary One Registration/Secondary One Registration for 2022.md
       - Secondary One Registration/Welcome Letter.md
