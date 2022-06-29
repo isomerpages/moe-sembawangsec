@@ -4,8 +4,8 @@ permalink: /announcement/Secondary-One-Registration/financial-assistance-scheme-
 description: ""
 third_nav_title: Secondary One Registration
 ---
-Financial Assistance Scheme (FAS)
-=================================
+## Financial Assistance Scheme (FAS)
+
 
 **For new applicants**
 
