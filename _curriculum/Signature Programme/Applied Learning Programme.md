@@ -31,13 +31,8 @@ _Secondly_, students will be equipped **media creation skills**. Our students w
 
 _Lastly_, we will also enhance our students’ competencies in **digital productivity**. Students will be guided in using appropriate digital media tools (e.g., google docs, popplet) to enhance their personal productivity and collaborate effectively with others. These are skills they will find useful when they enter the digital age workplace.
 
-**SMB** **_S_****cience** **_Te_****chnology** **_M_****athematics (STeM) Programme**
+**SMB Science Technology Mathematics (STeM) Programme**
 
-Video Player
-
-00:00
-
-03:46
 
 Sembawang Secondary School is committed to prepare our students to thrive in the modern technology-rich environment. As part of this commitment, we are striving to ensure that each student has the opportunity to expand their critical-thinking skills and exercise their innovative spirit.
 
