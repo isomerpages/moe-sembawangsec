@@ -4,6 +4,8 @@ permalink: /curriculum/Signature-Programme/applied-learning-programme
 description: ""
 third_nav_title: Signature Programme
 ---
+![](/images/Excite-River.jpeg)
+
 ## Applied Learning Programme
 
 
