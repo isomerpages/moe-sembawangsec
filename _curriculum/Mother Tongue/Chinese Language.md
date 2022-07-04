@@ -32,7 +32,6 @@ third_nav_title: Mother Tongue
 *   文化随意门
 
 
-
 | <img src="/images/CHIL2.jpeg"> | <img src="/images/CHIL3.png"> | <img src="/images/CHIL4.jpeg"> |
 | -------- | -------- | -------- |
 | 2021中一学习之旅     | 母语双周活动     | 农历新年庆祝会     |
