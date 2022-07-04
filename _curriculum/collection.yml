@@ -2,9 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Mother Tongue/Chinese Language.md
-      - Mother Tongue/Mother Tongue.md
-      - Mother Tongue/.keep
       - Signature Programme/.keep
       - Signature Programme/Applied Learning Programme.md
       - Signature Programme/Learning for Life Programme.md
@@ -16,3 +13,6 @@ collections:
       - Craft & Technology.md
       - Physical Education.md
       - ICT.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Chinese Language.md
+      - Mother Tongue/Mother Tongue.md
