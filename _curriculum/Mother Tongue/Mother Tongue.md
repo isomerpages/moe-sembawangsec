@@ -51,4 +51,3 @@ Special Programmes :
 | <img src="/images/TAM1.jpeg"> | <img src="/images/TAM2.jpeg"> | <img src="/images/TAM3.jpeg"> |
 | -------- | -------- | -------- |
 | Tying Saree Workshop     | Deepavali Celebration     | Sec 1 Learning Journey @Fort Canning (Making Kolam)|
-
