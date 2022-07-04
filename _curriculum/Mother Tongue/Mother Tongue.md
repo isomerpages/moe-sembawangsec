@@ -29,35 +29,26 @@ Special Programmes :
 
 **Chinese Language Unit**
 
-<img src="/images/CHI1.jpeg"></img>
-Learning Journey to NTU TCM Clinic
 
-<img src="/images/CHI2.jpeg"></img>
-Learning Journey on Traditional Cuisine
+| <img src="/images/CHI1.jpeg" style="max-width: 100%;"> | <img src="/images/CHI2.jpeg" style="max-width: 100%;"> | <img src="/images/CHI3.jpeg" style="max-width: 100%;"> |
+| -------- | -------- | -------- |
+| Learning Journey to NTU TCM Clinic     | Learning Journey on Traditional Cuisine     | Tea Appreciation Workshop    |
 
-<img src="/images/CHI3.jpeg"></img>
-Tea Appreciation Workshop
+
 
 **Malay Language Unit**
 
-<img src="/images/MAL1.jpeg"></img>
-Sec 1 Learning Journey@Fort Canning
 
-(Making Bunga Manggar)
 
-<img src="/images/MAL2.jpeg"></img>
-Sec 4 Pulut Kuning Appreciation
+| <img src="/images/MAL1.jpeg" > | <img src="/images/MAL2.jpeg"> | <img src="/images/MAL3.jpeg" style="max-width: 100%;"> |
+| -------- | -------- | -------- |
+| Sec 1 Learning Journey@Fort Canning (Making Bunga Manggar)     | Sec 4 Pulut Kuning Appreciation     | Silat Workshop    |
 
-<img src="/images/MAL3.jpeg"></img>
-Silat Workshop
 
 **Tamil Language Unit**
 
-<img src="/images/TAM1.jpeg"></img>
-Tying Saree Workshop
 
-<img src="/images/TAM2.jpeg"></img>
-Deepavali Celebration
+| <img src="/images/TAM1.jpeg"> | <img src="/images/TAM2.jpeg"> | <img src="/images/TAM3.jpeg"> |
+| -------- | -------- | -------- |
+| Tying Saree Workshop     | Deepavali Celebration     | Sec 1 Learning Journey @Fort Canning (Making Kolam)|
 
-<img src="/images/TAM3.jpeg"></img>
-Sec 1 Learning Journey @Fort Canning (Making Kolam)
