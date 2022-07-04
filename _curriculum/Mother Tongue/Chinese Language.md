@@ -4,7 +4,7 @@ permalink: /curriculum/Mother-Tongue/chinese-language
 description: ""
 third_nav_title: Mother Tongue
 ---
-#### Chinese Language
+## Chinese Language
 
 **华文部**
 
@@ -16,7 +16,7 @@ third_nav_title: Mother Tongue
 
 <table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 112px; width: 357.8px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 137px;">快捷课程</td><td style="box-sizing: inherit; padding: 5px 10px; width: 204.8px;">高级华文、快捷华文</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 137px;">普通学术课程</td><td style="box-sizing: inherit; padding: 5px 10px; width: 204.8px;">普通学术华文、快捷华文</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 137px;">普通工艺课程</td><td style="box-sizing: inherit; padding: 5px 10px; width: 204.8px;">基础华文、普通学术华文</td></tr></tbody></table>
 
-![Classroom](https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/11/classroom-1024x587.png)
+![](/images/CHIL1.png)
 
 **教学法**
 
@@ -31,13 +31,33 @@ third_nav_title: Mother Tongue
 *   专才培育计划
 *   文化随意门
 
-<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 356px; width: 665.8px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 193px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 201px; height: 193px;"><img class="alignnone wp-image-6714 size-medium" src="https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/11/Sec-1-learning-journey-300x207.jpg" alt="Sec 1 Learning Journey" width="300" height="207" srcset="/wp-content/uploads/2021/11/Sec-1-learning-journey-300x207.jpg 300w, /wp-content/uploads/2021/11/Sec-1-learning-journey.jpg 476w" sizes="(max-width: 300px) 100vw, 300px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"><p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em; text-align: left;"><strong style="box-sizing: inherit; font-weight: bold;">2021中一学习之旅</strong></p><ul style="box-sizing: inherit; list-style-type: disc;"><li style="box-sizing: inherit;"><a href="https://sembawangsec.moe.edu.sg/curriculum/mother-tongue/chinese-language/annual-cultural-learning-journey/" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(31, 211, 154);">2016 至2020</a></li><li style="box-sizing: inherit;"><a href="https://sembawangsec.moe.edu.sg/curriculum/mother-tongue/chinese-language/2021-sec-1-learning-journey/" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(31, 211, 154);">2021</a></li></ul></td><td style="box-sizing: inherit; padding: 5px 10px; width: 202px; height: 193px;"><img class="alignnone wp-image-6713 size-medium" src="https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/11/MT_TwinWeek_activity-300x209.png" alt="Mt Twinweek Activity" width="300" height="209" srcset="/wp-content/uploads/2021/11/MT_TwinWeek_activity-300x209.png 300w, /wp-content/uploads/2021/11/MT_TwinWeek_activity.png 471w" sizes="(max-width: 300px) 100vw, 300px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"><p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em; text-align: left;"><strong style="box-sizing: inherit; font-weight: bold;">母语双周活动</strong></p><ul style="box-sizing: inherit;"><li style="box-sizing: inherit;"><a href="https://sembawangsec.moe.edu.sg/curriculum/mother-tongue/chinese-language/twin-weeks-mother-tongue/" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(31, 211, 154);">2016 至2020</a></li><li style="box-sizing: inherit;"><a href="https://sembawangsec.moe.edu.sg/curriculum/mother-tongue/chinese-language/2021-two-weeks-mother-tongue/" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(31, 211, 154);">2021</a></li></ul></td><td style="box-sizing: inherit; padding: 5px 10px; width: 240.8px; height: 193px;"><p style="box-sizing: inherit; font-size: 1em; text-align: left;"><strong style="box-sizing: inherit; font-weight: bold;"><img class="wp-image-6895 alignnone" src="https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/11/CNY_celeb_wishes.jpg" alt="" width="216" height="140" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin-bottom: 10px;"></strong></p><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: bold;">农历新年庆祝会</strong></p><ul style="box-sizing: inherit;"><li style="box-sizing: inherit;"><a href="https://sembawangsec.moe.edu.sg/curriculum/mother-tongue/chinese-language/lunar-new-year-celebration/" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(31, 211, 154);">2015 至2020</a></li><li style="box-sizing: inherit;"><a href="https://sembawangsec.moe.edu.sg/curriculum/mother-tongue/chinese-language/2021-chinese-new-year-celebration/" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(31, 211, 154);">2021</a></li><li style="box-sizing: inherit;"></li></ul></td></tr></tbody></table>
 
-<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 801.5px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 400.75px;"><img class="wp-image-6715 aligncenter" src="https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/11/cultivate_specialist_project-300x279.png" alt="Cultivate Specialist Project" width="236" height="219" srcset="/wp-content/uploads/2021/11/cultivate_specialist_project-300x279.png 300w, /wp-content/uploads/2021/11/cultivate_specialist_project.png 477w" sizes="(max-width: 236px) 100vw, 236px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin: auto; display: block; clear: both;"><strong style="box-sizing: inherit; font-weight: bold;">学校培育专才计划：</strong><p style="box-sizing: inherit; font-size: 1em;"></p><ul style="box-sizing: inherit;"><li style="box-sizing: inherit;"><a href="https://sembawangsec.moe.edu.sg/curriculum/mother-tongue/chinese-language/zhu-xiao-zuo-jia/" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(31, 211, 154);">推广华文学习委员会“驻校作家”计划</a></li><li style="box-sizing: inherit;">– 驻校作家作品集《青春同行》</li><li style="box-sizing: inherit;">– 世界书香日暨文学四月天活动</li><li style="box-sizing: inherit;"><a href="https://sembawangsec.moe.edu.sg/curriculum/mother-tongue/chinese-language/2021-reading-programme-in-school/" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(31, 211, 154);">校内阅读计划</a></li><li style="box-sizing: inherit;"><a href="https://sembawangsec.moe.edu.sg/curriculum/mother-tongue/chinese-language/recitation-competition/" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(31, 211, 154);">全国中小学课文朗诵比赛</a></li><li style="box-sizing: inherit;"><a href="https://sembawangsec.moe.edu.sg/curriculum/mother-tongue/chinese-language/yu-sheng-ju-lai/" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(31, 211, 154);">“与声剧来”中文广播剧创作比赛</a></li></ul></td><td style="box-sizing: inherit; padding: 5px 10px; width: 400.75px;"><img class="size-medium wp-image-6716 aligncenter" src="https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/11/Promote_CL_Committee-300x219.jpg" alt="Promote Cl Committee" width="300" height="219" srcset="/wp-content/uploads/2021/11/Promote_CL_Committee-300x219.jpg 300w, /wp-content/uploads/2021/11/Promote_CL_Committee.jpg 606w" sizes="(max-width: 300px) 100vw, 300px" style="box-sizing: inherit; border: 0px; vertical-align: middle; max-width: 100%; height: auto; margin: auto; display: block; clear: both;"><strong style="box-sizing: inherit; font-weight: bold;">推广华文学习委员会“文化随意门”计划：</strong><p style="box-sizing: inherit; font-size: 1em;"></p><ul style="box-sizing: inherit;"><li style="box-sizing: inherit;"><a href="https://sembawangsec.moe.edu.sg/curriculum/mother-tongue/chinese-language/wen-hua-sui-yi-men-ji-hua/" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(31, 211, 154);">戏剧观赏2014至2021</a></li><li style="box-sizing: inherit;"><a href="https://sembawangsec.moe.edu.sg/curriculum/mother-tongue/chinese-language/2016-wen-hua-sui-yi-men-feng-xiang-hui/" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(31, 211, 154);">2016“文化随意门”全国分享会</a></li></ul></td></tr></tbody></table>
+
+| <img src="/images/CHIL2.jpeg"> | <img src="/images/CHIL3.png"> | <img src="/images/CHIL4.jpeg"> |
+| -------- | -------- | -------- |
+| 2021中一学习之旅     | 母语双周活动     | 农历新年庆祝会     |
+| 2016至2020    | 2016至2020    | 2015至2020     |
+| 2021    | 2021     | 2021    |
+
+
+**学校培育专才计划**
+![](/images/CHIL5.png)
+*   [推广华文学习委员会“驻校作家”计划](https://sembawangsec.moe.edu.sg/curriculum/mother-tongue/chinese-language/zhu-xiao-zuo-jia/)
+*   – 驻校作家作品集《青春同行》
+*   – 世界书香日暨文学四月天活动
+*   [校内阅读计划](https://sembawangsec.moe.edu.sg/curriculum/mother-tongue/chinese-language/2021-reading-programme-in-school/)
+*   [全国中小学课文朗诵比赛](https://sembawangsec.moe.edu.sg/curriculum/mother-tongue/chinese-language/recitation-competition/)
+*   [“与声剧来”中文广播剧创作比赛](https://sembawangsec.moe.edu.sg/curriculum/mother-tongue/chinese-language/yu-sheng-ju-lai/)
+
+**推广华文学习委员会“文化随意**
+![](/images/CHIL6.jpeg)
+*   [戏剧观赏2014至2021](https://sembawangsec.moe.edu.sg/curriculum/mother-tongue/chinese-language/wen-hua-sui-yi-men-ji-hua/)
+*   [2016“文化随意门”全国分享会](https://sembawangsec.moe.edu.sg/curriculum/mother-tongue/chinese-language/2016-wen-hua-sui-yi-men-feng-xiang-hui/)
+
 
 **华语部教职员**
 
-[![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CLTeacher.png)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CLTeacher.png)
+![](/images/CHIL7.png)
 
 Mdm Ng Lai Peng （HOD）伍莉萍老师
 
