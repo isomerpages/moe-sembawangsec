@@ -52,7 +52,10 @@ third_nav_title: Mother Tongue
 *   [“与声剧来”中文广播剧创作比赛](https://sembawangsec.moe.edu.sg/curriculum/mother-tongue/chinese-language/yu-sheng-ju-lai/)
 
 **推广华文学习委员会“文化随意**
-![](/images/CHIL6.jpeg)
+
+<img src="/images/CHIL6.jpeg" 
+     style="width:75%">
+
 *   [戏剧观赏2014至2021](https://sembawangsec.moe.edu.sg/curriculum/mother-tongue/chinese-language/wen-hua-sui-yi-men-ji-hua/)
 *   [2016“文化随意门”全国分享会](https://sembawangsec.moe.edu.sg/curriculum/mother-tongue/chinese-language/2016-wen-hua-sui-yi-men-feng-xiang-hui/)
 
