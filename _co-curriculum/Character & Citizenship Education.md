@@ -125,7 +125,9 @@ For the commemoration of Total Defence Day (TDD), the activities were conducted 
 
 **Racial Harmony Day**
 
-![](/images/CCE15-768x494.png)
+
+<img src="/images/CCE15-768x494.png" 
+     style="width:75%">
 
 For the commemoration of Racial Harmony Day, students were engaged in discussions and reflected on what it means to live in a multicultural society like Singapore and how we can work together to strengthen racial and religious harmony. At the end of the day, we learnt that harmony comes not through tolerating the differences but a genuine appreciation of our shared aspirations.
 
