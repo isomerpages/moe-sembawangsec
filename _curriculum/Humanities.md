@@ -54,7 +54,7 @@ In order to make learning come alive for Humanities students, students are expos
 
 The Humanities Department piloted the use of virtual reality (VR) videos as part of our students’ learning experience in 2018. We have developed a variety of VR videos allowing stronger engagement of students’ interests. For instance, students ‘go’ to the volcanoes through virtual reality (VR) to find out more about the landscape around
 
-<div style="display:block"><img src="/images/H5.jpeg" style="max-width: 80%;"></div>
+<div style="display:block"><img src="/images/H5.jpeg" style="max-width: 60%;"></div>
 
 volcanoes and the impact of living near volcanoes. Our library of VR resources include virtual trips to the Singapore River, Amazon Rainforest, the Japanese Cemetery Park and the Berlin Wall, and continues to expand each year
 
