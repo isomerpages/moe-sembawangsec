@@ -48,7 +48,7 @@ Julia Gabriel’s Secondary Schools Debating Championships
 **2020**  
 Tea, Tiffin and Poetry Competition
 
-<div style="display:block"><img src="/images/E6.png" style="max-width: 100%;"></div>
+<div style="display:block"><img src="/images/E6.png" style="max-width: 60%;"></div>
 
 ### Team Members/Dept Teachers
 * Head of Department: Ms Muthamil Selvi
