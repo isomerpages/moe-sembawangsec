@@ -28,7 +28,7 @@ Secondary 1: Readers’ Theatre
 Secondary 2: Writing Competition  
 Secondary 3: Public-speaking and Debates
 
-<div style="display:block"><img src="/images/E1.png" style="max-width: 50%;"></div>
+<div style="display:block"><img src="/images/E1.png" style="max-width: 40%;"></div>
 
 **English Literature**  
 To cater to the interest of our students, the school offers Literature as a GCE ‘O’ level subject.  In the literature classroom, our lower secondary students read and respond to a variety of literary texts, including local texts, from the genres of prose, poetry and drama. Students are guided to explore different perspectives, to gain an appreciation for the literary word, and to deepen their understanding of the world at large.
