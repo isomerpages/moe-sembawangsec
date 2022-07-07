@@ -135,7 +135,8 @@ For the commemoration of Racial Harmony Day, students were engaged in discussion
 
 For our nation’s 55th birthday, we began the day with a record of a parade segment where our Uniform Groups and CE Leaders conducted the flag-raising ceremony with pride. We continued the day celebrating our nation’s achievements and commitment to stay united as one people through the building of structures as a class, while adhering to safe distancing measures. We ended the day with a sing-along session, which was complimented by the creative music videos created by each class!
 
-![](/images/CCE16.png)
+<img src="/images/CCE16.png" 
+     style="width:75%">
 
 Structures of iconic buildings in Singapore created by putting together paper cubes designed by students
 
@@ -145,10 +146,15 @@ Structures of iconic buildings in Singapore created by putting together paper cu
 
 The distinctive EC programmes that were organised by the school include Sembcorp School Recycling Programme, Green Outreach Programme (GOP), assembly talk on recycling by SembWaste, sharing by EC leaders on climate change and recycling, etc. Through these programmes and some hands-on activities such as the GOP, student are constantly reminded of the important messages of reducing, reusing and recycling.
 
-![](/images/cce17.jpeg)
+
+<img src="/images/cce17.jpeg" 
+     style="width:75%">
 
 Students collecting newspapers and other recyclables from residents as part of our Green Outreach Programme
 
-![](/images/cce18.jpeg)
+
+<img src="/images/cce18.jpeg" 
+     style="width:75%">
+
 
 Students attending an assembly talk on recycling by SembWaste
