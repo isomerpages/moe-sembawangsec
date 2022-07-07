@@ -31,7 +31,7 @@ Goal 6: Enjoy and value the benefits of living a physically active and healthy l
 
 _**Inter House Games**_
 
-[![Pe](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/PE.jpg)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/PE.jpg)
+![](/images/PE.jpeg)
 
 A series of sports competitions for our students to make new friendships and demonstrate their learning.
 
@@ -39,7 +39,7 @@ A series of sports competitions for our students to make new friendships and dem
 
 _**SMB Youth Run and Games**_
 
-[![Yryg](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/YRYG-300x241.jpg)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/YRYG.jpg)
+![](/images/YRYG.jpeg)
 
 SMB Youth Run – Our school’s Mass Run event to instil joy, a love for the outdoors and resilience amongst our students. Through these platforms our students become active and learn to inculcate healthy lifestyle.
 
