@@ -49,8 +49,7 @@ SMB Youth Games – Our school’s Track and Field day where students demonstrat
 
 _**Outdoor Programmes**_
 
-[![Outdoor Programmes](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/Outdoor-Programmes-300x241.jpg)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/Outdoor-Programmes.jpg)
-
+![](/images/Outdoor-Programmes.jpeg)
 <table width="433" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 85px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 424px;">Secondary 1 Hiking and Orienteering Programme</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 424px;">Secondary 2 Resilience Camp</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 424px;">Secondary 3 MOE-OBS Programme</td></tr></tbody></table>
 
 Students develop appropriate outdoor skills through physical activities while cultivating an attitude of care and appreciation for the environment, and thoughtful consideration of the risks and safety of self and others.
@@ -59,7 +58,7 @@ Students develop appropriate outdoor skills through physical activities while cu
 
 **PE Modules**
 
-     **[![Pep](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/PEp-300x241.jpg)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/PEp.jpg)**
+![](/images/PEp.jpeg)
 
 3 Learning Areas are:
 
@@ -79,7 +78,7 @@ By the end of Secondary 4/5, students will be exposed to at least 7 Games Module
 
 _**PE Assessment**_
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/PEA.jpg)
+![](/images/PEA.jpeg)
 
 <table width="581" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 78px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 572px;"><u style="box-sizing: inherit;">Formative Assessment</u><p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;">Consists of Peer Assessment and Skills Checklist (e.g. use of Plickers, Games Performance Assessment Instrument, PE apps)</p></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 572px;"><u style="box-sizing: inherit;">Summative Assessment</u><p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;">Students will receive a PE grade at the end of the year, based on their participation in the 3 main learning areas.</p></td></tr></tbody></table>
 
