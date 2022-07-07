@@ -43,7 +43,7 @@ To give our students the exposure and the platform to showcase their talents and
 **2019**  
 Julia Gabriel’s Secondary Schools Debating Championships
 
-<div style="display:block"><img src="/images/E5.jpeg" style="max-width: 70%;"></div>
+<div style="display:block"><img src="/images/E5.jpeg" style="max-width: 60%;"></div>
 
 **2020**  
 Tea, Tiffin and Poetry Competition
