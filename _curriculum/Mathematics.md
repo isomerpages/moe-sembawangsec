@@ -27,7 +27,9 @@ Our Mathematics curriculum aims to equip our pupils with Mathematical skills, pr
 **Department Philosophy and Approach**  
 Our department programmes strive to equip our pupils with Mathematical skills, processes and concepts to solve problems in a variety of contexts within and outside Mathematics. Our teachers conscientiously practice the 3 phases of learning in the classroom – Readiness to Learn, Engagement in Learning and Mastery in Learning.
 
-![](/images/MA2.png)
+
+<img src="/images/MA2.png" 
+     style="width:40%">
 
 We provide opportunities for students to  
 • enhance conceptual understanding through use of various mathematical tools including ICT tools;  
