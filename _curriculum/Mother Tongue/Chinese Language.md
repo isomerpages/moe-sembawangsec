@@ -40,7 +40,10 @@ third_nav_title: Mother Tongue
 
 
 **学校培育专才计划**
-![](/images/CHIL5.png)
+
+<img src="/images/CHIL5.png" 
+     style="width:65%">
+		 
 *   [推广华文学习委员会“驻校作家”计划](https://sembawangsec.moe.edu.sg/curriculum/mother-tongue/chinese-language/zhu-xiao-zuo-jia/)
 *   – 驻校作家作品集《青春同行》
 *   – 世界书香日暨文学四月天活动
