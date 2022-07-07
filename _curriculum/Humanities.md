@@ -48,13 +48,13 @@ Our Secondary 1 students do this through our Exploration at the Singapore River 
 
 In order to make learning come alive for Humanities students, students are exposed to experiential learning. In Geography, students also get their hands dirty by creating landforms models and explaining it to their peers to demonstrate their understanding of the content learnt. For History, students were given hands-on opportunities to work on exaction sites at Fort Canning. Through the experience, our students were actively engaged in authentic learning by experiencing the actual process of discovering history. After experiential and authentic leaning experience, students are encouraged to reflect on their learning to ensure that learning continues to take place beyond the textbook.
 
-<div style="display:block"><img src="/images/H4.jpeg" style="max-width: 100%;"></div>
+<div style="display:block"><img src="/images/H4.jpeg" style="max-width: 80%;"></div>
 
 **Virtual Reality (VR)**
 
 The Humanities Department piloted the use of virtual reality (VR) videos as part of our students’ learning experience in 2018. We have developed a variety of VR videos allowing stronger engagement of students’ interests. For instance, students ‘go’ to the volcanoes through virtual reality (VR) to find out more about the landscape around
 
-<div style="display:block"><img src="/images/H5.jpeg" style="max-width: 100%;"></div>
+<div style="display:block"><img src="/images/H5.jpeg" style="max-width: 80%;"></div>
 
 volcanoes and the impact of living near volcanoes. Our library of VR resources include virtual trips to the Singapore River, Amazon Rainforest, the Japanese Cemetery Park and the Berlin Wall, and continues to expand each year
 
