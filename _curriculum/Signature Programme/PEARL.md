@@ -16,7 +16,7 @@ third_nav_title: Signature Programme
 In alignment with the outcome goal of the MOE MasterPlan for ICT in Education – Quality learning in the hands of every learner empowered with technology, PEARL is the school’s very own 1-1 computing access initiative launched in 2017. PEARL aims to promote Active Learning in class through the use of ICT so that our students become better thinkers and more reflective learners.
 
 <img src="/images/it3.jpeg" 
-     style="width:50%">
+     style="width:70%">
 
 Teachers, as designers of active learning experiences, are empowered to create an ICT-enriched classroom that is thinking, collaborative and connected. Hence, students would have opportunities to harness the use of technology for collaboration, brainstorming of ideas (making their thinking visible), co-construction of knowledge and even authentic problem-solving in the learning process.
 
