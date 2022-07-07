@@ -21,7 +21,8 @@ Lifelong Mathematics Learners
 **Department Mission**  
 Our Mathematics curriculum aims to equip our pupils with Mathematical skills, processes and concepts so that they will become effective and creative problem solvers in life.
 
-![](/images/MA1.png)
+<img src="/images/MA1.png" 
+     style="width:75%">
 
 **Department Philosophy and Approach**  
 Our department programmes strive to equip our pupils with Mathematical skills, processes and concepts to solve problems in a variety of contexts within and outside Mathematics. Our teachers conscientiously practice the 3 phases of learning in the classroom – Readiness to Learn, Engagement in Learning and Mastery in Learning.
