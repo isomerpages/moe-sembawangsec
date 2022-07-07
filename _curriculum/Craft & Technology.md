@@ -57,11 +57,11 @@ We use Gradual Release of Responsibilities Instructional framework to plan our l
 
 Our department’s Teaching and Learning Framework
 
-<div style="display:block"><img src="/images/CT2.png" style="max-width: 100%;"></div>
+<div style="display:block"><img src="/images/CT2.png" style="max-width: 80%;"></div>
 
 We ensure that our students are clear of the success criteria for every lesson based on the learning objectives. Our students can monitor their own learning and can experience success knowing that they have learned.
 
-<div style="display:block"><img src="/images/CT3.jpeg" style="max-width: 100%;"></div>
+<div style="display:block"><img src="/images/CT3.jpeg" style="max-width: 70%;"></div>
 
 #### WHAT
 
@@ -69,7 +69,7 @@ To prepare our students for an increasingly complex, interconnected and tech-dri
 
 **LEARNING CONTEXT**
 
-<div style="display:block"><img src="/images/CT4.png" style="max-width: 100%;"></div>
+<div style="display:block"><img src="/images/CT4.png" style="max-width: 70%;"></div>
 
 **Acquisition and Application of Skills and Knowledge**
 
@@ -79,7 +79,7 @@ To prepare our students for an increasingly complex, interconnected and tech-dri
 
 
 **Acquisition and Application of Thinking Skills**
-<div style="display:block"><img src="/images/CT7.jpeg" style="max-width: 100%;"></div>
+<div style="display:block"><img src="/images/CT7.jpeg" style="max-width: 70%;"></div>
 
 **EXPOSURE & EXPERIENCE**
 
@@ -112,10 +112,10 @@ iCanSee Group
 
 2019 C&T Learning Journey to Central Vietnam
 
-<div style="display:block"><img src="/images/CT8.jpeg" style="max-width: 100%;"></div>
+<div style="display:block"><img src="/images/CT8.jpeg" style="max-width: 70%;"></div>
 
-<div style="display:block"><img src="/images/CT9.jpeg" style="max-width: 100%;"></div>
+<div style="display:block"><img src="/images/CT9.jpeg" style="max-width: 70%;"></div>
 
-<div style="display:block"><img src="/images/CT10.jpeg" style="max-width: 100%;"></div>
+<div style="display:block"><img src="/images/CT10.jpeg" style="max-width: 70%;"></div>
 
-<div style="display:block"><img src="/images/CT11.jpeg" style="max-width: 100%;"></div>
+<div style="display:block"><img src="/images/CT11.jpeg" style="max-width: 70%;"></div>
