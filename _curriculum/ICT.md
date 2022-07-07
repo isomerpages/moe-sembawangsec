@@ -14,7 +14,7 @@ Our Aspirations to ensure Quality Learning in the hands of every learner – emp
 1.  Through professional conversations on the design of student-centric learning experiences, we empower teachers to be effective and skilful designers of active learning experiences, and environments
 2.  Through our Signature Programmes – PEARL and STeM (as part of ALP) and the baseline ICT learning modules on the Student Learning Space (SLS), the ICT department strives to provide a dynamic and engaging curriculum that moulds Sembawang Graduates into active, self-directed and competent learners who are future-ready and responsible digital citizens.
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/IT1.jpg)
+![](/images/IT1.jpeg)
 
 As with all subjects, ICT is also a values-driven discipline. Guided by our school values our school values and through our ICT programmes, we inculcate our students with the following: 
 
