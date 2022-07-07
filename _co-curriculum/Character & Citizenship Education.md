@@ -111,13 +111,12 @@ The distinctive CE programmes that were organised by the school include Total De
 
 **Total Defence Day**
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CCE14-300x263.png)
-
+![](/images/CCE14.png)
 For the commemoration of Total Defence Day (TDD), the activities were conducted during CCE lesson. CE Leaders conducted a TDD sharing, presenting on the different aspects of TDD and how we could contribute in building a strong and resilient Singapore. Students then highlighted their commitment by designing a scratch card and placing it together as a class to form a meaningful design related to Total Defence.
 
 **Racial Harmony Day**
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CCE15-300x193.png)
+![](/images/CCE15-768x494.png)
 
 For the commemoration of Racial Harmony Day, students were engaged in discussions and reflected on what it means to live in a multicultural society like Singapore and how we can work together to strengthen racial and religious harmony. At the end of the day, we learnt that harmony comes not through tolerating the differences but a genuine appreciation of our shared aspirations.
 
@@ -125,7 +124,7 @@ For the commemoration of Racial Harmony Day, students were engaged in discussion
 
 For our nation’s 55th birthday, we began the day with a record of a parade segment where our Uniform Groups and CE Leaders conducted the flag-raising ceremony with pride. We continued the day celebrating our nation’s achievements and commitment to stay united as one people through the building of structures as a class, while adhering to safe distancing measures. We ended the day with a sing-along session, which was complimented by the creative music videos created by each class!
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CCE16.png)
+![](/images/CCE16.png)
 
 Structures of iconic buildings in Singapore created by putting together paper cubes designed by students
 
@@ -135,10 +134,10 @@ Structures of iconic buildings in Singapore created by putting together paper cu
 
 The distinctive EC programmes that were organised by the school include Sembcorp School Recycling Programme, Green Outreach Programme (GOP), assembly talk on recycling by SembWaste, sharing by EC leaders on climate change and recycling, etc. Through these programmes and some hands-on activities such as the GOP, student are constantly reminded of the important messages of reducing, reusing and recycling.
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/cce17.jpg)
+![](/images/cce17.jpeg)
 
 Students collecting newspapers and other recyclables from residents as part of our Green Outreach Programme
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/cce18.jpg)
+![](/images/cce18.jpeg)
 
 Students attending an assembly talk on recycling by SembWaste
