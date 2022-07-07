@@ -117,7 +117,10 @@ The distinctive CE programmes that were organised by the school include Total De
 
 **Total Defence Day**
 
-![](/images/CCE14.png)
+
+<img src="/images/CCE14.png" 
+     style="width:35%">
+		 
 For the commemoration of Total Defence Day (TDD), the activities were conducted during CCE lesson. CE Leaders conducted a TDD sharing, presenting on the different aspects of TDD and how we could contribute in building a strong and resilient Singapore. Students then highlighted their commitment by designing a scratch card and placing it together as a class to form a meaningful design related to Total Defence.
 
 **Racial Harmony Day**
