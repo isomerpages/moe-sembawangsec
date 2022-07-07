@@ -42,15 +42,19 @@ In Sembawang Secondary School, a holistic approach is adopted in planning and im
 
 The distinctive ECG programmes that were organised by the school include Education and Career Guidance Fair, Early Admission Exercise Talks, Polytechnic Open House visits, Elective Modules, Advanced Elective Modules, etc. The Elective Modules and Advanced Elective Modules provide opportunities for students from all streams to extend their academic’s learning, focusing on areas related to STEM. These programmes help to widen their knowledge of the various career paths in various industry and prepare them for post-secondary education.
 
-![](/images/CCE1.jpeg)
-
+<img src="/images/CCE1.jpeg" 
+     style="width:75%">
+		 
 Captivating and informative Education and Career Guidance Fair where tertiary institutions were invited to the school to share information on tertiary courses.
 
-![](/images/CCE2.jpeg)
+
+<img src="/images/CCE2.jpeg" 
+     style="width:75%">
 
 Engaging and Hands-on Elective Module Programme on Aerospace where our students get to enjoy a simulated cockpit experience
 
-![](/images/CCE3.jpeg)
+<img src="/images/CCE3.jpeg" 
+     style="width:75%">
 
 Elective Module programme on Pastry Making to groom our future chefs and bakers
 
@@ -93,10 +97,12 @@ Intergenerational Learning Programme where our Cyber Wellness leaders taught the
 
 The focus of the Lower Secondary VIA programme is on environmental conservation while the focus of the Upper Secondary VIA programme is on touching the lives of the community. The distinctive VIA programmes that were organised by the school include beach cleaning, designing recyclable bag and giving them to residents to promote environmental conservation, gate painting at rented flats, organising block party for residents, VIA carnival, etc. Over the four to five years in school, our students have experienced many meaningful events that have brought about an impact to the environment and community, while achieving an excellent score in the service component of LEAPS 2.0.
 
-![](/images/CCE11.jpeg)
+<img src="/images/CCE11.jpeg" 
+     style="width:75%">
 Students painting the gates of residents staying in rented flats as part of their VIA programme
 
-![](/images/CCE12-768x617.jpeg)
+<img src="/images/CCE12-768x617.jpeg" 
+     style="width:35%">
 
 Recyclable bag designed by our students and given to residents as part of advocacy of environmental conservation
 
