@@ -42,15 +42,15 @@ In Sembawang Secondary School, a holistic approach is adopted in planning and im
 
 The distinctive ECG programmes that were organised by the school include Education and Career Guidance Fair, Early Admission Exercise Talks, Polytechnic Open House visits, Elective Modules, Advanced Elective Modules, etc. The Elective Modules and Advanced Elective Modules provide opportunities for students from all streams to extend their academic’s learning, focusing on areas related to STEM. These programmes help to widen their knowledge of the various career paths in various industry and prepare them for post-secondary education.
 
-[![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CCE1.jpg)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CCE1.jpg)
+![](/images/CCE1.jpeg)
 
 Captivating and informative Education and Career Guidance Fair where tertiary institutions were invited to the school to share information on tertiary courses.
 
-[![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CCE2.jpg)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CCE2.jpg)
+![](/images/CCE2.jpeg)
 
 Engaging and Hands-on Elective Module Programme on Aerospace where our students get to enjoy a simulated cockpit experience
 
-[![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CCE3.jpg)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CCE3.jpg)
+![](/images/CCE3.jpeg)
 
 Elective Module programme on Pastry Making to groom our future chefs and bakers
 
@@ -60,31 +60,30 @@ Elective Module programme on Pastry Making to groom our future chefs and bakers
 
 The distinctive CW programmes that were organised by the school include Cyber Wellness Carnival, Intergenerational Learning Programme, Cyber Wellness sharing by CW leaders, Cyber Wellness poster design competition, etc. The Cyber Wellness carnival, led by our CW leaders, is an impactful event that combines fun games with embedded CW messages, so that students can learn while having fun. The Intergenerational Learning Programme is a partnership between Family Central and Sembawang Secondary School where our CW leaders teach digital skills and usage of mobile apps to the elderly.
 
-[![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CCE4.jpg)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CCE4.jpg)
+![](/images/CCE4.jpeg)
 
 Cyber Wellness Carnival – Station 1: Shoot down the fake news
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CCE5.jpg)
+![](/images/CCE5.jpeg)
 
 Cyber Wellness Carnival – Station 2: Pass down the message
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CCE6.jpg)
+![](/images/CCE6.jpeg)
 
 Cyber Wellness Carnival – Station 3: Guess the word
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CCE7.jpg)
+![](/images/CCE7.jpeg)
 
 Cyber Wellness Carnival – Station 4: Search the word
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CCE8.jpg)
-
+![](/images/CCE8.jpeg)
 Cyber Wellness Carnival – Station 5: Pick up the real news
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CCE9.jpg)
+![](/images/CCE9.jpeg)
 
 Cyber Wellness Carnival – Station 6: Photo Booth
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CCE10.jpg)
+![](/images/CCE10.jpeg)
 
 Intergenerational Learning Programme where our Cyber Wellness leaders taught the elderly usage of some mobile apps via Zoom
 
@@ -94,16 +93,14 @@ Intergenerational Learning Programme where our Cyber Wellness leaders taught the
 
 The focus of the Lower Secondary VIA programme is on environmental conservation while the focus of the Upper Secondary VIA programme is on touching the lives of the community. The distinctive VIA programmes that were organised by the school include beach cleaning, designing recyclable bag and giving them to residents to promote environmental conservation, gate painting at rented flats, organising block party for residents, VIA carnival, etc. Over the four to five years in school, our students have experienced many meaningful events that have brought about an impact to the environment and community, while achieving an excellent score in the service component of LEAPS 2.0.
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CCE11.jpg)
-
+![](/images/CCE11.jpeg)
 Students painting the gates of residents staying in rented flats as part of their VIA programme
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CCE12-300x241.jpg)
+![](/images/CCE12-768x617.jpeg)
 
 Recyclable bag designed by our students and given to residents as part of advocacy of environmental conservation
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/CCE13.jpg)
-
+![](/images/CCE13.jpeg)
 Students engaged in beach cleaning and interacting with residents during a block party
 
 **Citizenship Education (CE)**
