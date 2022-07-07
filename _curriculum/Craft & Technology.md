@@ -69,7 +69,7 @@ To prepare our students for an increasingly complex, interconnected and tech-dri
 
 **LEARNING CONTEXT**
 
-<div style="display:block"><img src="/images/CT4.png" style="max-width: 60%;"></div>
+<div style="display:block"><img src="/images/CT4.png" style="max-width: 50%;"></div>
 
 **Acquisition and Application of Skills and Knowledge**
 
