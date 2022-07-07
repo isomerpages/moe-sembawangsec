@@ -27,7 +27,8 @@ The ALP curriculum at Sembawang Secondary School aims to develop students as cri
 
 _Firstly_, our students will learn **media reception skills**. This means they will be equipped with thinking skills to critically interpret, analyse, question, and evaluate information from different media sources (e.g. print, online, visual, oral). Our aim is for students to be better able to question the information they see in the media and to discern any hidden messages or purposes.
 
-![](/images/schoolbag.jpeg)
+<img src="/images/schoolbag.jpeg" 
+     style="width:35%">
 
 _Secondly_, students will be equipped **media creation skills**. Our students will be trained in using appropriate media tools to convey a message, with the aim of persuading a target audience (e.g., creating posters, infographics, videos, graphs etc).
 
