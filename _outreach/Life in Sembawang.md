@@ -515,7 +515,7 @@ This Year’s theme – ‘The Best Me’ – is a shout-out to the school commu
 
 Almost 200 staff and students received awards. The event was also graced by the school’s first Principal Mrs Tang-Chan Yueh Tarn. The ceremony closed off with a dinner reception, but not before a gusto performance of the school song led by our Student Councillors.
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2018/08/Speech-Day.png)
+![](/images/Speech-Day.png)
 
 Strive, Serve and Soar Sembawang!
 
@@ -529,7 +529,7 @@ The much awaited SMB Youth Games was held at the Woodlands Stadium this year. Th
 
 However, it started to rain at about 9am and everyone took shelter at the grandstand after the lightning alert. While waiting for the rain to subside and the lightning alert to go away, students and teachers practised their House cheering. The wet weather continued but the SMB spirit was not dampened. Blue Marlins was leading the SMB Youth Games when we ended the event. Despite the rain, we all had fun running the Mass Run, cheering for the athletes and enjoying the refreshment that was provided.  Well done to all who took part!
 
-![Youth Run 2018](https://sembawangsec.moe.edu.sg/wp-content/uploads/2018/07/Youth-Run-2018.png)
+![](/images/Youth-Run-2018.png)
 
 * * *
 
@@ -568,7 +568,7 @@ YEE SHIN, 1EX4
 _“I learnt that if I think positively, I can achieve what I want.”_  
 TASMIYAH, 1EX1
 
-![Drama](https://sembawangsec.moe.edu.sg/wp-content/uploads/2017/04/Drama.jpg)
+![](/images/Drama.jpeg)
 
 * * *
 
@@ -578,9 +578,9 @@ TASMIYAH, 1EX1
 
 The Speech and Prize Giving Day was a special one because it is also Sembawang Secondary School’s 20th birthday. It was a celebration of both our staff and student’s achievements as well as the diverse talents that exist in our vibrant school community. A ceremonial parade also showcased the grit and discipline of our uniformed groups. Our Guest of Honour, Dr Lim Wee Kiak, Advisor to the Canberra Grassroots Organisations, joined in our celebrations as he reminisced with us on our journey thus far. It was a day that celebrated the past, present and future of our school.
 
-![Speech Day 1](https://sembawangsec.moe.edu.sg/wp-content/uploads/2017/04/SP11.jpg)
+![](/images/SP11.jpeg)
 
-![Speech Day 2](https://sembawangsec.moe.edu.sg/wp-content/uploads/2017/04/123-1.jpg)
+![](/images/123-1.jpeg)
 
 * * *
 
@@ -596,7 +596,7 @@ _3E 伟伦_
 
 这次的中医活动让我们认识了更多关于中医的知识。中医师解除了几个我们对中医的误解，像是学会中医就可以为别人“点穴”等。除此之外，她还告诉了我们一些中医的小贴士，像是头疼应该按哪个部位可以改善。这次的活动让我们更加认识中医，而不是一说到医术就只想到西医。
 
-![MTFNChineseMed](https://sembawangsec.moe.edu.sg/wp-content/uploads/2017/04/MTFNChineseMed.jpg)
+![](/images/MTFNChineseMed.jpeg)
 
 相声
 
@@ -604,7 +604,7 @@ _3E伟伦_
 
 我觉得这是一个富有意义的活动，因为这次的活动让我校学生有一个机会可以接触到这门深奥的艺术。主讲老师—小孟老师生动地告诉我们现今的相声是什么样的，我也知道了相声不只是老人会接触的领域，现在很多年轻人也对相声产生浓厚的兴趣。小孟老师告诉我们相声的基本知识，以及几种不同类型的相声，让我受益良多。
 
-![MTFNxiangsheng](https://sembawangsec.moe.edu.sg/wp-content/uploads/2017/04/MTFNxiangsheng.jpg)
+![](/images/MTFNxiangsheng.jpeg)
 
 茶艺
 
@@ -612,7 +612,7 @@ _2NT洁怡_
 
 我在这个活动上学到了泡茶的文化和习俗，除了这些，我还学到了如何泡茶。我觉得活动很有意思，让我更了解华族的文化。
 
-![MTFNteaappreciation](https://sembawangsec.moe.edu.sg/wp-content/uploads/2017/04/MTFNteaappreciation.jpg)
+![](/images/MTFNteaappreciation.jpeg)
 
 Secondary 2 and 3 Drama Workshop (Tamil)
 
@@ -620,7 +620,7 @@ Secondary 2 and 3 Drama Workshop (Tamil)
 
 _Subraja 3IN1_
 
-![MTFNdrama](https://sembawangsec.moe.edu.sg/wp-content/uploads/2017/04/MTFNdrama.jpg)
+![](/images/MTFNdrama.jpeg)
 
 Secondary 1 Mother Tongue Camp (Tamil) 
 
@@ -628,7 +628,7 @@ Secondary 1 Mother Tongue Camp (Tamil) 
 
 _Priyanka 1EX4_
 
-![MTFNcamp](https://sembawangsec.moe.edu.sg/wp-content/uploads/2017/04/MTFNcamp.jpg)
+![](/images/MTFNcamp.jpeg)
 
 * * *
 
