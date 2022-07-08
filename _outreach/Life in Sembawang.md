@@ -410,7 +410,9 @@ _Jason Yeo, 4TE1_
 
 ![](/images/13.jpeg)
 
-![](/images/14.jpeg)
+
+<img src="/images/14.jpeg" 
+     style="width:65%">
 * * *
 
 ### National Service – The Call of Duty
