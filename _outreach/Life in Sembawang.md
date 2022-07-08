@@ -296,7 +296,7 @@ The students were also introduced to the sixth pillar of Defence – Digital Def
 
 SMB celebrated Chinese New Year on  4 Feb 2019. Students used red packets to decorate their classes, and prepared hampers for various beneficiaries. This is an annual activity to promote respect and care for others. As is our usual practice, we also hosted residents of the Singapore Christian Home during the celebrations. Our guests were treated to a showcase of festivities, and received goodie bags to add to the joyous occasion. All in attendance also reflected on the significance of CNY and the rich cultural diversity in our country.
 
-![Chinese New Year 2019](https://sembawangsec.moe.edu.sg/wp-content/uploads/2019/04/Chinese-New-Year-2019.jpg)
+![](/images/Chinese-New-Year-2019.jpeg)
 
 * * *
 
@@ -306,8 +306,7 @@ Secondary 3 Express History students Benjamin Teng, Muhd Darwin, Dahlia, and Haz
 
 Through the History Challenge, our students were able to engage in the disciplinary aspects of history, display in-depth knowledge of the subject and apply conceptual understanding across different periods. The students also attended a seminar by Dr Ho Chi Tim on _Nation-building in Historical Context._ Students were challenged to explore the history of colonial Singapore.
 
-[![History](https://sembawangsec.moe.edu.sg/wp-content/uploads/2018/10/History.jpg)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2018/10/History.jpg)
-
+![](/images/History.jpeg)
 * * *
 
 ### Pursuing Joy of Learning in Math
@@ -320,7 +319,7 @@ Singapore Mathematical Olympiad (SMO)
 
 *   1 honourable mention (Junior Category)
 
-[![Math Olympian](https://sembawangsec.moe.edu.sg/wp-content/uploads/2018/10/Math-Olympian.jpg)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2018/10/Math-Olympian.jpg)
+![](/images/Math-Olympian.jpeg)
 
 * * *
 
@@ -328,25 +327,30 @@ Singapore Mathematical Olympiad (SMO)
 
 Secondary 3 students visited residents from Sunlove Home at Marsiling and Thye Hua Kwan Senior Activities Centre at Ang Mo Kio. During the visit, students interacted with the Sunlove Home residents and played interactive games with them. They also helped to paint old and rusty gates of some of the residents’ homes. Sec 3 change-makers have shown care and concern for the community. Well done!
 
-[![Sec 3 Via](https://sembawangsec.moe.edu.sg/wp-content/uploads/2018/10/Sec-3-VIA-217x300.jpg)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2018/10/Sec-3-VIA.jpg)
 
+<img src="/images/Sec-3-VIA.jpeg" 
+     style="width:50%">
 * * *
 
 ### Budding Writers in Action
 
-Muhammad Hidayat with this short story titled ‘Gara-Gara Kaca Mata’ (Because of a pair of glasses) published in the Berita Harian’s (BH) Gen-G on 27th September 2018. He was also awarded a book prize by Berita Harian, Singapore Press Holdings.[![Budding Writers 1](https://sembawangsec.moe.edu.sg/wp-content/uploads/2018/10/Budding-Writers-1-225x300.jpg)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2018/10/Budding-Writers-1.jpg)
+Muhammad Hidayat with this short story titled ‘Gara-Gara Kaca Mata’ (Because of a pair of glasses) published in the Berita Harian’s (BH) Gen-G on 27th September 2018. He was also awarded a book prize by Berita Harian, Singapore Press Holdings.
+[
+<img src="/images/Budding-Writers-1-768x1024.jpeg" 
+     style="width:75%">
 
 Dg Muhammad Aqil with this short story titled ‘Terselamat’ (Saved) published in the Berita Harian’s (BH) Gen-G on 1st October 2018. He was also awarded a book prize by Berita Harian, Singapore Press Holdings.
 
-[![Budding Writers 2](https://sembawangsec.moe.edu.sg/wp-content/uploads/2018/10/Budding-Writers-2-e1539913336870-225x300.jpg)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2018/10/Budding-Writers-2.jpg)
 
+<img src="/images/Budding-Writers-2-e1539913336870-768x1024.jpeg" 
+     style="width:75%">
 * * *
 
 ### T-Net Club Champs
 
 On 25 and 26 Aug 2018, our soccer boys participated in the T-Net Club competition jointly organised by N-Net club and Punggol Secondary School. Both divisions emerged as champions. Well done Sembawang!
 
-[![Tnet](https://sembawangsec.moe.edu.sg/wp-content/uploads/2018/09/TNET.jpg)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2018/09/TNET.jpg)
+![](/images/TNET.jpeg)
 
 * * *
 
@@ -356,11 +360,13 @@ Create Your Own Newspaper Competition
 胜宝旺中学参加了由《早号逗号》和华文学习委员会主办的“全国中学生编采比赛“，荣获了低年级组三等奖。得奖名单：  
 李心儿 Cassandra Lee Xin Er, 周恩嘉 Choh En Jia, 林湧翔 Samuel Lim Yong Xiang, 郑紫静 Tee Zi Jing
 
-[![Chinese Newspaper 1](https://sembawangsec.moe.edu.sg/wp-content/uploads/2018/09/Chinese-Newspaper-1.jpg)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2018/09/Chinese-Newspaper-1.jpg)
+![](/images/Chinese-Newspaper-1.jpeg)
 
-[![Chinese Newspaper 2](https://sembawangsec.moe.edu.sg/wp-content/uploads/2018/09/Chinese-Newspaper-2.jpg)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2018/09/Chinese-Newspaper-2.jpg)
+![](/images/Chinese-Newspaper-2.jpeg)
 
-[![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2018/09/Chinese-Newspaper-3-205x300.jpg)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2018/09/Chinese-Newspaper-3.jpg)
+
+<img src="/images/Chinese-Newspaper-3-699x1024.jpeg" 
+     style="width:35%">
 
 * * *
 
