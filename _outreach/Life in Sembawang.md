@@ -165,7 +165,9 @@ Well done Gavin!
 
 Secondary 2 students designed a recycling bag and an infographic using their media literacy skills learnt in ALP to spread the message to our neighbouring residents on the importance of recycling to save the environment. The project was in partnership with the North West CDC and NEA.
 
-![Recycling Bag](https://sembawangsec.moe.edu.sg/wp-content/uploads/2019/05/Recycling-Bag-153x300.png)
+
+<img src="/images/Recycling-Bag-522x1024.png" 
+     style="width:25%">
 
 Recycling Bag designed by students.
 
