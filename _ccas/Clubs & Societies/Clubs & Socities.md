@@ -17,3 +17,17 @@ Ms Nurul Fasha Binte Samsudin <br>
 Mdm Salwiyah
 
 **Day/Time & Venue** : Wed, 3:00pm – 5:30pm, AVA Room
+
+
+<img src="/images/mediacomm.jpeg" 
+     style="width:40%">
+		 
+### Mediacomm Club
+
+**Teacher-in-charge:**  
+
+Mr Alex Choh (I/C)  <br>
+Ms Chong Nyet Ting  <br>
+Mr Mohamad Hafiz B Abdul A <br>
+
+**Day/Time & Venue** : Wed, 3:00pm – 5:30pm, Learning Hub
