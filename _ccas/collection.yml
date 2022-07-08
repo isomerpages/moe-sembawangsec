@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Clubs & Societies/.keep
-      - Clubs & Societies/Clubs & Socities.md
+      - Clubs & Societies/Clubs & Societies.md
       - Clubs & Societies/AVA Club.md
       - Clubs & Societies/MediaComm Club.md
       - CCA.md
