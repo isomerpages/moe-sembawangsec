@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Sports & Games/Volleyball.md
       - Sports & Games/Netball.md
       - Sports & Games/Soccer.md
       - Sports & Games/Floorball.md
