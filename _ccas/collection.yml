@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Uniformed Group/Boys' Brigade.md
       - Uniformed Group/Uniformed Groups.md
       - Uniformed Group/.keep
       - Sports & Games/.keep
