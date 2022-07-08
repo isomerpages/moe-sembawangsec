@@ -89,3 +89,41 @@ Model Kurikulum Program Pengajar
 
 <img src="/images/ML6.png" 
      style="width:65%">
+		 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-4ufn"><span style="font-weight:bold">Nama Guru</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-h5mn">Cikgu Sunita Said(Ketua Subjek Unit Bahasa Melayu)</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">Cikgu Nurul Fasha Binte Samsudin</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">Cikgu Zaetun Abbas</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">Cikgu Sulastri Amat</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">Cikgu Farah Diyanah Mohammed Tayib</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">Cikgu Rahimah Januri</td>
+  </tr>
+</tbody>
+</table>
