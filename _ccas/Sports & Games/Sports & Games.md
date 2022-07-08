@@ -44,3 +44,19 @@ Ms Esther Tan
 **Day/Time & Venue**
 
 Wed 3:00pm-5.30pm, Fri 1.30pm-3.30pm Parade Square
+
+
+<img src="/images/soccer.jpeg" 
+     style="width:40%">
+### Soccer
+
+**Teacher-in-charge**  
+
+Mr Zeng Hengguang (I/C)  <br>
+Mr Daryn Tan  <br>
+Ms Munirah  <br>
+Mr Loh Kuin Pei  
+
+**Day/Time & Venue**
+
+Wed 3:30pm-5:30pm & Fri 3:00pm to 5:00pm, Soccer Field
