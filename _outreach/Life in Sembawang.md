@@ -217,8 +217,7 @@ Secondary 4 and 5 students planned and executed the VIA Carnival on 30th March 
 
 A 2D/1 N residential leadership camp was conducted on Friday 15 and Saturday 16 March 2019. Student Leader EXCOs planned the programme for the Sec 2 student leaders with the objective of enhancing leadership skills and building better team dynamism.
 
-![Elc Camp](https://sembawangsec.moe.edu.sg/wp-content/uploads/2019/04/ELC-Camp.jpg)
-
+![](/images/ELC-Camp.jpeg)
 * * *
 
 ### SMB Youth Run
@@ -273,7 +272,7 @@ Our annual SMB YOUTH RUN was held on Friday 8 March 2019 at the Lower Seletar Re
 
 ### Silver Award
 
-[![Silver Award](https://sembawangsec.moe.edu.sg/wp-content/uploads/2019/04/Silver-Award.jpg)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2019/04/Silver-Award.jpg)
+![](/images/Silver-Award.jpeg)
 
 Silver Award
 
@@ -287,7 +286,9 @@ LTC Koh’s sharing was engaging for the students, where they learnt about resil
 
 The students were also introduced to the sixth pillar of Defence – Digital Defence, where they learnt that cyber-security threats and disinformation are a serious danger to Singapore, and why the citizens of Singapore need to be vigilant against them. All in all, the commemoration of Total Defence was a meaningful affair at Sembawang Secondary and the students were able to understand that Total Defence is not just a yearly affair, but also an everyday responsibility.
 
-![Total Defence 2019](https://sembawangsec.moe.edu.sg/wp-content/uploads/2019/04/Total-Defence-2019.png)
+
+<img src="/images/Total-Defence-2019.png" 
+     style="width:75%">
 
 * * *
 
