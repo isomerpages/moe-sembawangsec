@@ -2,8 +2,8 @@ collections:
   ccas:
     output: true
     order:
+      - CCA.md
       - Clubs & Societies/.keep
       - Clubs & Societies/Clubs & Societies.md
       - Clubs & Societies/AVA Club.md
       - Clubs & Societies/MediaComm Club.md
-      - CCA.md
