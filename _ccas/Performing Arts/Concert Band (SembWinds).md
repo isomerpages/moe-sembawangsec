@@ -31,3 +31,7 @@ Ms Fong Man Lin
 </thead>
 </table>
 
+### Achievements
+SYF Arts Presentation
+
+*   Certificate of Accomplishment 2020
