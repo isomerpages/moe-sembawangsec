@@ -71,3 +71,14 @@ third_nav_title: Mother Tongue
 
 <img src="/images/TL1.jpeg" 
      style="width:60%">
+		 
+Mdm Kirubakaram
+
+Mr J Parimalam (TL Co-ordinator)
+
+Mdm Kalyani Sree
+
+**நடவடிக்கைகள்**
+
+![](/images/TL2.png)
+![](/images/TL3.png)
