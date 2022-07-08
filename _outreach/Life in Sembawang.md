@@ -495,7 +495,9 @@ Ms Munirah adds, “Students are inherently creative and we are merely unleashin
 
 In 2016, Sembawang Secondary School opted to introduce Dragon Boating into our outdoor education enrichment programme for Sec 2 students. What appealed to us was the inherent teamwork and resilience which can be developed through the sport. In addition, dragon boating blended suitably with our Learning for Life programme.
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2018/08/Dragon-Boat-300x206.jpg)
+
+<img src="/images/Dragon-Boat-768x528.jpeg" 
+     style="width:60%">
 
 We believe that teamwork, caring for one another, and resilience are traits that are vital for our students so that they can become confident and concerned citizens of the future. Our aim was also to expose students to outdoor experiential learning so that they will be engaged in lifelong physical fitness pursuits when they graduate from school and into life. As part of the programme, our students learnt the necessary skills, knowledge, and risk management planning required for such a sport.
 
