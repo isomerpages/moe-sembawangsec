@@ -641,7 +641,7 @@ A team of students from the class of 1EX3 participate in the IgnITE Skills Chall
 
 The team comprised Choe Zhi Luo, Rykel Low, Ashlea Wong, A Shavin Avinesh, Luqman Hakim Basri and Teo Yong Xiang.
 
-![ignite270318](https://sembawangsec.moe.edu.sg/wp-content/uploads/2017/04/ignite270318-1024x768.jpg)
+![](/images/ignite270318.jpeg)
 
 * * *
 
@@ -652,6 +652,6 @@ Girls’ Brigade 13th Company Enrollment and Dedication Service
 
 A total of 9 new recruits were enrolled into the 13th Girls; Brigade (GB) Company and together with the appointment of four GB leaders and dedication of our Non-Commissioned Officers. Over the past 16 years, a strong partnership has been forged to help the girls develop to their fullest potential, be equipped with string leadership skills and challenged to serve at home as well as in local and overseas communities.
 
-![GBenrollmentservice240318](https://sembawangsec.moe.edu.sg/wp-content/uploads/2017/04/GBenrollmentservice240318-1024x768.jpg)
+![](/images/GBenrollmentservice240318.jpeg)
 
 * * *
