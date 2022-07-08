@@ -3,10 +3,8 @@ title: CCA
 permalink: /co-curriculum/cca
 description: ""
 ---
-
-CCA
-===
-
+## CCA
+![](/images/CCA1.png)
 The CCA Programme in Sembawang Secondary School is designed around students’ gaining a CCA experience that is holistic, comprehensive and rigorous. The CCA programme is structured for the learning of skills and knowledge and is effective in developing character such as resilience, discipline and imbue in them a spirit of service. Different categories and range of CCA is offered to cater to the many interest of students and for students to specialise.
 
 Range of CCA Offered
