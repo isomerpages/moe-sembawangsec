@@ -6,7 +6,7 @@ third_nav_title: Sports & Games
 ---
 <img src="/images/badminton.jpeg" 
      style="width:40%">
-### Badmintons
+### Badminton
 
 **Teacher-in-charge:**  
 
@@ -60,3 +60,17 @@ Mr Loh Kuin Pei
 **Day/Time & Venue**
 
 Wed 3:30pm-5:30pm & Fri 3:00pm to 5:00pm, Soccer Field
+
+
+<img src="/images/volleyball.jpeg" 
+     style="width:40%">
+		 
+### Volleyball (Boys/Girls)
+
+
+**Teacher-in-charge:**   
+
+Ms Caroline Eu (I/C)  <br>
+Mdm Guan Qiuhua  <br>
+Ms Nisha Ann Anthony  <br>
+Mr Huang Ting Fei
