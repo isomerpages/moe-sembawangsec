@@ -35,3 +35,8 @@ Ms Fong Man Lin
 SYF Arts Presentation
 
 *   Certificate of Accomplishment 2020
+
+![](/images/SembWinds11.jpeg)
+![](/images/SembWinds21.jpeg)
+![](/images/SembWinds31.jpeg)
+![](/images/SembWinds41.jpeg)
