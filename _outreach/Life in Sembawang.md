@@ -115,25 +115,21 @@ description: ""
 
 Students educated their classmates on the importance of keeping the school environment clean through slides, infographics and posters.
 
-![Sec 1 Part 3](https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/08/Sec-1-part-3-e1628839772461-292x300.jpg)![Sec 1 Poster 2](https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/08/Sec-1-poster-2-scaled-e1628838022975-223x300.jpg)![Sec 1 Part 2](https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/08/Sec-1-part-2-scaled-e1628837764105-292x300.jpg)
+![](/images/sec1%20VIA.png)
 
 **Secondary 2 VIA:**
 
 Students designed a recycling bag and an infographic to educate their family members on the importance of recycling to save the environment. This project is a collaboration with the Northwest Community Development Council.
 
-![Sec2 Rb1](https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/08/Sec2-rb1-e1630035633800-300x175.jpg)
-
-![Sec2 Rb2](https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/08/Sec2-rb2-e1630035662722-300x173.jpg)
-
-![Sec2 Rb3](https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/08/Sec2-rb3-300x189.jpg)
-
+![](/images/sec2%20VIA.png)
+![](/images/Sec2-rb3-1024x644.jpeg)
 **Effective Communication and Public Speaking Workshop  on the  9 Nov 2020 conducted by Adam** **Khoo** **Trainers**
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/AK2.jpg)![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/AK1.jpg)
+![](/images/effective%20comms.png)
 
 **Project Management and Facilitation Workshop on 10 Nov 2020 conducted by Adam** **Khoo** **Trainers**
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/AK3.jpg)![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2020/11/AK4.jpg)
+![](/images/project%20management.png)
 
 * * *
 
