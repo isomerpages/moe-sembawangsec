@@ -4,7 +4,6 @@ permalink: /co-curriculum/ccas/performing-arts/
 description: ""
 third_nav_title: Performing Arts
 ---
-
 <img src="/images/SYF-2021.png" 
      style="width:60%">
 		 
@@ -38,3 +37,8 @@ Ms Fong Man Lin
 Wed 3pm – 5.30pm <br>
 Fri 2:30pm – 5:30pm <br>
 Venue: Music Room
+
+
+
+<img src="/images/malay-dance2_Cropped-e1625210792515-288x300.jpeg" 
+     style="width:50%">
