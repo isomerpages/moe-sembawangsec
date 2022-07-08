@@ -42,3 +42,16 @@ Venue: Music Room
 
 <img src="/images/malay-dance2_Cropped-e1625210792515-288x300.jpeg" 
      style="width:50%">
+		 
+### Malay Dance
+
+**Teacher-in-charge:**  
+
+Mdm Rahimah (I/C)  <br>
+Ms Tan Hui Nah (2nd I/C)
+
+**Day/Time & Venue** :
+
+Malay Dance practice (Sec 1-3)  <br>
+Time : 2:30 – 5:30pm  <br>
+Venue – ISH
