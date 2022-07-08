@@ -189,7 +189,7 @@ A newly established CCA in Sembawang Secondary School, the Chinese Dance team pa
 
 * * *
 
-### **Budding Scientists @ SMB**
+### Budding Scientists @ SMB
 
 “Sembawang Secondary School participated in the 20th International Elementz Science Research Conference and Exhibition (2019) organized by Anderson Serangoon Junior College. Elementz is a prestigious annual competition that accords recognition to students who have conducted exemplary scientific research.
 
@@ -203,7 +203,7 @@ The team was conferred the Bronze Award by the Guest of Honour, Mr Tan Bee Teck 
 
 * * *
 
-### **Secondary 4 and 5 VIA Carnival**
+### Secondary 4 and 5 VIA Carnival
 
 Secondary 4 and 5 students planned and executed the VIA Carnival on 30th March 2019, with  various activity booths which attracted many parents, teachers, and students. The VIA carnival is a means for graduating students to showcase their journey towards becoming Leaders & Change-Makers in serving the community.
 
@@ -213,7 +213,7 @@ Secondary 4 and 5 students planned and executed the VIA Carnival on 30th March 
 
 * * *
 
-### **Emerging Leaders in Action**
+### Emerging Leaders in Action
 
 A 2D/1 N residential leadership camp was conducted on Friday 15 and Saturday 16 March 2019. Student Leader EXCOs planned the programme for the Sec 2 student leaders with the objective of enhancing leadership skills and building better team dynamism.
 
@@ -278,7 +278,7 @@ Silver Award
 
 * * *
 
-### **SMB celebrates Total Defence Day**
+### SMB celebrates Total Defence Day
 
 The Total Defence theme for 2019 is “Together We Keep Singapore Strong”, which focuses on the many ways we can put Total Defence into action in our everyday lives. For Sembawang Secondary this year, we invited Lieutenant Colonel Richard Koh, Commandant NCC, to share about his various experiences while working as a regular in the military, as well as how these are related to the five pillars of Total Defence.
 
@@ -292,7 +292,7 @@ The students were also introduced to the sixth pillar of Defence – Digital Def
 
 * * *
 
-### **Chinese New Year 2019** 
+### Chinese New Year 2019
 
 SMB celebrated Chinese New Year on  4 Feb 2019. Students used red packets to decorate their classes, and prepared hampers for various beneficiaries. This is an annual activity to promote respect and care for others. As is our usual practice, we also hosted residents of the Singapore Christian Home during the celebrations. Our guests were treated to a showcase of festivities, and received goodie bags to add to the joyous occasion. All in attendance also reflected on the significance of CNY and the rich cultural diversity in our country.
 
@@ -374,21 +374,21 @@ Create Your Own Newspaper Competition
 
 On 21 July, our Secondary 4 Literature students participated in the Debate competition at the National Schools Literature Festival 2018, which is the biggest literary festival for students in Singapore and has provided a powerful platform to develop students’ passion and love for literature. We are proud to announce that our team emerged Champion for the Upper Secondary Unseen Debate Competition as our representatives impressed the judges with their articulate and persuasive presentations.
 
-![Champion Debaters](https://sembawangsec.moe.edu.sg/wp-content/uploads/2018/09/Champion-Debaters.jpg)
+![](/images/Champion-Debaters.jpeg)
 
 * * *
 
-### **SMB@Maker Faire Singapore 2018  
-_August 2018_**
+### SMB@Maker Faire Singapore 2018  
+_August 2018_
 
 At the recent public event, held between 17 and 19 August, we showcased creations by our students at an exhibit under the Infocom Media Development Authority (IMDA). A total of 10 schools were selected to feature their Digital Maker projects after attending a workshop to code a Micro:bit using a simple programming software and apply their coding knowledge to make scientifically-sound and technologically-enhanced products. Our students had the opportunity to interact with members of the public and explain how their projects would be used to help the larger community. One of the two projects aim to help children overcome their fear of the dark while the other was created with the intention to help the elderly see better in the dark.
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2018/09/MF-1024x360.jpg)
+![](/images/MF.jpeg)
 
 * * *
 
-### **We Are Singapore!  
-**August 2018
+### We Are Singapore!  
+August 2018
 
 National Day Celebrations 2018 started off with an observance ceremony by selected uniformed group members. The Hall was a sea of red and white as both staff and students of the school came dressed in our national colours. What followed were some games and a singalong session of our favourite National Day songs.  Here are some well-wishes from our students for Singapore!
 
@@ -398,7 +398,7 @@ _Brenda Muk, 4TE1_
 _Happy Birthday Singapore!  We hope that Singapore will continue to strive for the better and our country will continue to celebrate our diversity for years to come._  
 _Jason Yeo, 4TE1_
 
-![Ndp2018](https://sembawangsec.moe.edu.sg/wp-content/uploads/2018/08/NDP2018.jpg)
+![](/images/NDP2018.jpeg)
 
 * * *
 
