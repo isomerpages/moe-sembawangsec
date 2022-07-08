@@ -15,7 +15,7 @@ SFE adopts a holistic family learning model – equipping parents with effective
 
 The parent-child relationship has much impact on the child’s academic achievements and positive attitudes/ behaviour, regardless of socio-economic status, ethnic/ racial background or parents’ education level.
 
-For more information please download the SFE slides by clicking [here](https://sembawangsec.moe.edu.sg/wp-content/uploads/2012/05/SFE_slide_Sembawang_SS.pdf) for english and [here](https://sembawangsec.moe.edu.sg/wp-content/uploads/2012/05/SFE_slide_Sembawang_SS_ML.pdf) for Malay.
+For more information please download the SFE slides by clicking [here](/files/SFE_slide_Sembawang_SS.pdf)for english and [here](/files/SFE_slide_Sembawang_SS_ML.pdf) for Malay.
 
 ![](/images/familymatters2.jpeg)
 
