@@ -127,3 +127,7 @@ Model Kurikulum Program Pengajar
   </tr>
 </tbody>
 </table>
+
+![](/images/ML2.png)
+![](/images/ML3.png)
+![](/images/ML4.png)
