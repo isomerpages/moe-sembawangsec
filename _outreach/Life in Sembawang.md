@@ -404,19 +404,18 @@ _Jason Yeo, 4TE1_
 
 ### National Day 2018
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2018/08/11.jpg)
+![](/images/11.jpeg)
 
-![National Day 2](https://sembawangsec.moe.edu.sg/wp-content/uploads/2018/08/12.jpg)
+![](/images/12.jpeg)
 
-![National Day 3](https://sembawangsec.moe.edu.sg/wp-content/uploads/2018/08/13.jpg)
+![](/images/13.jpeg)
 
-![National Day 4](https://sembawangsec.moe.edu.sg/wp-content/uploads/2018/08/14.jpg)
-
+![](/images/14.jpeg)
 * * *
 
 ### National Service – The Call of Duty
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2018/08/National-Service-Talk-1024x768.jpg)
+![](/images/National-Service-Talk.jpeg)
 
 (from left to right: Mr Shamen Loke/YH, Mr Hasnol Bin Lokman (Class of 2011), Mr Muhammad Syafiq Bin Mohd Sharif (class of 2012), Mr Lim Zhi Wen Nichol (class of 2011), Mr Asraf Bin Asuir (class of 2011), Mr Ong Wei Jin/HOD CCE)
 
@@ -430,7 +429,7 @@ Unity in Diversity, Vibrancy in Colours and Community Harmony! All these paint t
 
 The idea was conceived in 2017 when selected secondary 2 students presented their Applied Learning Programme (ALP) project at the Canberra Day event. Their idea was to foster a sense of community belonging and harmony within Sembawang Community by putting up Mural Paintings depicting art works that combine different ethnic instruments around the HDB blocks in Sembawang estate. During the presentation, the project idea was well-received by the residents and MP for Sembawang GRC (Canberra), Dr Lim Wee Kiak. Thus, in 2018, the school decided to implement the project which involved all the students from the secondary 2 classes as part of their VIA project. The duration of the project lasted one semester, from January to May 2018, and their completed works had just been put up recently. The integration of Citizenship Education (CE) through this VIA project had a great impact on our students. Our students found the project to be meaningful and have created a positive impact on the community.
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2018/08/Mural-1024x563.png)
+![](/images/Mural.png)
 
 **Students’ Thoughts on the Project…**
 
@@ -448,7 +447,10 @@ Sensing that the man needed help, Mr Janar and the boys strode quickly to render
 
 HOD quickly ordered 2 of his students to inform stadium stewards the incident and to bring along an AED device. HOD also informed one of the boys to call for an ambulance. Other members of the public who were there also tried to render aid to the stricken man. As there was no response from the man and no visible sign of breathing, HOD then applied chest compressions. Others also helped to revive the man.
 
-After some time, stadium stewards and experienced lifeguards from the nearby Woodlands swimming pool arrived and proceeded to administer the AED while still trying to give compressions. A total of two shocks were given before the emergency services arrived and took over.![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2018/08/Helping-Hands-300x200.jpg)
+After some time, stadium stewards and experienced lifeguards from the nearby Woodlands swimming pool arrived and proceeded to administer the AED while still trying to give compressions. A total of two shocks were given before the emergency services arrived and took over.
+
+<img src="/images/Helping-Hands-768x512.jpeg" 
+     style="width:50%">
 
 Mr Janar added, “As for our school boys, I’m proud that they responded in such an emergency showing care and concern and displaying civic mindedness.”
 
@@ -468,7 +470,8 @@ As part of introducing students to geographical investigations in Housing, stude
 
 Working in groups of 4, students interview residents and collate data to gather information on the needs of residents in the school’s neighbourhood. Back in the school, students then propose creative solutions to improve the community. The twist? Students are only allowed to present their information in a self-made 3-minute video production. Wondering why? At Sembawang, we combine Geography with Media Literacy — so that our students not only find solutions but know how to present them!
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2018/08/Geo2-267x300.jpg)
+<img src="/images/Geo2.jpeg" 
+     style="width:50%">
 
 The solutions proposed by students include improvements to the transport facilities, building a hawker centre for residents, and encouraging the return of trays at food courts. As for Cinta and her group, they zoomed in on improving the social etiquette in food courts and hawker centres.
 
@@ -476,7 +479,9 @@ Ninuri Ruwansi, a Sec 2 student, shared her experience. ‘We interviewed reside
 
 “At first I found the task challenging. We were hesitant to ask the residents our interview questions as we were not sure if they would be able to understand our questions that is mostly based on Geography concepts. We learnt to adapt and break it down into many simpler questions.” says Cinta Hannah Binte Hairulzahri, a group leader.
 
-![](https://sembawangsec.moe.edu.sg/wp-content/uploads/2018/08/Geo1-300x199.jpg)
+
+<img src="/images/Geo1-768x511.jpeg" 
+     style="width:50%">
 
 “It was also difficult to get residents to be featured in our video. Most of them were shy and walked away from us upon knowing our request. However, we persevered and were able to get more than the required number of respondents needed.” added Ninuri.
 
