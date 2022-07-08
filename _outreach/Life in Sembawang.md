@@ -177,7 +177,7 @@ Recycling Bag designed by students.
 
 Secondary 1 students picked litter at East Coast Park to raise awareness of the consequences of not throwing litter into the bin. After which, students designed digital posters to educate their peers.
 
-![Via1](https://sembawangsec.moe.edu.sg/wp-content/uploads/2019/05/VIA1.png)
+![](/images/VIA1.png)
 
 * * *
 
@@ -185,7 +185,7 @@ Secondary 1 students picked litter at East Coast Park to raise awareness of the 
 
 A newly established CCA in Sembawang Secondary School, the Chinese Dance team participated in the 2019 Singapore Youth Festival and achieved the Certificate of Accomplishment. The team has learnt the importance of teamwork and developed cultural awareness through performing arts.
 
-![Chinese Dance](https://sembawangsec.moe.edu.sg/wp-content/uploads/2019/05/Chinese-Dance.jpg)
+![](/images/Chinese-Dance.jpeg)
 
 * * *
 
@@ -199,7 +199,7 @@ The project entitled “Upside-down gardening: A complementary method to enhance
 
 The team was conferred the Bronze Award by the Guest of Honour, Mr Tan Bee Teck (MOE’s Director of IT, and GovTech’s Cluster Director for Education) at the conclusion of the Elementz Conference. This is a testament to the students’ dedication to sound scientific experimentation and commitment to excellence. The students would like to extend their gratitude to Mrs Johanna Santarossa (teacher mentor), Mr Ernest Yu, Mr Wong Jie, Mr Singh, Mr Lee and Mr Goh for their unwavering support and guidance throughout the Conference.
 
-![2019 Elementz Science Competition](https://sembawangsec.moe.edu.sg/wp-content/uploads/2019/04/2019-Elementz-Science-Competition.jpg)
+![](/images/2019-Elementz-Science-Competition.jpeg)
 
 * * *
 
@@ -207,9 +207,9 @@ The team was conferred the Bronze Award by the Guest of Honour, Mr Tan Bee Teck 
 
 Secondary 4 and 5 students planned and executed the VIA Carnival on 30th March 2019, with  various activity booths which attracted many parents, teachers, and students. The VIA carnival is a means for graduating students to showcase their journey towards becoming Leaders & Change-Makers in serving the community.
 
-![Via 1](https://sembawangsec.moe.edu.sg/wp-content/uploads/2019/04/VIA-1.jpg)
+![](/images/VIA-1.jpeg)
 
-![Via 2](https://sembawangsec.moe.edu.sg/wp-content/uploads/2019/04/VIA-2-225x300.jpg)
+![](/images/VIA-2.jpeg)
 
 * * *
 
