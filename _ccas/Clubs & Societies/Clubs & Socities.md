@@ -7,9 +7,10 @@ third_nav_title: Clubs & Societies
 <img src="/images/ava.jpeg" 
      style="width:40%">
 		 
-**AVA Club**  
+### AVA Club
 
 **Teacher-in-charge:**  
+
 Ms Yeo Moei Ling (I/C)  <br>
 Mdm Zaetun Bte Abbas  <br>
 Ms Nurul Fasha Binte Samsudin <br>
