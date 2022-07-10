@@ -2,12 +2,12 @@ collections:
   ccas:
     output: true
     order:
-      - Uniformed Group/NPCC.md
-      - Uniformed Group/NCC.md
-      - Uniformed Group/Girls' Brigade.md
-      - Uniformed Group/Boys' Brigade.md
-      - Uniformed Group/Uniformed Groups.md
       - Uniformed Group/.keep
+      - Uniformed Group/Uniformed Groups.md
+      - Uniformed Group/Boys' Brigade.md
+      - Uniformed Group/Girls' Brigade.md
+      - Uniformed Group/NCC.md
+      - Uniformed Group/NPCC.md
       - Sports & Games/.keep
       - Sports & Games/Sports & Games.md
       - Sports & Games/Badminton.md
