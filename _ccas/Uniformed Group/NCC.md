@@ -45,4 +45,16 @@ In the Sembawang Vikings Family, our cadets aspire to be a family that is strong
 <img src="/images/Cohort2.jpeg" 
      style="width:75%">
 		 
-		 
+#### **NCC Unit Competition**  
+
+**2016: Silver**
+
+**2017: Gold**
+
+**2018: Gold**
+
+**2019: Distinction (Gold Equivalent)**
+
+**2020: No competition due to pandemic**
+
+**2021: Results coming in 2022**
