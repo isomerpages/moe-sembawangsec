@@ -41,7 +41,7 @@ Venue: Music Room
 
 
 <img src="/images/malay-dance2_Cropped-e1625210792515-288x300.jpeg" 
-     style="width:50%">
+     style="width:40%">
 		 
 ### Malay Dance
 
