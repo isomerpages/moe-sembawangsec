@@ -14,3 +14,5 @@ third_nav_title: Uniformed Group
 Loyalty to country | Uprightness | Leadership | Discipline
 
 Commitment & Responsibility | Care for fellow cadets | Adventurous Spirit | Safety
+
+![](/images/Cohort1.png)
