@@ -12,7 +12,7 @@ Range of CCA Offered
 *   [Sports and Games](https://sembawangsec.moe.edu.sg/co-curriculum/ccas/sports-games/)
 *   [Uniform Groups](https://sembawangsec.moe.edu.sg/co-curriculum/ccas/uniformed-groups/)
 *   [Performing Arts](https://sembawangsec.moe.edu.sg/co-curriculum/ccas/performing-arts/)
-*   [Clubs and Societies](https://sembawangsec.moe.edu.sg/co-curriculum/ccas/clubs-societies/)
+*   [Clubs and Societies](/co-curriculum/ccas/clubs-societies/)
 
 CCA Selection
 
