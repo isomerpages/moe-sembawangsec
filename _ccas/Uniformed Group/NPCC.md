@@ -62,3 +62,37 @@ CI (NPCC) Ms Tee Jia Xuan
 
 <img src="/images/npcc%204.png" 
      style="width:60%">
+		 
+**National Education**
+
+*   Total Defence Course
+*   Civil Defence Course
+
+**Leadership**
+
+*   Communication Skills
+*   Facilitation Skills
+*   Leadership and Mentoring Skills Course (LMSC)
+*   Camp Organisation
+*   Cadet Leader (CL) Drill Course
+
+
+<img src="/images/npcc%205.png" 
+     style="width:60%">
+		 
+**Resilience**
+
+*   Drills
+*   Campcraft (Knots/Lashings/Tent Pitching/Flagstaff)
+*   Adventure Training Camp (ATC)
+*   Survival Training Camp (STC)
+*   
+<img src="/images/npcc%206.png" 
+     style="width:60%">
+		 
+**Personal Development**
+
+*   First Aid Training
+*   Life Saving Training
+*   NASSA Swimming
+*   Kayaking Course
