@@ -39,3 +39,23 @@ CI (NPCC) Ms Nur Arfa  <br>
 CI (NPCC) Ms Liyana  <br>
 CI (NPCC) Ms Vincent Chia  <br>
 CI (NPCC) Ms Tee Jia Xuan
+
+
+**Achievement**
+
+*   NPCC Unit Overall Proficiency Award (Year of Assessment 2019)
+
+<img src="/images/npcc%203.jpeg" 
+     style="width:50%">
+		 
+**Training Framework**  <br>
+**Law Enforcement**
+
+*   Police Knowledge Proficiency Course
+*   General Law
+*   Crime Prevention/Community Safety & Security Programme/Police Youth Ambassador Programme
+*   Homefront Security Course
+*   Weapon Training (.22 Revolver)
+*   Road Safety Course
+*   SANA Course
+*   Crime Scene Investigation Course
