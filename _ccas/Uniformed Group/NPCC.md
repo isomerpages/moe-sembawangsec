@@ -59,3 +59,6 @@ CI (NPCC) Ms Tee Jia Xuan
 *   Road Safety Course
 *   SANA Course
 *   Crime Scene Investigation Course
+
+<img src="/images/npcc%204.png" 
+     style="width:60%">
