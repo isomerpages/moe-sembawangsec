@@ -22,7 +22,7 @@ Friday 1.30pm – 4.30pm – AVA
 
 
 <img src="/images/Sembwinds.jpeg" 
-     style="width:60%">
+     style="width:40%">
 	
 ### Concert Band (SembWinds)
 
