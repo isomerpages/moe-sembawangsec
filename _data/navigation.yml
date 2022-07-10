@@ -7,7 +7,14 @@ links:
   - title: Curriculum
     collection: curriculum
   - title: Co-curriculum
-    collection: co-curriculum
+    url: /co-curriculum/character-citizenship-education
+    sublinks:
+      - title: CCE
+        url: /co-curriculum/character-citizenship-education
+      - title: Student Development
+        url: /co-curriculum/student-development
+      - title: CCAs
+        url: /co-curriculum/cca
   - title: Outreach
     collection: outreach
   - title: Others
