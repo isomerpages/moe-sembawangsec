@@ -98,3 +98,44 @@ LCP Sri Karrunesh S/O Surendren
 *   Precision (Rifle) Drills and Freestyle Drills
 *   Technical Handing and Live Firing
 *   Navy Ship & Base Visits
+
+![](/images/NCC2.png)
+
+**Adventure**
+
+*   Camp FORGE & Camp STEEL: High element, Low element, Flying Fox, Rappelling, Paintball
+*   School Camp: Bubble soccer, Archery, Field cooking, Road March
+*   Overseas Expedition: Mount Ophir Expedition, International Sea Cadet Exchange Programme
+
+![](/images/NCC3.png)
+
+**Water Sports**
+
+*   1 Star and 2 Star Kayaking Course
+*   Annual Kayaking Expeditions
+*   Dragon-Boating and Sea Competition
+
+![](/images/NCC4.png)
+
+#### **TRAINING SCHEDULE**
+
+Every Wednesday, 3.00pm – 5.30pm
+
+*   Physical fitness and games
+*   Drills and military knowledge
+*   And all the above activities and events
+
+<img src="/images/training1.jpeg" 
+     style="width:50%">
+
+<img src="/images/training2.jpeg" 
+     style="width:50%">
+		 
+<img src="/images/activity1.jpeg" 
+     style="width:50%">
+
+<img src="/images/activity2.jpeg" 
+     style="width:50%">
+**FIND US**
+
+Instagram: [smb\_ncc](https://www.instagram.com/smb_ncc/)
