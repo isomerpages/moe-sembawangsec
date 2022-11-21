@@ -1,6 +1,6 @@
 ---
 title: Direct School Admission (DSA) for 2023 Intake
-permalink: /direct-school-admission
+permalink: /direct-school-admission/
 description: ""
 ---
 # Direct School Admission (DSA) Exercise for 2023 Intake

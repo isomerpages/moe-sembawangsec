@@ -1,6 +1,6 @@
 ---
 title: Cyberwellness
-permalink: /outreach/cyberwellness
+permalink: /outreach/cyberwellness/
 description: ""
 ---
 [2018 Term 2 Parents Slides](/files/2018-T2-Parents-Slides.pdf)

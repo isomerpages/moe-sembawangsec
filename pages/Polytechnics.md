@@ -1,6 +1,6 @@
 ---
 title: Polytechnics
-permalink: /polytechnics
+permalink: /polytechnics/
 description: ""
 ---
 [Nanyang Polytechnic](https://www.nyp.edu.sg/)

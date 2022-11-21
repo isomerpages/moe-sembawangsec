@@ -1,6 +1,6 @@
 ---
 title: Alumni Achievements
-permalink: /outreach/alumni-achievements
+permalink: /outreach/alumni-achievements/
 description: ""
 ---
 ![](/images/Alumni-Page.png)

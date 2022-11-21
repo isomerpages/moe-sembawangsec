@@ -1,6 +1,6 @@
 ---
 title: Parent Support Group
-permalink: /outreach/parent-support-group
+permalink: /outreach/parent-support-group/
 description: ""
 ---
 SMBSS PSG:

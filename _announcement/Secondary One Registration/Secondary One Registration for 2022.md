@@ -1,6 +1,6 @@
 ---
 title: Secondary One Registration for 2022
-permalink: /announcement/secondary-one-registration-for-2022
+permalink: /announcement/secondary-one-registration-for-2022/
 description: ""
 third_nav_title: Secondary One Registration
 ---

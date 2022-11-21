@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /curriculum/mathematics
+permalink: /curriculum/mathematics/
 description: ""
 ---
 ![](/images/Maths-Feature.jpeg)

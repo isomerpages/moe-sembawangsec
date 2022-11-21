@@ -1,6 +1,6 @@
 ---
 title: Character & Citizenship Education
-permalink: /co-curriculum/character-citizenship-education
+permalink: /co-curriculum/character-citizenship-education/
 description: ""
 ---
 **Character and Citizenship Education (CCE) @ SMB**
