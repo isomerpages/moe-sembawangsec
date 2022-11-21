@@ -1,6 +1,6 @@
 ---
 title: Achievements
-permalink: /about-us/achievements
+permalink: /about-us/achievements/
 description: ""
 ---
 ## Sembawang Secondary School – Achievements for 2020

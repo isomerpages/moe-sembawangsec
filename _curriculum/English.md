@@ -1,6 +1,6 @@
 ---
 title: English
-permalink: /curriculum/english
+permalink: /curriculum/english/
 description: ""
 ---
 ![](/images/Eng-Feature-1.jpeg)

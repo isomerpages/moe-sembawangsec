@@ -1,6 +1,6 @@
 ---
 title: Life in Sembawang
-permalink: /outreach/life-in-sembawang
+permalink: /outreach/life-in-sembawang/
 description: ""
 ---
 # Life in Sembawang Secondary

@@ -1,6 +1,6 @@
 ---
 title: FAMILY MATTERS @ SCHOOL
-permalink: /outreach/family-matters
+permalink: /outreach/family-matters/
 description: ""
 ---
 ![](/images/familymatters0.jpeg)

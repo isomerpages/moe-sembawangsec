@@ -1,6 +1,6 @@
 ---
 title: Craft & Technology
-permalink: /curriculum/craft-technology
+permalink: /curriculum/craft-technology/
 description: ""
 ---
 ![](/images/CT-Feature.jpeg)

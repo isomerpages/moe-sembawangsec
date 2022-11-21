@@ -1,6 +1,6 @@
 ---
 title: Science
-permalink: /curriculum/science
+permalink: /curriculum/science/
 description: ""
 ---
 ![](/images/Science-Cover-page.jpeg)

@@ -1,6 +1,6 @@
 ---
 title: Our VMV
-permalink: /about-us/our-vmv
+permalink: /about-us/our-vmv/
 description: ""
 ---
 ## Our Vision Mission Values

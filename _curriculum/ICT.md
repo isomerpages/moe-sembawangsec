@@ -1,6 +1,6 @@
 ---
 title: ICT
-permalink: /curriculum/information-technology
+permalink: /curriculum/information-technology/
 description: ""
 ---
 # ICT

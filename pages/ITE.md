@@ -1,6 +1,6 @@
 ---
 title: ITE
-permalink: /ite
+permalink: /ite/
 description: ""
 ---
 [ITE College Central](https://www.ite.edu.sg/colleges/ite-college-central)
