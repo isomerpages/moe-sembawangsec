@@ -50,7 +50,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-sembawangsec-staging.netlify.app
-prod: https://moe-sembawangsec-prod.netlify.app
+staging: https://staging.dswzcizamwkf5.amplifyapp.com
+prod: https://master.dswzcizamwkf5.amplifyapp.com
 shareicon: /images/cropped-logo1-2021.jpg
 is_government: false
