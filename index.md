@@ -4,7 +4,7 @@ title: Sembawang Secondary School
 description: Leaders & Change Makers
 image: /images/cropped-logo1-2021.jpg
 permalink: /
-notification: ""
+notification: Sembawang Secondary School
 sections:
   - hero:
       title: Sembawang Secondary School
