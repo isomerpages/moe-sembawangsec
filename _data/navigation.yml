@@ -1,17 +1,36 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/cropped-logo1-2021.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Page
-    url: /page/
-  - title: Collection
-    collection: collection
-  - title: Resource
-    resource_room: true
+  - title: About Us
+    collection: about-us
+  - title: Announcement
+    collection: announcement
+  - title: Curriculum
+    collection: curriculum
+  - title: Co-curriculum
+    url: /co-curriculum/character-citizenship-education
+    sublinks:
+      - title: CCE
+        url: /co-curriculum/character-citizenship-education
+      - title: Student Development
+        url: /co-curriculum/student-development
+      - title: CCAs
+        url: /co-curriculum/cca
+  - title: Outreach
+    collection: outreach
+  - title: Others
+    url: /others
+    sublinks:
+      - title: Travel Declaration
+        url: https://www.form.gov.sg/#!/5cc7d2c509313a001745cb8a
+      - title: SEAB
+        url: https://www.seab.gov.sg/
+      - title: SSSC
+        url: https://nsg.moe.edu.sg/sssc
+      - title: Sports Education Programme
+        url: https://www.sportsingapore.gov.sg/sports-education/sports-education-programme
+      - title: Polytechnics
+        url: /polytechnics
+      - title: ITE
+        url: /ite
+      - title: Personal Data Protection
+        url: /others/personal-data-protection

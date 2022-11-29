@@ -1,0 +1,20 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - Signature Programme/.keep
+      - Signature Programme/Applied Learning Programme.md
+      - Signature Programme/Learning for Life Programme.md
+      - Signature Programme/PEARL.md
+      - English.md
+      - Mathematics.md
+      - Science.md
+      - Humanities.md
+      - Craft & Technology.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Mother Tongue.md
+      - Mother Tongue/Chinese Language.md
+      - Mother Tongue/Malay Language.md
+      - Mother Tongue/Tamil Language.md
+      - Physical Education.md
+      - ICT.md
