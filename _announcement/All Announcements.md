@@ -24,12 +24,12 @@ Dear Parents/Guardians,
 Please access the following links for the 2023 Booklists:
 
 * [Sec 2E Booklist](/files/2023%20Booklists/2023%20Sembawang%20Sec%202E.pdf)
-* Sec 2NA
-* Sec 2NT
-* Sec 3E
-* Sec 3NA
-* Sec 3NT
-* Sec 4E
-* Sec 4NA
-* Sec 4NT
-* Sec 5NA
+* [Sec 2NA Booklist](/files/2023%20Booklists/2023%20Sembawang%20Sec%202N(A).pdf)
+* [Sec 2NT Booklist](/files/2023%20Booklists/2023%20Sembawang%20Sec%202N(T).pdf)
+* [Sec 3E Booklist](/files/2023%20Booklists/2023%20Sembawang%20Sec%203E.pdf)
+* [Sec 3NA Booklist](/files/2023%20Booklists/2023%20Sembawang%20Sec%203N(A).pdf)
+* [Sec 3NT Booklist](/files/2023%20Booklists/2023%20Sembawang%20Sec%203N(T).pdf)
+* [Sec 4E Booklist](/files/2023%20Booklists/2023%20Sembawang%20Sec%204E.pdf)
+* [Sec 4NA Booklist](/files/2023%20Booklists/2023%20Sembawang%20Sec%204N(A).pdf)
+* [Sec 4NT Booklist](/files/2023%20Booklists/2023%20Sembawang%20Sec%204N(T).pdf)
+* [Sec 5NA Booklist](/files/2023%20Booklists/2023%20Sembawang%20Sec%205NA.pdf)
