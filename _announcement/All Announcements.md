@@ -23,7 +23,7 @@ Dear Parents/Guardians,
 
 Please access the following links for the 2023 Booklists:
 
-* Sec 2E
+* [Sec 2E Booklist](/files/2023%20Booklists/2023%20Sembawang%20Sec%202E.pdf)
 * Sec 2NA
 * Sec 2NT
 * Sec 3E
