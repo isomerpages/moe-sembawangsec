@@ -16,3 +16,9 @@ Please report in **full school uniform** and be in **proper grooming**. 
 If you are **tested AG+ or feeling unwell** on 19 December, do not report to school.  Inform your teachers and they will provide you with more information.
 
 Wishing everyone the very best!
+
+#####  **02 Dec 2022**
+
+Dear Parents/Guardians,
+
+Please access the following links for the 2023 Booklists:
