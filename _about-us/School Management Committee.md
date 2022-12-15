@@ -3,12 +3,12 @@ title: School Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
 ---
-## School Management Committee 2022
+## School Management Committee 2023
 
 
 | School Leaders |  | 
 | -------- | -------- |
-| Principal| Mr Jaswant Singh|
+| Principal| Mdm Jessie Koh|
 | Vice-Principal| Mr Goh Kee Yong|
 |Vice-Principal| Mr Lee Yong Kiang Justin|
 
@@ -16,13 +16,15 @@ description: ""
 | Administration & Operations |  | 
 | -------- | -------- |
 |Administration Manager|Mdm Hee Lisa|
-|Operations Manager|Mr Cheong Hon Toong|
 |Operations Manager|Mr Syed Omar Bin Syed Jaffar|
+|Operations Manager|Mr Muhammad Khairul Anwar Bin Zainie |
+|Operations Manager|Mr Rahim Bin Sal |
 
 | Instructional Programme |  | 
 | -------- | -------- |
 | *English Language and Literature*| |
 | Head of Department	| Mdm Muthamil Selvi|
+| Level Head	| Mdm Faralina Bte Mohamed Ahmad|
 |Senior Teacher| Mdm Low Huixian Heidi|
 | *Mathematics*| |
 | Head of Department	| Ms Wang Cuiyin|
@@ -44,21 +46,24 @@ description: ""
 |Subject Head (Food and Consumer Education)		| Mdm Faridah Bte Kudin|
 | *Physical Education and Co-curricular Activities*| |
 | Head of Department	| Mr Janarthanam S/O Subramaniam|
-|Subject Head (Food and Consumer Education)		| Mr Zeng Hengguang|
+|Subject Head | Mr Zeng Hengguang|
 | *Information & Communications Technology*| |
 | Head of Department	| Mr Goh Jiang Wee Alan|
+| Subject Head (Internal)	| Mr Oon Boon Keong|
 | **Staff Learning & Development**| |
 | School Staff Developer		| Mr Muzaffar Bin Johari|
 |**Student Development & Well Being**| |
 |*Character & Citizenship Education*| |
 | Head of Department			| Mr Ong Wei Jin|
 | Subject Head				| Mdm Jayanthi d/o Sangiah|
+|*Student Management*| |
+| Head of Department			| Mr Ng Chee Meng Kenneth|
 |*Student Well-Being*| |
 | Head of Department			| Mr Leong Weng Wai David|
-|*Student Leadership_*| |
-| Head of Department			| Mr Rajakumar Raghavan|
-|**Student Development & Well Being**| |
+|*Student Leadership*| |
+| Subject Head			| Mr Rajakumar Raghavan|
+|*Year Heads and Assistant Year Heads*| |
 | Year Head (Lower Sec)				| Mr Ong Yew Kang Marc|
 |Year Head (Upper Sec)			| Mr Loke Choek Meng Shamen|
-| Assistant Year Head (Sec 3)					| Mr Tan Choon Yong Calvin|
-| Assistant Year Head (Sec 2)			| Mr Mohd Zulqarnain|
+| Assistant Year Head (Upper Sec)					| Mr Tan Choon Yong Calvin|
+| Assistant Year Head (Lower Sec)			| Mr Mohd Zulqarnain|
