@@ -9,7 +9,7 @@ third_nav_title: Sports & Games
 Mr Zeng Hengguang (I/C)  <br>
 Mr Daryn Tan  <br>
 Ms Munirah  <br>
-Mr Loh Kuin Peh
+
 
 ### Training Schedule
 
