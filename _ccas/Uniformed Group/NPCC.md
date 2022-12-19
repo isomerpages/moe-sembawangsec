@@ -85,7 +85,7 @@ CI (NPCC) Mr You Jo Han
 *   Campcraft (Knots/Lashings/Tent Pitching/Flagstaff)
 *   Adventure Training Camp (ATC)
 *   Survival Training Camp (STC)
-*   
+
 <img src="/images/npcc%206.png" 
      style="width:60%">
 		 
