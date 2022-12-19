@@ -11,10 +11,10 @@ third_nav_title: Secondary One Registration
 
 To apply for the Ministry of Education Financial Assistance Scheme (MOE FAS), please follow the steps below:
 
-1.  Download and complete the application form. (Click [HERE](https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/12/MOE-FAS-Application-Form-Page-1-7-29-Sep-2021.pdf) for application form)
+1.  Download and complete the application form. (Click here for application form)
 2.  Email the application form together with the relevant supporting documents to: [tay\_siew\_ching@moe.edu.sg](mailto:tay_siew_ching@moe.edu.sg)
 
-Alternatively, you can submit the application in-person at the school General Office.
+Alternatively, you can collect and submit the application in-person at the school General Office.
 
 **For students with successful FAS application**
 
