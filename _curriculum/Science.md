@@ -85,3 +85,4 @@ The ICAS (International Competitions and Assessments for Schools) provides an op
 * Mr Wong Qin Jie
 * Ms Wong Gaik Choon
 * Mr David Leong
+* Ms Kwong Zhi Qing Alanna
