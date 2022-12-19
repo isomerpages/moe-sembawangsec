@@ -31,7 +31,7 @@ More details are available in the “Info Kit for Secondary One Registration”.
 
 | S/N | Information | Remarks |
 | -------- | -------- | -------- |
-| 1    | Welcome Letter     | From Principal     |
+| 1    | [Welcome letter from Principal](https://www.sembawangsec.moe.edu.sg//announcement/Secondary-One-Registration/welcome-letter/)     | From Principal     |
 | 2   | Class and House Allocation     | Via Parents Gateway    |
 | 3    | Appeal for Transfer for Serious Medical Conditions     | Conditions for appeal/ Appeal procedures    |
 | 4    | Important information for Students/ Parents     | Orientation Programme/ Things to bring on 1st day of school / Attire & Grooming    |
