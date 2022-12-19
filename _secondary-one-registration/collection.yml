@@ -1,0 +1,4 @@
+collections:
+  secondary-one-registration:
+    output: true
+    order: []
