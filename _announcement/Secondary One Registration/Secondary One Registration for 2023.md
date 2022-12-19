@@ -33,8 +33,8 @@ More details are available in the “Info Kit for Secondary One Registration”.
 | -------- | -------- | -------- |
 | 1    | [Welcome letter from Principal](https://www.sembawangsec.moe.edu.sg/announcement/Secondary-One-Registration/welcome-letter/)     | From Principal     |
 | 2   | Class and House Allocation     | Via Parents Gateway    |
-| 3    | Appeal for Transfer for Serious Medical Conditions     | Conditions for appeal/ Appeal procedures    |
-| 4    | Important information for Students/ Parents     | Orientation Programme/ Things to bring on 1st day of school / Attire & Grooming    |
+| 3    | [Appeal for transfer for serious medical conditions](https://www.sembawangsec.moe.edu.sg/announcement/Secondary-One-Registration/appeal-for-transfer-for-serious-medical-conditions/)     | Conditions for appeal/ Appeal procedures    |
+| 4    | [Important info for students](https://www.sembawangsec.moe.edu.sg/announcement/Secondary-One-Registration/important-information-for-students-and-parents/)     | Orientation Programme/ Things to bring on 1st day of school / Attire & Grooming    |
 | 5    | Uniform and Book Sale     | Schedule for purchase/ collection    |
 | 6    | Financial Assistance Scheme (FAS)     | Procedures for application     |
 | 7    | Subject Based Banding (SBB) for Normal (Academic)/ (Technical) Course     | Information on SBB/ Procedure to revert on SBB offer    |
