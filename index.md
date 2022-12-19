@@ -11,7 +11,7 @@ sections:
       subtitle: Leaders & Change Makers
       background: /images/dragon-boat-competition.jpeg
       button: 2023 Secondary One Registration
-      url: /Announcement/Secondary-One-Registration
+      url: /announcement/secondary-one-registration
       key_highlights:
         - title: Pearl
           description: Develop active learning
