@@ -23,9 +23,8 @@ Every Wednesday, 3:00 – 5.30pm at the parade square
 **Teachers Officers**
 
 ASP (NPCC) Mr Oon Boon Keong – OC Unit  <br>
-Insp (NPCC) Ms Sharifah Bte Muhd Zulkifli – 2nd I/C  <br>
-Insp (NPCC) Mr Chang Lok  <br.
-Insp (NPCC) Mr Lok Liang Min
+Insp (NPCC) Mr Chang Lok – 2nd I/C  <br>
+Insp (NPCC) Ms Kwong Zhi Qing Alanna <br>
 
 **Honorary Officer** 
 
@@ -34,16 +33,16 @@ H/Insp (NPCC) Mr Chong Guan Seng
 **Cadet Inspectors**
 
 S/CI (NPCC) Mr Brendon Lim Zhe Ming  <br>
-CI (NPCC) Ms Eileen Chew  <br>
-CI (NPCC) Ms Nur Arfa  <br>
-CI (NPCC) Ms Liyana  <br>
-CI (NPCC) Ms Vincent Chia  <br>
-CI (NPCC) Ms Tee Jia Xuan
+S/CI (NPCC) Ms Eileen Chew  <br>
+CI (NPCC) Mr Vincent Chia  <br>
+CI (NPCC) Ms Tee Jia Xuan  <br>
+CI (NPCC) Mr Vincent Chia  <br>
+CI (NPCC) Mr You Jo Han
 
 
 **Achievement**
 
-*   NPCC Unit Overall Proficiency Award (Year of Assessment 2019)
+*   NPCC Unit Overall Proficiency Award: Gold (Year of Assessment 2021)
 
 <img src="/images/npcc%203.jpeg" 
      style="width:50%">
