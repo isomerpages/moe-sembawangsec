@@ -52,7 +52,7 @@ Tea, Tiffin and Poetry Competition
 
 ### Team Members/Dept Teachers
 * Head of Department: Ms Muthamil Selvi
-Level Head: Ms Tay Su-Hui, Fiona
+* Level Head: Mdm Faralina Bte Mohamed Ahmad
 * Senior Teacher: Ms Low Huixian Heidi
 * Subject Head/CCE: Mdm Jayanthi Sangiah
 * AYH Lower Sec Internal: Mr Mohamad Zulqarnain
@@ -61,18 +61,14 @@ Level Head: Ms Tay Su-Hui, Fiona
 
 *English Unit*
 * Ms Amrita Ahmad
-* Mr Darryl Leong
 * Ms Janice Lee
 * Mdm Jayanthi Sangiah
 * Mr Joe Wieky
-* Mr Lok Liang Min
 * Ms Low Huixian Heidi
 * Mr Mohamad Zulqarnain
 * Ms Munirah Bte Saini
+* Mdm Heryani Hamim
 * Ms Muthamil Selvi
-* Ms Tay Su-Hui, Fiona
 
 *Literature Unit*
-* Mr Darryl Leong
 * Ms Janice Lee
-* Ms Tay Su-Hui, Fiona

@@ -9,8 +9,8 @@ third_nav_title: Clubs & Societies
 ### Teacher-in-charge:
 
 Mr Alex Choh Chee Yang (I/C)  <br>
-Mr Hafiz Bin A A (AED)  <br>
 Ms Chong Nyet Ting
+Ms Charelene Kwang
 
 ### Schedule
 

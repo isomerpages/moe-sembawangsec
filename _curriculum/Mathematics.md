@@ -94,8 +94,6 @@ Bronze awards recipients of the Animation and Game-Making Competition 2020
 (Senior Teacher)
 * Mr Kalvindar Singh
 (Senior Teacher) 
-* Ms Johanna Santarossa
-(Subject Head Information & Technology)
 * Mdm Guan Qiu Hua
 * Ms Kho Puay Hwee Jenny
 * Ms Lim Qian Shi Adeline
@@ -121,4 +119,3 @@ Bronze awards recipients of the Animation and Game-Making Competition 2020
 (School Staff Developer)
 * Ms Chong Nyet Ting
 * Mdm Guan Qiu Hua
-* Mr Mohamad Hafiz Abdul Azhiz (Allied Educator (T&L))

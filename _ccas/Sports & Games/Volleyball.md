@@ -12,7 +12,6 @@ third_nav_title: Sports & Games
 Ms Eu Ai Ming Caroline (I/C)  <br>
 Mdm Guan Qiuhua  <br>
 Mr Zeng Hengguang  <br>
-Ms Nisha Ann Anthony  <br>
 Mr Huang Ting Fei
 
 ### Training Schedule (B Division)

@@ -65,7 +65,7 @@ The ICAS (International Competitions and Assessments for Schools) provides an op
 
 ### Team Members/Dept Teachers
 
-**Head of Department :** Mr Ernest Yu
+**Head of Department :** Mr Serwin Leong
 
 **Teachers**
 * Mdm C Bhagyalakshmi
@@ -75,15 +75,14 @@ The ICAS (International Competitions and Assessments for Schools) provides an op
 * Ms Esther Tan Yin Li
 * Ms Heidi Low
 * Ms Jessica Chen
-* Mrs Johanna Santarossa
 * Ms Siew Yan Yee
 * Ms Tan Hui Nah
 * Mr Chan Khai Mun
 * Mr Chang Lok
-* Mr Loh Kuin Pei
 * Mr Oon Boon Keong
-* Mr Serwin Leong
 * Mr Sim Kai Suah
 * Mr Ong Wei Jin
 * Mr Wong Qin Jie
 * Ms Wong Gaik Choon
+* Mr David Leong
+* Ms Kwong Zhi Qing Alanna

@@ -22,7 +22,7 @@ Tay Pei Inn (ST/VA), Wileen Png
 
 *   **Design and Technology (D&T)**
 
-Sabrina Lim (HOD C&T), Marc Ong (YH/LS), Alex Choh, Andrew Oh,
+Sabrina Lim (HOD C&T), Marc Ong (YH/LS), Alex Choh, 
 
 Tan Suey Leng, Abdul Rashid (EWI), Johan Abdullah (EWI)
 
@@ -32,7 +32,7 @@ Faridah (SH/F&N), Fong Man Lin, Salwiyah,
 
 *   **Music (MU)**
 
-Ho Yam Chiew, Mohamad Hafiz (AED)
+Ho Yam Chiew
 
 <div style="display:block"><img src="/images/CT1.jpeg" style="max-width: 100%;"></div>
 

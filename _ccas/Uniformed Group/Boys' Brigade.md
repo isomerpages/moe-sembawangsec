@@ -15,7 +15,6 @@ Teachers:
 
 *   Ms Jenny Kho (I/C)
 *   Mr Wong Qin Jie
-*   Mr Sim Kai Suah
 *   Mr Jonathan Lau Keng Cong
 
 ![](/images/bb1.png)
