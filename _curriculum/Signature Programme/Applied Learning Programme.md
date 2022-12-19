@@ -47,4 +47,3 @@ Examples of our existing learning modules:
 
 Upon completing this programme, students would be equipped with skills necessary to thrive in this technology-rich environment and solve problems applying programming knowledge and disciplinary thinking (i.e. scientific/mathematical) and computational thinking. In addition, this programme aims to excite and inspire students to pursue post-secondary ICT-related learning opportunities.
 
-In 2021, the learning modules would include drone programming, robotics, mobile games programming and Internet of Things (IOT).
