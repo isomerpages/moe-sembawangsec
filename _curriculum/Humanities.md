@@ -68,8 +68,6 @@ In 2020, the department embarked on a joint reading programme called GRIT (Growi
 
 **Senior Teacher/History :** Mr Chua Si Yuan
 
-**Subject Head/Geography :** Ms Munirah Bte Saini
-
 **Senior Teacher/Geography :** Mdm Julistiara Sujae
 
 **Teachers**
@@ -78,10 +76,7 @@ In 2020, the department embarked on a joint reading programme called GRIT (Growi
 * Mdm Masriani Bte Mahat (GE)
 * Mdm Julistiara Sujae (GE/SS)
 * Mr Chua Si Yuan (HE/SS)
-* Ms Nisha (HE/SS)
-* Ms Lynn Goh (HE/SS)
 * Ms Munirah Bte Saini (GE)
-* Mr Lok Liangmin (GE/EL)
 * Mr Mohamad Zulqarnain (SS)
 * Mr Zeng Hengguang (PE/GE)
 * Ms Kor Jia Her (SS/Maths)
