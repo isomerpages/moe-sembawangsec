@@ -7,7 +7,6 @@ third_nav_title: Sports & Games
 ### Teacher-in-charge:
 
 Mdm Suhartini (I/C)  
-Ms Michelle Yeong  
 Ms Esther Tan Yinli
 
 ### Training Schedule
