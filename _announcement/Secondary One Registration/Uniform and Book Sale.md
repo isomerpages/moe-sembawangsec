@@ -45,17 +45,11 @@ Please follow the allocated time slot for your class. (Refer to the schedule bel
 
 or
 
-*   Opt for home delivery for a delivery fee of $10.00;
+*   Opt for home delivery for a delivery fee of $13.00;
 
-(Orders will be delivered on **03 January 2022**.)
+(Orders will be delivered on **29 or 30 December 2022**.)
 
-Order forms:
-
-[Sec 1 Express](https://docs.google.com/forms/d/e/1FAIpQLSfUWAEZZl4y1vlrcdm2nqAJJ6OBUw5p_XZnzJRyrD3WBO_y7Q/viewform)
-
-[Sec 1 Normal (Academic)](https://docs.google.com/forms/d/e/1FAIpQLSd1GM3Vl3e8bCCV5DRFRN_B0lca9Pr0-Kz6FLg4F3tqNKm0kQ/viewform)
-
-[Sec1 Normal (Technical)](https://docs.google.com/forms/d/e/1FAIpQLScPnq5ED7WAv-FwonYbncmDu28ClHE0fPhj4kLAXLsVRADAkg/viewform)
+For home delivery, please contact school bookshop @ 91872867 (Benny).
 
 **Payment Mode: Cash or PayNow**
 
