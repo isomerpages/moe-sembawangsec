@@ -10,8 +10,8 @@ sections:
       title: Sembawang Secondary School
       subtitle: Leaders & Change Makers
       background: /images/dragon-boat-competition.jpeg
-      button: 2023 Secondary One Registration
-      url: /announcement/secondary-one-registration
+      button: Information for 2023 Secondary One Cohort
+      url: /information-for-2023-secondary-one-cohort
       key_highlights:
         - title: Pearl
           description: Develop active learning
