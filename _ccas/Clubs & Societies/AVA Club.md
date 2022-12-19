@@ -14,6 +14,7 @@ Miss Yeo Moei Leng(I/C)
 Mdm Zaetun Bte Abbas  
 Ms Nurul Fasha  
 Mdm Salwiyah Mohamed Salleh
+Mdm Jane Tan
 
 ### Training Schedule
 
