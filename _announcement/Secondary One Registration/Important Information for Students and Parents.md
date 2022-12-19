@@ -11,7 +11,7 @@ To ensure you are well prepared for the start of your Secondary school journey w
 
 **Orientation Programme**
 
-To induct our new Sec 1 students, the Orientation Programme will be conducted from **4 January – 6 January 2022**. The daily school hours for these three days are:
+To induct our new Sec 1 students, the Orientation Programme will be conducted from **3 January – 5 January 2023**. The daily school hours for these three days are:
 
 **Reporting time: 7.30  a.m**
 
@@ -49,8 +49,7 @@ To adhere to the safe management measures, students must put on face masks at al
 
 Please bring along the following for the first day of school:
 
-*   Oral Digital Thermometer
-*   TraceTogether Token/App
+
 *   Student Handbook
 *   Writing Materials
 *   Story book
@@ -58,9 +57,9 @@ Please bring along the following for the first day of school:
 
 **Lesson Timetables**
 
-Lesson timetables will be available for all classes on the school website by 31 December 2021.  Please note that we follow an odd-even timetabling system for our lessons.  You will follow the timetable for your class from 7 January 2022.
+Lesson timetables will be available for all classes on the school website by 30 December 2022.  Please note that we follow an odd-even timetabling system for our lessons.  You will follow the timetable for your class from 6 January 2023.
 
  **Secondary level School Smart Card (SSC)**
 
-*   Please be informed that all students entering Secondary One in Jan 2022 will be issued with a new Secondary level School Smart Card (SSC). 
-*   While Secondary One Students are waiting for their Secondary level SSCs to be ready, they can continue to use their Primary level SSCs for concessionary travel till end April 2022. Students can still purchase the Bus Concession Pass (BCP) using their Primary level SSCs, but they would need to purchase the BCP for Secondary School students.
+*   Please be informed that all students entering Secondary One in Jan 2023 will be issued with a new Secondary level School Smart Card (SSC). 
+*   While Secondary One Students are waiting for their Secondary level SSCs to be ready, they can continue to use their Primary level SSCs for concessionary travel till end April 2023. Students can still purchase the Bus Concession Pass (BCP) using their Primary level SSCs, but they would need to purchase the BCP for Secondary School students.
