@@ -20,6 +20,6 @@ Students posted to the N(A) and N(T) course are eligible to take some subjects (
 
 Beyond the start of Secondary 1, other N(A) and N(T) students who do well in school-based examinations may be considered to take more demanding level subjects if found suitable to do so by the school.
 
-**If your child is eligible to take subjects at a more demanding level, you will receive the offer letter via your child’s SMBSS email. Please indicate whether your child wishes to ACCEPT or REJECT the offer by 28 December 2021.**
+**If your child is eligible to take subjects at a more demanding level, you will receive the offer letter via your child’s Student ICON email. Please indicate whether your child wishes to ACCEPT or REJECT the offer by 28 December 2022.**
 
 **Please purchase the correct books required for the higher level subjects if your child decides to take up the SBB offer.**
