@@ -3,17 +3,11 @@ title: SMB HOME BASED LEARNING
 permalink: /home-based-learning/
 description: ""
 ---
-
 Dear Students and Parents/Guardians,
 
-Sembawang Secondary is committed to provide all students with quality learning experiences during Home-Based Learning (HBL) between 19 and 28 May 2021.
+Sembawang Secondary is committed to provide all students with quality learning experiences during Home-Based Learning (HBL).
 
-Please follow your time-table accordingly:
-
-*   19 - 21 May 2021 (Odd Week Time-table)
-    
-*   24 - 28 May 2021 (Even Week Time-table)
-    
+Please follow your class time-table accordingly during HBL.
 
 Have **screen-time breaks** during scheduled recess/ lunch break specified in your time-table.
 
@@ -24,6 +18,6 @@ Have **screen-time breaks** during scheduled recess/ lunch break specified in yo
 
 | Items | Contact Person(s) | Contact Details |
 | -------- | -------- | -------- |
-| CLARIFICATIONS ON HBL PROGRAMME     | Mr Alan Goh / Mrs Johanna Santarossa | 6756 6760 / sembawang_ss@moe.edu.sg    |
-| SLS (password reset / locked account)     | Form teachers / Subject teachers / Mr Alan Goh / Mrs Johanna Santarossa    | 6756 6760   |
-| SMBSS GMAIL ACCOUNT (password reset)    | Mr Alan Goh / Mrs Johanna Santarossa / Mdm Faridah / Mdm Esther Lau  | 6756 6760   |
+| CLARIFICATIONS ON HBL PROGRAMME     | Mr Alan Goh / Mr Oon Boon Keong | 6756 6760 / sembawang_ss@moe.edu.sg    |
+| SLS (password reset / locked account)     | Form teachers / Subject teachers / Mr Alan Goh / Mr Oon Boon Keong    | 6756 6760   |
+| Student ICON ACCOUNT (password reset)    | Mr Alan Goh / Mr Oon Boon Keong | 6756 6760   |
