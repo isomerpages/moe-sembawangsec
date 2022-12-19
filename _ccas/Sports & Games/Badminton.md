@@ -9,7 +9,7 @@ third_nav_title: Sports & Games
 Ms Zhou Yi Ting (I/C)  <br>
 Ms Adeline Lim  <br>
 Mdm Masriani  <br>
-Ms Jessica
+Ms Jessica Tan
 
 ### Training Schedule
 
