@@ -11,7 +11,7 @@ sections:
       subtitle: Leaders & Change Makers
       background: /images/dragon-boat-competition.jpeg
       button: Information for 2023 Secondary One Cohort
-      url: /information-for-2023-secondary-one-cohort
+      url: https://www.sembawangsec.moe.edu.sg/announcement/secondary-one-registration-for-2022/
       key_highlights:
         - title: Pearl
           description: Develop active learning
