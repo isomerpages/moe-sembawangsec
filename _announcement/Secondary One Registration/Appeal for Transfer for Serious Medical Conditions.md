@@ -14,7 +14,7 @@ Appeals will **only** be considered on exceptional basis for students with:
 
 All appeals must be accompanied by relevant supporting documents, such as medical reports, letters from doctors.
 
-**Parents are advised to file your appeals at our school in-person on 23 December 2021, from 8.30 am to 12.00 pm.**
+**Parents are advised to file your appeals at our school in-person on 22 December 2022, from 8.30 am to 12.00 pm.**
 
 **Alternatively, you could contact our school’s General Office at 67566760 to request for the application form and submit your application through email.**
 
