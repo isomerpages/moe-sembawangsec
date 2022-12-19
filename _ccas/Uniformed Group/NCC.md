@@ -27,7 +27,7 @@ SSG Muhammad Irfan, SSG Rahoul Dev, SSG Chew Yan Xi, SSG Derron Foo, 3SG Javier 
 
 **NCC Teacher Officers:**
 
-LTA Calvin Teo, LTA Sim Kai Suah, 2LT Andrew Oh Sheng Wei, 2LT Joe Wieky
+LTA Calvin Teo, LTA Sim Kai Suah, 2LT Joe Wieky
 
 #### **OUR BELIEF**
 
