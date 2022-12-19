@@ -22,10 +22,9 @@ Customers can choose to pay via:
 
 You can either:
 
-*   Opt for home delivery: Orders will be dispatched by a local courier within 3-5 days from date of order for a delivery fee of $10.00; or
-*   Self-collect your online orders from the school\*
+*   Opt for home delivery: Orders will be dispatched by a local courier within 3-5 days from date of order for a delivery fee of $8.00; or
+*   Self-collect your online orders from the school based on the below schedule.
 
-_\*The schedule for self-collection is shown in the table below._
 
 **Please check your House allocation before purchasing the PE/House T-Shirts.**
 
@@ -33,23 +32,23 @@ _\*The schedule for self-collection is shown in the table below._
 
 For books and stationery purchase, you can either:
 
-*   Purchase in school.
-
-Booklists for
-
-*   [Secondary 1 Express](https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/12/1EX-Booklist-1.pdf)
-*   [Secondary 1 Normal (Academic)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/12/1NA-Booklist-1.pdf)
-*   [Secondary 1 Normal (Technical)](https://sembawangsec.moe.edu.sg/wp-content/uploads/2021/12/1NT-Booklist-1.pdf)
-
-Please follow the allocated time slot for your class. (Refer to the schedule below)
-
-or
-
-*   Opt for home delivery for a delivery fee of $13.00;
-
+*   Purchase in school; or
+*   Opt for home delivery for a delivery fee of $13.00.
 (Orders will be delivered on **29 or 30 December 2022**.)
 
 For home delivery, please contact school bookshop @ 91872867 (Benny).
+
+**Booklists for**
+
+*  Secondary 1 Express (EXP)
+*  Secondary 1 Normal Academic (NA)
+*  Secondary 1 Normal Technical (NT)
+
+Please follow the allocated time slot for your class. (Refer to the schedule below)
+
+
+
+
 
 **Payment Mode: Cash or PayNow**
 
