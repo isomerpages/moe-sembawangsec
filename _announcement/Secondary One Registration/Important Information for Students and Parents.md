@@ -43,9 +43,6 @@ Boys – Clean shaven, short and neat hair-cut
 
 Girls – Long hair tied up or plaited neatly
 
-**Face Masks**
-
-To adhere to the safe management measures, students must put on face masks at all times in school. Students are encouraged to wear high filtration surgical masks.
 
 **Things to Bring**
 
