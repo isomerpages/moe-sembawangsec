@@ -26,7 +26,7 @@ You can either:
 *   Self-collect your online orders from the school based on the below schedule.
 
 
-**Please check your House allocation before purchasing the PE/House T-Shirts.**
+**Please check your House allocation via Parents Gateway before purchasing the PE/House T-Shirts.**
 
 **Book and Stationery Sale**
 
