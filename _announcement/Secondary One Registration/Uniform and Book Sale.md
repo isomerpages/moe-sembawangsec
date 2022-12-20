@@ -40,9 +40,9 @@ For home delivery, please contact school bookshop @ 91872867 (Benny).
 
 **Booklists for**
 
-*  Secondary 1 Express (EXP)
-*  Secondary 1 Normal Academic (NA)
-*  Secondary 1 Normal Technical (NT)
+*  [Secondary 1 Express (EXP)](/files/2023%20Booklists/2023%20Sembawang%20Sec%201E.pdf)
+*  [Secondary 1 Normal Academic (NA)](/files/2023%20Booklists/2023%20Sembawang%20Sec%201NA.pdf)
+*  [Secondary 1 Normal Technical (NT)](/files/2023%20Booklists/2023%20Sembawang%20Sec%201NT.pdf)
 
 Please follow the allocated time slot for your class. (Refer to the schedule below)
 
