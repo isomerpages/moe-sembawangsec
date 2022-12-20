@@ -11,11 +11,13 @@ To ensure you are well prepared for the start of your Secondary school journey w
 
 **Orientation Programme**
 
-To induct our new Sec 1 students, the Orientation Programme will be conducted from **3 January – 5 January 2023**. The daily school hours for these three days are:
+To induct our new Sec 1 students, the Orientation Programme will be conducted from **3 January – 5 January 2023^**. The daily school hours for these three days are:
 
 **Reporting time: 7.30  a.m**
 
 **Dismissal time: 1.10  p.m**
+
+^ On 4 January 2023, there will be a CCA Sports Trial conducted from 1.40 pm to 4.00 pm.
 
 **Attire and Grooming**
 
@@ -41,9 +43,6 @@ Boys – Clean shaven, short and neat hair-cut
 
 Girls – Long hair tied up or plaited neatly
 
-**Face Masks**
-
-To adhere to the safe management measures, students must put on face masks at all times in school. Students are encouraged to wear high filtration surgical masks.
 
 **Things to Bring**
 
