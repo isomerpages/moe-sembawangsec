@@ -36,6 +36,6 @@ More details are available in the “Info Kit for Secondary One Registration”.
 | 3    | [Appeal for transfer for serious medical conditions](https://www.sembawangsec.moe.edu.sg/announcement/Secondary-One-Registration/appeal-for-transfer-for-serious-medical-conditions/)     | Conditions for appeal/ Appeal procedures    |
 | 4    | [Important info for students](https://www.sembawangsec.moe.edu.sg/announcement/Secondary-One-Registration/important-information-for-students-and-parents/)     | Orientation Programme/ Things to bring on 1st day of school / Attire & Grooming    |
 | 5    | [Uniform and book sale](https://www.sembawangsec.moe.edu.sg/announcement/Secondary-One-Registration/uniform-and-book-sale/)     | Schedule for purchase/ collection    |
-| 6    | [FAS](https://www.sembawangsec.moe.edu.sg/announcement/Secondary-One-Registration/financial-assistance-scheme-fas/)     | Procedures for application     |
-| 7    | [SBB](https://www.sembawangsec.moe.edu.sg/announcement/Secondary-One-Registration/subject-based-banding/)     | Information on SBB/ Procedure to revert on SBB offer    |
+| 6    | [Financial Assistance Scheme](https://www.sembawangsec.moe.edu.sg/announcement/Secondary-One-Registration/financial-assistance-scheme-fas/)     | Procedures for application     |
+| 7    | [Subject-Based Banding](https://www.sembawangsec.moe.edu.sg/announcement/Secondary-One-Registration/subject-based-banding/)     | Information on SBB/ Procedure to revert on SBB offer    |
 | 8    | [Application for school transfer](https://www.sembawangsec.moe.edu.sg/announcement/Secondary-One-Registration/transfer-application/)     | Application for Transfer IN/OUT    |
