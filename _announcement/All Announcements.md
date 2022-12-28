@@ -5,6 +5,12 @@ description: ""
 ---
 ## Announcements
 
+#####  **28 Dec 2022**
+
+**Smart Buddy Programme**
+
+Our school has partnered with POSB to offer e-payments at school canteen. Through this programme, we aim to cultivate both financial and digital literacy in our students. Please click [here](/files/Smart%20Buddy%20Registration%20Letter%20(Online).pdf) to find out more about the POSB Smart Buddy Programme.
+
 #####  **14 Dec 2022**
 
 **Release of GCE N Level Examination Results 2022**
