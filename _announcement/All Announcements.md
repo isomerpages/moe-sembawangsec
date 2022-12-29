@@ -21,7 +21,8 @@ You are reminded of the following when you report to school on 3 Jan 2023:
 * Sec 2-5 students should bring along your lesson materials and stationery for scheduled lessons.
 
 Please click the following links to access the time-table:
-
+* [Week 01 Beginning 03 Jan 2023](/files/2023%20S1%20Odd%20Classes%20Final%20Dec%2028%201230.pdf)
+* [Week 02 Beginning 09 Jan 2023](/files/2023%20S1%20Even%20Classes%20Final%20Dec%2028%201230.pdf)
 
 #####  **28 Dec 2022**
 
