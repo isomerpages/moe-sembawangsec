@@ -2,6 +2,7 @@ collections:
   announcement:
     output: true
     order:
+      - First Day of School (3 Jan 2023).md
       - All Announcements.md
       - Secondary One Registration/.keep
       - Secondary One Registration/Secondary One Registration for 2023.md

@@ -5,6 +5,25 @@ description: ""
 ---
 ## Announcements
 
+#####  **29 Dec 2022**
+
+**First Day of School (3 Jan 2023)**
+
+Dear students,
+
+We look forward to welcoming back our Sec 2-5 students and look forward to welcoming our Sec 1 students on 3 Jan 2023 (Tue). 
+
+You are reminded of the following when you report to school on 3 Jan 2023:
+
+* Report to the school hall for morning assembly before 7.30 am.
+* Come in full school uniform with proper grooming.
+* Bring along your Oral Digital Thermometer (ODT).
+* Sec 2-5 students should bring along your lesson materials and stationery for scheduled lessons.
+
+Please click the following links to access the time-table:
+* [Week 01 Beginning 03 Jan 2023](/files/2023%20S1%20Odd%20Classes%20Final%20Dec%2028%201230.pdf)
+* [Week 02 Beginning 09 Jan 2023](/files/2023%20S1%20Even%20Classes%20Final%20Dec%2028%201230.pdf)
+
 #####  **28 Dec 2022**
 
 **Smart Buddy Programme**
