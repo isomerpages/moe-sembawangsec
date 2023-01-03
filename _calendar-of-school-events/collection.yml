@@ -1,5 +1,0 @@
-collections:
-  calendar-of-school-events:
-    output: true
-    order:
-      - Term 1 2023.md
