@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Calendar of School Events.md
       - Principal’s Message.md
       - Our VMV.md
       - Achievements.md
