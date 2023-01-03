@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Calendar of School Events.md
       - Principal’s Message.md
       - Our VMV.md
       - Achievements.md
@@ -10,4 +9,5 @@ collections:
       - School Management Committee.md
       - Our Staff.md
       - Our School Song.md
+      - Calendar of School Events.md
       - Contact Us.md
