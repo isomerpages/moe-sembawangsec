@@ -5,6 +5,17 @@ description: ""
 ---
 ## Announcements
 
+#####  **03 Jan 2023**
+
+**Updated Time-table**
+
+Dear students,
+
+Please access the updated time-table:
+* [Week 01 Beginning 03 Jan 2023 (Odd week)](/files/2023%20Sem1%20Odd%20v2.pdf)
+* [Week 02 Beginning 09 Jan 2023 (Even week)](/files/2023%20Sem1%20Even%20v2.pdf)
+
+
 #####  **29 Dec 2022**
 
 **First Day of School (3 Jan 2023)**
