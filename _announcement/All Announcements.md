@@ -5,6 +5,19 @@ description: ""
 ---
 ## Announcements
 
+#####  **04 Jan 2023**
+
+**Calendar of School Events**
+We may make changes to the information presented from time to time.  We will keep students and parents informed should there be any changes. 
+
+Term 1 2023
+
+| Date(s) | Event | Level(s) |
+| -------- | -------- | -------- |
+|Whole of Jan    | Joyful January    | A special programme at our Library organised by Mother Tongue Department     |
+
+
+
 #####  **03 Jan 2023**
 
 **Updated Time-table**
