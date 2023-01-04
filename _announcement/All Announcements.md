@@ -5,6 +5,36 @@ description: ""
 ---
 ## Announcements
 
+#####  **04 Jan 2023**
+
+**Calendar of School Events**
+We may make changes to the information presented from time to time.  We will keep students and parents informed should there be any changes. 
+
+Term 1 2023
+
+| Date(s) | Event | Level(s) |
+| -------- | -------- | -------- |
+|Whole of Jan    | Joyful January - A special programme at our Library organised by Mother Tongue Department   |    All  |
+|3 - 5 Jan  | Sec 1 Orientation Programme    |  Sec 1  |
+|14 Jan  | Parents Engagement Session cum CCA Open House    |  Sec 1  |
+|9 -13 Jan  | Outward Bound Singapore (OBS) Experience (Group 1)    |  Sec 3  |
+|16 -20 Jan  | Outward Bound Singapore (OBS) Experience (Group 2)    |  Sec 3  |
+|6 -10 Feb  | Jazzy Arts - A special programme to promote awareness of Arts Education    |  All  |
+|7 Feb  | ALP Enrichment Lesson 2   |  Sec 2  |
+|9 Feb  | House System Briefing   |  All  |
+|13- 24 Feb  | Artisanal February - A special programme at our Library organised by Craft & Technology Department  |  All  |
+|14 Feb  | Total Defence Day Commemoration  |  All  |
+|14 Feb  | ALP Enrichment Lesson 3  |  Sec 2  |
+|21 Feb  | ALP Enrichment Lesson 4  |  Sec 2  |
+|23 Feb  | Interhouse Games (Part 1)  |  All  |
+|28 Feb  | ALP Enrichment Lesson 5  |  Sec 2  |
+|3 Mar   | SMB Youth Run  |  All  |
+|6 - 10 Mar   | Science Fortnight (Part 1)  |  All  |
+|7 - 9 Mar   | Roll-out of Personal Learning Devices (PLD)   |  Sec 1  |
+|10 Mar   | Self and Peer Leadership Workshop   |  Sec 1  |
+|10 Mar   | Parents Engagement Session  |  Sec 4 & 5  |
+|13 Mar (Day 1 of Term Break)   | Emerging Leaders Programme    |  Sec 2 & 3 Student Leaders  |
+
 #####  **03 Jan 2023**
 
 **Updated Time-table**
