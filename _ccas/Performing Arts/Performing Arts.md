@@ -17,8 +17,8 @@ Ms Ding Moy Lee
 
 **Day/Time & Venue:**  
 
-Monday 3.15pm – 5.45pm – ISH  <br>
-Friday 1.30pm – 4.30pm – AVA
+Monday 3.30pm – 6.00pm – Hall  <br>
+Friday 1.30pm – 4.30pm – SSC/AVA
 
 
 <img src="/images/Sembwinds.jpeg" 
@@ -31,11 +31,12 @@ Friday 1.30pm – 4.30pm – AVA
 Ms Sharon Tan (I/C)  <br>
 Mdm Ho Yam Chiew (2nd I/C)  <br>
 Ms Fong Man Lin
+Ms Cai Xin Yu
 
 **Day/Time & Venue** :
 
-Wed 3pm – 5.30pm <br>
-Fri 2:30pm – 5:30pm <br>
+Wed 2.30pm – 5.00pm <br>
+Fri 2:30pm – 5:00pm <br>
 Venue: Music Room
 
 
