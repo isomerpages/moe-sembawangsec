@@ -18,13 +18,14 @@ The MISSION of the National Police Cadet Corps is to develop our members to be a
 The VISION of the National Police Cadet Corps is to become the best youth organisation in Singapore one that actively helps to make Singapore the safest place in the world.
 
 **Training Schedule** <br>
-Every Wednesday, 3:00 – 5.30pm at the parade square
+Every Wednesday, 3:15 – 5.45pm at the C1-9, C1-8, C-7, C1-6
 
 **Teachers Officers**
 
 ASP (NPCC) Mr Oon Boon Keong – OC Unit  <br>
 Insp (NPCC) Mr Chang Lok – 2nd I/C  <br>
 Insp (NPCC) Ms Kwong Zhi Qing Alanna <br>
+Mdm Sulastri
 
 **Honorary Officer** 
 

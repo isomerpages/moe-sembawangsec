@@ -21,7 +21,7 @@ third_nav_title: Uniformed Group
 
 ### Training Schedule
 
-<table width="575" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px;">Weekly Parade</td><td style="box-sizing: inherit; padding: 5px 10px;">Wed</td><td style="box-sizing: inherit; padding: 5px 10px;">3:00pm – 5:30pm</td><td style="box-sizing: inherit; padding: 5px 10px;">Outside Cyber Lab Level 2</td></tr></tbody></table>
+<table width="575" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px;">Weekly Parade</td><td style="box-sizing: inherit; padding: 5px 10px;">Wed</td><td style="box-sizing: inherit; padding: 5px 10px;">3:15pm – 5:30pm</td><td style="box-sizing: inherit; padding: 5px 10px;">Cyber Lab Level 2</td></tr></tbody></table>
 
 **Achievements**
 

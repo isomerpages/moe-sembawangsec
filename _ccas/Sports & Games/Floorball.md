@@ -26,9 +26,9 @@ Ms Wileen Png
 <thead>
   <tr>
     <th class="tg-1ppo">Monday</th>
-    <th class="tg-1ppo">2.00 – 4.30pm</th>
+    <th class="tg-1ppo">1.30 – 5.30pm</th>
     <th class="tg-1ppo">Street Soccer Court</th>
-    <th class="tg-1ppo">C Division (Sec 1 &amp; 2)</th>
+ 
   </tr>
 </thead>
 <tbody>
@@ -36,19 +36,15 @@ Ms Wileen Png
     <td class="tg-h5mn">Wednesday</td>
     <td class="tg-h5mn">3.00 – 5.30pm</td>
     <td class="tg-h5mn">Street Soccer Court</td>
-    <td class="tg-h5mn">B Division (Sec 3 &amp; 4)</td>
+  
   </tr>
   <tr>
     <td class="tg-1ppo" rowspan="2">Friday</td>
-    <td class="tg-1ppo">1.30 – 3.30pm</td>
-    <td class="tg-1ppo">Street Soccer Court</td>
-    <td class="tg-1ppo">All girls</td>
+    <td class="tg-1ppo">1.30 – 5.30pm</td>
+    <td class="tg-1ppo">ISH</td>
+
   </tr>
-  <tr>
-    <td class="tg-h5mn">3.30 – 5.30pm</td>
-    <td class="tg-h5mn">Indoor Sports Hall</td>
-    <td class="tg-h5mn">All boys</td>
-  </tr>
+ 
 </tbody>
 </table>
 

@@ -17,8 +17,8 @@ Ms Ding Moy Lee
 
 **Day/Time & Venue:**  
 
-Monday 3.15pm – 5.45pm – ISH  <br>
-Friday 1.30pm – 4.30pm – AVA
+Monday 3.30pm – 6.00pm – Hall  <br>
+Friday 1.30pm – 4.30pm – SSC/AVA
 
 
 <img src="/images/Sembwinds.jpeg" 
@@ -31,11 +31,12 @@ Friday 1.30pm – 4.30pm – AVA
 Ms Sharon Tan (I/C)  <br>
 Mdm Ho Yam Chiew (2nd I/C)  <br>
 Ms Fong Man Lin
+Ms Cai Xin Yu
 
 **Day/Time & Venue** :
 
-Wed 3pm – 5.30pm <br>
-Fri 2:30pm – 5:30pm <br>
+Wed 2.30pm – 5.00pm <br>
+Fri 2:30pm – 5:00pm <br>
 Venue: Music Room
 
 
@@ -48,10 +49,11 @@ Venue: Music Room
 **Teacher-in-charge:**  
 
 Mdm Rahimah (I/C)  <br>
-Ms Tan Hui Nah (2nd I/C)
+Ms Tan Hui Nah (2nd I/C) <br>
+Ms Heryani
 
 **Day/Time & Venue** :
 
-Malay Dance practice (Sec 1-3)  <br>
-Time : 2:30 – 5:30pm  <br>
+Malay Dance practice   <br>
+Wed Time : 3.00 – 6.00pm  <br>
 Venue – ISH

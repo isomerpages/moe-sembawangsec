@@ -7,7 +7,7 @@ third_nav_title: Sports & Games
 ### Teacher-in-charge:
 
 Mdm Suhartini (I/C)  
-Ms Esther Tan Yinli
+Ms Salwiyah
 
 ### Training Schedule
 
@@ -24,8 +24,8 @@ Ms Esther Tan Yinli
   <tr>
     <td class="tg-1ppo">Netball</td>
     <td class="tg-1ppo">Wed<br><br>Fri</td>
-    <td class="tg-1ppo">3:30pm – 6pm<br><br>1.15pm – 3.15pm</td>
-    <td class="tg-1ppo">Parade Square / ISH</td>
+    <td class="tg-1ppo">3:00pm – 5.30pm<br><br>1.00pm – 3.00pm</td>
+    <td class="tg-1ppo">Parade Square</td>
   </tr>
 </thead>
 </table>

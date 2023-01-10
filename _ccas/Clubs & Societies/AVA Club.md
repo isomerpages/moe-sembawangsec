@@ -12,9 +12,8 @@ Our Audio Visual Aid Club is a unique CCA, as we are a service CCA whose members
 
 Miss Yeo Moei Leng(I/C)  
 Mdm Zaetun Bte Abbas  
-Ms Nurul Fasha  
-Mdm Salwiyah Mohamed Salleh
-Mdm Jane Tan
+Chua Sock Huang
+Lim Siew Choo Samantha
 
 ### Training Schedule
 
@@ -31,7 +30,7 @@ Mdm Jane Tan
   <tr>
     <td class="tg-zr06">AVA Club</td>
     <td class="tg-zr06">Wed</td>
-    <td class="tg-zr06">3pm – 5:30pm</td>
+    <td class="tg-zr06">3pm – 6.00pm</td>
     <td class="tg-zr06">AVA Room</td>
   </tr>
 </thead>

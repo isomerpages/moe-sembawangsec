@@ -9,13 +9,13 @@ third_nav_title: Uniformed Group
 ### ABOUT US
 
 Training Schedule  
-Every Friday, 1:30 – 5:00 pm at the parade square
+Every Friday, 1:45 – 5:00 pm at the Cyber Level 2
 
 Teachers:
 
 *   Ms Jenny Kho (I/C)
 *   Mr Wong Qin Jie
-*   Mr Jonathan Lau Keng Cong
+*   Mr Jonathan Lau Keng Chong
 
 ![](/images/bb1.png)
 ### Achievements
