@@ -9,7 +9,7 @@ description: ""
 
 #### Our Vision
 
-Leaders and Change Makers, Active Contributors
+Leaders and Change Makers
 
 #### Our Mission
 
