@@ -11,8 +11,8 @@ third_nav_title: Sports & Games
 
 Ms Eu Ai Ming Caroline (I/C)  <br>
 Mdm Guan Qiuhua  <br>
-Mr Zeng Hengguang  <br>
-Mr Huang Ting Fei
+Ms Lee Peicia Janice  <br>
+Ms Jane Tan
 
 ### Training Schedule (B Division)
 
@@ -30,14 +30,14 @@ Mr Huang Ting Fei
   <tr>
     <th class="tg-1ppo">Mon</th>
     <th class="tg-1ppo">3:30pm – 6pm</th>
-    <th class="tg-1ppo">School Hall/ISH</th>
+    <th class="tg-1ppo">ISH</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-h5mn">Fri</td>
     <td class="tg-h5mn">3:30pm – 6pm</td>
-    <td class="tg-h5mn">School Hall/ISH</td>
+    <td class="tg-h5mn">School Hall</td>
   </tr>
 </tbody>
 </table>
@@ -57,7 +57,7 @@ Mr Huang Ting Fei
   <tr>
     <td class="tg-1ppo">Fri</td>
     <td class="tg-1ppo">1:30pm – 3.30pm</td>
-    <td class="tg-1ppo">School Hall/ISH</td>
+    <td class="tg-1ppo">School Hall</td>
   </tr>
 </thead>
 </table>
