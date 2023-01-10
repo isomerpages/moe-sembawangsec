@@ -7,9 +7,10 @@ third_nav_title: Sports & Games
 ### Teacher-in-charge:
 
 Ms Zhou Yi Ting (I/C)  <br>
+Ms Chen Siew Sze <br>
 Ms Adeline Lim  <br>
 Mdm Masriani  <br>
-Ms Jessica Tan
+
 
 ### Training Schedule
 
@@ -28,7 +29,7 @@ Ms Jessica Tan
     <th class="tg-1ppo">Boys</th>
     <th class="tg-1ppo">Wed</th>
     <th class="tg-1ppo">3:00pm – 6.00pm</th>
-    <th class="tg-1ppo">School Hall/Canberra CC</th>
+    <th class="tg-1ppo">School Hall</th>
   </tr>
 </thead>
 <tbody>
@@ -36,13 +37,13 @@ Ms Jessica Tan
     <td class="tg-h5mn">Boys</td>
     <td class="tg-h5mn">Fri</td>
     <td class="tg-h5mn">1:30pm – 3:30pm</td>
-    <td class="tg-h5mn">Online</td>
+    <td class="tg-h5mn">External Venue</td>
   </tr>
   <tr>
     <td class="tg-1ppo">Girls</td>
     <td class="tg-1ppo">Wed</td>
     <td class="tg-1ppo">3:00pm – 6.00pm</td>
-    <td class="tg-1ppo">School Hall/Canberra CC</td>
+    <td class="tg-1ppo">School Hall</td>
   </tr>
 </tbody>
 </table>
