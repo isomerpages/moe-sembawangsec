@@ -27,7 +27,7 @@ SSG Muhammad Irfan, SSG Rahoul Dev, SSG Chew Yan Xi, SSG Derron Foo, 3SG Javier 
 
 **NCC Teacher Officers:**
 
-LTA Calvin Teo, LTA Sim Kai Suah, 2LT Joe Wieky
+LTA Calvin Teo, LTA Sim Kai Suah, 2LT Joe Wieky, Huang Ting Fei
 
 #### **OUR BELIEF**
 
@@ -119,7 +119,8 @@ LCP Sri Karrunesh S/O Surendren
 
 #### **TRAINING SCHEDULE**
 
-Every Wednesday, 3.00pm – 5.30pm
+Every Wednesday, 3.15pm – 5.30pm <br>
+Venue: C2-3, C2-4, C3-3, C3-4, C4-4, basketball court
 
 *   Physical fitness and games
 *   Drills and military knowledge
