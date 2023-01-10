@@ -49,10 +49,11 @@ Venue: Music Room
 **Teacher-in-charge:**  
 
 Mdm Rahimah (I/C)  <br>
-Ms Tan Hui Nah (2nd I/C)
+Ms Tan Hui Nah (2nd I/C) <br>
+Ms Heryani
 
 **Day/Time & Venue** :
 
-Malay Dance practice (Sec 1-3)  <br>
-Time : 2:30 – 5:30pm  <br>
+Malay Dance practice   <br>
+Wed Time : 3.00 – 6.00pm  <br>
 Venue – ISH
