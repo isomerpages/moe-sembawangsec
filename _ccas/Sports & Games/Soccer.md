@@ -9,7 +9,7 @@ third_nav_title: Sports & Games
 Mr Zeng Hengguang (I/C)  <br>
 Mr Daryn Tan  <br>
 Ms Munirah  <br>
-
+Ms Farah Diyanah <br>
 
 ### Training Schedule
 
@@ -26,7 +26,7 @@ Ms Munirah  <br>
   <tr>
     <td class="tg-1ppo">Soccer</td>
     <td class="tg-1ppo">Wed<br><br>Fri</td>
-    <td class="tg-1ppo">3:30pm – 5:30pm<br><br>3:00pm – 5.00pm</td>
+    <td class="tg-1ppo">C Div 2:30pm – 4:00pm<br><br>B Div 3:30pm – 5.00pm</td>
     <td class="tg-1ppo">Soccer Field</td>
   </tr>
 </thead>
