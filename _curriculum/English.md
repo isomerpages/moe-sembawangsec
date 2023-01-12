@@ -52,10 +52,10 @@ Tea, Tiffin and Poetry Competition
 
 ### Team Members/Dept Teachers
 * Head of Department: Ms Muthamil Selvi
-* Level Head: Mdm Faralina Bte Mohamed Ahmad
+* Level Head: Mdm Faralina Bte Mohamed Ali
 * Senior Teacher: Ms Low Huixian Heidi
 * Subject Head/CCE: Mdm Jayanthi Sangiah
-* AYH Lower Sec Internal: Mr Mohamad Zulqarnain
+* AYH Lower Sec: Mr Mohamad Zulqarnain
 
 **Teachers**
 

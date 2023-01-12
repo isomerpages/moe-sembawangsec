@@ -4,10 +4,18 @@ permalink: /announcement/all-announcements/
 description: ""
 ---
 ## Announcements
+#####  **11 Jan 2023**
+
+<b>Release of GCE O Level Examination Results 2022</b>
+
+Students from Sec 4TE1, Sec 4TE2 and Sec 5EM1 are to report to the school hall by 1.50 pm on 12 Jan 2023 (Thu) to attend an important briefing regarding post-secondary courses before collecting your result slips and certificates. <br>
+Please report in full school uniform and be in proper grooming. 
+If you are tested AG+ or feeling unwell on 12 Jan, do not report to school.  Inform your teachers and they will provide you with more information. <br>
+Wishing everyone the very best!
 
 #####  **04 Jan 2023**
 
-**Calendar of School Events**
+**Calendar of School Events** <br>
 We may make changes to the information presented from time to time.  We will keep students and parents informed should there be any changes. 
 
 Term 1 2023
