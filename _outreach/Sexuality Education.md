@@ -318,12 +318,12 @@ In this lesson, students will revisit the impact of pornography and deepen their
 </tbody>
 </table></div>
 
-**_eTeens_** **Programme**:
+**_eTeens_** **Programme**: <br><br>
 
-8.  _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme. <br>
-9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+8.  _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme. <br><br>
+9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions. <br><br>
 
-**At Sembawang Secondary School, the _eTeens_ programme will be implemented as follows in 2023:**
+**At Sembawang Secondary School, the _eTeens_ programme will be implemented as follows in 2023:** <br><br>
 
 <div class="table-responsive"><table width="0">
 <thead>
@@ -350,10 +350,10 @@ In this lesson, students will revisit the impact of pornography and deepen their
 </tr>
 </tbody>
 </table></div>
+<br><br>
+**Information for Parents**<br><br>
 
-**Information for Parents**
-
-10.  Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+10.  Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers. <br><br>
 11.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Parent%20opt-out%20form%202023.pdf). The completed form is to be submitted by 23/02/2023.
 12.  Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/eTeens%20Parents%20Opt-out%20Form%20(Sec)%202023.pdf). The completed form is to be submitted by 23/02/2023.
 13.  Parents can contact the school at (Tel: 67566760, e-mail: [sembawang\_ss@moe.edu.sg](mailto:sembawang_ss@moe.edu.sg)) for discussion or to seek clarification about the school’s sexuality education programme.
