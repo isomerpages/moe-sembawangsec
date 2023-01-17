@@ -4,6 +4,18 @@ permalink: /announcement/all-announcements/
 description: ""
 ---
 ## Announcements
+#####  **17 Jan 2023**
+Updated Time-table
+
+Dear students,
+
+Please access the updated time-table:
+
+[Week 03 Beginning 16 Jan 2023 (Odd week)](/files/2023%20S1%20Odd%20Classes%20Final%20Jan%2012v20%20w%20no%20Trs%20Names.pdf)  <br><br>
+
+[Week 04 Beginning 23 Jan 2023 (Even week)](/files/2023%20S1%20Even%20Classes%20Final%20Jan%2012v20%20w%20no%20Trs%20Names.pdf)
+
+
 #####  **11 Jan 2023**
 
 <b>Release of GCE O Level Examination Results 2022</b>
