@@ -47,11 +47,11 @@ Secondary 1</h3>
 <table width="100%">
 <thead>
 <tr>
-<td width="10%">Unit</td>
-<td width="10%">Lesson Title / Duration</td>
-<td width="30%">Lesson Overview</td>
-<td width="40%">Lesson Objectives<br>At the end of the lesson, students will be able to:</td>
-<td width="10%">Time Period<br>(e.g. Term 1 Week 2)</td>
+	<td width="10%"><b>Unit</b></td>
+	<td width="10%"><b>Lesson Title / Duration</b></td>
+	<td width="30%"><b>Lesson Overview</b></td>
+	<td width="40%"><b>Lesson Objectives</b><br>At the end of the lesson, students will be able to:</td>
+	<td width="10%"><b>Time Period</b><br>(e.g. Term 1 Week 2)</td>
 </tr>
 </thead>
 <tbody>
@@ -101,12 +101,12 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 <table>
 <thead>
 <tr>
-<td>Unit</td>
-<td>Lesson Title / Duration</td>
-<td>Lesson Overview</td>
-<td>Lesson Objectives
+	<td><b>Unit</b></td>
+	<td><b>Lesson Title / Duration</b></td>
+	<td><b>Lesson Overview</b></td>
+	<td><b>Lesson Objectives</b>
 <br>At the end of the lesson, students will be able to:</td>
-<td>Time Period
+	<td><b>Time Period</b>
 <br>(e.g. Term 1 Week 2)</td>
 </tr>
 </thead>
@@ -160,12 +160,12 @@ This lesson focuses on respect for personal boundaries; and how to be safe from 
 <thead>
 <tr>
 <td><br>
-Unit</td>
-<td>Lesson Title/ Duration</td>
-<td>Lesson Overview</td>
-<td>Lesson Objectives
+	<b>Unit</b></td>
+	<td><b>Lesson Title/ Duration</b></td>
+	<td><b>Lesson Overview</b></td>
+	<td><b>Lesson Objectives</b>
 <br>At the end of the lesson, students will be able to:</td>
-<td>Time Period
+	<td><b>Time Period</b>
 <br>(e.g. Term 1 Week 2)</td>
 </tr>
 </thead>
@@ -216,12 +216,12 @@ This lesson aims to help students think critically and make informed decisions i
 <table>
 <thead>
 <tr>
-<td>Unit</td>
-<td>Lesson Title/ Duration</td>
-<td>Lesson Overview</td>
-<td>Lesson Objectives
+	<td><b>Unit</b></td>
+	<td><b>Lesson Title/ Duration</b></td>
+	<td><b>Lesson Overview</b></td>
+	<td><b>Lesson Objectives</b>
 <br>At the end of the lesson, students will be able to:</td>
-<td>Time Period
+	<td><b>Time Period</b>
 <br>(e.g. Term 1 Week 2)</td>
 </tr>
 </thead>
@@ -279,12 +279,12 @@ In this lesson, students will revisit the impact of pornography and deepen their
 <table>
 <thead>
 <tr>
-<td>Unit</td>
-<td>Lesson Title/ Duration</td>
-<td>Lesson Overview</td>
-<td>Lesson Objectives
+	<td><b>Unit</b></td>
+	<td><b>Lesson Title/ Duration</b></td>
+	<td><b>Lesson Overview</b></td>
+	<td><b>Lesson Objectives</b>
 <br>At the end of the lesson, students will be able to:</td>
-<td>Time Period
+	<td><b>Time Period</b>
 <br>(e.g. Term 1 Week 2)</td>
 </tr>
 </thead>
@@ -315,9 +315,9 @@ In this lesson, students will understand that different individuals have differe
 <table width="100%">
 <thead>
 <tr>
-<td width="20%">Topics/Lessons</td>
-<td width="60%">Programme Learning Objectives</td>
-<td width="20%">Time Period
+	<td width="20%"><b>Topics/Lessons</b></td>
+	<td width="60%"><b>Programme Learning Objectives</b></td>
+	<td width="20%"><b>Time Period</b>
 </td>
 </tr>
 </thead>
