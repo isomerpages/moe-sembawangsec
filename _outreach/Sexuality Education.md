@@ -30,7 +30,7 @@ description: ""
 
 You may click <a href="https://www.moe.gov.sg/programmes/sexuality-education">here</a> for more information on MOE Sexuality Education.
 <br><br>
-<strong>Overview of Sembawang Secondary School’s Sexuality Education Programme for 2023</strong>
+<h3>Overview of Sembawang Secondary School’s Sexuality Education Programme for 2023</h3>
 <br>
 <li>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach">here</a> for more information on the scope of Sexuality Education in the school curriculum.
 </li>
@@ -40,7 +40,7 @@ You may click <a href="https://www.moe.gov.sg/programmes/sexuality-education">h
 <br>ii. Character and Citizenship Education (CCE)
 </li>
 
-<strong>Sexuality Education Lessons</strong>:
+<h3>Sexuality Education Lessons</h3>:
 
 <li>The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly. Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.
 </li>
@@ -48,9 +48,9 @@ You may click <a href="https://www.moe.gov.sg/programmes/sexuality-education">h
 <li>Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age. 
 </li>
 
-<strong>At Sembawang Secondary School, the following Sexuality Education lessons will be taught in 2023: <br>
+<h3>At Sembawang Secondary School, the following Sexuality Education lessons will be taught in 2023: <br>
 
-Secondary 1</strong>
+Secondary 1</h3>
 
 <table>
 <thead>
@@ -104,7 +104,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 </tbody>
 </table>
 
-<strong>Secondary 2</strong>
+<h3>Secondary 2</h3>
 
 <table>
 <thead>
@@ -161,56 +161,54 @@ This lesson focuses on respect for personal boundaries; and how to be safe from 
 <td>Term 3 Week 8</td>
 </tr>
 </tbody>
-</table></div>
+</table>
 
-<strong>Secondary 3</strong>
+<h3>Secondary 3</h3>
 
-<div><table>
+<table>
 <thead>
 <tr>
-<td><strong><br>
-</strong><strong>Unit</strong></td>
-<td><strong>Lesson Title/ Duration</strong></td>
-<td><strong>Lesson Overview</strong></td\>
-<td><strong>Lesson Objectives</strong><p></p>
-<p><strong>At the end of the lesson, students will be able to:</strong></p></td>
-<td><strong>Time Period</strong><p></p>
-<p><strong>(e.g. Term 1 Week 2)</strong></p></td>
+<td><br>
+Unit</td>
+<td>Lesson Title/ Duration</td>
+<td>Lesson Overview</td>
+<td>Lesson Objectives
+<br>At the end of the lesson, students will be able to:</td>
+<td>Time Period
+<br>(e.g. Term 1 Week 2)</td>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="3">Respectful Relationships &amp; Safety</td>
-<td>1A<p></p>
-<p>(60 mins)</p></td>
+<td>1A
+<br>(60 mins)</td>
 <td>
-
-<p>This lesson focuses on dating respectfully in healthy relationships. Students will learn about self-esteem, their sources of influence (e.g. friends’ perception) on self-esteem, the impact of one’s self-esteem on our mental well-being as well as relationships with others. Students will also learn how emotional reactions can affect relationships positively or negatively. Students will also learn that maturity and readiness are important when entering into a dating relationship.  </p></td>
-<td width="300">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.<p></p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.</p></td>
+This lesson focuses on dating respectfully in healthy relationships. Students will learn about self-esteem, their sources of influence (e.g. friends’ perception) on self-esteem, the impact of one’s self-esteem on our mental well-being as well as relationships with others. Students will also learn how emotional reactions can affect relationships positively or negatively. Students will also learn that maturity and readiness are important when entering into a dating relationship.</td>
+<td>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.</td>
 <td>Term 2 Week 7</td>
 </tr>
 <tr>
-<td>Mending a Broken Heart Lesson 1B<p></p>
-<p>(60 mins)</p></td>
-	<td>
-<p>Students will learn how to manage their emotions if they were to face a breakup and know that relationship building involves person emotions and vulnerabilities, and changes and challenges. Students will also learn that a decision to end a relationship will have consequences on oneself and others, and that grief and loss due to rejections and broken relationships is normal and that one can recover from the experience. They will learn that there are healthy ways of coping with breakdowns in relationships and that family and friends are important pillars of support. 
-
-</p></td>
-<td>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.<p></p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Know that a decision to end a relationship will have consequences on oneself and others.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.</p></td>
+<td>Mending a Broken Heart Lesson 1B
+<br>(60 mins)</td>
+<td>
+Students will learn how to manage their emotions if they were to face a breakup and know that relationship building involves person emotions and vulnerabilities, and changes and challenges. Students will also learn that a decision to end a relationship will have consequences on oneself and others, and that grief and loss due to rejections and broken relationships is normal and that one can recover from the experience. They will learn that there are healthy ways of coping with breakdowns in relationships and that family and friends are important pillars of support. 
+</td>
+<td>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Know that a decision to end a relationship will have consequences on oneself and others.
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.</td>
 <td>Term 2 Week 8</td>
 </tr>
 <tr>
 <td>When Respect Takes Centre Stage 
-Lesson 2<p></p>
-<p>(60 mins)</p></td>
-	<td>
-<p>This lesson aims to help students think critically and make informed decisions in the contexts of sexting and voyeurism, and encourages students to exert a positive influence as a respectful online user. It will also deepen students’ convictions about making moral decisions by taking into consideration the impact of their decisions and actions on their well-being and safety, their loved ones, and the community. Students learn that they have a right and responsibility to be safe and protect their personal space and body. They also learn that sexting, voyeurism and other related sexual offences are never justifiable and they can seek help in times of need.
-</p></td>
+Lesson 2
+<br>(60 mins)</td>
+<td>
+This lesson aims to help students think critically and make informed decisions in the contexts of sexting and voyeurism, and encourages students to exert a positive influence as a respectful online user. It will also deepen students’ convictions about making moral decisions by taking into consideration the impact of their decisions and actions on their well-being and safety, their loved ones, and the community. Students learn that they have a right and responsibility to be safe and protect their personal space and body. They also learn that sexting, voyeurism and other related sexual offences are never justifiable and they can seek help in times of need.
+</td>
 <td>
 <ul>
 <li>Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.</li>
@@ -220,7 +218,7 @@ Lesson 2<p></p>
 <td>Term 2 Week 9</td>
 </tr>
 </tbody>
-</table></div>
+</table>
 
 <strong>Secondary 4</strong>
 
