@@ -10,36 +10,34 @@ description: ""
 
 <li>The goals of Sexuality Education are to:
 
-	i.  To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;
+<br>i.  To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;
 
-	ii.  To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
+<br>ii.  To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
 
-	iii.  To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.
+<br>iii.  To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.
 </li>
 
 <li>The key messages of Sexuality Education are:
 
-	i.  Love and respect yourself as you love and respect others;
+<br>i.  Love and respect yourself as you love and respect others;
 
-	ii.  Build positive relationships based on love and respect (which are the foundation for strong families);
+<br>ii.  Build positive relationships based on love and respect (which are the foundation for strong families);
 
-	iii.  Make responsible decisions for yourself, your family and society; and
+<br>iii.  Make responsible decisions for yourself, your family and society; and
 
-	iv.  Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
+<br>iv.  Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 </li>
 
 You may click <a href="https://www.moe.gov.sg/programmes/sexuality-education">here</a> for more information on MOE Sexuality Education.
-
+<br><br>
 <strong>Overview of Sembawang Secondary School’s Sexuality Education Programme for 2023</strong>
-
+<br>
 <li>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach">here</a> for more information on the scope of Sexuality Education in the school curriculum.
 </li>
 <br>
 <li>The subjects that incorporate topics on sexuality include:
-
-	i. Science
-
-	ii. Character and Citizenship Education (CCE)
+<br>i. Science
+<br>ii. Character and Citizenship Education (CCE)
 </li>
 
 <strong>Sexuality Education Lessons</strong>:
@@ -50,11 +48,11 @@ You may click <a href="https://www.moe.gov.sg/programmes/sexuality-education">h
 <li>Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age. 
 </li>
 
-<strong>At Sembawang Secondary School, the following Sexuality Education lessons will be taught in 2023:</strong>
+<strong>At Sembawang Secondary School, the following Sexuality Education lessons will be taught in 2023: <br>
 
-<strong>Secondary 1</strong>
+Secondary 1</strong>
 
-<div><table>
+<table>
 <thead>
 <tr>
 <td>Unit</td>
@@ -92,24 +90,23 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 </tr>
 <tr>
 <td>More than Meets the Eye
-Lesson 3 <p></p>
-<p>(60 mins)</p></td>
+Lesson 3
+<br>(60 mins)</td>
 <td>
-<p>This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours. 
+This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours. 
 
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
-
-</p></td>
-<td>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<p></p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</p></td>
+</td>
+<td>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</td>
 <td>Term 3 Week 10</td>
 </tr>
 </tbody>
-</table></div>
+</table>
 
 <strong>Secondary 2</strong>
 
-<div><table>
+<table>
 <thead>
 <tr>
 <td><strong>Unit</strong></td>
