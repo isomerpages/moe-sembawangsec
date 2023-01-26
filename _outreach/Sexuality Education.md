@@ -158,7 +158,7 @@ Lesson 2B<p></p>
 	<td>
 <p>This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies.  
 </p></td>
-<td width="300">·&nbsp;&nbsp;&nbsp;&nbsp; Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<p></p>
+<td>·&nbsp;&nbsp;&nbsp;&nbsp; Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<p></p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</p></td>
 <td>Term 3 Week 8</td>
 </tr>
