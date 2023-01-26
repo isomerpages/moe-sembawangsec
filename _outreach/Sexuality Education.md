@@ -44,14 +44,14 @@ You may click <a href="https://www.moe.gov.sg/programmes/sexuality-education/sc
 <h3>At Sembawang Secondary School, the following Sexuality Education lessons will be taught in 2023: <br>
 Secondary 1</h3>
 
-<table>
+<table width="100%">
 <thead>
 <tr>
-<td width="100">Unit</td>
-<td width="100">Lesson Title / Duration</td>
-<td width="300">Lesson Overview</td>
-<td width="400">Lesson Objectives<br>At the end of the lesson, students will be able to:</td>
-<td width="100">Time Period<br>(e.g. Term 1 Week 2)</td>
+<td width="10%">Unit</td>
+<td width="10%">Lesson Title / Duration</td>
+<td width="30%">Lesson Overview</td>
+<td width="40%">Lesson Objectives<br>At the end of the lesson, students will be able to:</td>
+<td width="10%">Time Period<br>(e.g. Term 1 Week 2)</td>
 </tr>
 </thead>
 <tbody>
