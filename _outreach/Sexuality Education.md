@@ -25,7 +25,8 @@ You may click <a href="https://www.moe.gov.sg/programmes/sexuality-education">h
 <h3>Overview of Sembawang Secondary School’s Sexuality Education Programme for 2023</h3>
 
 <li>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. 
-</li><br>You may click <a href="https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach">here</a> for more information on the scope of Sexuality Education in the school curriculum.
+</li>
+You may click <a href="https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach">here</a> for more information on the scope of Sexuality Education in the school curriculum.
 <br>
 <li>The subjects that incorporate topics on sexuality include:
 <br><br>i. Science
