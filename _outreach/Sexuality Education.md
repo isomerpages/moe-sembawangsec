@@ -68,26 +68,25 @@ You may click <a href="https://www.moe.gov.sg/programmes/sexuality-education">h
 <tr>
 <td rowspan="3">Respectful Relationships &amp; Safety</td>
 <td>Steady or Not
-Lesson 1<p></p>
-<p>(60 mins)</p></td>
+Lesson 1
+<br>(60 mins)</td>
 <td>
-<p>This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.</p></td>
-<td>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<p></p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recognise that there are different forms of love (e.g. familial, platonic, romantic love)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recognise the importance and understand what builds healthy and supportive relationships, both online and offline</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand what dating is, and recognise that the readiness and interest in dating vary among individuals</p></td>
+This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.</td>
+<td>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recognise that there are different forms of love (e.g. familial, platonic, romantic love)
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recognise the importance and understand what builds healthy and supportive relationships, both online and offline
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand what dating is, and recognise that the readiness and interest in dating vary among individuals</td>
 <td>Term 3 Week 8</td>
 </tr>
 <tr>
 <td>Being Aware, Being Safe
-Lesson 2<p></p>
-<p>(60 mins)</p></td>
+Lesson 2
+<br>(60 mins)</td>
 <td>
-<p>This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self. 
+This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self. 
 
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
-
-</p></td>
+</td>
 <td>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</td>
 <td>Term 3 Week 9</td>
 </tr>
@@ -126,43 +125,42 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 <tr>
 <td rowspan="3">Respectful Relationships &amp; Safety</td>
 <td>A Role for Everyone 
-Lesson 1<p></p>
-<p>(60&nbsp; mins)</p></td>
+Lesson 1
+<br>(60&nbsp; mins)</td>
 <td>
-<p>This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed.  Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses.
+This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed.  Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses.
 
 Students learn to focus on their personal strengths to pursue their interests and build their self- confidence. 
 
 Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.
 
-</p></td>
-<td>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Know that one’s understanding of gender roles should not be limited by gender stereotypes<p></p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Develop an appreciation of one’s own unique qualities and characteristics as a male or female</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand what sexual orientation entails</p></td>
+</td>
+<td>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Know that one’s understanding of gender roles should not be limited by gender stereotypes
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Develop an appreciation of one’s own unique qualities and characteristics as a male or female
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand what sexual orientation entails</td>
 <td>Term 3 Week 5</td>
 </tr>
 <tr>
 <td>Online Safety Challenge 
-Lesson 2A<p></p>
-<p>(60 mins)</p></td>
-	<td>
-<p>This lesson focuses on the issue of online grooming and cyber-flashing. It emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students’ conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety. 
+Lesson 2A
+<br>(60 mins)</td>
+<td>
+This lesson focuses on the issue of online grooming and cyber-flashing. It emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students’ conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety. 
 
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
-
-</p></td>
+</td>
 <td>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</td>
 <td>Term 3 Week 6</td>
 </tr>
 <tr>
 <td>Do I or Don’t I 
-Lesson 2B<p></p>
-<p>(60 mins)</p></td>
-	<td>
-<p>This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies.  
-</p></td>
-<td>·&nbsp;&nbsp;&nbsp;&nbsp; Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<p></p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</p></td>
+Lesson 2B
+<br>(60 mins)</td>
+<td>
+This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies.  
+</td>
+<td>·&nbsp;&nbsp;&nbsp;&nbsp; Recognise the importance of self-respect and respect for others in relating to members of the opposite gender
+<br>·&nbsp;&nbsp;&nbsp;&nbsp; Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</td>
 <td>Term 3 Week 8</td>
 </tr>
 </tbody>
