@@ -36,8 +36,8 @@ You may click <a href="https://www.moe.gov.sg/programmes/sexuality-education">h
 </li>
 <br>
 <li>The subjects that incorporate topics on sexuality include:
-<br>i. Science
-<br>ii. Character and Citizenship Education (CCE)
+<br><br>i. Science
+<br><br>ii. Character and Citizenship Education (CCE)
 </li>
 
 <h3>Sexuality Education Lessons</h3>:
