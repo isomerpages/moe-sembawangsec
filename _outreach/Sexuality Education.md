@@ -47,11 +47,11 @@ Secondary 1</h3>
 <table>
 <thead>
 <tr>
-<td>Unit</td>
-<td>Lesson Title / Duration</td>
-<td>Lesson Overview</td>
-<td>Lesson Objectives<br>At the end of the lesson, students will be able to:</td>
-<td>Time Period<br>(e.g. Term 1 Week 2)</td>
+<td width="100">Unit</td>
+<td width="100">Lesson Title / Duration</td>
+<td width="300">Lesson Overview</td>
+<td width="400">Lesson Objectives<br>At the end of the lesson, students will be able to:</td>
+<td width="100">Time Period<br>(e.g. Term 1 Week 2)</td>
 </tr>
 </thead>
 <tbody>
