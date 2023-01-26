@@ -57,13 +57,11 @@ You may click <a href="https://www.moe.gov.sg/programmes/sexuality-education">h
 <div><table>
 <thead>
 <tr>
-<td><strong>Unit</strong></td>
-<td><strong>Lesson Title / Duration</strong></td>
-<td><strong>Lesson Overview</strong></td>
-<td><strong>Lesson Objectives</strong><p></p>
-<p><strong>At the end of the lesson, students will be able to:</strong></p></td>
-<td><strong>Time Period </strong><p></p>
-<p><strong>(e.g. Term 1 Week 2)</strong></p></td>
+<td>Unit</td>
+<td>Lesson Title / Duration</td>
+<td>Lesson Overview</td>
+<td>Lesson Objectives<br>At the end of the lesson, students will be able to:</td>
+<td>Time Period<br>(e.g. Term 1 Week 2)</td>
 </tr>
 </thead>
 <tbody>
