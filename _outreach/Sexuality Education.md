@@ -312,12 +312,12 @@ In this lesson, students will understand that different individuals have differe
 
 <h3>At Sembawang Secondary School, the <u>eTeens</u> programme will be implemented as follows in 2023:</h3>
 
-<table>
+<table width="100%">
 <thead>
 <tr>
-<td>Topics/Lessons</td>
-<td>Programme Learning Objectives</td>
-<td>Time Period
+<td width="20%">Topics/Lessons</td>
+<td width="60%">Programme Learning Objectives</td>
+<td width="20%">Time Period
 <br>(e.g. Term 3 Week 9)</td>
 </tr>
 </thead>
