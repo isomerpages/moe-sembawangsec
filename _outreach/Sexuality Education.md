@@ -3,7 +3,7 @@ title: Sexuality Education
 permalink: /outreach/sexuality-education/
 description: ""
 ---
-<strong>Moe Sexuality Education in Schools</strong>
+<h2><strong>Moe Sexuality Education in Schools</strong></h2>
 
 1.  Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 <br>
@@ -213,7 +213,7 @@ Lesson 2<p></p>
 	<td>
 <p>This lesson aims to help students think critically and make informed decisions in the contexts of sexting and voyeurism, and encourages students to exert a positive influence as a respectful online user. It will also deepen students’ convictions about making moral decisions by taking into consideration the impact of their decisions and actions on their well-being and safety, their loved ones, and the community. Students learn that they have a right and responsibility to be safe and protect their personal space and body. They also learn that sexting, voyeurism and other related sexual offences are never justifiable and they can seek help in times of need.
 </p></td>
-<td width="300">
+<td>
 <ul>
 <li>Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.</li>
 <li>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</li>
