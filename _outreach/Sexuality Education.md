@@ -109,13 +109,13 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 <table>
 <thead>
 <tr>
-<td><strong>Unit</strong></td>
-<td><strong>Lesson Title / Duration</strong></td>
-<td><strong>Lesson Overview</strong></td>
-<td><strong>Lesson Objectives</strong><p></p>
-<p><strong>At the end of the lesson, students will be able to:</strong></p></td>
-<td><strong>Time Period</strong><p></p>
-<p><strong>(e.g. Term 1 Week 2)</strong></p></td>
+<td>Unit</td>
+<td>Lesson Title / Duration</td>
+<td>Lesson Overview</td>
+<td>Lesson Objectives
+<br>At the end of the lesson, students will be able to:</td>
+<td>Time Period
+<br>(e.g. Term 1 Week 2)</td>
 </tr>
 </thead>
 <tbody>
@@ -130,7 +130,6 @@ This lesson focus on how the family, culture and society can influence one’s p
 Students learn to focus on their personal strengths to pursue their interests and build their self- confidence. 
 
 Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.
-
 </td>
 <td>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Know that one’s understanding of gender roles should not be limited by gender stereotypes
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Develop an appreciation of one’s own unique qualities and characteristics as a male or female
