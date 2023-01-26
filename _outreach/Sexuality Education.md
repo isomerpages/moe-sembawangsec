@@ -366,6 +366,6 @@ In this lesson, students will revisit the impact of pornography and deepen their
 </li><br><br>
 <li>Parents who wish to opt their children out of the <strong><u>eTeens</u> programme</strong> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/eTeens%20Parents%20Opt-out%20Form%20(Sec)%202023.pdf">here</a>. The completed form is to be submitted by 23/02/2023.
 </li><br><br>
-<li>Parents can contact the school at (Tel: 67566760, e-mail: [sembawang\_ss@moe.edu.sg](mailto:sembawang_ss@moe.edu.sg)) for discussion or to seek clarification about the school’s sexuality education programme.
+<li>Parents can contact the school at (Tel: 67566760, e-mail: [sembawang_ss@moe.edu.sg](mailto:sembawang_ss@moe.edu.sg)) for discussion or to seek clarification about the school’s sexuality education programme.
 </li>
 </ol>
