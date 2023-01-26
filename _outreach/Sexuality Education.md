@@ -8,16 +8,16 @@ description: ""
 <ol><li>Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</li><br>
 
 <li>The goals of Sexuality Education are to:
-<br><br>i.  To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;
-<br><br>ii.  To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
-<br><br>iii.  To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.
+<br><br>(a) To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;
+<br><br>(b) To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
+<br><br>(c) To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.
 </li><br>
 
 <li>The key messages of Sexuality Education are:
-<br><br>i.  Love and respect yourself as you love and respect others;
-<br><br>ii.  Build positive relationships based on love and respect (which are the foundation for strong families);
-<br><br>iii.  Make responsible decisions for yourself, your family and society; and
-<br><br>iv.  Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
+<br><br>(a) Love and respect yourself as you love and respect others;
+<br><br>(b) Build positive relationships based on love and respect (which are the foundation for strong families);
+<br><br>(c) Make responsible decisions for yourself, your family and society; and
+<br><br>(d) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 <br>
 You may click <a href="https://www.moe.gov.sg/programmes/sexuality-education">here</a> for more information on MOE Sexuality Education.
 </li>
@@ -29,8 +29,8 @@ You may click <a href="https://www.moe.gov.sg/programmes/sexuality-education">h
 You may click <a href="https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach">here</a> for more information on the scope of Sexuality Education in the school curriculum.
 <br><br>
 <li>The subjects that incorporate topics on sexuality include:
-<br><br>i. Science
-<br><br>ii. Character and Citizenship Education (CCE)
+<br><br>a. Science
+<br><br>b. Character and Citizenship Education (CCE)
 </li>
 
 <h3>Sexuality Education Lessons:</h3>
@@ -235,7 +235,7 @@ This lesson aims to help students think critically about gender stereotypes that
 <td>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</td>
-<td>Term 1 Week 8</td>
+<td>Term 2 Week 2</td>
 </tr>
 <tr>
 <td>When Love Hurts 
@@ -248,7 +248,7 @@ This lesson aims to help students recognise unhealthy relationships and build th
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.</td>
-<td>Term 1 Week 9</td>
+<td>Term 2 Week 3</td>
 </tr>
 <tr>
 <td>For Better or For Worse Lesson 3
@@ -258,7 +258,7 @@ This lesson focuses on building a positive relationship with one’s partner in 
 <td>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.</td>
-<td>Term 2 Week 1</td>
+<td>Term 2 Week 6</td>
 </tr>
 <tr>
 <td></td>
@@ -269,7 +269,7 @@ Lesson 4
 <br>
 In this lesson, students will revisit the impact of pornography and deepen their understanding on its impact on relationships. Students will also learn about revenge pornography, including its definition and legal provisions. They will also learn that they can turn to trusted adults for help in setting boundaries and overcoming difficulties in making sound decisions, to prevent themselves from encountering danger. </p></td>
 <td>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
-<td>Term 2 Week 6</td>
+<td>Term 2 Week 7</td>
 </tr>
 </tbody>
 </table>
@@ -298,7 +298,7 @@ In this lesson, students will understand that different individuals have differe
 <td>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</td>
-<td>Term 2 Week 1</td>
+<td>Term 2 Week 2</td>
 </tr>
 </tbody>
 </table>
@@ -318,7 +318,7 @@ In this lesson, students will understand that different individuals have differe
 <td width="20%">Topics/Lessons</td>
 <td width="60%">Programme Learning Objectives</td>
 <td width="20%">Time Period
-<br>(e.g. Term 3 Week 9)</td>
+</td>
 </tr>
 </thead>
 <tbody>
@@ -328,12 +328,12 @@ In this lesson, students will understand that different individuals have differe
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Modes of transmission
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Modes of protection, specifically on how the condom is used
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Consequences and impact of STIs/HIV</td>
-<td>Term 3 Week 1</td>
+<td>Term 3 Week 5</td>
 </tr>
 <tr>
 <td>Classroom-based Lesson</td>
 <td>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td>
-<td>Term 3 Week 3</td>
+<td>Term 3 Week 6</td>
 </tr>
 </tbody>
 </table>
