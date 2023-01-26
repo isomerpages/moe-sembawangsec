@@ -273,62 +273,62 @@ In this lesson, students will revisit the impact of pornography and deepen their
 <td>Term 2 Week 6</td>
 </tr>
 </tbody>
-</table></div>
+</table>
 
-<strong>Secondary 5</strong>
+<h3>Secondary 5</h3>
 
-<div><table>
+<table>
 <thead>
 <tr>
-<td><strong>Unit</strong></td>
-<td><strong>Lesson Title/ Duration</strong></td>
-<td><strong>Lesson Overview</strong></td>
-<td><strong>Lesson Objectives</strong><p></p>
-<p><strong>At the end of the lesson, students will be able to:</strong></p></td>
-<td><strong>Time Period</strong><p></p>
-<p><strong>(e.g. Term 1 Week 2)</strong></p></td>
+<td>Unit</td>
+<td>Lesson Title/ Duration</td>
+<td>Lesson Overview</td>
+<td>Lesson Objectives
+<br>At the end of the lesson, students will be able to:</td>
+<td>Time Period
+<br>(e.g. Term 1 Week 2)</td>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>Respectful Relationships &amp; Safety</td>
-<td>This is Where I Draw the Line <p></p>
-<p>(60 mins)</p></td>
+<td>This is Where I Draw the Line 
+<br>(60 mins)</td>
 <td>
-<p>In this lesson, students will understand that different individuals have different emotional and physical boundaries. This lesson highlights the need to respect the boundaries of others and reinforces the importance of showing respect to the opposite sex by using appropriate words and actions. Students will examine personal boundaries from different perspectives and learn the importance of making sound values-based decisions and acting in consideration of the well-being of themselves and others. </p></td>
-<td>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<p></p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</p></td>
+In this lesson, students will understand that different individuals have different emotional and physical boundaries. This lesson highlights the need to respect the boundaries of others and reinforces the importance of showing respect to the opposite sex by using appropriate words and actions. Students will examine personal boundaries from different perspectives and learn the importance of making sound values-based decisions and acting in consideration of the well-being of themselves and others.</td>
+<td>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</td>
 <td>Term 2 Week 1</td>
 </tr>
 </tbody>
-</table></div>
+</table>
 
-<strong><u>eTeens</u> Programme</strong>: <br><br>
+<h3><u>eTeens</u> Programme:</h3>
 
 <li><u>eTeens</u> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. <u>eTeens</u> is conducted in two segments – a mass talk segment and a classroom-based programme.
 </li><br><br>
 <li>Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the <u>eTeens</u> programme is that students are empowered to make wise, informed and sensible decisions. 
-</li><br><br>
+</li>
 
-<strong>At Sembawang Secondary School, the <u>eTeens</u> programme will be implemented as follows in 2023:</strong> <br><br>
+<h3>At Sembawang Secondary School, the <u>eTeens</u> programme will be implemented as follows in 2023:</h3>
 
-<div><table>
+<table>
 <thead>
 <tr>
-<td><strong>Topics/Lessons</strong></td>
-<td><strong>Programme Learning Objectives</strong></td>
-<td><strong>Time Period</strong><p></p>
-<p><strong>(e.g. Term 3 Week 9)</strong></p></td>
+<td>Topics/Lessons</td>
+<td>Programme Learning Objectives</td>
+<td>Time Period
+<br>(e.g. Term 3 Week 9)</td>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>Mass Talk by HPB appointed vendor</td>
-<td>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Awareness of the different STIs and HIV/AIDS<p></p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Modes of transmission</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Modes of protection, specifically on how the condom is used</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Consequences and impact of STIs/HIV</p></td>
+<td>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Awareness of the different STIs and HIV/AIDS
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Modes of transmission
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Modes of protection, specifically on how the condom is used
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Consequences and impact of STIs/HIV</td>
 <td>Term 3 Week 1</td>
 </tr>
 <tr>
@@ -337,16 +337,19 @@ In this lesson, students will revisit the impact of pornography and deepen their
 <td>Term 3 Week 3</td>
 </tr>
 </tbody>
-</table></div>
-<br><br>
-<strong>Information for Parents</strong><br><br>
+</table>
+
+<h3>Information for Parents</h3>
 
 <li>Parents may opt their children out of the Sexuality Education lessons, <u>eTeens</u> and/or supplementary sexuality education programmes by MOE-approved external providers.
-</li><br><br>
+</li>
+
 <li>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/Parent%20opt-out%20form%202023.pdf">here</a>. The completed form is to be submitted by 23/02/2023.
-</li><br><br>
+</li>
+
 <li>Parents who wish to opt their children out of the <strong><u>eTeens</u> programme</strong> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/eTeens%20Parents%20Opt-out%20Form%20(Sec)%202023.pdf">here</a>. The completed form is to be submitted by 23/02/2023.
-</li><br><br>
+</li>
+
 <li>Parents can contact the school at (Tel: 67566760, e-mail: [sembawang_ss@moe.edu.sg](mailto:sembawang_ss@moe.edu.sg)) for discussion or to seek clarification about the school’s sexuality education programme.
 </li>
 </ol>
