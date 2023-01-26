@@ -346,7 +346,7 @@ In this lesson, students will understand that different individuals have differe
 <li>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/Parent_opt_out_form_2023.pdf">here</a>. The completed form is to be submitted by 23/02/2023.
 </li>
 
-<li>Parents who wish to opt their children out of the <strong><u>eTeens</u> programme</strong> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/eTeens_Parents_Opt-out_Form_2023.pdf">here</a>. The completed form is to be submitted by 23/02/2023.
+<li>Parents who wish to opt their children out of the <strong><u>eTeens</u> programme</strong> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/eTeens_Parents_Opt_out_Form_2023.pdf">here</a>. The completed form is to be submitted by 23/02/2023.
 </li>
 
 <li>Parents can contact the school at (Tel: 67566760, e-mail: <a href="mailto: sembawang_ss@moe.edu.sg">sembawang_ss@moe.edu.sg</a> for discussion or to seek clarification about the school’s sexuality education programme.
