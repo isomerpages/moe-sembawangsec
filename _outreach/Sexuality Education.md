@@ -172,7 +172,7 @@ This lesson focuses on respect for personal boundaries; and how to be safe from 
 <tbody>
 <tr>
 <td rowspan="3">Respectful Relationships &amp; Safety</td>
-<td>1A
+<td>Love Yourself, Love Others<br>Lesson 1A
 <br>(60 mins)</td>
 <td>
 This lesson focuses on dating respectfully in healthy relationships. Students will learn about self-esteem, their sources of influence (e.g. friends’ perception) on self-esteem, the impact of one’s self-esteem on our mental well-being as well as relationships with others. Students will also learn how emotional reactions can affect relationships positively or negatively. Students will also learn that maturity and readiness are important when entering into a dating relationship.</td>
@@ -265,9 +265,8 @@ This lesson focuses on building a positive relationship with one’s partner in 
 <td>There’s Always More to a Story 
 Lesson 4
 <br>(60 mins)</td>
-<td>4
-<br>
-In this lesson, students will revisit the impact of pornography and deepen their understanding on its impact on relationships. Students will also learn about revenge pornography, including its definition and legal provisions. They will also learn that they can turn to trusted adults for help in setting boundaries and overcoming difficulties in making sound decisions, to prevent themselves from encountering danger. </p></td>
+<td>
+In this lesson, students will revisit the impact of pornography and deepen their understanding on its impact on relationships. Students will also learn about revenge pornography, including its definition and legal provisions. They will also learn that they can turn to trusted adults for help in setting boundaries and overcoming difficulties in making sound decisions, to prevent themselves from encountering danger. </td>
 <td>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
 <td>Term 2 Week 7</td>
 </tr>
