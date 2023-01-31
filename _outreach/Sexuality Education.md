@@ -294,9 +294,7 @@ In this lesson, students will revisit the impact of pornography and deepen their
 <br>(60 mins)</td>
 <td>
 In this lesson, students will understand that different individuals have different emotional and physical boundaries. This lesson highlights the need to respect the boundaries of others and reinforces the importance of showing respect to the opposite sex by using appropriate words and actions. Students will examine personal boundaries from different perspectives and learn the importance of making sound values-based decisions and acting in consideration of the well-being of themselves and others.</td>
-<td>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</td>
+<td>· understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</td>
 <td>Term 2 Week 2</td>
 </tr>
 </tbody>
