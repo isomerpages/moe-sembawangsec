@@ -3,7 +3,19 @@ title: All Announcements
 permalink: /announcement/all-announcements/
 description: ""
 ---
-## Announcements
+## Announcents
+#####  **6 Feb 2023**
+
+Dear Parents, <br>
+A briefing regarding Home-Based Learning (HBL) and Weighted Assessments (WA) was conducted for the students on Wednesday, 1 February 2023. Please see attached slides for more information on HBL and WA. <br>
+
+<a href="/files/HBL%20Briefing.pdf">HBL Briefing</a> 
+ <br>
+
+<a href="/files/Briefing%20for%20Students%20-%20Assessment%20Matters.pdf">Briefing for Students - Assessment Matters</a>
+<br><br>
+Thank you.<br>
+
 #####  **17 Jan 2023**
 Updated Time-table
 
