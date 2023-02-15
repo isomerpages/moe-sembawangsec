@@ -8,12 +8,12 @@ third_nav_title: Clubs & Societies
 
 Our Audio Visual Aid Club is a unique CCA, as we are a service CCA whose members are focused on providing support for schools events and the daily running of the school, from the daily use of the public announcement system, to the provision of sound support during sports events. As part of our holistic education, our member also receive photography training and provide photography services to our school regularly. Learning journeys are also a regular fixture for our members to bond and have fun on.
 
-### Teacher-in-charge:
+### Teachers-in-charge:
 
 Miss Yeo Moei Leng(I/C)  
 Mdm Zaetun Bte Abbas  
-Chua Sock Huang
-Lim Siew Choo Samantha
+Mdm Melissa Chua<br>
+Miss Samantha Lim <br>
 
 ### Training Schedule
 
