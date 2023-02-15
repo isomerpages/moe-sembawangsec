@@ -10,7 +10,7 @@ The CCA Programme in Sembawang Secondary School is designed around students’ g
 Range of CCA Offered
 
 *   [Sports and Games](/co-curriculum/ccas/sports-games/)
-*   [Uniform Groups](/co-curriculum/ccas/uniformed-groups/)
+*   [Uniformed Groups](/co-curriculum/ccas/uniformed-groups/)
 *   [Performing Arts](/co-curriculum/ccas/performing-arts/)
 *   [Clubs and Societies](/co-curriculum/ccas/clubs-societies/)
 
