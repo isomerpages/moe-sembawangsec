@@ -10,7 +10,7 @@ Our Audio Visual Aid Club is a unique CCA, as we are a service CCA whose members
 
 ### Teachers-in-charge:
 
-Miss Yeo Moei Leng(I/C)  
+Mdm Yeo Moei Leng(I/C)  
 Mdm Zaetun Bte Abbas  
 Mdm Melissa Chua<br>
 Miss Samantha Lim <br>
