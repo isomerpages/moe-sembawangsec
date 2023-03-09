@@ -4,6 +4,30 @@ permalink: /announcement/all-announcements/
 description: ""
 ---
 ## Announcents
+
+#####  **9 Mar 2023**
+**Collection of SGC for Graduates from Sec 4TE5 (2022)**
+
+Dear Graduates,
+
+We are pleased to inform you that your School Graduation Certificates (SGC) are now ready for collection. 
+
+The details for collection are given in the table below.
+
+
+
+| Class (2022) | Document to bring along | Dates of collection | Time 
+| -------- | -------- | -------- | -------- |
+| 4TE5    | NRIC or Student Ezlink card     | 13 Mar 2023 (Mon)  -  17 Mar 2023 (Fri)     20 Mar 2023 (Mon) - 24 Mar 2023 (Fri)     | 9am - 4pm |
+
+If you are unable to come and collect your SGC within the stipulated time indicated in the table above, please call the school at 67566760 to make an appointment before you come down for collection.     
+
+You will need to provide your particulars at the guard post when you report to school for collection. Please avoid coming in large groups. 
+
+Thank you.
+
+
+
 #####  **6 Feb 2023**
 
 Dear Parents, <br>
