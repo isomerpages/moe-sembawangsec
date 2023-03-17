@@ -11,8 +11,8 @@ description: ""
 Dear students,
 
 Please refer to the following timetable for term 2:
-* Odd week beginning 20 Mar 2023
-* Even week beginning 27 Mar 2023
+* [Odd week beginning 20 Mar 2023](/files/2023%20T2%20Odd%20Wks%20Classes%20Final%20vMarch17%20for%20Sch%20Website.pdf)
+* [Even week beginning 27 Mar 2023](/files/2023%20T2%20Even%20Wks%20Classes%20Final%20vMarch17%20for%20Sch%20Website.pdf)
 
 
 #####  **9 Mar 2023**
