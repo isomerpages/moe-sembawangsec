@@ -5,6 +5,16 @@ description: ""
 ---
 ## Announcents
 
+#####  **17 Mar 2023**
+**Updated Time-table for Term 2**
+
+Dear students,
+
+Please refer to the following timetable for term 2:
+* Odd week beginning 20 Mar 2023
+* Even week beginning 27 Mar 2023
+
+
 #####  **9 Mar 2023**
 **Collection of SGC for Graduates from Sec 4TE5 (2022)**
 
