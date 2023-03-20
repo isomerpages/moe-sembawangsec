@@ -6,7 +6,7 @@ description: ""
 ## Announcents
 
 #####  **20 Mar 2023**
-Calendar of School Events 2023
+Calendar of School Events 2023<br>
 We may make changes to the information presented from time to time. We will keep students and parents informed should there be any changes.
 <br>
 Term 2
