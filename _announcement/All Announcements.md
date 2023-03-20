@@ -6,10 +6,10 @@ description: ""
 ## Announcents
 
 #####  **20 Mar 2023**
-Calendar of School Events 2023
+**Calendar of School Events 2023**<br>
 We may make changes to the information presented from time to time. We will keep students and parents informed should there be any changes.
 <br>
-Term 2
+**Term 2**
 
 | Date(s) | Event | Level(s) |
 | -------- | -------- | -------- |
@@ -20,7 +20,7 @@ Term 2
 | 27 Mar – 7 Apr    | MTL Fortnight     | All     |
 | 27 Mar – 29 Mar    | Applied Learning Module (ApLM) ITE     | Half of Sec 3IN6    |
 | Whole of Apr   | Algebraic April <br>A special programme at our Library organised by Mathematics Department     | All     |
-| 8 Apr    | Student Leaders Investiture   | All     |
+| 18 Apr    | Student Leaders Investiture   | All     |
 | 20 Apr    | International Friendship Day Commemoration   | All     |
 | 25 Apr    | NAPFA   | Sec 2  |
 | 28 Apr    | Speech Day  | All  |
@@ -33,6 +33,7 @@ Term 2
 | 24 May    | Science Learning Journey - S.E.A.A Discovery  | Sec 2 NA |
 |24 May    | Learning Journey to LLIC  | Sec 2E and Sec 2T |
 | 25 May    | Science Learning Journey - S.E.A.A Discovery   | Sec 2E and Sec 2T |
+|25 May    | Learning Journey to LLIC  | Sec 2NA |
 |26 May    | Parent-Child Bonding Activity  | Registered parents and students |
 |26 May    | Parents’ Engagement Session   | Sec 2 and Sec 3 |
 |29 May    | O Level MTL Exam  | Sec 4/5
