@@ -3,6 +3,39 @@ title: Calendar of School Events
 permalink: /about-us/permalink/
 description: ""
 ---
+We may make changes to the information presented from time to time. We will keep students and parents informed should there be any changes.
+<br>
+**Term 2 2023**
+
+| Date(s) | Event | Level(s) |
+| -------- | -------- | -------- |
+| 21 Mar     | NAPFA Test     | Sec 4 and 5     |
+| 21 Mar, 28 Mar, 4 Apr, 11 Apr, 18 Apr, 25 Apr | LLP – Design Thinking  | Sec 2 |
+| 21 Mar, 28 Mar, 4 Apr, 11 Apr, 18 Apr, 25 Apr, 2 May, 9 May, 16 May, 23 May | Coding Programme| Sec 1 |
+| 24 Mar     | Julia Gabriel Secondary School Debating Championships Quarter Finals  | Selected Sec 2 and Sec 3 students    |
+| 27 Mar – 7 Apr    | MTL Fortnight     | All     |
+| 27 Mar – 29 Mar    | Applied Learning Module (ApLM) ITE     | Half of Sec 3IN6    |
+| Whole of Apr   | Algebraic April <br>A special programme at our Library organised by Mathematics Department     | All     |
+| 18 Apr    | Student Leaders Investiture   | All     |
+| 20 Apr    | International Friendship Day Commemoration   | All     |
+| 25 Apr    | NAPFA   | Sec 2  |
+| 28 Apr    | Speech Day  | All  |
+| Whole of May    | Mindful May <br> A special programme at our Library organised by English Department    | All     |
+| 5 May   | Mid-Year Exam (MTL) for O Level students   | Sec 4/5  |
+| 8 May - 9 May    | Learning Journey to National Museum | Sec 2 |
+| 16 May - 18 May    | MTL Intensive for O Level students   | Sec 4/5  |
+| 19 May    | Youth Games  | All |
+| 22 - 26 May    | EL Fiesta | All |
+| 24 May    | Science Learning Journey - S.E.A.A Discovery  | Sec 2 NA |
+|24 May    | Learning Journey to LLIC  | Sec 2E and Sec 2T |
+| 25 May    | Science Learning Journey - S.E.A.A Discovery   | Sec 2E and Sec 2T |
+|25 May    | Learning Journey to LLIC  | Sec 2NA |
+|26 May    | Parent-Child Bonding Activity  | Registered parents and students |
+|26 May    | Parents’ Engagement Session   | Sec 2 and Sec 3 |
+|29 May    | O Level MTL Exam  | Sec 4/5
+|30 May    | O Level MTL ‘B’ Exam  | Sec 4/5 |
+
+
 We may make changes to the information presented from time to time.&nbsp; We will keep students and parents informed should there be any changes.
 #### **Term 1 2023**
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
