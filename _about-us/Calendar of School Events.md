@@ -4,8 +4,8 @@ permalink: /about-us/permalink/
 description: ""
 ---
 We may make changes to the information presented from time to time. We will keep students and parents informed should there be any changes.
-<br>
-**Term 2 2023**
+
+#### **Term 2 2023**
 
 | Date(s) | Event | Level(s) |
 | -------- | -------- | -------- |
