@@ -35,7 +35,6 @@ We may make changes to the information presented from time to time. We will keep
 |29 May    | O Level MTL Exam  | Sec 4/5
 |30 May    | O Level MTL ‘B’ Exam  | Sec 4/5 |
 
-
 We may make changes to the information presented from time to time.&nbsp; We will keep students and parents informed should there be any changes.
 #### **Term 1 2023**
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
