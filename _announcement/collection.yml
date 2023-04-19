@@ -2,8 +2,8 @@ collections:
   announcement:
     output: true
     order:
-      - Direct School Admission 2024.md
       - All Announcements.md
+      - Direct School Admission 2024.md
       - Secondary One Registration/.keep
       - Secondary One Registration/Secondary One Registration for 2023.md
       - Secondary One Registration/Welcome Letter.md
