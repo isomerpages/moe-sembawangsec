@@ -11,7 +11,7 @@ sections:
       subtitle: Leaders & Change Makers
       background: /images/dragon-boat-competition.jpeg
       button: Direct School Admission Exercise 2023
-      url: /announcement/direct-school-admission-exercise-2023/
+      url: /announcement/direct-school-admission-exercise-2023
       key_highlights:
         - title: Pearl
           description: Develop active learning
