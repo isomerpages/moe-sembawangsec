@@ -4,8 +4,26 @@ permalink: /announcement/all-announcements/
 description: ""
 ---
 ## Announcents
+##### **26 Apr 2023**
 
-#####  **20 Mar 2023**
+**Collection of SGC for Graduates from Sec 4 Express (2022)**<br>
+Dear Graduates,<br>
+We are pleased to inform you that your School Graduation Certificates (SGC) are now ready for collection. 
+
+The details for collection are given in the table below.
+
+| Class (2022) | Document to bring along | Dates of collection | Time from | Time to |
+| -------- | -------- | -------- | --------| -----|
+| 4TE1 4TE2 | NRIC or Student Ezlink card| 02 May 2023 (Tues) - 05 May 2023 (Fri) and 08 May 2023 (Mon) – 12 May 2023 (Fri) | 9.00 a.m.  | 4.00 p.m. |
+
+If you are unable to come and collect your SGC within the stipulated time indicated in the table above, please call the school at 67566760 to make an appointment before you come down for collection.     
+You will need to provide your particulars at the guard post when you report to school for collection.
+Please avoid coming in large groups. 
+
+Thank you.
+
+
+##### &nbsp;**20 Mar 2023**
 **Calendar of School Events 2023**<br>
 We may make changes to the information presented from time to time. We will keep students and parents informed should there be any changes.
 <br>
@@ -39,7 +57,7 @@ We may make changes to the information presented from time to time. We will keep
 |29 May    | O Level MTL Exam  | Sec 4/5
 |30 May    | O Level MTL ‘B’ Exam  | Sec 4/5 |
 
-#####  **17 Mar 2023**
+##### &nbsp;**17 Mar 2023**
 **Updated Time-table for Term 2**
 
 Dear students,
@@ -49,7 +67,7 @@ Please refer to the following timetable for term 2:
 * [Even week beginning 27 Mar 2023](/files/2023%20T2%20Even%20Wks%20Classes%20Final%20vMarch17%20for%20Sch%20Website.pdf)
 
 
-#####  **9 Mar 2023**
+##### &nbsp;**9 Mar 2023**
 **Collection of SGC for Graduates from Sec 4TE5 (2022)**
 
 Dear Graduates,
@@ -72,7 +90,7 @@ Thank you.
 
 
 
-#####  **6 Feb 2023**
+##### &nbsp;**6 Feb 2023**
 
 Dear Parents, <br>
 A briefing regarding Home-Based Learning (HBL) and Weighted Assessments (WA) was conducted for the students on Wednesday, 1 February 2023. Please see attached slides for more information on HBL and WA. <br>
@@ -84,7 +102,7 @@ A briefing regarding Home-Based Learning (HBL) and Weighted Assessments (WA) was
 <br><br>
 Thank you.<br>
 
-#####  **17 Jan 2023**
+##### &nbsp;**17 Jan 2023**
 Updated Time-table
 
 Dear students,
@@ -96,7 +114,7 @@ Please access the updated time-table:
 [Week 04 Beginning 23 Jan 2023 (Even week)](/files/2023%20S1%20Even%20Classes%20Final%20Jan%2013.pdf)
 
 
-#####  **11 Jan 2023**
+##### &nbsp;**11 Jan 2023**
 
 <b>Release of GCE O Level Examination Results 2022</b>
 
@@ -105,7 +123,7 @@ Please report in full school uniform and be in proper grooming.
 If you are tested AG+ or feeling unwell on 12 Jan, do not report to school.  Inform your teachers and they will provide you with more information. <br>
 Wishing everyone the very best!
 
-#####  **04 Jan 2023**
+##### &nbsp;**04 Jan 2023**
 
 **Calendar of School Events** <br>
 We may make changes to the information presented from time to time.  We will keep students and parents informed should there be any changes. 
@@ -117,25 +135,25 @@ Term 1 2023
 |Whole of Jan    | Joyful January - A special programme at our Library organised by Mother Tongue Department   |    All  |
 |3 - 5 Jan  | Sec 1 Orientation Programme    |  Sec 1  |
 |14 Jan  | Parents Engagement Session cum CCA Open House    |  Sec 1  |
-|9 -13 Jan  | Outward Bound Singapore (OBS) Experience (Group 1)    |  Sec 3  |
-|16 -20 Jan  | Outward Bound Singapore (OBS) Experience (Group 2)    |  Sec 3  |
-|6 -10 Feb  | Jazzy Arts - A special programme to promote awareness of Arts Education    |  All  |
+|9 -13 Jan  | Outward Bound Singapore (OBS) Experience (Group 1) &nbsp;  |  Sec 3  |
+|16 -20 Jan  | Outward Bound Singapore (OBS) Experience (Group 2) &nbsp;  |  Sec 3  |
+|6 -10 Feb  | Jazzy Arts - A special programme to promote awareness of Arts Education &nbsp;  |  All  |
 |7 Feb  | ALP Enrichment Lesson 2   |  Sec 2  |
 |9 Feb  | House System Briefing   |  All  |
-|13- 24 Feb  | Artisanal February - A special programme at our Library organised by Craft & Technology Department  |  All  |
-|14 Feb  | Total Defence Day Commemoration  |  All  |
-|14 Feb  | ALP Enrichment Lesson 3  |  Sec 2  |
-|21 Feb  | ALP Enrichment Lesson 4  |  Sec 2  |
-|23 Feb  | Interhouse Games (Part 1)  |  All  |
-|28 Feb  | ALP Enrichment Lesson 5  |  Sec 2  |
-|3 Mar   | SMB Youth Run  |  All  |
-|6 - 10 Mar   | Science Fortnight (Part 1)  |  All  |
-|7 - 9 Mar   | Roll-out of Personal Learning Devices (PLD)   |  Sec 1  |
-|10 Mar   | Self and Peer Leadership Workshop   |  Sec 1  |
-|10 Mar   | Parents Engagement Session  |  Sec 4 & 5  |
-|13 Mar (Day 1 of Term Break)   | Emerging Leaders Programme    |  Sec 2 & 3 Student Leaders  |
+|13- 24 Feb  | Artisanal February - A special programme at our Library organised by Craft &amp; Technology Department&nbsp; |  All  |
+|14 Feb  | Total Defence Day Commemoration&nbsp; |  All  |
+|14 Feb  | ALP Enrichment Lesson 3&nbsp; |  Sec 2  |
+|21 Feb  | ALP Enrichment Lesson 4&nbsp; |  Sec 2  |
+|23 Feb  | Interhouse Games (Part 1)&nbsp; |  All  |
+|28 Feb  | ALP Enrichment Lesson 5&nbsp; |  Sec 2  |
+|3 Mar   | SMB Youth Run&nbsp; |  All  |
+|6 - 10 Mar   | Science Fortnight (Part 1)&nbsp; |  All  |
+|7 - 9 Mar   | Roll-out of Personal Learning Devices (PLD) &nbsp; |  Sec 1  |
+|10 Mar   | Self and Peer Leadership Workshop &nbsp; |  Sec 1  |
+|10 Mar   | Parents Engagement Session&nbsp; |  Sec 4 &amp; 5  |
+|13 Mar (Day 1 of Term Break)   | Emerging Leaders Programme  &nbsp; |  Sec 2 &amp; 3 Student Leaders  |
 
-#####  **03 Jan 2023**
+##### &nbsp;**03 Jan 2023**
 
 **Updated Time-table**
 
@@ -146,7 +164,7 @@ Please access the updated time-table:
 * [Week 02 Beginning 09 Jan 2023 (Even week)](/files/2023%20Sem1%20Even%20v2.pdf)
 
 
-#####  **29 Dec 2022**
+##### &nbsp;**29 Dec 2022**
 
 **First Day of School (3 Jan 2023)**
 
@@ -165,25 +183,25 @@ Please click the following links to access the time-table:
 * [Week 01 Beginning 03 Jan 2023](/files/2023%20S1%20Odd%20Classes%20Final%20Dec%2028%201230.pdf)
 * [Week 02 Beginning 09 Jan 2023](/files/2023%20S1%20Even%20Classes%20Final%20Dec%2028%201230.pdf)
 
-#####  **28 Dec 2022**
+##### &nbsp;**28 Dec 2022**
 
 **Smart Buddy Programme**
 
 Our school has partnered with POSB to offer e-payments at school canteen. Through this programme, we aim to cultivate both financial and digital literacy in our students. Please click [here](/files/Smart%20Buddy%20Registration%20Letter%20(Online).pdf) to find out more about the POSB Smart Buddy Programme.
 
-#####  **14 Dec 2022**
+##### &nbsp;**14 Dec 2022**
 
 **Release of GCE N Level Examination Results 2022**
 
 Students from Sec 4TE3, Sec 4TE4 and Sec 4TE5 are to report to your **respective** **classrooms** by **1.50 pm** on **Monday, 19 December 2022** to attend an important briefing regarding post-secondary courses before collecting your result slips and certificates.
 
-Please report in **full school uniform** and be in **proper grooming**. 
+Please report in **full school uniform** and be in **proper grooming**.&nbsp;
 
-If you are **tested AG+ or feeling unwell** on 19 December, do not report to school.  Inform your teachers and they will provide you with more information.
+If you are **tested AG+ or feeling unwell** on 19 December, do not report to school.&nbsp; Inform your teachers and they will provide you with more information.
 
 Wishing everyone the very best!
 
-#####  **02 Dec 2022**
+##### &nbsp;**02 Dec 2022**
 
 Dear Parents/Guardians,
 
