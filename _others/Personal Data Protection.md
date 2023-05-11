@@ -3,7 +3,6 @@ title: Personal Data Protection
 permalink: /others/personal-data-protection/
 description: ""
 ---
-
 # Personal Data Protection
 
 Sembawang Secondary School is committed to the responsible management of our student’s and visitor’s personal data.

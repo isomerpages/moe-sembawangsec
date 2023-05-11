@@ -1,0 +1,8 @@
+collections:
+  others:
+    output: true
+    order:
+      - Personal Data Protection.md
+      - Polytechnics.md
+      - ITE.md
+      - Canteen Openings.md
