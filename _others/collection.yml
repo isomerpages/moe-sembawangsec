@@ -2,5 +2,6 @@ collections:
   others:
     output: true
     order:
+      - ITE.md
       - Direct School Admission (DSA) for 2023 Intake.md
       - Canteen Openings.md
