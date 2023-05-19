@@ -4,6 +4,23 @@ permalink: /announcement/all-announcements/
 description: ""
 ---
 ## Announcents
+##### **19 May 2023**
+**Collection of SGC for Graduates from Sec 4NA and 5NA - (2022)**<br>
+Dear Graduates,<br>
+We are pleased to inform you that your School Graduation Certificates (SGC) are now ready for collection. 
+
+The details for collection are given in the table below.
+
+| Class (2022) | Document to bring along | Dates of collection | Time from | Time to |
+| -------- | -------- | -------- | --------| -----|
+| 4TE3<br>4TE4<br>5EM1 | NRIC or Student Ezlink card| 22 May 2023 (Mon) - 26 May 2023 (Fri) and <br>29 May 2023 (Mon) – 1 Jun 2023 (Thu) | 9.00 a.m.  | 4.00 p.m. |
+
+If you are unable to come and collect your SGC within the stipulated time indicated in the table above, please call the school at 67566760 to make an appointment before you come down for collection.     
+You will need to provide your particulars at the guard post when you report to school for collection.
+Please avoid coming in large groups. 
+
+Thank you.
+
 ##### **26 Apr 2023**
 
 **Collection of SGC for Graduates from Sec 4 Express (2022)**<br>
@@ -14,7 +31,7 @@ The details for collection are given in the table below.
 
 | Class (2022) | Document to bring along | Dates of collection | Time from | Time to |
 | -------- | -------- | -------- | --------| -----|
-| 4TE1 4TE2 | NRIC or Student Ezlink card| 02 May 2023 (Tues) - 05 May 2023 (Fri) and 08 May 2023 (Mon) – 12 May 2023 (Fri) | 9.00 a.m.  | 4.00 p.m. |
+| 4TE1 4TE2 | NRIC or Student Ezlink card| 02 May 2023 (Tues) - 05 May 2023 (Fri) and<br> 08 May 2023 (Mon) – 12 May 2023 (Fri) | 9.00 a.m.  | 4.00 p.m. |
 
 If you are unable to come and collect your SGC within the stipulated time indicated in the table above, please call the school at 67566760 to make an appointment before you come down for collection.     
 You will need to provide your particulars at the guard post when you report to school for collection.
