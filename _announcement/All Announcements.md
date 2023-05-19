@@ -14,7 +14,7 @@ The details for collection are given in the table below.
 
 | Class (2022) | Document to bring along | Dates of collection | Time from | Time to |
 | -------- | -------- | -------- | --------| -----|
-| 4TE1 4TE2 | NRIC or Student Ezlink card| 02 May 2023 (Tues) - 05 May 2023 (Fri) and 08 May 2023 (Mon) – 12 May 2023 (Fri) | 9.00 a.m.  | 4.00 p.m. |
+| 4TE1 4TE2 | NRIC or Student Ezlink card| 02 May 2023 (Tues) - 05 May 2023 (Fri) and 08 May 2023 (Mon) – <br>12 May 2023 (Fri) | 9.00 a.m.  | 4.00 p.m. |
 
 If you are unable to come and collect your SGC within the stipulated time indicated in the table above, please call the school at 67566760 to make an appointment before you come down for collection.     
 You will need to provide your particulars at the guard post when you report to school for collection.
