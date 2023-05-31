@@ -7,4 +7,4 @@ Currently, the school has the following vacant canteen openings. You can downloa
 
 | Stall | Application Form | 
 | -------- | -------- | 
-| Stall 4 Application |   |
+| Stall 4 Application | Click [here](/files/school%20canteen%20advertisement%20(scas)_stall%204.pdf)  |
