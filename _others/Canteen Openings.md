@@ -7,5 +7,4 @@ Currently, the school has the following vacant canteen openings. You can downloa
 
 | Stall | Application Form | 
 | -------- | -------- | 
-| Stall 4 Application | [stall 4 15 May 2023](/files/stall%204%2015%20may%202023.pdf)  |
-| Stall 8 Application | [stall 8 19 May 2023](/files/stall%208%20application%2019may2023.pdf)  |
+| Stall 4 Application | Click [here](/files/school%20canteen%20advertisement%20(scas)_stall%204.pdf)  |
