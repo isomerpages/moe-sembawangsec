@@ -15,7 +15,7 @@ description: ""
 
 | Administration & Operations |  | 
 | -------- | -------- |
-|Administration Manager|Mdm Hee Lisa|
+|Administration Manager||
 |Operations Manager|Mr Syed Omar Bin Syed Jaffar|
 |Operations Manager|Mr Muhammad Khairul Anwar Bin Zainie |
 |Operations Manager|Mr Rahim Bin Sal |
