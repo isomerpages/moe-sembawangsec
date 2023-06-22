@@ -4,6 +4,22 @@ permalink: /announcement/all-announcements/
 description: ""
 ---
 ## Announcents
+##### **23 June 2023**
+**Welcome Back to School (26 June 2023)**<br>
+Dear students,<br>
+
+We look forward to welcoming you back to school on 26 Jun 2023 (Mon).<br>
+
+You are reminded of the following when you report to school on 26 Jun:
+* You are encouraged to report to the Parade Square by 7.25 am.  
+* Be in proper attire and grooming.
+* Bring along your Oral Digital Thermometer (ODT).<br>
+
+Please click the following links to access the time-table:
+* [Odd Week Timetable beginning 26 Jun 2023](/files/2023%20sem2%20jun%2020%20odd%20classes%20website%20final.pdf)
+* [Even Week Timetable beginning 4 July 2023](/files/2023%20sem2%20jun%2020%20even%20classes%20website%20final.pdf)
+<br>
+
 ##### **19 May 2023**
 **Collection of SGC for Graduates from Sec 4NA and 5NA - (2022)**<br>
 Dear Graduates,<br>
