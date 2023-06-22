@@ -16,8 +16,9 @@ You are reminded of the following when you report to school on 26 Jun:
 * Bring along your Oral Digital Thermometer (ODT).<br>
 
 Please click the following links to access the time-table:
-
-
+* [Odd Week Timetable beginning 26 Jun 2023](/files/2023%20sem2%20jun%2020%20odd%20classes%20website%20final.pdf)
+* [Even Week Timetable beginning 4 July 2023](/files/2023%20sem2%20jun%2020%20even%20classes%20website%20final.pdf)
+<br>
 
 ##### **19 May 2023**
 **Collection of SGC for Graduates from Sec 4NA and 5NA - (2022)**<br>
