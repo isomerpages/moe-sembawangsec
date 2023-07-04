@@ -27,9 +27,8 @@ We may make changes to the information presented from time to time.  We will kee
 |18 &amp; 20 Jul| Racial Harmony Day | All |
 |24 - 31 Jul| N Level Preliminary Examination |Sec 4NA / 4NT students|
 |25 Jul | SEAB DT O Level Coursework Deadline| Sec 4E/5N DT students|
-|25 Jul - 27 Jul |N Level MT Oral| Sec 4NA &amp; 4NT SBB |
-|25 Jul - 3 Aug|  O Level EL Oral |
-|Sec 4E/5N &amp; 4NA SBB|
+|25 Jul - 27 Jul |N Level MT Oral| Sec 4NA &amp;4NT SBB |
+|25 Jul - 3 Aug| O Level EL Oral| Sec 4E/5N &amp; 4NA SBB|
 |27 Jul| Inter-House Games 3| Sec 3|
 |31 Jul| SEAB NFS O Level Coursework Deadline| Sec 4E/5N NFS students|
 |Whole of August| Emblematic August| All|
@@ -38,7 +37,8 @@ We may make changes to the information presented from time to time.  We will kee
 |21 - 30 Aug| O Level Preliminary Examination|   |
 |25 Aug | Parent-Child Bonding 2 |     |
 |31 Aug| Teachers' Day Celebration  | All|
-|Sep break| Applied Learning Module (ApLM) Poly – 4 different programmes| Selected Sec 2E/3E/3NA students
+|Sep break| Applied Learning Module (ApLM) Poly – 4 different programmes| Selected Sec 2E/3E/3NA students|
+|
 
 ##### **23 June 2023**
 **Welcome Back to School (26 June 2023)**<br>
