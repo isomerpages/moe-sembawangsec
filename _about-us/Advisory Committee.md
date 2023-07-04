@@ -5,4 +5,11 @@ description: ""
 ---
 ## School Advisory Committee
 
-![](/images/advisory.png)
+|  |  | 
+| -------- | -------- |
+|Chairperson | Mr Daniel Chan, BBM |
+|Vice-Chairperson |Mr Markus Koo, PBM |
+|Member | Mr Ismail Sukardi |
+|Member | Mr Ong Zhong Da |
+|Member | Mr Syafiq Shahul |
+|  |  |

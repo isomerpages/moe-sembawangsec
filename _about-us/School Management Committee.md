@@ -15,8 +15,7 @@ description: ""
 
 | Administration & Operations |  | 
 | -------- | -------- |
-|Administration Manager||
-|Operations Manager|Mr Syed Omar Bin Syed Jaffar|
+|Administration Manager|
 |Operations Manager|Mr Muhammad Khairul Anwar Bin Zainie |
 |Operations Manager|Mr Rahim Bin Sal |
 
@@ -28,11 +27,11 @@ description: ""
 |Senior Teacher| Mdm Low Huixian Heidi|
 | *Mathematics*| |
 | Head of Department	| Ms Wang Cuiyin|
+|Subject Head | Ms Isabelle Khoo |
 |Senior Teacher| Mr Long Chee Yong|
 |Senior Teacher| Mr Kalvindar Singh|
 | *Science*| |
 | Head of Department	| Mr Leong Wei Jie Serwin|
-|Subject Head (Internal)	| Mr Wong Qin Jie|
 |Senior Teacher (Physics)	|Mr Chan Khai Mun|
 | *Mother Tongue Languages*| |
 | Head of Department	| Mdm Ng Lai Peng|
@@ -49,7 +48,7 @@ description: ""
 |Subject Head | Mr Zeng Hengguang|
 | *Information & Communications Technology*| |
 | Head of Department	| Mr Goh Jiang Wee Alan|
-| Subject Head (Internal)	| Mr Oon Boon Keong|
+| Subject Head	| Mr Oon Boon Keong|
 | **Staff Learning & Development**| |
 | School Staff Developer		| Mr Muzaffar Bin Johari|
 |**Student Development & Well Being**| |
