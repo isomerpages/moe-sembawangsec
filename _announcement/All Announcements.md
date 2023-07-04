@@ -4,6 +4,42 @@ permalink: /announcement/all-announcements/
 description: ""
 ---
 ## Announcents
+##### **4 July 2023** <br>
+**Calendar of School Events** <br>
+We may make changes to the information presented from time to time.  We will keep students and parents informed should there be any changes.<br>
+
+**Term 3 2023** <br>
+
+
+| Date(s) | Events | Level(s) |
+|----------| ---------|-------|
+| Whole of July | Jamboree July | All |
+|4 Jul | O Level MT/MTB LC| Sec 4E/5N/4N SBB |
+|4 - 7 Jul 2023 |Sec 2 Camp Resilience | Sec 2 |
+|6 - 17 Jul | O Level MT Oral | Sec 4E/5N/4N SBB |
+|10 Jul | SEAB NFS N Level Coursework Deadline |Sec 4N/4T NFS students|
+|11 Jul | SEAB DT N Level Coursework Deadline |Sec 4N/4T D&amp;T students |
+|11 - 17 Jul |N Level EL Oral |Sec 4NA &amp; 4NT SBB|
+|13 Jul | All Singapore Mathematics Competition for Normal Courses| Selected Sec 2/3 NA/NT students|
+|17 - 22 Jul | Preliminary Listening Comprehension exam| Sec 4E/4N/5N|
+|24 Jul |ECG Fair: WorldSkills 2023| Sec 3E/3NA (selected 80 students)|
+|24 - 26 Jul| Applied Learning Module (ApLM) ITE| Half of Sec 3IN6|
+|18 &amp; 20 Jul| Racial Harmony Day | All |
+|24 - 31 Jul| N Level Preliminary Examination |Sec 4NA / 4NT students|
+|25 Jul | SEAB DT O Level Coursework Deadline| Sec 4E/5N DT students|
+|25 Jul - 27 Jul |N Level MT Oral| Sec 4NA &amp; 4NT SBB |
+|25 Jul - 3 Aug|  O Level EL Oral |
+|Sec 4E/5N &amp; 4NA SBB|
+|27 Jul| Inter-House Games 3| Sec 3|
+|31 Jul| SEAB NFS O Level Coursework Deadline| Sec 4E/5N NFS students|
+|Whole of August| Emblematic August| All|
+|8 Aug| National Day Celebration| All|
+|17 Aug| O Level Preliminary Science Practical Exam| Sec 4E/5N/4N (SBB)|
+|21 - 30 Aug| O Level Preliminary Examination|   |
+|25 Aug | Parent-Child Bonding 2 |     |
+|31 Aug| Teachers' Day Celebration  | All|
+|Sep break| Applied Learning Module (ApLM) Poly – 4 different programmes| Selected Sec 2E/3E/3NA students
+
 ##### **23 June 2023**
 **Welcome Back to School (26 June 2023)**<br>
 Dear students,<br>
