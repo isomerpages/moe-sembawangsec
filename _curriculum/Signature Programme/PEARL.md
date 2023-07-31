@@ -15,12 +15,11 @@ third_nav_title: Signature Programme
 
 In alignment with the outcome goal of the MOE MasterPlan for ICT in Education – Quality learning in the hands of every learner empowered with technology, PEARL is the school’s very own 1-1 computing access initiative launched in 2017. PEARL aims to promote Active Learning in class through the use of ICT so that our students become better thinkers and more reflective learners.
 
-<img src="/images/it3.jpeg" 
-     style="width:70%">
+<img src="/images/it3.jpeg" style="width:70%">
 
 Teachers, as designers of active learning experiences, are empowered to create an ICT-enriched classroom that is thinking, collaborative and connected. Hence, students would have opportunities to harness the use of technology for collaboration, brainstorming of ideas (making their thinking visible), co-construction of knowledge and even authentic problem-solving in the learning process.
 
-In 2021, PEARL to include MOE’s Personalised Digital Learning Programme (PDLP) supporting students on ownership of 1:1 computing devices for learning. 
+In 2021, PEARL to include MOE’s Personalised Digital Learning Programme (PDLP) supporting students on ownership of 1:1 computing devices for learning.&nbsp;
 
 **Personalised Digital Learning Programme (PDLP)**
 
@@ -42,7 +41,7 @@ These are some useful resources for your reference:
 *   [Parent Handbook (Part 2)](/files/IP3-Parent-Handbook-II-on-Learning-with-a-PLD_8-Dec-21.pdf)
 *   [Parent kit on Cyber Wellness for your Child](/files/cyber-wellness-for-your-child.pdf)
 *   Practising Cyber Wellness ([https://www.moe.gov.sg/programmes/cyber-wellness/](https://www.moe.gov.sg/programmes/cyber-wellness/))
-*   Resources from Media Literacy Council ([https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&persona=parents](https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&persona=parents))
+*   Resources from Media Literacy Council ([https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&amp;persona=parents](https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&amp;persona=parents))
 
 **\*\* For Parents (Device Management Application – Mobile Guardian Access)**
 
@@ -58,21 +57,20 @@ The current DMA setting for all students is “Default“:
 
 Dma Settings
 
-**No action on your end** if you decide to stick to current “Default” settings for your child/ward. However, if you would like to opt for Option A, please email to sembawang\_ss@moe.edu.sg to indicate the switch from “Default” to “Option A”, providing the name of your child and class. Once the system is updated, we will inform you via email.
+**No action on your end**&nbsp;if you decide to stick to current “Default” settings for your child/ward. However, if you would like to opt for Option A, please email to sembawang_ss@moe.edu.sg to indicate the switch from “Default” to “Option A”, providing the name of your child and class. Once the system is updated, we will inform you via email.
 
 Please refer to the following guide for each of the options above:
 
-*   “Default” setting (as prescribed by school) – [DMA Guide for Parents](/files/DMA-Parent-Guide-Default.pdf)
-*   Option A setting – [DMA Guide for Parents](/files/DMA-Parent-Guide-Option-A.pdf)
-*   Option B setting – [DMA Guide for Parents](/files/DMA-Parent-Guide-Option-B.pdf)
+*   “Default” setting (as prescribed by school) –&nbsp;[DMA Guide for Parents](/files/DMA-Parent-Guide-Default.pdf)
+*   Option A setting –&nbsp;[DMA Guide for Parents](/files/DMA-Parent-Guide-Option-A.pdf)
+*   Option B setting –&nbsp;[DMA Guide for Parents](/files/DMA-Parent-Guide-Option-B.pdf)
 
 **Updates**
 
-*   Zoom and Microsoft Suite (Microsoft Word, PowerPoint, Excel, OneNote) have been pushed to your PLD. Please leave your PLD connected for at least 1 hour to your home wifi for the applications to be force-installed.
-*   Lockers and number padlocks will be provided for all students. These are property of the school and will be issued on the first day of the new academic year for incoming Secondary 1 students.
-*   For students who have collected your PLDs on your own, please remember to approach the staff at Library on first day of school to onboard your PLD to our school network. This will ensure that you have access to the school wifi network.
-*   For incoming 2023 Secondary 1 students, briefing for parents will take place by mid-January 2023 and cohort procurement process will complete before end-January 2023. Communications will be via ParentsGateway.
+*   Zoom and other applications have been pushed to your PLD. Please leave your PLD connected for at least 1 hour to your home wifi for the applications to be force-installed.
+*   Lockers will be allocated for all students. Form teachers will assign the lockers to students. 
+*   For incoming Secondary 1 students, briefing for parents will take place during Secondary 1 orientation and cohort procurement process will complete before end-January 2023. Communications will be via ParentsGateway.
 
 **Enquiries**
 
-Should there by any further enquiries, please feel free to email to us at **_sembawang_ss@moe.edu.sg_**
+Should there by any further enquiries, please feel free to email to us at&nbsp;**_sembawang_ss@moe.edu.sg_**
