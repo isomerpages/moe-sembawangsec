@@ -57,8 +57,6 @@ description: ""
 | Subject Head				| Mdm Jayanthi d/o Sangiah|
 |*Student Management*| |
 | Head of Department			| Mr Ng Chee Meng Kenneth|
-|*Student Well-Being*| |
-| Head of Department			| Mr Leong Weng Wai David|
 |*Student Leadership*| |
 | Subject Head			| Mr Rajakumar Raghavan|
 |*Year Heads and Assistant Year Heads*| |
