@@ -4,6 +4,18 @@ permalink: /announcement/all-announcements/
 description: ""
 ---
 ## Announcents
+##### **11 August 2023** <br>
+
+This announcement is for Sec 1 to Sec 3 /2023 students only.<br>
+Application is now opened for **The Straits Times School Pocket Money Fund 2024.**<br>
+**Main Criteria:**<br>
+1.	Singapore Citizens or Singapore Permanent Residents <br>
+2.	Living in a 4-room HOD flat or smaller<br>
+3.	Per Capita Income (PCI) of $750 per month or less<br>
+Application closing date to submit to school office: **11 Sep 2023**<br>
+Please collect the application form from the school office.
+
+
 ##### **4 July 2023** <br>
 **Calendar of School Events** <br>
 We may make changes to the information presented from time to time.  We will keep students and parents informed should there be any changes.<br>
