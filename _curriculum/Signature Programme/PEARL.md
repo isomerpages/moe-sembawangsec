@@ -6,7 +6,7 @@ third_nav_title: Signature Programme
 ---
 ![](/images/IMAG0303.jpg)
 
-## PDLP - PEARL
+## PEARL
 
 
 **Programme to Empower Active and Responsible Learning (PEARL)**
