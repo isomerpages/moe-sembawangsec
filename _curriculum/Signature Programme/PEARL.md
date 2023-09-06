@@ -61,9 +61,9 @@ Dma Settings
 
 Please refer to the following guide for each of the options above:
 
-*   “Default” setting (as prescribed by school) –&nbsp;[DMA Guide for Parents](/files/DMA-Parent-Guide-Default.pdf)
-*   Option A setting –&nbsp;[DMA Guide for Parents](/files/DMA-Parent-Guide-Option-A.pdf)
-*   Option B setting –&nbsp;[DMA Guide for Parents](/files/DMA-Parent-Guide-Option-B.pdf)
+*   “Default” setting (as prescribed by school)["Default" Setting as prescribed by school](/files/dma%20parent%20guide-default%20option.pdf)
+*   Option A setting[Option A Setting](https://go.gov.sg/option-a)
+*   Option B setting[Option B Setting](https://go.gov.sg/option-dma-b)
 
 **Updates**
 
