@@ -180,3 +180,27 @@ Assistant Year Head:&nbsp; Mr Tan Choon Yong Calvin
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="558"><p class="MsoNoSpacing"><span style="font-size:12.0pt">Mdm Rahimah Bte Januri</span></p><p class="MsoNoSpacing"><span style="font-size:12.0pt">Ms Ding Moy Lee</span></p></td></tr></tbody></table>
+	
+### **School Admin Team &amp; School Counsellors Team**
+
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:49.25pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#A6A6A6;mso-background-themecolor:
+  background1;mso-background-themeshade:166;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="66"><p style="text-align:center" align="center" class="MsoNoSpacing"><b><span style="font-size:12.0pt;color:black;mso-color-alt:windowtext">Team</span></b><b><span style="font-size:12.0pt"></span></b></p></td><td style="width:418.25pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:#A6A6A6;mso-background-themecolor:background1;
+  mso-background-themeshade:166;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="558"><p class="MsoNoSpacing"><b><span style="font-size:12.0pt;color:black;
+  mso-color-alt:windowtext">Name of Staff</span></b><b><span style="font-size:
+  12.0pt"></span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:49.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="66"><p style="text-align:center" align="center" class="MsoNoSpacing"><span style="font-size:12.0pt">SAT</span></p></td><td style="width:418.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="558"><p class="MsoNoSpacing"><span style="font-size:12.0pt">1. Mr Muhammad Khairul Anwar Bin Zainie<br>2. Mr Rahim Bin Sal<br>3. Mdm Nurul Hanis Bte Kamsir<br>4. Mdm Jamilah Abdul Kareem<br>5. Mdm Lee Siew May<br>6. Mdm Tay Siew Ching<br>7. Mdm Lau Mee Chien Esther<br>8. Mr Johan Bin Abdullah<br> 9. Mr Abdul Rashid Bin Jumadi<br> 10. Ms Suhailah Bte Abu Bakar<br>11. Mr Bali Bin Wahb<br>12. Mr Lee Sek Koi<br>13. Mdm V Pennarsi</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:49.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="66"><p style="text-align:center" align="center" class="MsoNoSpacing"><span style="font-size:12.0pt">School Counselling &amp; Support</span></p></td><td style="width:418.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="558"><p class="MsoNoSpacing"><span style="font-size:12.0pt">1. Mrs Ngoh Wai Fong<br>2. Mdm Mak Wenling<br>3. Mr Tan Chee Chong<br>4. Ms Nur Hidayah Bibi Binti HJ Md Omar<br>5. Mr Daniel Lum Li Ann</span></p><p class="MsoNoSpacing"><span style="font-size:12.0pt"></span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:49.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="66"></td></tr></tbody></table>
