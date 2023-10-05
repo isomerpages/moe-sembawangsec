@@ -4,7 +4,13 @@ permalink: /announcement/all-announcements/
 description: ""
 ---
 ## Announcents
-##### **11 August 2023** <br>
+##### **5 October 2023** <br>
+Please click the following links to access the time-table for Term 4 Week 5 to 7:
+* Week 5 Timetable
+* Week 6 Timetable
+* Week 7 Timetable
+
+**11 August 2023** <br>
 
 This announcement is for Sec 1 to Sec 3 /2023 students only.<br>
 Application is now opened for **The Straits Times School Pocket Money Fund 2024.**<br>
