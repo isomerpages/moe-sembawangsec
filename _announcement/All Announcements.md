@@ -5,7 +5,7 @@ description: ""
 ---
 ## Announcents
 ##### **5 October 2023** <br>
-Please click the following links to access the time-table for Term 4 Week 5 to 7:
+Please access the time-table for Term 4 Week 5 to 7 via the following links:
 * [Week 5 Timetable](/files/wk5%20script%20check%20timetable%20classesv4.pdf)
 * [Week 6 Timetable](/files/wk6%20timetable%20for%20wk6%20classes.pdf)
 * [Week 7 Timetable](/files/wk7%20timetable%20for%20classes.pdf)
