@@ -134,12 +134,10 @@ Students engaged in beach cleaning to reflect on how their own habits and action
 ![](/images/HDB5.jpg)
 A student-initiated project, outreach to the senior activities centre in collaboration with the Housing and Development Board (HDB).
 
-![](/images/RB1.jpg)
-![](/images/RB2.jpg)
-![](/images/RB3.jpg)
-![](/images/RB4.jpg)
-![](/images/RB5.jpg)
-![](/images/RB6.jpg)
+![](/images/RB1_2.jpg)
+![](/images/RB3_4.jpg)
+![](/images/RB5_6.jpg)
+
 Recyclable bags designed by our students and given to residents as part of advocacy of environmental conservation.
 
 **Citizenship Education (CE)**
@@ -159,18 +157,15 @@ International Friendship Day is a day dedicated to the understanding of Singapor
 
 International students and Citizenship Education (CE) leaders also shared interesting and fascinating information about other countries. During CCE lesson, CE leaders explored the importance of maintaining and exploring relationship with the region and the world. Commemoration of IFD help students to gain a deeper appreciation of regional cooperation and infuse students with a global outlook that makes them open to working well with people of different cultures.
 
-![](/images/IFD1.jpg)
-![](/images/IFD2.jpg)
-![](/images/IFD3.jpg)
-![](/images/IFD4.jpg)
+![](/images/IFD1_2.jpg)
+![](/images/IFD3_4.jpg)
+
 
 **RACIAL HARMONY DAY 2023**
 
 For the commemoration of Racial Harmony Day, students were engaged in discussions and reflected on what it means to live in a multicultural society like Singapore and how we can work together to strengthen racial and religious harmony. At the end of the day, we learnt that harmony comes not through tolerating the differences but a genuine appreciation of our shared aspirations.
 
-![](/images/RHD1.jpg)
-![](/images/RHD2.jpg)
-![](/images/RHD3.jpg)
+![](/images/RHD1_2_3.jpg)
 
 **NATIONAL DAY 2023**
 
