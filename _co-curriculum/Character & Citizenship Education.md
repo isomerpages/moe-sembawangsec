@@ -111,22 +111,36 @@ Mentor: Ms Alanna Kwong
 Ning Kai Yang Aaron, Aarthikeyan S/O Pragas, Govin Raj, Joshua Ryan S/O Pandiri 
 Mentor: Ms Alanna Kwong
 
-
 **Vaues in Action (VIA)**
 
 **Key Message:**&nbsp;**To nurture Leaders and Change Makers who demonstrate the RESPIRE (school) values to contribute meaningfully to the community**
 
-The focus of the Lower Secondary VIA programme is on environmental conservation while the focus of the Upper Secondary VIA programme is on touching the lives of the community. The distinctive VIA programmes that were organised by the school include beach cleaning, designing recyclable bag and giving them to residents to promote environmental conservation, gate painting at rented flats, organising block party for residents, VIA carnival, etc. Over the four to five years in school, our students have experienced many meaningful events that have brought about an impact to the environment and community, while achieving an excellent score in the service component of LEAPS 2.0.
+The focus of the Lower Secondary VIA programme is on environmental conservation while the focus of the Upper Secondary VIA programme is on community-based programmes (student-initiated) aimed at enhancing the lives of others. The distinctive VIA programmes that were organised by the school include beach cleaning, designing recyclable bags and giving them to residents to promote environmental conservation, Student-initiated projects which include preparing learning materials for children and outreach to children centres and elderly homes. Over the four to five years in school, our students have experienced many meaningful events that have brought about an impact to the environment and community, while achieving an excellent score in the service component of LEAPS 2.0.
 
-<img src="/images/CCE11.jpeg" style="width:75%">
-Students painting the gates of residents staying in rented flats as part of their VIA programme
+![](/images/VIA1.jpg) ![](/images/VIA2.jpg) ![](/images/VIA3.jpg)
+Students engaged in beach cleaning to reflect on how their own habits and actions affect cleanliness.
 
-<img src="/images/CCE12-768x617.jpeg" style="width:35%">
+![](/images/NCDC1.jpg)
+![](/images/NCDC2.jpg)
+![](/images/NCDC3.jpg)
+![](/images/NCDC4.jpg)
+![](/images/NCDC5.png)
+![](/images/NCDC6.png) The making of the ‘Kit for Kids’ student-initiated project in collaboration with the Northwest Community Development Council.
 
-Recyclable bag designed by our students and given to residents as part of advocacy of environmental conservation
+![](/images/HDB1.jpg)
+![](/images/HDB2.jpg)
+![](/images/HDB3.jpg)
+![](/images/HDB4.jpg)
+![](/images/HDB5.jpg)
+A student-initiated project, outreach to the senior activities centre in collaboration with the Housing and Development Board (HDB).
 
-![](/images/CCE13.jpeg)
-Students engaged in beach cleaning and interacting with residents during a block party
+![](/images/RB1.jpg)
+![](/images/RB2.jpg)
+![](/images/RB3.jpg)
+![](/images/RB4.jpg)
+![](/images/RB5.jpg)
+![](/images/RB6.jpg)
+Recyclable bags designed by our students and given to residents as part of advocacy of environmental conservation.
 
 **Citizenship Education (CE)**
 
