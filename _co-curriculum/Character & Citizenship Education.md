@@ -146,21 +146,31 @@ Recyclable bags designed by our students and given to residents as part of advoc
 
 **Key Message****:**&nbsp;**We believe our students and teachers are informed citizens who have a heart for the nation through cultivation of national cohesion, sense of belonging and confidence in the future.**
 
-The distinctive CE programmes that were organised by the school include Total Defence Day celebration, Racial Harmony Day celebration, National Day celebration, etc.
+The distinctive CE programmes that were organised by the school include Total Defence Day celebration, Racial Harmony Day celebration and National Day celebration. Through discussions of contemporary issues, customized class-based CCE lessons, citizenship experiences and celebration of these four annual events, students are guided in exploring and examining their Singapore identity. 
 
-**Total Defence Day**
-
-
-<img src="/images/CCE14.png" style="width:35%">
+**TOTAL DEFENCE DAY 2023**
 		 
-For the commemoration of Total Defence Day (TDD), the activities were conducted during CCE lesson. CE Leaders conducted a TDD sharing, presenting on the different aspects of TDD and how we could contribute in building a strong and resilient Singapore. Students then highlighted their commitment by designing a scratch card and placing it together as a class to form a meaningful design related to Total Defence.
+For the commemoration of Total Defence Day (TDD), we kickstarted it with a skit during assembly to showcase the importance of the six pillars of TDD. Citizenship Education (CE), Cyberwellness (CW) and uniformed group leaders were also given the opportunities to share more about the six pillars of TDD. During CCE lesson, students highlighted their commitment by designing a scratch card and placing it together as a class to form a meaningful design related to Total Defence.
 
-**Racial Harmony Day**
+![](/images/TDD.jpg)
 
+**INTERNATIONAL FRIENDSHIP DAY 2023**
+International Friendship Day is a day dedicated to the understanding of Singapore’s relations with neighbouring countries and beyond. Students were treated to songs from different countries and its significance during the assembly period.
 
-<img src="/images/CCE15-768x494.png" style="width:75%">
+International students and Citizenship Education (CE) leaders also shared interesting and fascinating information about other countries. During CCE lesson, CE leaders explored the importance of maintaining and exploring relationship with the region and the world. Commemoration of IFD help students to gain a deeper appreciation of regional cooperation and infuse students with a global outlook that makes them open to working well with people of different cultures.
+
+![](/images/IFD1.jpg)
+![](/images/IFD2.jpg)
+![](/images/IFD3.jpg)
+![](/images/IFD4.jpg)
+
+**RACIAL HARMONY DAY 2023**
 
 For the commemoration of Racial Harmony Day, students were engaged in discussions and reflected on what it means to live in a multicultural society like Singapore and how we can work together to strengthen racial and religious harmony. At the end of the day, we learnt that harmony comes not through tolerating the differences but a genuine appreciation of our shared aspirations.
+
+![](/images/RHD1.jpg)
+![](/images/RHD2.jpg)
+![](/images/RHD3.jpg)
 
 **National Day Celebration**
 
