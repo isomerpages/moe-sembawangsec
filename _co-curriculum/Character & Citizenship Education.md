@@ -71,9 +71,8 @@ Key Programme 1: Assembly sharing
 
 Assembly sessions are conducted to share current and relevant Cyber Wellness news with the student community to reinforce their learning and keep them updated on digital world affairs.
 
-![](/images/CW1.jpg) CW leaders' presentation
-
-![](/images/CW2.jpg) Audience answering CW questions
+![](/images/CW1_2.jpg) CW leaders' presentation     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Audience answering CW questions
 
 Key Programme 2: Intergenerational Learning Program (ILP)
 
