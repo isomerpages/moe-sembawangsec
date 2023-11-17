@@ -172,13 +172,11 @@ For the commemoration of Racial Harmony Day, students were engaged in discussion
 ![](/images/RHD2.jpg)
 ![](/images/RHD3.jpg)
 
-**National Day Celebration**
+**NATIONAL DAY 2023**
 
-For our nation’s 55th&nbsp;birthday, we began the day with a record of a parade segment where our Uniform Groups and CE Leaders conducted the flag-raising ceremony with pride. We continued the day celebrating our nation’s achievements and commitment to stay united as one people through the building of structures as a class, while adhering to safe distancing measures. We ended the day with a sing-along session, which was complimented by the creative music videos created by each class!
+For our Nation’s 58th birthday, we began the day with a record of a parade segment where our Uniform Groups and CE Leaders conducted the flag-raising ceremony with pride. We continued the day celebrating our nation’s achievements and commitment to stay united as one people through the customised CCE lesson in class. We ended the day with the hall segment where the school is treated to performances by our very own performing arts CCA groups. By providing meaningful learning experiences, we hope to inculcate a sense of rootedness and belonging to the school and Singapore.
 
-<img src="/images/CCE16.png" style="width:75%">
-
-Structures of iconic buildings in Singapore created by putting together paper cubes designed by students
+![](/images/NDC.jpg)
 
 **Environmental Conservation(EC)**
 
