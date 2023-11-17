@@ -78,10 +78,9 @@ Key Programme 2: Intergenerational Learning Program (ILP)
 
 The ILP is an annual initiative aimed at educating the elderly in the community about the usage of digital apps and guiding them to navigate the cyber world safely.
 
-![](/images/ILP1.jpg) Icebreaker games!
-![](/images/ILP2.jpg) Presentation and Sharing!
-![](/images/ILP3.jpg) Hands-on with the seniors
-![](/images/ILP4.jpg) Group photos with the seniors
+![](/images/ILP1_2.jpg) Icebreaker games! &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Presentation and Sharing!
+![](/images/ILP3_4.jpg) Hands-on with the seniors &nbsp; &nbsp; &nbsp; &nbsp;
+ Group photos with the seniors
 
 Key programme 3: Interclass CW Competition 
 The CW competition brings students from various classes to compete in a fun and engaging environment, testing their knowledge on Cyber Wellness. It serves as a platform to reinforce what they have learnt during the school assembly sharing program and Character and Citizenship Education (CCE) lessons.
