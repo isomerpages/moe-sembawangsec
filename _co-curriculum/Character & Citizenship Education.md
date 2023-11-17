@@ -182,7 +182,13 @@ For our Nation’s 58th birthday, we began the day with a record of a parade seg
 
 **Key Message:**&nbsp;**Responsible and caring individual who brings positive impact to the environment**
 
-The distinctive EC programmes that were organised by the school include Sembcorp School Recycling Programme, Green Outreach Programme (GOP), assembly talk on recycling by SembWaste, sharing by EC leaders on climate change and recycling, etc. Through these programmes and some hands-on activities such as the GOP, student are constantly reminded of the important messages of reducing, reusing and recycling.
+The distinctive Environmental Conservation programmes that were organised by the school include:<br>
+•	School based recycling programme <br>
+•	Environmental awareness lessons/sharing conducted by Environmental Leaders on themes such as Recycling Right and Say Yes to Waste Less<br>
+•	Creating upcycled products from unwanted items<br>
+•	Swapaholic (students swap items they no longer need to reduce waste)<br>
+Through these programmes, students played an active role in ensuring environmental sustainability and instill actions in their daily lives to safeguard our planet.
+
 
 
 <img src="/images/cce17.jpeg" style="width:75%">
