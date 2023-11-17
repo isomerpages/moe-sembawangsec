@@ -191,3 +191,6 @@ Through these programmes, students played an active role in ensuring environment
 
 ![](/images/EC1.jpg)
 ![](/images/EC2.jpg)
+![](/images/EC3.jpg)
+![](/images/EC4.jpg)
+![](/images/EC5.jpg)
