@@ -120,11 +120,9 @@ The focus of the Lower Secondary VIA programme is on environmental conservation 
 ![](/images/VIA1_2_3.jpg)
 Students engaged in beach cleaning to reflect on how their own habits and actions affect cleanliness.
 
-![](/images/NCDC1.jpg)
-![](/images/NCDC2.jpg)
-![](/images/NCDC3.jpg)
-![](/images/NCDC4.jpg)
-![](/images/NCDC5.png)
+![](/images/NCDC1_2.jpg)
+![](/images/NCDC3_4_5_6.jpg)
+
 ![](/images/NCDC6.png) The making of the ‘Kit for Kids’ student-initiated project in collaboration with the Northwest Community Development Council.
 
 ![](/images/HDB1.jpg)
