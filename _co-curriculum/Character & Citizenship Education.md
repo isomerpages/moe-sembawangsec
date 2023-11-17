@@ -117,7 +117,7 @@ Mentor: Ms Alanna Kwong
 
 The focus of the Lower Secondary VIA programme is on environmental conservation while the focus of the Upper Secondary VIA programme is on community-based programmes (student-initiated) aimed at enhancing the lives of others. The distinctive VIA programmes that were organised by the school include beach cleaning, designing recyclable bags and giving them to residents to promote environmental conservation, Student-initiated projects which include preparing learning materials for children and outreach to children centres and elderly homes. Over the four to five years in school, our students have experienced many meaningful events that have brought about an impact to the environment and community, while achieving an excellent score in the service component of LEAPS 2.0.
 
-![](/images/VIA1.jpg) ![](/images/VIA2.jpg) ![](/images/VIA3.jpg)
+![](/images/VIA1_2_3.jpg)
 Students engaged in beach cleaning to reflect on how their own habits and actions affect cleanliness.
 
 ![](/images/NCDC1.jpg)
