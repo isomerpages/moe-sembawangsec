@@ -85,10 +85,14 @@ The ILP is an annual initiative aimed at educating the elderly in the community 
 Key programme 3: Interclass CW Competition 
 The CW competition brings students from various classes to compete in a fun and engaging environment, testing their knowledge on Cyber Wellness. It serves as a platform to reinforce what they have learnt during the school assembly sharing program and Character and Citizenship Education (CCE) lessons.
 
-![](/images/Interclass1.jpg) Students guessing words related to CW
-![](/images/Interclass2.jpg) Students solving puzzles related to CW
-![](/images/Interclass3.jpg) Announcing the winners
-![](/images/Interclass4.jpg) Enjoyable CW experience
+
+
+|![](/images/Interclass1.jpg) | ![](/images/Interclass2.jpg) |
+| -------- | -------- | 
+| Students guessing words related to CW   |  Students solving puzzles related to CW    |
+| ![](/images/Interclass3.jpg)  | ![](/images/Interclass4.jpg)   |
+| Announcing the winners | Enjoyable CW experience | 
+
 
 Key Programme 4: National Cyberwellness Advocacy Challenge (NCAC)
 
