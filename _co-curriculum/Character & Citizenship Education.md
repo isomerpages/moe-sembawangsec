@@ -84,6 +84,33 @@ The ILP is an annual initiative aimed at educating the elderly in the community 
 ![](/images/ILP3.jpg) Hands-on with the seniors
 ![](/images/ILP4.jpg) Group photos with the seniors
 
+Key programme 3: Interclass CW Competition 
+The CW competition brings students from various classes to compete in a fun and engaging environment, testing their knowledge on Cyber Wellness. It serves as a platform to reinforce what they have learnt during the school assembly sharing program and Character and Citizenship Education (CCE) lessons.
+
+![](/images/Interclass1.jpg) Students guessing words related to CW
+![](/images/Interclass2.jpg) Students solving puzzles related to CW
+![](/images/Interclass3.jpg) Announcing the winners
+![](/images/Interclass4.jpg) Enjoyable CW experience
+
+Key Programme 4: National Cyberwellness Advocacy Challenge (NCAC)
+
+The NCAC is a National level competition where participants create compelling content to convey Cyber Wellness principles and values. 
+
+![](/images/NCAC1.jpg) Student scanning QR code to participate in CW quiz
+![](/images/NCAC2.jpg) 2021: Gold Award <br>
+Chew Yan Xi, Farzeen Shanza, Jahnavi Singh, Vijayan Suriyakanth
+Mentor: Mr Calvin Teo
+
+![](/images/NCAC3_jpg.png) Zoom presentation to school 
+![](/images/NCAC4.jpg) 2022: Silver Award <br>
+Naresh S/O S Govindarajan, Chong Shen Yin, Ulfath Bariyya Binte, Jeevika Tagarajan, Mohamed Rabeek 
+Mentor: Ms Alanna Kwong
+
+![](/images/NCAC5.jpg)Sharing CW messages with peers
+![](/images/NCAC6.jpg) 2023: Silver Award<br>
+Ning Kai Yang Aaron, Aarthikeyan S/O Pragas, Govin Raj, Joshua Ryan S/O Pandiri 
+Mentor: Ms Alanna Kwong
+
 
 **Vaues in Action (VIA)**
 
