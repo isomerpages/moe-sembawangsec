@@ -9,7 +9,7 @@ variant: markdown
 Sembawang Secondary School Open House <br>
 Date: 18 November 2023<br>
 Time: 08:30 - 12:30 hr<br>
-
+![SMBSS Open House](/images/Openhouse_2023.jpeg)
 
 
  **5 October 2023** <br>
