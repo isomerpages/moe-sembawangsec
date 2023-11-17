@@ -61,34 +61,29 @@ Experience ITE Programme at ITE College East
 
 **Key Message:**&nbsp;**Discerning and responsible digital users who are able to protect themselves and their well-being in the cyberspace.**
 
-The distinctive CW programmes that were organised by the school include Cyber Wellness Carnival, Intergenerational Learning Programme, Cyber Wellness sharing by CW leaders, Cyber Wellness poster design competition, etc. The Cyber Wellness carnival, led by our CW leaders, is an impactful event that combines fun games with embedded CW messages, so that students can learn while having fun. The Intergenerational Learning Programme is a partnership between Family Central and Sembawang Secondary School where our CW leaders teach digital skills and usage of mobile apps to the elderly.
+The objectives of the various Cyber Wellness programmes are to provide students with enduring social-emotional skills and values and to foster their ability to be safe and responsible digital learners. 
 
-![](/images/CCE4.jpeg)
+In Sembawang Secondary School, we aim to achieve this by imparting knowledge, skills, values, and attitudes that promote self-respect, respect for others, and responsible use of technology. The goal is for students to exhibit positive peer influence and leverage technology for the betterment of the community.
 
-Cyber Wellness Carnival – Station 1: Shoot down the fake news
+We achieved these through 4 key programmes as below:
 
-![](/images/CCE5.jpeg)
+Key Programme 1: Assembly sharing
 
-Cyber Wellness Carnival – Station 2: Pass down the message
+Assembly sessions are conducted to share current and relevant Cyber Wellness news with the student community to reinforce their learning and keep them updated on digital world affairs.
 
-![](/images/CCE6.jpeg)
+![](/images/CW1.jpg) CW leaders' presentation
 
-Cyber Wellness Carnival – Station 3: Guess the word
+![](/images/CW2.jpg) Audience answering CW questions
 
-![](/images/CCE7.jpeg)
+Key Programme 2: Intergenerational Learning Program (ILP)
 
-Cyber Wellness Carnival – Station 4: Search the word
+The ILP is an annual initiative aimed at educating the elderly in the community about the usage of digital apps and guiding them to navigate the cyber world safely.
 
-![](/images/CCE8.jpeg)
-Cyber Wellness Carnival – Station 5: Pick up the real news
+![](/images/ILP1.jpg) Icebreaker games!
+![](/images/ILP2.jpg) Presentation and Sharing!
+![](/images/ILP3.jpg) Hands-on with the seniors
+![](/images/ILP4.jpg) Group photos with the seniors
 
-![](/images/CCE9.jpeg)
-
-Cyber Wellness Carnival – Station 6: Photo Booth
-
-![](/images/CCE10.jpeg)
-
-Intergenerational Learning Programme where our Cyber Wellness leaders taught the elderly usage of some mobile apps via Zoom
 
 **Vaues in Action (VIA)**
 
