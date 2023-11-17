@@ -189,14 +189,5 @@ The distinctive Environmental Conservation programmes that were organised by the
 •	Swapaholic (students swap items they no longer need to reduce waste)<br>
 Through these programmes, students played an active role in ensuring environmental sustainability and instill actions in their daily lives to safeguard our planet.
 
-
-
-<img src="/images/cce17.jpeg" style="width:75%">
-
-Students collecting newspapers and other recyclables from residents as part of our Green Outreach Programme
-
-
-<img src="/images/cce18.jpeg" style="width:75%">
-
-
-Students attending an assembly talk on recycling by SembWaste
+![](/images/EC1.jpg)
+![](/images/EC2.jpg)
