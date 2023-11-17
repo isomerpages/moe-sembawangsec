@@ -123,10 +123,9 @@ Students engaged in beach cleaning to reflect on how their own habits and action
 ![](/images/NCDC1_2.jpg)
 ![](/images/NCDC3_4_5_6.jpg)
 
-![](/images/NCDC6.png) The making of the ‘Kit for Kids’ student-initiated project in collaboration with the Northwest Community Development Council.
+The making of the ‘Kit for Kids’ student-initiated project in collaboration with the Northwest Community Development Council.
 
-![](/images/HDB1.jpg)
-![](/images/HDB2.jpg)
+![](/images/HDB1_2.jpg)
 ![](/images/HDB3.jpg)
 ![](/images/HDB4.jpg)
 ![](/images/HDB5.jpg)
