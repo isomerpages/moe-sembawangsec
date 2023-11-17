@@ -189,8 +189,6 @@ The distinctive Environmental Conservation programmes that were organised by the
 •	Swapaholic (students swap items they no longer need to reduce waste)<br>
 Through these programmes, students played an active role in ensuring environmental sustainability and instill actions in their daily lives to safeguard our planet.
 
-![](/images/EC1.jpg)
-![](/images/EC2.jpg)
-![](/images/EC3.jpg)
-![](/images/EC4.jpg)
-![](/images/EC5.jpg)
+![](/images/EC1_2.jpg) Environmental awareness sharing conducted by Environmental Leaders
+![](/images/EC3.jpg) Environmental Leaders went on a learning journey to learn about sustainability
+![](/images/EC4_5.jpg) Upcycling project to reuse unwanted clothes as tote bags
