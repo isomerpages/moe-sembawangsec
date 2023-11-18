@@ -3,6 +3,7 @@ title: NPCC
 permalink: /co-curriculum/ccas/uniformed-groups/npcc/
 description: ""
 third_nav_title: Uniformed Group
+variant: markdown
 ---
 ![](/images/npcc_main.jpeg)
 ![](/images/npcc2.png)
@@ -24,10 +25,10 @@ Every Wednesday, 3:15 – 5.45pm at the C1-9, C1-8, C-7, C1-6
 
 ASP (NPCC) Mr Oon Boon Keong – OC Unit  <br>
 Insp (NPCC) Mr Chang Lok – 2nd I/C  <br>
-Insp (NPCC) Ms Kwong Zhi Qing Alanna <br>
+Insp (NPCC)&nbsp;Ms Kwong Zhi Qing Alanna <br>
 Mdm Sulastri
 
-**Honorary Officer** 
+**Honorary&nbsp;Officer** 
 
 H/Insp (NPCC) Mr Chong Guan Seng
 
@@ -45,23 +46,21 @@ CI (NPCC) Mr You Jo Han
 
 *   NPCC Unit Overall Proficiency Award: Gold (Year of Assessment 2021)
 
-<img src="/images/npcc%203.jpeg" 
-     style="width:50%">
+<img src="/images/npcc%203.jpeg" style="width:50%">
 		 
 **Training Framework**  <br>
 **Law Enforcement**
 
 *   Police Knowledge Proficiency Course
 *   General Law
-*   Crime Prevention/Community Safety & Security Programme/Police Youth Ambassador Programme
+*   Crime Prevention/Community Safety &amp; Security Programme/Police Youth Ambassador Programme
 *   Homefront Security Course
 *   Weapon Training (.22 Revolver)
 *   Road Safety Course
 *   SANA Course
 *   Crime Scene Investigation Course
 
-<img src="/images/npcc%204.png" 
-     style="width:60%">
+<img src="/images/npcc%204.png" style="width:60%">
 		 
 **National Education**
 
@@ -77,8 +76,7 @@ CI (NPCC) Mr You Jo Han
 *   Cadet Leader (CL) Drill Course
 
 
-<img src="/images/npcc%205.png" 
-     style="width:60%">
+<img src="/images/npcc%205.png" style="width:60%">
 		 
 **Resilience**
 
@@ -87,8 +85,7 @@ CI (NPCC) Mr You Jo Han
 *   Adventure Training Camp (ATC)
 *   Survival Training Camp (STC)
 
-<img src="/images/npcc%206.png" 
-     style="width:60%">
+<img src="/images/npcc%206.png" style="width:60%">
 		 
 **Personal Development**
 

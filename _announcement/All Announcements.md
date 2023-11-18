@@ -2,9 +2,17 @@
 title: All Announcements
 permalink: /announcement/all-announcements/
 description: ""
+variant: markdown
 ---
 ## Announcents
-##### **5 October 2023** <br>
+##### **17 November 2023** <br>
+Sembawang Secondary School Open House <br>
+Date: 18 November 2023<br>
+Time: 08:30 - 12:30 hr<br>
+![SMBSS Open House](/images/Openhouse_2023.jpeg)
+
+
+ **5 October 2023** <br>
 Please access the time-table for Term 4 Week 5 to 7 via the following links:
 * [Week 5 Timetable](/files/wk5%20script%20check%20timetable%20classesv4.pdf)
 * [Week 6 Timetable](/files/wk6%20timetable%20for%20wk6%20classes.pdf)
