@@ -75,18 +75,114 @@ Combined Science (Chemistry/Biology)<br>
 * Mr Wong Qin Jie
 * Mr Serwin Leong (HOD)
 
-<br>
+
 
 Students’ achievements
     
 
 Science Learning@SMBSS is committed to provide students with opportunities to explore their interests and achieve excellence in the sciences. Beyond the curriculum, our caring team of science educators are also dedicated mentors to our students taking part in various multi-level competitions.
 
-<br>
+
 
 **a) Elementz**
     
 
 The annual Elementz fair and conference provide a platform for our students to apply and sharpen their skills in the conduct of Science Inquiry. They conduct investigations to prove their hypothesis and defend their projects against professionals in the field. To any student who is interested in Science, this competition is an invaluable opportunity to learn what it truly means to be a Scientist.
+![](/images/Elementz.jpg)![](/images/Elementz2.jpg)
 
-![](/images/Elementz.jpg)
+<br>
+
+b) IgnITE Skills Challenge
+    
+
+The IgnITE Skills Challenge is an annual competition that introduces students to technical skills and fosters a deeper understanding of courses offered by ITE. Challenges are designed to be engaging and fun, so as to make learning enjoyable and memorable, as well as providing opportunities for students to hone soft skills. The following are some challenges which SMBSS students participated in.
+
+
+
+In the “X-Bots” Challenge, students assemble various components of a robot and apply fun coding to control its movement.&nbsp;
+
+  
+
+Skills developed include:
+
+*   basic data science
+    
+*   Artificial Intelligence
+    
+*   block coding and block construction skills
+    
+*   creativity
+    
+*   critical thinking
+    
+*   problem solving
+    
+*   decision making
+    
+*   time management programming,&nbsp;
+    
+*   creative thinking,&nbsp;
+    
+*   problem solving skills, and&nbsp;
+    
+*   teamwork
+    
+![](/images/Data_escape1.jpg)
+
+
+In the “Data Escape Room” Challenge, students solve a series of data challenges that requires analysing and solving a series of dataset to reveal the location of a hidden treasure.
+
+  
+
+Skills developed include:
+
+*   data preparation and analysis
+    
+*   creative thinking,
+    
+*   data storytelling,
+    
+*   problem solving skills, and&nbsp;
+    
+*   teamwork
+    
+
+
+In the “Mobile Robot” Challenge, students learn to program and control robots to complete missions accurately in the shortest possible time.
+
+  
+
+Skills developed include:
+
+*   assembly of robot components,
+    
+*   programming,
+    
+*   creative thinking,
+    
+*   problem solving and&nbsp;
+    
+*   teamwork
+    
+![](/images/Mobile_robot.jpg)
+
+**c) SSEF **
+ 
+The SSEF (Singapore Science and Engineering Fair) is a national competition organised by the Ministry of Education (MOE), Agency for Science, Technology and Research (A\*STAR), and Science Centre Singapore (SCS). The SSEF is affiliated to the prestigious International Science and Engineering Fair (ISEF), which is regarded as the Olympics of science competitions.
+
+ 
+This competition is an excellent platform for budding scientists and engineers to showcase their passion in their respective fields by communicating their findings to industry experts.
+
+![](/images/SSEF.jpg)
+
+**d)  ICAS**
+    
+
+The ICAS (International Competitions and Assessments for Schools) provides an opportunity for students to further stretch their abilities, think beyond the classroom, identify their strengths and weaknesses to improve their individual study skills and identify talent for further enrichment.&nbsp;
+ 
+
+The ICAS provides students with a ready-made analysis on their skills, attitudes, and dispositions, which can be used for early-admission interviews and other similar purposes.
+
+
+Students are tested on a plethora of skill sets such as interpreting data, scientific investigation, reasoning and problem solving. Students are also exposed to interdisciplinary content stretching from Astronomy, Biology, Chemistry and Physics.
+
