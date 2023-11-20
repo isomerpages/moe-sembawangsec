@@ -43,7 +43,8 @@ c) Passionate SMBSS students will then:<br>
 * hone their skills and dispositions, culminating in sharing of their Ideas, processes, and findings. 
 <br><br>
 
-**Science subjects offered **<br>
+**Science subjects offered**
+<br>
 Lower Secondary Science<br>
 Physics, Chemistry, Biology<br>
 Combined Science (Physics/Chemistry)<br>
@@ -77,7 +78,7 @@ Combined Science (Chemistry/Biology)<br>
 
 
 
-Students’ achievements
+**Students’ achievements**
     
 
 Science Learning@SMBSS is committed to provide students with opportunities to explore their interests and achieve excellence in the sciences. Beyond the curriculum, our caring team of science educators are also dedicated mentors to our students taking part in various multi-level competitions.
@@ -92,7 +93,7 @@ The annual Elementz fair and conference provide a platform for our students to a
 
 <br>
 
-b) IgnITE Skills Challenge
+**b) IgnITE Skills Challenge**
     
 
 The IgnITE Skills Challenge is an annual competition that introduces students to technical skills and fosters a deeper understanding of courses offered by ITE. Challenges are designed to be engaging and fun, so as to make learning enjoyable and memorable, as well as providing opportunities for students to hone soft skills. The following are some challenges which SMBSS students participated in.
@@ -166,7 +167,7 @@ Skills developed include:
     
 ![](/images/Mobile_robot.jpg)
 
-**c) SSEF **
+**c) SSEF**
  
 The SSEF (Singapore Science and Engineering Fair) is a national competition organised by the Ministry of Education (MOE), Agency for Science, Technology and Research (A\*STAR), and Science Centre Singapore (SCS). The SSEF is affiliated to the prestigious International Science and Engineering Fair (ISEF), which is regarded as the Olympics of science competitions.
 
