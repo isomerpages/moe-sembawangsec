@@ -24,7 +24,7 @@ c)  Science learning@SMBSS also equips students with the ability to share their 
 
 **3. Key Programmes**  
 ![](/images/KeyProg.jpg)
-
+<br>
 a) To inspire all SMBSS Science students, the Science Fortnight aims to provide broad based exposure in the areas of:<br>
 * appreciating Science in everyday life.<br>
 * Behaving like a scientist.<br>
