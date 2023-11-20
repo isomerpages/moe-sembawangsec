@@ -91,7 +91,6 @@ Science Learning@SMBSS is committed to provide students with opportunities to ex
 
 The annual Elementz fair and conference provide a platform for our students to apply and sharpen their skills in the conduct of Science Inquiry. They conduct investigations to prove their hypothesis and defend their projects against professionals in the field. To any student who is interested in Science, this competition is an invaluable opportunity to learn what it truly means to be a Scientist.![](/images/Elementz.jpg)![](/images/Elementz2.jpg)
 
-<br>
 
 **b) IgnITE Skills Challenge**
     
