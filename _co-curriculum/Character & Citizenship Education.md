@@ -48,14 +48,13 @@ ECG lessons are conducted within the CCE curriculum. The focus at the Secondary 
 
 ECG Careers Fair in Sembawang Secondary School
 
-![](/images/Career_Fair1.jpg) ![](/images/Career_Fair2.jpg)
+![](/images/CareerFair1_2.jpg)
 
 Learning Journey to Lifelong Learning Institute
-![](/images/LLI_1.jpg) ![](/images/LLI_2.jpg)
+![](/images/LLI1_2.jpg) 
 
 Experience ITE Programme at ITE College East
-![](/images/ITE1.jpg)
-![](/images/ITE2.jpg)
+![](/images/ITE1_2.jpg)
 
 **Cyber Wellness(CW)**
 
