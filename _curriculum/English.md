@@ -46,25 +46,37 @@ Tea, Tiffin and Poetry Competition
 
 <div style="display:block"><img src="/images/E6.png" style="max-width: 60%;"></div>
 
+**2024** <br>
+Singapore Literature Festival 2024
+
 ### Team Members/Dept Teachers
 * Head of Department: Ms Muthamil Selvi
 * Level Head: Mdm Faralina Bte Mohamed Ali
 * Senior Teacher: Ms Low Huixian Heidi
 * Subject Head/CCE: Mdm Jayanthi Sangiah
-* AYH Lower Sec: Mr Mohamad Zulqarnain
 
 **Teachers**
 
 *English Unit*
 * Ms Amrita Ahmad
-* Ms Janice Lee
+* Mdm Faralina Bte Muhamed Ali
 * Mdm Jayanthi Sangiah
 * Mr Joe Wieky
 * Ms Low Huixian Heidi
-* Mr Mohamad Zulqarnain
+* Ms Marianne Louise Das
 * Ms Munirah Bte Saini
 * Mdm Heryani Hamim
 * Ms Muthamil Selvi
+* Ms Samantha Lim
 
 *Literature Unit*
-* Ms Janice Lee
+* Mdm Faralina Bte Muhamed Ali
+* Ms Marianne Louise Das
+
+**Students’ achievements:**
+ <br>2022 N6 EL  Tea and Tiffin Poetry Competition
+* Most Popular Poem - Lee Xiao Ying Thanh (3IN2)
+* Most Creative Poem - Tan Si Xuan Natalie Summer (3IN1)
+<br><br>
+* Notable Mention<br>
+Putra Aqid 4TE1 - Ranked among top 15  individual speakers during Debate Association training camp debates in Individual Category
