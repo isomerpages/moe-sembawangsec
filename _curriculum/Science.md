@@ -2,87 +2,187 @@
 title: Science
 permalink: /curriculum/science/
 description: ""
+variant: markdown
 ---
-![](/images/Science-Cover-page.jpeg)
 ## Science
 
 
-**Vision/Mission for the Department**
-
-Nurturing Innovation in Students with Moral Integrity to Improve Self and Community.
-
-**Beliefs in Students’ Learning**  
-Every child can learn if given the right stimulus and if he/she finds meaning in the learning.
-
-**Pedagogical Approaches**  
-Learner-Centred approach taking into account the pupils preferred learning styles.  
-Engaged Learning using Inquiry-based Learning and Science Process Skills approaches.
-
-**For the Pupils**  
-We are committed to provide pupils with a comprehensive programme in Science education.  
-We work with pupils to nurture self-directed and collaborative learning in the pursuit of excellence.  
-We want to inspire in pupils a curious mindset in their quest for knowledge.
-
-**Programmes/Special Programmes**
-
-Sec 3 – Advanced Elective Module (AEM)  
-Talent Development Programme for all students e.g. IgnITE Challenge, Elementz, NUS Demo Labs
-
-<div style="display:block"><img src="/images/S0.jpeg" style="max-width: 50%;"></div>
+**1. Aim/Belief/Philosophy of the department**
+<br>The Science Educators aim to:<br>
+a) Enthuse and nurture all students to be scientifically literate, so that they can make informed decisions and take responsible actions in their daily lives; and<br>
+b) Provide strong Science fundamentals for students to innovate and pursue STEM for future learning and work.
 
 
-**Opportunities and Achievements**
+**2. Teaching and learning approach**  
 
-In Sembawang Secondary School, our science department is committed to provide students with opportunities to explore their interests and achieve excellence in the sciences. Beyond the curriculum, our caring team of science teachers are also dedicated mentors to our students taking part in various multi-level competitions.
+a) Science learning@SMBSS should be coherent and meaningful, organized around ideas central to Science (Core Ideas)
+    
+b)  This is supported by hands-on, authentic learning to experience how intricately related the cognitive, epistemic, and social aspects of Science are (Practices)
+    
+c)  Science learning@SMBSS also equips students with the ability to share their ethical stand (Values, Ethics and Attitudes) as they participate in discussions about socio-scientific issues that involve ethical dilemmas
+  
 
-**Elementz**
-
-The annual Elementz fair and conference provide a platform for our students to apply and sharpen their skills in the conduct of Science. They conduct experiments to prove their hypothesis and defend their projects against professionals in the field. To any student who is interested in Science, this competition is an invaluable opportunity to learn what it truly means to be a Scientist.
-
-<div style="display:block"><img src="/images/S1.jpeg" style="max-width: 50%;"></div>
+**3. Key Programmes**  
+![](/images/KeyProg.jpg)
 <br>
-<div style="display:block"><img src="/images/S2.jpeg" style="max-width: 50%;"></div>
-<br>
-<div style="display:block"><img src="/images/S3.jpeg" style="max-width: 50%;"></div>
+a) To inspire all SMBSS Science students, the Science Fortnight aims to provide broad based exposure in the areas of:<br>
+* appreciating Science in everyday life.<br>
+* Behaving like a scientist.<br>
+* Celebrating successes of fellow SMBSS students.
 
-**IgnITE Skills Challenge**
+![](/images/Keyprog2.jpg)
+Students participating in science demonstrations and learning journeys as part of the Science Fortnight programme. <br><br>
+b) Inspired SMBSS students are then invited to build on their interest through:<br>
+* Deeper understanding of the inquiry process. <br>
+* Engagement by Science researchers in their endeavours in their respective fields. <br> 
+* Gaining deeper understanding of their own skills and dispositions towards Science.  
 
-The IgnITE Skills Challenge was designed to introduce students to technical skills. In the Logistics Challenge, students learnt about emerging technologies in the logistics industry and apply their drone piloting knowledge to perform different logistics operations through gamification. They will also design and present a future warehouse concept.
-
-<div style="display:block"><img src="/images/S4.jpeg" style="max-width: 50%;"></div>
-
-<br>
-
-<div style="display:block"><img src="/images/S5.jpeg" style="max-width: 50%;"></div>
-
-**ICAS**
-
-The ICAS (International Competitions and Assessments for Schools) provides an opportunity for students to further stretch their abilities, think beyond the classroom, identify their strengths and weaknesses to improve their individual study skills and identify talent for further enrichment. Students are tested on a plethora of skill sets such as interpreting data, scientific investigation, reasoning and problem solving. Students are also exposed to interdisciplinary content stretching from Astronomy, Biology, Chemistry and Physics.
+![](/images/KeyProg3.jpg)
+Students participating in subject specific learning journeys to gain deeper understanding of the scientific discipline. <br><br>
+c) Passionate SMBSS students will then:<br>
+* Go through the process of innovation, where top-tier competitions allow them to exhibit and
+* hone their skills and dispositions, culminating in sharing of their Ideas, processes, and findings. 
+<br><br>
 
 **Science subjects offered**
+<br>
+Lower Secondary Science<br>
+Physics, Chemistry, Biology<br>
+Combined Science (Physics/Chemistry)<br>
+Combined Science (Chemistry/Biology)<br>
 
-<table border="1" width="100%" cellspacing="1" cellpadding="5" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px;">Lower Secondary</td><td style="box-sizing: inherit; padding: 5px 10px;">Science, NT Science</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px;">Upper Secondary</td><td style="box-sizing: inherit; padding: 5px 10px;">Physics<br style="box-sizing: inherit;">Chemistry<br style="box-sizing: inherit;">Biology<br style="box-sizing: inherit;">Combined Science (Physics/Chemistry)<br style="box-sizing: inherit;">Combined Science (Chemistry/Biology)<br style="box-sizing: inherit;">NT Science</td></tr></tbody></table>
 
-### Team Members/Dept Teachers
+**Team Members**
 
-**Head of Department :** Mr Serwin Leong
-
-**Teachers**
+* Ms Alanna Kwong
 * Mdm C Bhagyalakshmi
-* Ms Caroline Eu Ai Ming
-* Ms Charlene Kwang
-* Mr Daryn Tan
-* Ms Esther Tan Yin Li
-* Ms Heidi Low
-* Ms Jessica Chen
-* Ms Siew Yan Yee
-* Ms Tan Hui Nah
+* Ms Caroline Eu
 * Mr Chan Khai Mun
 * Mr Chang Lok
-* Mr Oon Boon Keong
-* Mr Sim Kai Suah
+* Ms Charlene Kwang
+* Mr Daryn Tan
+* Ms Esther Tan
+* Ms Heidi Low
+* Ms Jessica Chen
 * Mr Ong Wei Jin
-* Mr Wong Qin Jie
-* Ms Wong Gaik Choon
+* Mr Oon Boon Keong
+* Ms Siew Yan Yee
+* Mr Sim Kai Suah
+* Ms Suhailah Binte Abu Bakar
+* Ms Tan Hui Nah
+* Mdm V. Pennarsi
 * Mr David Leong
 * Ms Kwong Zhi Qing Alanna
+* Ms Wong Gaik Choon
+* Mr Wong Qin Jie
+* Mr Serwin Leong (HOD)
+
+
+
+**Students’ achievements**
+    
+
+Science Learning@SMBSS is committed to provide students with opportunities to explore their interests and achieve excellence in the sciences. Beyond the curriculum, our caring team of science educators are also dedicated mentors to our students taking part in various multi-level competitions.
+
+
+
+**a) Elementz**
+    
+
+The annual Elementz fair and conference provide a platform for our students to apply and sharpen their skills in the conduct of Science Inquiry. They conduct investigations to prove their hypothesis and defend their projects against professionals in the field. To any student who is interested in Science, this competition is an invaluable opportunity to learn what it truly means to be a Scientist.![](/images/Elementz.jpg)![](/images/Elementz2.jpg)
+
+
+**b) IgnITE Skills Challenge**
+    
+
+The IgnITE Skills Challenge is an annual competition that introduces students to technical skills and fosters a deeper understanding of courses offered by ITE. Challenges are designed to be engaging and fun, so as to make learning enjoyable and memorable, as well as providing opportunities for students to hone soft skills. The following are some challenges which SMBSS students participated in.
+
+
+
+In the “X-Bots” Challenge, students assemble various components of a robot and apply fun coding to control its movement.&nbsp;
+
+  
+
+Skills developed include:
+
+*   basic data science
+    
+*   Artificial Intelligence
+    
+*   block coding and block construction skills
+    
+*   creativity
+    
+*   critical thinking
+    
+*   problem solving
+    
+*   decision making
+    
+*   time management programming,&nbsp;
+    
+*   creative thinking,&nbsp;
+    
+*   problem solving skills, and&nbsp;
+    
+*   teamwork
+    
+![](/images/Data_escape1.jpg)
+
+
+In the “Data Escape Room” Challenge, students solve a series of data challenges that requires analysing and solving a series of dataset to reveal the location of a hidden treasure.
+
+  
+
+Skills developed include:
+
+*   data preparation and analysis
+    
+*   creative thinking,
+    
+*   data storytelling,
+    
+*   problem solving skills, and&nbsp;
+    
+*   teamwork
+    
+
+
+In the “Mobile Robot” Challenge, students learn to program and control robots to complete missions accurately in the shortest possible time.
+
+  
+
+Skills developed include:
+
+*   assembly of robot components,
+    
+*   programming,
+    
+*   creative thinking,
+    
+*   problem solving and&nbsp;
+    
+*   teamwork
+    
+![](/images/Mobile_robot.jpg)
+
+**c) SSEF**
+ 
+The SSEF (Singapore Science and Engineering Fair) is a national competition organised by the Ministry of Education (MOE), Agency for Science, Technology and Research (A\*STAR), and Science Centre Singapore (SCS). The SSEF is affiliated to the prestigious International Science and Engineering Fair (ISEF), which is regarded as the Olympics of science competitions.
+
+ 
+This competition is an excellent platform for budding scientists and engineers to showcase their passion in their respective fields by communicating their findings to industry experts.
+
+![](/images/SSEF.jpg)
+
+**d)  ICAS**
+    
+
+The ICAS (International Competitions and Assessments for Schools) provides an opportunity for students to further stretch their abilities, think beyond the classroom, identify their strengths and weaknesses to improve their individual study skills and identify talent for further enrichment.&nbsp;
+ 
+
+The ICAS provides students with a ready-made analysis on their skills, attitudes, and dispositions, which can be used for early-admission interviews and other similar purposes.
+
+
+Students are tested on a plethora of skill sets such as interpreting data, scientific investigation, reasoning and problem solving. Students are also exposed to interdisciplinary content stretching from Astronomy, Biology, Chemistry and Physics.
+
