@@ -70,28 +70,32 @@ Key Programme 1: Assembly sharing
 
 Assembly sessions are conducted to share current and relevant Cyber Wellness news with the student community to reinforce their learning and keep them updated on digital world affairs.
 
-![](/images/CW1_2.jpg) CW leaders' presentation     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-Audience answering CW questions
+
+|  | | 
+| -------- | -------- | 
+| ![](/images/CW1.jpg) CW leaders' presentation      |  ![](/images/CW2.jpg)  Audience answering CW questions  | 
+|  | | 
 
 Key Programme 2: Intergenerational Learning Program (ILP)
 
 The ILP is an annual initiative aimed at educating the elderly in the community about the usage of digital apps and guiding them to navigate the cyber world safely.
 
-![](/images/ILP1_2.jpg) Icebreaker games! &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Presentation and Sharing!
-![](/images/ILP3_4.jpg) Hands-on with the seniors &nbsp; &nbsp; &nbsp; &nbsp;
- Group photos with the seniors
 
-Key programme 3: Interclass CW Competition 
+
+|  |  | 
+| -------- | -------- | 
+| ![](/images/ILP1.jpg) Icebreaker games!  | ![](/images/ILP2.jpg) Presentation and Sharing!  | 
+| ![](/images/ILP3.jpg) Hands-on with the seniors | ![](/images/ILP4.jpg) Group photos with the seniors|
+|  | | 
+
+Key programme 3: Interclass CW Competition <br>
 The CW competition brings students from various classes to compete in a fun and engaging environment, testing their knowledge on Cyber Wellness. It serves as a platform to reinforce what they have learnt during the school assembly sharing program and Character and Citizenship Education (CCE) lessons.
 
-
-
-|![](/images/Interclass1.jpg) | ![](/images/Interclass2.jpg) |
+|  |   |
 | -------- | -------- | 
-| Students guessing words related to CW   |  Students solving puzzles related to CW    |
-| ![](/images/Interclass3.jpg)  | ![](/images/Interclass4.jpg)   |
-| Announcing the winners | Enjoyable CW experience | 
-
+|![](/images/Interclass1.jpg)  Students guessing words related to CW  | ![](/images/Interclass2.jpg) Students solving puzzles related to CW |
+| ![](/images/Interclass3.jpg)Announcing the winners  | ![](/images/Interclass4.jpg) Enjoyable CW experience  |
+|  | | 
 
 Key Programme 4: National Cyberwellness Advocacy Challenge (NCAC)
 
@@ -104,7 +108,7 @@ The NCAC is a National level competition where participants create compelling co
 | ![](/images/NCAC1.jpg)Student scanning QR code to participate in CW quiz      | ![](/images/NCAC2.jpg) 2021: Gold Award <br>Chew Yan Xi, Farzeen Shanza, Jahnavi Singh, Vijayan Suriyakanth <br>Mentor: Mr Calvin Teo    | 
 | ![](/images/NCAC3_jpg.png)Zoom presentation to school |![](/images/NCAC4.jpg)2022: Silver Award <br> Naresh S/O S Govindarajan, Chong Shen Yin, Ulfath Bariyya Binte, Jeevika Tagarajan, Mohamed Rabeek <br>Mentor: Ms Alanna Kwong |
 |![](/images/NCAC5.jpg)Sharing CW messages with peers| ![](/images/NCAC6.jpg)2023: Silver Award<br> Ning Kai Yang Aaron, Aarthikeyan S/O Pragas, Govin Raj, Joshua Ryan S/O Pandiri <br> Mentor: Ms Alanna Kwong|
-
+|  | | 
 
 
 **Vaues in Action (VIA)**
@@ -145,7 +149,7 @@ For the commemoration of Total Defence Day (TDD), we kickstarted it with a skit 
 
 ![](/images/TDD.jpg)
 
-**INTERNATIONAL FRIENDSHIP DAY 2023**
+**INTERNATIONAL FRIENDSHIP DAY 2023**<br>
 International Friendship Day is a day dedicated to the understanding of Singapore’s relations with neighbouring countries and beyond. Students were treated to songs from different countries and its significance during the assembly period.
 
 International students and Citizenship Education (CE) leaders also shared interesting and fascinating information about other countries. During CCE lesson, CE leaders explored the importance of maintaining and exploring relationship with the region and the world. Commemoration of IFD help students to gain a deeper appreciation of regional cooperation and infuse students with a global outlook that makes them open to working well with people of different cultures.
@@ -171,11 +175,11 @@ For our Nation’s 58th birthday, we began the day with a record of a parade seg
 **Key Message:**&nbsp;**Responsible and caring individual who brings positive impact to the environment**
 
 The distinctive Environmental Conservation programmes that were organised by the school include:<br>
-•	School based recycling programme <br>
-•	Environmental awareness lessons/sharing conducted by Environmental Leaders on themes such as Recycling Right and Say Yes to Waste Less<br>
-•	Creating upcycled products from unwanted items<br>
-•	Swapaholic (students swap items they no longer need to reduce waste)<br>
-Through these programmes, students played an active role in ensuring environmental sustainability and instill actions in their daily lives to safeguard our planet.
+* School based recycling programme <br>
+* Environmental awareness lessons/sharing conducted by Environmental Leaders on themes such as Recycling Right and Say Yes to Waste Less<br>
+* Creating upcycled products from unwanted items<br>
+* Swapaholic (students swap items they no longer need to reduce waste)<br>
+* Through these programmes, students played an active role in ensuring environmental sustainability and instill actions in their daily lives to safeguard our planet.
 
 ![](/images/EC1_2.jpg) Environmental awareness sharing conducted by Environmental Leaders
 ![](/images/EC3.jpg) Environmental Leaders went on a learning journey to learn about sustainability
