@@ -95,14 +95,11 @@ The CW competition brings students from various classes to compete in a fun and 
 
 Key Programme 4: National Cyberwellness Advocacy Challenge (NCAC)
 
-The NCAC is a National level competition where participants create compelling content to convey Cyber Wellness principles and values. 
-| ![](/images/NCAC1.jpg) | ![](/images/NCAC2.jpg) |
+The NCAC is a National level competition where participants create compelling content to convey Cyber Wellness principles and values. <br>
+| ![](/images/NCAC1.jpg)Student scanning QR code to participate in CW quiz | ![](/images/NCAC2.jpg) 2021: Gold Award <br>Chew Yan Xi, Farzeen Shanza, Jahnavi Singh, Vijayan Suriyakanth <br>Mentor: Mr Calvin Teo |
 |-------|-------|
-|Student scanning QR code to participate in CW quiz | 2021: Gold Award <br>Chew Yan Xi, Farzeen Shanza, Jahnavi Singh, Vijayan Suriyakanth <br>Mentor: Mr Calvin Teo |
-|![](/images/NCAC3_jpg.png) | ![](/images/NCAC4.jpg) |
-|Zoom presentation to school | 2022: Silver Award <br> Naresh S/O S Govindarajan, Chong Shen Yin, Ulfath Bariyya Binte, Jeevika Tagarajan, Mohamed Rabeek <br>Mentor: Ms Alanna Kwong |
-|![](/images/NCAC5.jpg)| ![](/images/NCAC6.jpg)|
-|Sharing CW messages with peers|2023: Silver Award<br> Ning Kai Yang Aaron, Aarthikeyan S/O Pragas, Govin Raj, Joshua Ryan S/O Pandiri <br> Mentor: Ms Alanna Kwong |
+|![](/images/NCAC3_jpg.png)Zoom presentation to school | ![](/images/NCAC4.jpg)2022: Silver Award <br> Naresh S/O S Govindarajan, Chong Shen Yin, Ulfath Bariyya Binte, Jeevika Tagarajan, Mohamed Rabeek <br>Mentor: Ms Alanna Kwong |
+|![](/images/NCAC5.jpg)Sharing CW messages with peers| ![](/images/NCAC6.jpg)2023: Silver Award<br> Ning Kai Yang Aaron, Aarthikeyan S/O Pragas, Govin Raj, Joshua Ryan S/O Pandiri <br> Mentor: Ms Alanna Kwong|
 
 **Vaues in Action (VIA)**
 
