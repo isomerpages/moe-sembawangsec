@@ -10,11 +10,11 @@ colors:
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
-      color: "#00838f"
+      color: "#5d83fc"
     - title: media-color-four
-      color: "#00838f"
+      color: "#2080dd"
     - title: media-color-five
-      color: "#00838f"
+      color: "#616b96"
 resources_name: resource
 description: Leaders & Change Makers
 permalink: none
