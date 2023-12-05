@@ -1,9 +1,9 @@
 title: Sembawang Secondary School
-url: ""
+url: https://www.sembawangsec.moe.edu.sg
 favicon: /images/sembicon2.png
 colors:
-  primary-color: "#1fd39a"
-  secondary-color: "#1fd39a"
+  primary-color: "#200fb6"
+  secondary-color: "#1f2dd3"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -54,3 +54,6 @@ staging: https://staging.dswzcizamwkf5.amplifyapp.com
 prod: https://master.dswzcizamwkf5.amplifyapp.com
 shareicon: /images/cropped-logo1-2021.jpg
 is_government: false
+facebook-pixel: ""
+google_analytics_ga4: ""
+linkedin-insights: ""
