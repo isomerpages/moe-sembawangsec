@@ -2,17 +2,17 @@ collections:
   about-us:
     output: true
     order:
-      - Achievements 2023.md
-      - Our People/Teaching Staff.md
-      - Our People/Non Teaching Staff.md
-      - Our People/School Management Committee.md
-      - Our People/.keep
+      - Principal’s Message.md
+      - Our Identity/.keep
       - Our Identity/Our School Song.md
       - Our Identity/Our Emblem.md
       - Our Identity/Our VMV.md
-      - Our Identity/.keep
-      - Principal’s Message.md
-      - Achievements.md
       - School Advisory Committee.md
+      - Our People/.keep
+      - Our People/Teaching Staff.md
+      - Our People/Non Teaching Staff.md
+      - Our People/School Management Committee.md
       - Calendar of School Events.md
+      - Achievements 2023.md
+      - Achievements.md
       - Contact Us.md
