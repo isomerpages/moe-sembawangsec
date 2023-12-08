@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Identity/Our School Song.md
       - Our Identity/Our Emblem.md
       - Our Identity/Our VMV.md
       - Our Identity/.keep
