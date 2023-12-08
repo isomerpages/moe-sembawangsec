@@ -3,7 +3,7 @@ url: https://www.sembawangsec.moe.edu.sg
 favicon: /images/sembicon2.png
 colors:
   primary-color: "#08013c"
-  secondary-color: "#090244"
+  secondary-color: "#08013c"
   media-colors:
     - title: media-color-one
       color: "#49759a"
