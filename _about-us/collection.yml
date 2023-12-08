@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Identity/Our VMV.md
       - Our Identity/.keep
       - Principal’s Message.md
       - Achievements.md
