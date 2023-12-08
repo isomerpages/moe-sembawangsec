@@ -3,45 +3,6 @@ title: Our VMV
 permalink: /about-us/our-vmv/
 description: ""
 third_nav_title: Our Identity
+variant: tiptap
 ---
-## Our Vision Mission Values
-
-![](/images/School.png)
-
-#### Our Vision
-
-Leaders and Change Makers
-
-#### Our Mission
-
-To nurture our learners to lead purposeful lives by guiding them to be morally upright, civic-minded, resilient, and future-ready
-
-#### Our Values
-
-_RESP<sup>2</sup>I<sup>2</sup>RE (RESPIRE)_
-
-Respect  
-Responsibility  
-Integrity  
-Innovative Spirit  
-Resilience  
-Empathy
-
-#### Our Strategic Thrusts
-
-*   Active Learning
-*   Skilful Leading
-*   Purposeful Service
-*   Professional Development of Staff
-*   Internal Partnerships
-*   External Partnerships
-
-#### Our Motto
-
-Strive, Serve and Soar
-
-#### Our Emblem
-
-As educators, we light the fire in every child.  
-
-As students of Sembawang, we will light up the lives of others.
+<h2>Our Vision, Mission, Motto and Values</h2><div class="isomer-image-wrapper"><img height="auto" width="100%" alt="" src="/images/School.png"></div><h4>Vision</h4><p>Leaders and Change Makers </p><h4>Mission</h4><p>Nurturing reflective learners and contributing citizens</p><h4>Motto</h4><p>Strive, Serve and Soar</p><h4>Values</h4><p>Integrity<br>Resilience<br>Responsibility<br>Respect<br>Empathy<br>Gratitude</p><p></p>
