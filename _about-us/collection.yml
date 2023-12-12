@@ -3,15 +3,15 @@ collections:
     output: true
     order:
       - Principal’s Message.md
+      - Our Identity/.keep
+      - Our Identity/Our Vision, Mission, Motto and Values.md
+      - Our Identity/Our Emblem.md
+      - Our Identity/Our School Song.md
       - School Advisory Committee.md
       - Our People/.keep
       - Our People/School Management Committee.md
       - Our People/Non Teaching Staff.md
       - Our People/Teaching Staff.md
-      - Our Identity/.keep
-      - Our Identity/Our Vision, Mission, Motto and Values.md
-      - Our Identity/Our Emblem.md
-      - Our Identity/Our School Song.md
       - Calendar of School Events.md
       - Achievements 2023.md
       - Achievements.md
