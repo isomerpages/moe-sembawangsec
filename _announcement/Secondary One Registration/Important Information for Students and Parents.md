@@ -3,21 +3,27 @@ title: Important Information for Students and Parents
 permalink: /announcement/Secondary-One-Registration/important-information-for-students-and-parents/
 description: ""
 third_nav_title: Secondary One Registration
+variant: markdown
 ---
 ## Important Information for Students and Parents
 
 
 To ensure you are well prepared for the start of your Secondary school journey with us, please note the following information:
 
-**Orientation Programme**
+**Week 1 Orientation Programme**
 
-To induct our new Sec 1 students, the Orientation Programme will be conducted from **3 January – 5 January 2023^**. The daily school hours for these three days are:
+To welcome our new Sec 1 students, the school has organised an Orientation Programme from 2-5 Jan 2024. Students will participate in class activities led by their Form Teachers and attend talks by school personnel. The daily school hours for Week 1 are as follows:
 
-**Reporting time: 7.30  a.m**
 
-**Dismissal time: 1.10  p.m**
 
-^ On 4 January 2023, there will be a CCA Sports Trial conducted from 1.40 pm to 4.00 pm.
+| Date | Reporting Time | Dismissal Time |
+| -------- | -------- | -------- |
+| 2 Jan 2024 (Tue)     | 7:30 am     | 1 pm     |
+| 3 Jan 2024 (Wed)     | 7:30 am     | 1 pm     |
+| 4 Jan 2024 (Thu)     | 7:30 am     | 1 pm     |
+| 5 Jan 2024 (Fri)     | 7:30 am     | 12:40 pm     |
+
+
 
 **Attire and Grooming**
 
@@ -31,9 +37,11 @@ _If you are unable to purchase the school uniform by the start of the school ter
 
 To ensure comfort and safety during school activities, students are allowed to wear sports shoes daily.
 
-![](/images/shoes1.jpeg)
+![](/images/image1_24.JPG)
 
 ![](/images/shoes2.jpeg)
+
+*If you choose not to wear sports shoes, only white canvas shoes with laces are permitted.*
 
 **Grooming**
 
@@ -48,17 +56,11 @@ Girls – Long hair tied up or plaited neatly
 
 Please bring along the following for the first day of school:
 
+1.   Writing Materials
+2.   Story book
+3.   Water Bottle
 
-*   Student Handbook
-*   Writing Materials
-*   Story book
-*   Water Bottle
+**Secondary level School Smart Card (SSC)**
 
-**Lesson Timetables**
-
-Lesson timetables will be available for all classes on the school website by 30 December 2022.  Please note that we follow an odd-even timetabling system for our lessons.  You will follow the timetable for your class from 6 January 2023.
-
- **Secondary level School Smart Card (SSC)**
-
-*   Please be informed that all students entering Secondary One in Jan 2023 will be issued with a new Secondary level School Smart Card (SSC). 
-*   While Secondary One Students are waiting for their Secondary level SSCs to be ready, they can continue to use their Primary level SSCs for concessionary travel till end April 2023. Students can still purchase the Bus Concession Pass (BCP) using their Primary level SSCs, but they would need to purchase the BCP for Secondary School students.
+*   Please be informed that all students entering Secondary One in Jan 2024 will be issued with a new Secondary level School Smart Card (SSC). 
+*   While Secondary One Students are waiting for their Secondary level SSCs to be ready, they can continue to use their Primary level SSCs for concessionary travel till end April 2024. Students can still purchase the Bus Concession Pass (BCP) using their Primary level SSCs, but they would need to purchase the BCP for Secondary School students.

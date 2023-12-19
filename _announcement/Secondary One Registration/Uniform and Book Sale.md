@@ -3,55 +3,39 @@ title: Uniform and Book Sale
 permalink: /announcement/Secondary-One-Registration/uniform-and-book-sale/
 description: ""
 third_nav_title: Secondary One Registration
+variant: markdown
 ---
 ## Uniform and Book Sale
 
 
 **Note:**
 
-**For students with approved or pending FAS application, you will not need to make online orders for both uniform and books. Proceed to the General Office to submit your FAS approval letter before collection of the uniform and books. Please follow the schedule for collection as shown below.**
+**For students with approved or pending FAS application, you will *not need* to make online orders for both uniform and books. Proceed to the General Office to submit your FAS approval letter before collection of the uniform and books. Please follow the schedule for collection as shown below.**
 
 **Uniform Sale**
 
-The sale of uniform will be conducted online at [https://www.intrenduniforms.com](https://www.intrenduniforms.com/sembawang-secondary-school) to avoid traffic and wait time.
+For school uniform and PE/House attire purchase, you can either:
 
-Customers can choose to pay via:
+* Purchase in school<br>
+You are encouraged to purchase your uniform according to the allocated time slot for your class. (Refer to the schedule below)
+or
+* Purchase online at https://www.beauvoix.com.sg/products/sembawang-secondary-school
+<br> (Delivery charge of $7.00 is applicable for online orders and delivery is within 5-7 working days)
 
-*   Cash On Delivery; or
-*   PAYNOW (UEN no. 52946428D)
-
-You can either:
-
-*   Opt for home delivery: Orders will be dispatched by a local courier within 3-5 days from date of order for a delivery fee of $8.00; or
-*   Self-collect your online orders from the school based on the below schedule.
+**Payment Mode: Cash or PayNow
+<br>Please check your House allocation before purchasing the PE/House T-Shirts.**
 
 
-**Please check your House allocation via Parents Gateway before purchasing the PE/House T-Shirts.**
 
 **Book and Stationery Sale**
 
 For books and stationery purchase, you can either:
 
-*   Purchase in school; or
-*   Opt for home delivery for a delivery fee of $13.00.
-(Orders will be delivered on **29 or 30 December 2022**.)
-
-For home delivery, please contact school bookshop @ 91872867 (Benny).
-
-**Booklists for**
-
-*  [Secondary 1 Express (EXP)](/files/2023%20Booklists/2023%20Sembawang%20Sec%201E.pdf)
-*  [Secondary 1 Normal Academic (NA)](/files/2023%20Booklists/2023%20Sembawang%20Sec%201NA.pdf)
-*  [Secondary 1 Normal Technical (NT)](/files/2023%20Booklists/2023%20Sembawang%20Sec%201NT.pdf)
-
-Please follow the allocated time slot for your class. (Refer to the schedule below)
+* Purchase in school; 
+<br>You are encouraged to purchase your books according to the allocated time slot for your class. (Refer to the schedule below)
+or
+* Purchase online at ASENCIO Online Portal: https://asenciobookshop.sg
+<br>For enquiries, please email to sembawang@ascensio.com.sg
 
 **Payment Mode: Cash or PayNow**
-
-
-**\*Schedule for Uniform and Book Collection/Purchase**
-
-<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td width="162" style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Date</strong></td><td width="181" style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Time Slot</strong></td><td width="128" style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Class</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td width="162" style="box-sizing: inherit; padding: 5px 10px;">22 Dec 2022</td><td width="181" style="box-sizing: inherit; padding: 5px 10px;">1.00pm to 4.00pm</td><td width="128" style="box-sizing: inherit; padding: 5px 10px;">1EX1 / 1EX2</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td rowspan="2" width="162" style="box-sizing: inherit; padding: 5px 10px;">23 Dec 2022</td><td width="181" style="box-sizing: inherit; padding: 5px 10px;">9.00am to 1.00pm</td><td width="128" style="box-sizing: inherit; padding: 5px 10px;">1EX3 / 1EX4</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td width="181" style="box-sizing: inherit; padding: 5px 10px;">1.00pm to 4.00pm</td><td width="128" style="box-sizing: inherit; padding: 5px 10px;">1EX5 / 1EX6</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td width="162" style="box-sizing: inherit; padding: 5px 10px;">27 - 30 Dec 2022</td><td width="181" style="box-sizing: inherit; padding: 5px 10px;">9.00am to 4.00pm</td><td width="128" style="box-sizing: inherit; padding: 5px 10px;">All</td></tr></tbody></table>
-
-
-**Students are encouraged to purchase your books and uniform on the scheduled date/time. However, if you are unable to do so, the bookshop will also be open from 27 to 30 Dec 2022.**
+![](/images/img_3_24.JPG)

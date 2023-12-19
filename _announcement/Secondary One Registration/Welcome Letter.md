@@ -3,7 +3,8 @@ title: Welcome Letter
 permalink: /announcement/Secondary-One-Registration/welcome-letter/
 description: ""
 third_nav_title: Secondary One Registration
+variant: markdown
 ---
 ## Welcome Letter
 
-Please read the Welcome [Letter](/files/Welcome%20Letter.pdf) from Our Principal.
+Please read the Welcome [Letter](/files/Welcome_Letter_from_Principal_.pdf) from Our Principal.
