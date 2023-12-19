@@ -16,7 +16,4 @@ All appeals must be accompanied by relevant supporting documents, such as medica
 
 Note:
 * Each student is only allowed to submit one application.
-* School transfer under the MAE is subject to availability of vacancies. Successful applicants will not be allowed to reject the reposted school and request to be admitted back to their original posted school. 
-
-
-
+* School transfer under the MAE is subject to availability of vacancies. Successful applicants will not be allowed to reject the reposted school and request to be admitted back to their original posted school.
