@@ -4,8 +4,6 @@ collections:
     order:
       - All Announcements.md
       - Direct School Admission Exercise 2023.md
-      - Secondary One Registration/Application for School Transfer.md
-      - Secondary One Registration/Medical Appeal Exercise.md
       - Secondary One Registration/.keep
       - Secondary One Registration/Secondary One Registration for 2024.md
       - Secondary One Registration/Welcome Letter.md
@@ -16,6 +14,8 @@ collections:
       - Secondary One Registration/Financial Assistance Scheme (FAS).md
       - Secondary One Registration/Offering of Subjects at a More Demanding
         Level.md
+      - Secondary One Registration/Medical Appeal Exercise.md
+      - Secondary One Registration/Application for School Transfer.md
       - Secondary One Registration/Subject Based Banding.md
       - Secondary One Registration/Appeal for Transfer for Serious Medical
         Conditions.md
