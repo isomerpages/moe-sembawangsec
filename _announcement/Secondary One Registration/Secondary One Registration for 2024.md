@@ -32,7 +32,7 @@ More details are available in the “Information Kit for Secondary One Registrat
 | S/N | Information | Remarks |
 | -------- | -------- | -------- |
 | 1    | [Welcome letter from Principal](https://www.sembawangsec.moe.edu.sg/announcement/Secondary-One-Registration/welcome-letter/)     | From Principal     |
-| 2   | Class and House Allocation     | Information on Class and House Allocation will be sent via Parents Gateway    |
+| 2   | [Class and House Allocation](https://www.sembawangsec.moe.edu.sg/announcement/Secondary-One-Registration/class-and-house-allocation/)     | Information on Class and House Allocation will be sent via Parents Gateway    |
 | 3    | [Important information for Students and Parents](https://www.sembawangsec.moe.edu.sg/announcement/Secondary-One-Registration/important-information-for-students-and-parents/)     | Week 1 Orientation Programme/ Attire &amp; Grooming/ Things to Bring on First Day of School/ Secondary level School Smart Card (SSC)    |
 | 4    | [Uniform and Book Sale](https://www.sembawangsec.moe.edu.sg/announcement/Secondary-One-Registration/uniform-and-book-sale/)     | Procedures for Uniform and Book Purchase/ Schedule for Uniform and Book Purchase   |
 | 5    | [Financial Assistance Scheme (MOE FAS)](https://www.sembawangsec.moe.edu.sg/announcement/Secondary-One-Registration/financial-assistance-scheme-fas/)     | Link to Online Form/ Procedures for Application     |
