@@ -19,7 +19,7 @@ For school uniform and PE/House attire purchase, you can either:
 * Purchase in school<br>
 You are encouraged to purchase your uniform according to the allocated time slot for your class. (Refer to the schedule below)
 or
-* Purchase online at https://www.beauvoix.com.sg/products/sembawang-secondary-school
+* Purchase [online](https://www.beauvoix.com.sg/products/sembawang-secondary-school) 
 <br> (Delivery charge of $7.00 is applicable for online orders and delivery is within 5-7 working days)
 
 **Payment Mode: Cash or PayNow
@@ -34,7 +34,7 @@ For books and stationery purchase, you can either:
 * Purchase in school; 
 <br>You are encouraged to purchase your books according to the allocated time slot for your class. (Refer to the schedule below)
 or
-* Purchase online at ASENCIO Online Portal: https://asenciobookshop.sg
+* Purchase online at ASENCIO Online Portal: [asenciobookshop.sg](https://asenciobookshop.sg)
 <br>For enquiries, please email to sembawang@ascensio.com.sg
 
 **Payment Mode: Cash or PayNow**
