@@ -37,7 +37,7 @@ _If you are unable to purchase the school uniform by the start of the school ter
 
 To ensure comfort and safety during school activities, students are allowed to wear sports shoes daily.
 
-![](/images/shoes1.jpeg)
+![](/images/image1_24.JPG)
 
 ![](/images/shoes2.jpeg)
 
@@ -56,17 +56,11 @@ Girls – Long hair tied up or plaited neatly
 
 Please bring along the following for the first day of school:
 
+1.   Writing Materials
+2.   Story book
+3.   Water Bottle
 
-*   Student Handbook
-*   Writing Materials
-*   Story book
-*   Water Bottle
+**Secondary level School Smart Card (SSC)**
 
-**Lesson Timetables**
-
-Lesson timetables will be available for all classes on the school website by 30 December 2022.  Please note that we follow an odd-even timetabling system for our lessons.  You will follow the timetable for your class from 6 January 2023.
-
- **Secondary level School Smart Card (SSC)**
-
-*   Please be informed that all students entering Secondary One in Jan 2023 will be issued with a new Secondary level School Smart Card (SSC). 
-*   While Secondary One Students are waiting for their Secondary level SSCs to be ready, they can continue to use their Primary level SSCs for concessionary travel till end April 2023. Students can still purchase the Bus Concession Pass (BCP) using their Primary level SSCs, but they would need to purchase the BCP for Secondary School students.
+*   Please be informed that all students entering Secondary One in Jan 2024 will be issued with a new Secondary level School Smart Card (SSC). 
+*   While Secondary One Students are waiting for their Secondary level SSCs to be ready, they can continue to use their Primary level SSCs for concessionary travel till end April 2024. Students can still purchase the Bus Concession Pass (BCP) using their Primary level SSCs, but they would need to purchase the BCP for Secondary School students.
