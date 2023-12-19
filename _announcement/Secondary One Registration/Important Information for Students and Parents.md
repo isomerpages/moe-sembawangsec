@@ -3,21 +3,27 @@ title: Important Information for Students and Parents
 permalink: /announcement/Secondary-One-Registration/important-information-for-students-and-parents/
 description: ""
 third_nav_title: Secondary One Registration
+variant: markdown
 ---
 ## Important Information for Students and Parents
 
 
 To ensure you are well prepared for the start of your Secondary school journey with us, please note the following information:
 
-**Orientation Programme**
+**Week 1 Orientation Programme**
 
-To induct our new Sec 1 students, the Orientation Programme will be conducted from **3 January – 5 January 2023^**. The daily school hours for these three days are:
+To welcome our new Sec 1 students, the school has organised an Orientation Programme from 2-5 Jan 2024. Students will participate in class activities led by their Form Teachers and attend talks by school personnel. The daily school hours for Week 1 are as follows:
 
-**Reporting time: 7.30  a.m**
 
-**Dismissal time: 1.10  p.m**
 
-^ On 4 January 2023, there will be a CCA Sports Trial conducted from 1.40 pm to 4.00 pm.
+| Date | Reporting Time | Dismissal Time |
+| -------- | -------- | -------- |
+| 2 Jan 2024 (Tue)     | 7:30 am     | 1 pm     |
+| 3 Jan 2024 (Wed)     | 7:30 am     | 1 pm     |
+| 4 Jan 2024 (Thu)     | 7:30 am     | 1 pm     |
+| 5 Jan 2024 (Fri)     | 7:30 am     | 12:40 pm     |
+
+
 
 **Attire and Grooming**
 
@@ -34,6 +40,8 @@ To ensure comfort and safety during school activities, students are allowed to w
 ![](/images/shoes1.jpeg)
 
 ![](/images/shoes2.jpeg)
+
+*If you choose not to wear sports shoes, only white canvas shoes with laces are permitted.*
 
 **Grooming**
 
