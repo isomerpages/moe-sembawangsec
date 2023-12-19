@@ -18,9 +18,9 @@ To welcome our new Sec 1 students, the school has organised an Orientation Progr
 
 | Date | Reporting Time | Dismissal Time |
 | -------- | -------- | -------- |
-| 2 Jan 2024 (Tue)     | 7:30 am     | 1 pm     |
-| 3 Jan 2024 (Wed)     | 7:30 am     | 1 pm     |
-| 4 Jan 2024 (Thu)     | 7:30 am     | 1 pm     |
+| 2 Jan 2024 (Tue)     | 7:30 am     | 1:00 pm     |
+| 3 Jan 2024 (Wed)     | 7:30 am     | 1:00 pm     |
+| 4 Jan 2024 (Thu)     | 7:30 am     | 1:00 pm     |
 | 5 Jan 2024 (Fri)     | 7:30 am     | 12:40 pm     |
 
 
