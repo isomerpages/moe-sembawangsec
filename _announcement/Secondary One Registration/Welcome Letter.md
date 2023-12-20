@@ -7,4 +7,4 @@ variant: markdown
 ---
 ## Welcome Letter
 
-Please read the Welcome [Letter](/files/Welcome_Letter_from_Principal_.pdf) from Our Principal.
+Please read the Welcome [Letter](/files/Welcome_Letter_from_Principal_updated.pdf) from Our Principal.
