@@ -7,7 +7,6 @@ permalink: /
 notification: Sembawang Secondary School
 sections:
   - hero:
-      title: Sembawang Secondary School
       subtitle: Leaders & Change Makers
       background: /images/dragon-boat-competition.jpeg
       button: Secondary One Registration for 2024
