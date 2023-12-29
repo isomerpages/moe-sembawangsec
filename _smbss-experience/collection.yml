@@ -2,7 +2,6 @@ collections:
   smbss-experience:
     output: true
     order:
-      - CCA.md
       - English.md
       - Mathematics.md
       - Science.md
@@ -17,6 +16,7 @@ collections:
       - ICT.md
       - Character & Citizenship Education.md
       - Student Development.md
+      - CCA.md
       - Distinctive Programmes/.keep
       - Distinctive Programmes/Applied Learning Programme.md
       - Distinctive Programmes/Learning for Life Programme.md
