@@ -1,5 +1,4 @@
 collections:
   co-curriculum:
     output: true
-    order:
-      - Student Development.md
+    order: []
