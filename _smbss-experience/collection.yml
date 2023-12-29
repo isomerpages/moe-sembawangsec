@@ -2,6 +2,7 @@ collections:
   smbss-experience:
     output: true
     order:
+      - Academic Learning/English.md
       - Academic Learning/.keep
       - Signature Programme/.keep
       - Signature Programme/Applied Learning Programme.md
