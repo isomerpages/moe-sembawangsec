@@ -2,6 +2,7 @@ collections:
   smbss-experience:
     output: true
     order:
+      - Physical Education.md
       - ICT.md
       - Science.md
       - Mathematics.md
