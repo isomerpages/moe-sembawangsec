@@ -2,6 +2,7 @@
 title: CCA
 permalink: /co-curriculum/cca/
 description: ""
+variant: markdown
 ---
 ## CCA
 ![](/images/CCA1.png)
@@ -21,7 +22,3 @@ In Sembawang all Sec 1 students are given a period a month to visit the differen
 CCA Achievement
 
 This year more than 75% or two-third of our graduating students have attained an Excellent in their CCA grade. A testament to the students’ commitment, participation and leadership in their different chosen CCA.
-
-_Chinese Dance_
-
-Chinese Dance as a CCA was established in 2018. In their maiden SYF Arts Presentation in 2019 they achieved a Silver. It is a very commendable achievement for such a young CCA. We are excited to see how far students can excel in their CCA and showcase their talent.
