@@ -3,40 +3,6 @@ title: Concert Band (SembWinds)
 permalink: /co-curriculum/ccas/performing-arts/concert-band-sembwinds/
 description: ""
 third_nav_title: Performing Arts
+variant: tiptap
 ---
-**Teachers In Charge** 
-
-Ms Sharon Tan Suey Leng (I/C)  <br>
-Mdm Ho Yam Chiew (2nd I/C)  <br>
-Ms Fong Man Lin
-
-### Practice Schedule
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-zr06">Concert Band<br>(SembWinds)</td>
-    <td class="tg-zr06">Wed<br>Fri</td>
-    <td class="tg-zr06">3:30pm – 5:30pm<br>2:30pm – 5:30pm</td>
-    <td class="tg-zr06">Music Room</td>
-  </tr>
-</thead>
-</table>
-
-### Achievements
-SYF Arts Presentation
-
-*   Certificate of Accomplishment 2020
-
-![](/images/SembWinds11.jpeg)
-![](/images/SembWinds21.jpeg)
-![](/images/SembWinds31.jpeg)
-![](/images/SembWinds41.jpeg)
+<h3><strong>Teachers-in-charge</strong></h3><p>Ms Sharon Tan Suey Leng (I/C) <br>Mdm Ho Yam Chiew (2nd I/C) <br>Ms Fong Man Lin</p><h3>Practice Schedule</h3><table><tbody><tr><td rowspan="1" colspan="1"><p>Wed</p></td><td rowspan="1" colspan="1"><p>3:0pm – 5:30pm</p></td><td rowspan="1" colspan="1"><p>Music Room</p></td></tr><tr><td rowspan="1" colspan="1"><p>Fri</p></td><td rowspan="1" colspan="1"><p>2:30pm – 5:30pm</p></td><td rowspan="1" colspan="1"><p>Music Room</p></td></tr></tbody></table><h3>Achievements</h3><p>SYF Arts Presentation</p><ul data-tight="true" class="tight"><li><p>Certificate of Accomplishment 2020</p></li></ul><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SembWinds11.jpeg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SembWinds21.jpeg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SembWinds31.jpeg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SembWinds41.jpeg"></div><p></p>

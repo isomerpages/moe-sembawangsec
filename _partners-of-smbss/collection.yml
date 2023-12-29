@@ -1,5 +1,5 @@
 collections:
-  outreach:
+  partners-of-smbss:
     output: true
     order:
       - Parent Support Group.md

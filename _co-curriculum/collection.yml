@@ -1,6 +1,0 @@
-collections:
-  co-curriculum:
-    output: true
-    order:
-      - Character & Citizenship Education.md
-      - Student Development.md

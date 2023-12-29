@@ -2,30 +2,19 @@ logo: /images/cropped-logo1-2021.jpg
 links:
   - title: About Us
     collection: about-us
-  - title: Announcement
-    collection: announcement
-  - title: Curriculum
-    collection: curriculum
-  - title: Co-curriculum
-    url: /co-curriculum/character-citizenship-education
-    sublinks:
-      - title: CCE
-        url: /co-curriculum/character-citizenship-education
-      - title: Student Development
-        url: /co-curriculum/student-development
-      - title: CCAs
-        url: /co-curriculum/cca
-  - title: Outreach
-    collection: outreach
+  - title: Announcements
+    collection: announcements
+  - title: Smbss Experience
+    collection: smbss-experience
+  - title: CCAs
+    collection: ccas
+  - title: Partners Of Smbss
+    collection: partners-of-smbss
   - title: Others
     url: /others
     sublinks:
-      - title: Travel Declaration
-        url: https://www.form.gov.sg/#!/5cc7d2c509313a001745cb8a
       - title: SEAB
         url: https://www.seab.gov.sg/
-      - title: Canteen Openings
-        url: /canteen-openings
       - title: Sports Education Programme
         url: https://www.sportsingapore.gov.sg/sports-education/sports-education-programme
       - title: Polytechnics

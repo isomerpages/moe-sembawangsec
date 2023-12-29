@@ -3,38 +3,6 @@ title: AVA Club
 permalink: /co-curriculum/ccas/clubs-societies/ava-club/
 description: ""
 third_nav_title: Clubs & Societies
+variant: tiptap
 ---
-### About Us:
-
-Our Audio Visual Aid Club is a unique CCA, as we are a service CCA whose members are focused on providing support for schools events and the daily running of the school, from the daily use of the public announcement system, to the provision of sound support during sports events. As part of our holistic education, our member also receive photography training and provide photography services to our school regularly. Learning journeys are also a regular fixture for our members to bond and have fun on.
-
-### Teachers-in-charge:
-
-Mdm Yeo Moei Leng(I/C)  
-Mdm Zaetun Bte Abbas  
-Mdm Melissa Chua<br>
-Miss Samantha Lim <br>
-
-### Training Schedule
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-zr06">AVA Club</td>
-    <td class="tg-zr06">Wed</td>
-    <td class="tg-zr06">3pm – 6.00pm</td>
-    <td class="tg-zr06">AVA Room</td>
-  </tr>
-</thead>
-</table>
-
-![](/images/AVA-Club-2.jpeg)
-![](/images/AVA-Club-4.jpeg)
+<h3>Teachers-in-charge:</h3><p>Miss Samantha Lim (I/C)<br>Mdm Zaetun Bte Abbas<br>Mdm Yeo Moei Leng</p><h3>Training Schedule</h3><table><tbody><tr><td rowspan="1" colspan="1"><p>Wed</p></td><td rowspan="1" colspan="1"><p>3pm – 6.00pm</p></td><td rowspan="1" colspan="1"><p>AVA Room</p></td></tr></tbody></table><h3>About Us:</h3><p>Our Audio Visual Aid Club is a unique CCA, as we are a service CCA whose members are focused on providing support for schools events and the daily running of the school, from the daily use of the public announcement system, to the provision of sound support during sports events. As part of our holistic education, our member also receive photography training and provide photography services to our school regularly. Learning journeys are also a regular fixture for our members to bond and have fun on.</p><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/AVA-Club-2.jpeg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/AVA-Club-4.jpeg"></div><p></p>

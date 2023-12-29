@@ -2,7 +2,7 @@
 title: PEARL
 permalink: /curriculum/Signature-Programme/pearl/
 description: ""
-third_nav_title: Signature Programme
+third_nav_title: Distinctive Programmes
 ---
 ![](/images/IMAG0303.jpg)
 

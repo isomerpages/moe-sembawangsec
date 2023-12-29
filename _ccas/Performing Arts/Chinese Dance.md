@@ -3,54 +3,6 @@ title: Chinese Dance
 permalink: /co-curriculum/ccas/performing-arts/chinese-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: tiptap
 ---
-![](/images/CD1.png)
-
-
-<img src="/images/Label.png" 
-     style="width:80%">
-		 
-A little introduction about us…
-
-Sembawang Chinese Dance aims to foster deeper interest in dance and appreciation in Chinese Culture, and provide platforms for students to develop their talents through various performances. Through Sembawang Chinese Dance training sessions, students will be able to build up their level of **confidence** and sense of **responsibilities**. With the guidance of our dedicated instructor, students will be able to master and appreciate the art of Chinese Dance.
-
-Teachers in charge:  <br>
-Ms Ang Lee Yong (I/C)  <br>
-Ms Ching Qing Ting  <br>
-Ms Ding Moy Lee
-
-### Practice Schedule
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1ppo">Monday</th>
-    <th class="tg-1ppo">3:15pm – 5.45pm</th>
-    <th class="tg-1ppo">ISH</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-h5mn">Friday</td>
-    <td class="tg-h5mn">1:30pm – 4:30pm</td>
-    <td class="tg-h5mn">AVA</td>
-  </tr>
-</tbody>
-</table>
-
-### Achievements
-SYF Arts Presentation
-
-*   Certificate of accomplishment in 2021
-*   Certificate of accomplishment in 2019
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cTSsYNOCoXI?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h3>Teachers in charge:</h3><p>Ms&nbsp;Ang Lee Yong (I/C) <br>Ms Ding Moy Lee</p><h3>Practice Schedule</h3><table><tbody><tr><td rowspan="1" colspan="1"><p>Friday</p></td><td rowspan="1" colspan="1"><p>1:30pm – 4:30pm</p></td><td rowspan="1" colspan="1"><p>Hall</p></td></tr></tbody></table><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CD1.png"></div><p></p><div class="isomer-image-wrapper"><img style="width:80%" height="auto" width="100%" src="/images/Label.png"></div><p>A little introduction about us…</p><p>Sembawang&nbsp;Chinese&nbsp;Dance&nbsp;aims to foster deeper interest in&nbsp;dance&nbsp;and appreciation in&nbsp;Chinese&nbsp;Culture, and provide platforms for students to develop their talents through various performances. Through Sembawang&nbsp;Chinese&nbsp;Dance&nbsp;training sessions, students will be able to build up their level of&nbsp;<strong>confidence</strong>&nbsp;and sense of&nbsp;<strong>responsibilities</strong>. With the guidance of our dedicated instructor, students will be able to master and appreciate the art of&nbsp;Chinese&nbsp;Dance.</p><p></p><h3>Achievements</h3><p>SYF Arts Presentation</p><ul data-tight="true" class="tight"><li><p>Certificate of accomplishment in 2021</p></li><li><p>Certificate of accomplishment in 2019</p></li></ul><div class="iframe-wrapper"><iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cTSsYNOCoXI?start=1"></iframe></div><p></p>
