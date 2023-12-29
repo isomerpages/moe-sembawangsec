@@ -4,8 +4,8 @@ links:
     collection: about-us
   - title: Announcement
     collection: announcement
-  - title: Curriculum
-    collection: curriculum
+  - title: Smbss Experience
+    collection: smbss-experience
   - title: Co-curriculum
     url: /co-curriculum/character-citizenship-education
     sublinks:
