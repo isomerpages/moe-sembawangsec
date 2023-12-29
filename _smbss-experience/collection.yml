@@ -4,7 +4,6 @@ collections:
     order:
       - English.md
       - Academic Learning/.keep
-      - Academic Learning/Mathematics.md
       - Academic Learning/Science.md
       - Academic Learning/Humanities.md
       - Academic Learning/Craft & Technology.md
