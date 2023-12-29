@@ -6,15 +6,8 @@ links:
     collection: announcements
   - title: Smbss Experience
     collection: smbss-experience
-  - title: CCA
-    url: CCA
-    sublinks:
-      - title: CCE
-        url: /co-curriculum/character-citizenship-education
-      - title: Student Development
-        url: /co-curriculum/student-development
-      - title: CCAs
-        url: /co-curriculum/cca
+  - title: CCAs
+    collection: ccas
   - title: Partners Of Smbss
     collection: partners-of-smbss
   - title: Others
