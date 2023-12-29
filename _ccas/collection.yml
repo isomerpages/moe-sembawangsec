@@ -3,9 +3,6 @@ collections:
     output: true
     order:
       - CCA.md
-      - Clubs & Societies/.keep
-      - Clubs & Societies/AVA Club.md
-      - Clubs & Societies/MediaComm Club.md
       - Sports & Games/.keep
       - Sports & Games/Sports & Games.md
       - Sports & Games/Badminton.md
@@ -13,14 +10,17 @@ collections:
       - Sports & Games/Soccer.md
       - Sports & Games/Netball.md
       - Sports & Games/Volleyball.md
-      - Performing Arts/.keep
-      - Performing Arts/Performing Arts.md
-      - Performing Arts/Chinese Dance.md
-      - Performing Arts/Concert Band (SembWinds).md
-      - Performing Arts/Malay Dance.md
       - Uniformed Group/.keep
       - Uniformed Group/Uniformed Groups.md
       - Uniformed Group/Boys' Brigade.md
       - Uniformed Group/Girls' Brigade.md
       - Uniformed Group/NCC.md
       - Uniformed Group/NPCC.md
+      - Performing Arts/.keep
+      - Performing Arts/Performing Arts.md
+      - Performing Arts/Chinese Dance.md
+      - Performing Arts/Concert Band (SembWinds).md
+      - Performing Arts/Malay Dance.md
+      - Clubs & Societies/.keep
+      - Clubs & Societies/AVA Club.md
+      - Clubs & Societies/MediaComm Club.md
