@@ -2,8 +2,6 @@ collections:
   smbss-experience:
     output: true
     order:
-      - CCA/CCA.md
-      - CCA/.keep
       - English.md
       - Mathematics.md
       - Science.md
@@ -22,3 +20,5 @@ collections:
       - Distinctive Programmes/Applied Learning Programme.md
       - Distinctive Programmes/Learning for Life Programme.md
       - Distinctive Programmes/PEARL.md
+      - CCA/.keep
+      - CCA/CCA.md
