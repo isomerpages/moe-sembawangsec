@@ -2,14 +2,14 @@ collections:
   smbss-experience:
     output: true
     order:
-      - Academic Learning/ICT.md
+      - Academic Learning/.keep
+      - Academic Learning/English.md
+      - Academic Learning/Mathematics.md
+      - Academic Learning/Science.md
       - Academic Learning/Humanities.md
       - Academic Learning/Craft & Technology.md
       - Academic Learning/Physical Education.md
-      - Academic Learning/Science.md
-      - Academic Learning/Mathematics.md
-      - Academic Learning/English.md
-      - Academic Learning/.keep
+      - Academic Learning/ICT.md
       - Signature Programme/.keep
       - Signature Programme/Applied Learning Programme.md
       - Signature Programme/Learning for Life Programme.md
