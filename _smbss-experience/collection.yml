@@ -1,5 +1,5 @@
 collections:
-  curriculum:
+  smbss-experience:
     output: true
     order:
       - Signature Programme/.keep
