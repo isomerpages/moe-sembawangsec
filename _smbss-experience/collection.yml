@@ -2,6 +2,7 @@ collections:
   smbss-experience:
     output: true
     order:
+      - Student Development.md
       - Character & Citizenship Education.md
       - English.md
       - Mathematics.md
