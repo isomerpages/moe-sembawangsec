@@ -2,6 +2,7 @@ collections:
   smbss-experience:
     output: true
     order:
+      - Humanities.md
       - Craft & Technology.md
       - Physical Education.md
       - ICT.md
