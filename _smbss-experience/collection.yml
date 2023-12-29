@@ -2,6 +2,7 @@ collections:
   smbss-experience:
     output: true
     order:
+      - Academic Learning/Humanities.md
       - Academic Learning/Craft & Technology.md
       - Academic Learning/Physical Education.md
       - Academic Learning/Science.md
