@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Academic Learning/.keep
-      - Academic Learning/English.md
       - Academic Learning/Mathematics.md
       - Academic Learning/Science.md
       - Academic Learning/Humanities.md
