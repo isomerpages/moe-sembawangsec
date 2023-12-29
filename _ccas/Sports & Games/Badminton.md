@@ -3,50 +3,6 @@ title: Badminton
 permalink: /co-curriculum/ccas/sports-games/badminton/
 description: ""
 third_nav_title: Sports & Games
+variant: tiptap
 ---
-### Teacher-in-charge:
-
-Ms Zhou Yi Ting (I/C)  <br>
-Ms Chen Siew Sze <br>
-Ms Adeline Lim  <br>
-Mdm Masriani  <br>
-
-
-### Training Schedule
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1ppo">Boys</th>
-    <th class="tg-1ppo">Wed</th>
-    <th class="tg-1ppo">3:00pm – 6.00pm</th>
-    <th class="tg-1ppo">School Hall</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-h5mn">Boys</td>
-    <td class="tg-h5mn">Fri</td>
-    <td class="tg-h5mn">1:30pm – 3:30pm</td>
-    <td class="tg-h5mn">External Venue</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">Girls</td>
-    <td class="tg-1ppo">Wed</td>
-    <td class="tg-1ppo">3:00pm – 6.00pm</td>
-    <td class="tg-1ppo">School Hall</td>
-  </tr>
-</tbody>
-</table>
-
-![](/images/badminton1.png)
-![](/images/badminton%202.jpeg)
+<h3>Teacher-in-charge:</h3><p>Ms Zhou Yi Ting (I/C) <br>Ms Chen Siew Sze <br>Ms Adeline Lim <br></p><h3>Training Schedule</h3><table><tbody><tr><td rowspan="1" colspan="1"><p>Boys</p></td><td rowspan="1" colspan="1"><p>Wed</p></td><td rowspan="1" colspan="1"><p>3.00 pm - 6.00 pm</p></td><td rowspan="1" colspan="1"><p>School Hall</p></td></tr><tr><th rowspan="1" colspan="1"><p>Girls</p></th><th rowspan="1" colspan="1"><p><strong>Wed</strong></p></th><th rowspan="1" colspan="1"><p><strong>3:00pm – 6.00pm</strong></p></th><th rowspan="1" colspan="1"><p><strong>School Hall / External Venue</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p>School Team (Boys &amp; Girls)</p></td><td rowspan="1" colspan="1"><p>Fri</p></td><td rowspan="1" colspan="1"><p>1:30pm – 4.30pm</p></td><td rowspan="1" colspan="1"><p>External Venue</p></td></tr></tbody></table><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/badminton1.png"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/badminton%202.jpeg"></div><p></p>
