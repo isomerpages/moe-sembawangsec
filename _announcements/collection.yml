@@ -2,7 +2,7 @@ collections:
   announcements:
     output: true
     order:
-      - 2024 Timetable.md
+      - 2024 Term 1 Timetable.md
       - All Announcements.md
       - Direct School Admission Exercise 2023.md
       - Secondary One Registration/.keep
