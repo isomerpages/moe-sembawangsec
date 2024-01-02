@@ -6,15 +6,10 @@ variant: markdown
 ---
 **Character and Citizenship Education (CCE) @ SMB**
 
-Character and Citizenship Education (CCE), including National Education (NE), and Social and Emotional Learning (SEL), are integral to the holistic development of our students, leading to positive life outcomes. In Sembawang Secondary School, our CCE vision is&nbsp;**civic-minded change-makers with a strong moral compass**. This is in alignment to the national CCE goal to inculcate values and build competencies in our students to be good individuals and useful citizens.
-
-The school works towards developing&nbsp;**Leaders and Change-makers**&nbsp;who possess the desired attributes, values, competencies and skills set through the head, heart and hand (3Hs) approach which is progressive and developmental.
-
-**CCE 2021 Curriculum Frame**
-
+Character and Citizenship Education (CCE), comprising of National Education (NE), and Social and Emotional Learning (SEL), are integral to the holistic development of our students, leading to positive life outcomes. In Sembawang Secondary School, our CCE vision is civic-minded change-makers with a strong moral compass. This is in alignment to the national CCE goal, which is to inculcate values and build competencies in our students to be good future-ready individuals and useful citizens.
 CCE 2021 provides an integrated approach to addressing our students’ development of values, character, social-emotional well-being, and citizenship dispositions in a coherent and holistic way. The CCE 2021 Curriculum Frame takes reference from the existing Framework for 21st Century Competencies and Student Outcomes and aims to enhance clarity on how the core values are linked to the social-emotional competencies, and how they are internalised and lived out by our students.
 
-The curriculum content of CCE is based on the&nbsp;**three big ideas of Identity, Relationships, and Choices,**&nbsp;and comprises the teaching and learning of core values and social-emotional competencies with a focus on developing a sense of purpose in our students.
+The curriculum content of CCE is based on the three big ideas of Identity, Relationships and Choices, and comprises the teaching and learning of core values and social-emotional competencies with a focus on developing a sense of purpose in our students.
 
 The Curriculum Content Areas include
 
@@ -35,26 +30,16 @@ There are several learning platforms where CCE is enacted with intentionality. T
 *   **Citizenship Education (CE)**
 *   **Environmental Conservation(EC)**
 
-**Education and Career Guidance (ECG)**
+**1. Education and Career Guidance (ECG)**
 
-**ECG Key Message:**&nbsp;**To continually develop students’ interests, abilities and passion and teach them to contribute meaningfully to society through their future professions.**
+**Key Message: To continually develop students’ interests, abilities and passion and teach them to contribute meaningfully to society through their future professions.**
 
 In Sembawang Secondary School, a holistic approach is adopted in planning and implementing our Education and Career Guidance (ECG) programme. As part of ECG development in our students, the school inspires all students to set goals and strongly encourages all graduating students to apply for tertiary courses via Early Admission Exercise (EAE) and Direct School Admission (DSA).
-
-The distinctive ECG programmes that were organised by the school include Polytechnic Open House Visits, Experience ITE Programme, Early Admission Exercise (EAE) talks (ITE and Polytechnic), Education and Career Guidance Fair, Applied Learning Programme (ALP), Learning Journey to Lifelong Learning Institute, ECG Professional Development talks for teachers by our ECG Counsellor, ECG Counselling and talks for students by our ECG Counsellor.  
-
-ECG lessons are conducted within the CCE curriculum. The focus at the Secondary level is to allow students to develop self-awareness, explore possible career pathways and discover various education options. Students are encouraged to utilise the MySkillsFuture Student Portal for further exploration. These programmes help to enhance students’ knowledge on post- secondary education and provide the platform for them to gain experience and exposure of the various tertiary pathways and career options in various industries. 
 
 
 ECG Careers Fair in Sembawang Secondary School
 
-![](/images/CareerFair1_2.jpg)
 
-Learning Journey to Lifelong Learning Institute
-![](/images/LLI1_2.jpg) 
-
-Experience ITE Programme at ITE College East
-![](/images/ITE1_2.jpg)
 
 **Cyber Wellness(CW)**
 
