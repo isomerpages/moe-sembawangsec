@@ -2,25 +2,21 @@
 title: Principal’s Message
 permalink: /principals-message/
 description: ""
+variant: markdown
 ---
 ## Principal's Message
      
-It is my privilege to serve alongside a team of caring and committed colleagues as I embark on my journey as the 5th Principal of Sembawang Secondary School. The culture of care and sense of mission are evident from my first visit to the school, and I have my predecessors, most recently, Mr Jaswant Singh, to thank for this.   
+Our students are the stewards of tomorrow. The future is in their hands. With the changing educational and global landscape, we dedicated time for conversations among staff to envision the holistic education that we desire for our students.<br>  
+Our School Mission, ***Nurturing Reflective Learners and Contributing Citizens***, defines our purpose as educators. We want our students to be Leaders of Good Character and Active Contributors - to be caring, confident and resilient leaders who contribute to the community, to be equipped with media and digital literacies, skills and dispositions to excel in learning, and to discover their strengths and pursue their interests and aspirations.<br>
 
-Our students are our future, and we have the duty to prepare them for a future that is constantly changing, so that they see possibilities amidst the complexities and opportunities amidst the challenges. We want our students to be **_Leaders and Change Makers_**, who actively enrich the lives of others now and in the future.  
+Our students are privileged to have caring and committed teachers, allied educators and school administration team. I am deeply appreciative of my colleagues in Sembawang Secondary who often go the extra mile for our students. Much thought is put into conceptualizing and planning the learning experiences for our students, and in guiding them in reflecting on their learning. <br>
 
-In an environment where change is the only constant, being anchored on sound values is critical and we devote conscious efforts to instill our school values - **_Respect, Responsibility, Integrity, Innovative Spirit, Resilience, Empathy_** - in our students.  Meaningful educational experiences in the academic curriculum and co-curriculum are designed and provided for our students for all-round development. Through a holistic education, we **_nurture our learners to lead purposeful lives by guiding them to be morally upright, civic-minded, resilient, and future-ready_**.
+I thank our students’ parents who continue to partner us in nurturing them. We appreciate that our parents keep in touch with us on matters pertaining to their children. Our parents also make time for their children for events such as parents’ engagement sessions and activities such as parenting talks and parent-child bonding sessions. We look forward to your continued partnership. <br>
 
-As my team and I build on the good work of our predecessors, we look forward to the continued partnership with our students’ parents as we work together to nurture our children. I am also grateful to our School Advisory Committee, alumni, and community partners for their support as we continue to provide our children with a quality holistic education.
+My appreciation also goes to our School Advisory Committee, alumni and community partners for their support and contributions. I look forward to your continued support in providing a quality holistic education for our children. 
+To all students of Sembawang Secondary, may you be guided and shaped by our school values - ***Integrity, Resilience, Responsibility, Respect, Empathy, Gratitude*** – to be Leaders and Change-makers. Continue to seize the learning opportunities that come your way. Rise above challenges and bring out the best that is in you. <br>
 
-I encourage all students of Sembawang Secondary School to seize the learning opportunities given and to give your best in all that you attempt. The power of belief - belief in self and belief in others - motivates us towards the goals we set, to achieve what others may see as impossible.
+Strive, Serve and Soar!
 
-To quote Mahatma Gandhi:
-
-_Men often become what they believe themselves to be. If I believe I cannot do something, it makes me incapable of doing it. But when I believe I can, then I acquire the ability to do it, even if I didn’t have it in the beginning._
-
-**_Strive, Serve and Soar_**
-
-Mdm Jessie Koh
-
-Principal
+Mdm Jessie Koh<br>
+Principal 
