@@ -2,7 +2,10 @@ collections:
   others:
     output: true
     order:
+      - Canteen Openings.md
+      - Cyber Wellness.md
+      - FAMILY MATTERS @SCHOOL.md
+      - ITE.md
       - Personal Data Protection.md
       - Polytechnics.md
-      - ITE.md
-      - Canteen Openings.md
+      - Sexuality Education.md

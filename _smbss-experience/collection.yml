@@ -2,7 +2,7 @@ collections:
   smbss-experience:
     output: true
     order:
-      - English.md
+      - English Language & English Literature.md
       - Mathematics.md
       - Science.md
       - Mother Tongue/.keep

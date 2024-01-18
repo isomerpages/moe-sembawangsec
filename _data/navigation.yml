@@ -23,3 +23,7 @@ links:
         url: /ite
       - title: Personal Data Protection
         url: /others/personal-data-protection
+      - title: Student Learning Space
+        url: https://vle.learning.moe.edu.sg/login
+      - title: MIMS Self Reset Password
+        url: https://portal.mims.moe.gov.sg/sspr/public/forgottenpassword
