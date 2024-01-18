@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - Sexuality Education.md
       - Cyber Wellness.md
       - Personal Data Protection.md
       - Polytechnics.md
