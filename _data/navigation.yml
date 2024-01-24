@@ -1,0 +1,29 @@
+logo: /images/cropped-logo1-2021.jpg
+links:
+  - title: About Us
+    collection: about-us
+  - title: Announcements
+    collection: announcements
+  - title: Smbss Experience
+    collection: smbss-experience
+  - title: CCAs
+    collection: ccas
+  - title: Partners Of Smbss
+    collection: partners-of-smbss
+  - title: Others
+    url: /others
+    sublinks:
+      - title: SEAB
+        url: https://www.seab.gov.sg/
+      - title: Sports Education Programme
+        url: https://www.sportsingapore.gov.sg/sports-education/sports-education-programme
+      - title: Polytechnics
+        url: /polytechnics
+      - title: ITE
+        url: /ite
+      - title: Personal Data Protection
+        url: /others/personal-data-protection
+      - title: Student Learning Space
+        url: https://vle.learning.moe.edu.sg/login
+      - title: MIMS Self Reset Password
+        url: https://portal.mims.moe.gov.sg/sspr/public/forgottenpassword

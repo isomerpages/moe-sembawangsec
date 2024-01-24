@@ -1,0 +1,7 @@
+collections:
+  partners-of-smbss:
+    output: true
+    order:
+      - Parent Support Group.md
+      - Life in Sembawang.md
+      - Alumni Achievements.md

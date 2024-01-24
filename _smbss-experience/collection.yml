@@ -1,0 +1,22 @@
+collections:
+  smbss-experience:
+    output: true
+    order:
+      - English Language & English Literature.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Mother Tongue.md
+      - Mother Tongue/Chinese Language.md
+      - Mother Tongue/Malay Language.md
+      - Mother Tongue/Tamil Language.md
+      - Humanities.md
+      - Craft & Technology.md
+      - Physical Education.md
+      - ICT.md
+      - Character & Citizenship Education.md
+      - Student Development.md
+      - Distinctive Programmes/.keep
+      - Distinctive Programmes/Applied Learning Programme.md
+      - Distinctive Programmes/Learning for Life Programme.md
+      - Distinctive Programmes/PEARL.md
