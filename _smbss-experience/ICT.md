@@ -2,6 +2,7 @@
 title: ICT
 permalink: /curriculum/information-technology/
 description: ""
+variant: markdown
 ---
 # ICT
 # 
@@ -11,12 +12,12 @@ In Sembawang Secondary, we align our ICT directions with MOE MasterPlan for ICT 
 
 Our Aspirations to ensure Quality Learning in the hands of every learner – empowered with technology:
 
-1.  Through professional conversations on the design of student-centric learning experiences, we empower teachers to be effective and skilful designers of active learning experiences, and environments
-2.  Through our Signature Programmes – PEARL and STeM (as part of ALP) and the baseline ICT learning modules on the Student Learning Space (SLS), the ICT department strives to provide a dynamic and engaging curriculum that moulds Sembawang Graduates into active, self-directed and competent learners who are future-ready and responsible digital citizens.
+1.  Through professional conversations on the design of student-centric learning experiences, we empower teachers to be effective and skillful designers of active learning experiences, and environments
+2.  Through our PDLP–PEARL and CFF (Code for Fun Programme with IMDA), e-Reflection and digital literacy learning modules on the Student Learning Space (SLS), the ICT department strives to provide a dynamic and engaging curriculum that moulds Sembawang Graduates into active, self-directed and competent learners who are future-ready and responsible digital citizens.
 
 ![](/images/IT1.jpeg)
 
-As with all subjects, ICT is also a values-driven discipline. Guided by our school values our school values and through our ICT programmes, we inculcate our students with the following: 
+As with all subjects, ICT is also a value-driven discipline. Guided by our school values our school values and through our ICT programmes, we inculcate our students with the following: 
 
 1.  Be RESPONSIBLE for your learning, development and device
 2.  RESPECT the learning environment and others in the learning process
