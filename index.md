@@ -27,7 +27,7 @@ sections:
         to help students develop active learning habits through the use of
         computers in the classroom.
       button: Read more
-      url: /pearl/
+      url: /curriculum/Signature-Programme/pearl/
   - infobar:
       title: APPLIED LEARNING PROGRAMME
       description: Our school-based ALP is an innovative curriculum that is aligned
