@@ -33,13 +33,13 @@ sections:
       description: Our school-based ALP is an innovative curriculum that is aligned
         with SkillsFuture.
       button: Read more
-      url: /applied-learning-programme/
+      url: /curriculum/Signature-Programme/applied-learning-programme/
   - infobar:
       title: LEARNING FOR LIFE PROGRAMME
       description: Our School's Learning for Life Programme (LLP) is Developing
         Community Leaders.
       button: Read more
-      url: /learning-for-life/
+      url: /curriculum/Signature-Programme/learning-for-life/
   - infobar:
       title: Contact Us
       subtitle: Reach out to us today
