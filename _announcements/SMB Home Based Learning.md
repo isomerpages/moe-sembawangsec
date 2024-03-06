@@ -1,7 +1,8 @@
 ---
-title: SMB HOME BASED LEARNING
+title: SMB Home Based Learning
 permalink: /home-based-learning/
 description: ""
+variant: markdown
 ---
 Dear Students and Parents/Guardians,
 
@@ -11,13 +12,13 @@ Please follow your class time-table accordingly during HBL.
 
 Have **screen-time breaks** during scheduled recess/ lunch break specified in your time-table.
 
-![](/images/HBL%20routines%202021.jpeg)
+The HBL schedule can be accessed via https://for.edu.sg/smbhbl
 
 <br>
 <br>
 
 | Items | Contact Person(s) | Contact Details |
 | -------- | -------- | -------- |
-| CLARIFICATIONS ON HBL PROGRAMME     | Mr Alan Goh / Mr Oon Boon Keong | 6756 6760 / sembawang_ss@moe.edu.sg    |
+| Clarifications on HBL Programme     | Mr Alan Goh / Mr Oon Boon Keong | 6756 6760 / sembawang_ss@moe.edu.sg    |
 | SLS (password reset / locked account)     | Form teachers / Subject teachers / Mr Alan Goh / Mr Oon Boon Keong    | 6756 6760   |
 | Student ICON ACCOUNT (password reset)    | Mr Alan Goh / Mr Oon Boon Keong | 6756 6760   |

@@ -3,17 +3,17 @@ title: PEARL
 permalink: /curriculum/Signature-Programme/pearl/
 description: ""
 third_nav_title: Distinctive Programmes
+variant: markdown
 ---
 ![](/images/IMAG0303.jpg)
 
 ## PEARL
 
-
 **PDLP - Programme to Empower Active and Responsible Learning (PEARL)**
 
 ![pearl-image](/images/it2.jpeg)
 
-In alignment with the outcome goal of the MOE MasterPlan for ICT in Education – Quality learning in the hands of every learner empowered with technology, PEARL is the school’s very own 1-1 computing access initiative launched in 2017. PEARL aims to promote Active Learning in class through the use of ICT so that our students become better thinkers and more reflective learners.
+In alignment with the outcome goal of the MOE MasterPlan for ICT in Education – Quality learning in the hands of every learner empowered with technology, PEARL is the school’s very own 1-1 computing access initiative launched since 2017. PEARL aims to promote Active Learning in class through the use of ICT so that our students become better thinkers and more reflective learners.
 
 <img src="/images/it3.jpeg" style="width:70%">
 
@@ -69,7 +69,7 @@ Please refer to the following guide for each of the options above:
 
 *   Zoom and other applications have been pushed to your PLD. Please leave your PLD connected for at least 1 hour to your home wifi for the applications to be force-installed.
 *   Lockers will be allocated for all students. Form teachers will assign the lockers to students. 
-*   For incoming Secondary 1 students, briefing for parents will take place during Secondary 1 orientation and cohort procurement process will complete before end-January 2023. Communications will be via ParentsGateway.
+*   For incoming Secondary 1 students, briefing for parents will take place during Secondary 1 Parents' Engagement Session in January each year.  
 
 **Enquiries**
 
