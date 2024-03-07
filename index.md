@@ -20,7 +20,7 @@ sections:
           url: /curriculum/Signature-Programme/applied-learning-programme/
         - title: Learning For Life Programme
           description: Developing Community Leaders
-          url: /curriculum/Signature-Programme/learning-for-life/
+          url: /curriculum/Signature-Programme/learning-for-life-programme/
   - infobar:
       title: PEARL
       description: Programme to Empower Active and Responsible Learning (PEARL) aims
@@ -39,7 +39,7 @@ sections:
       description: Our School's Learning for Life Programme (LLP) is Developing
         Community Leaders.
       button: Read more
-      url: /curriculum/Signature-Programme/learning-for-life/
+      url: /curriculum/Signature-Programme/learning-for-life-programme/
   - infobar:
       title: Contact Us
       subtitle: Reach out to us today
