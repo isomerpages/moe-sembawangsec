@@ -14,13 +14,13 @@ sections:
       key_highlights:
         - title: Pearl
           description: Develop active learning
-          url: /pearl/
+          url: /curriculum/Signature-Programme/pearl/
         - title: Applied Learning Programme
           description: Innovative curriculum
-          url: /applied-learning-programme/
+          url: /curriculum/Signature-Programme/applied-learning-programme/
         - title: Learning For Life Programme
           description: Developing Community Leaders
-          url: /learning-for-life/
+          url: /curriculum/Signature-Programme/learning-for-life/
   - infobar:
       title: PEARL
       description: Programme to Empower Active and Responsible Learning (PEARL) aims
