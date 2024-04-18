@@ -264,8 +264,8 @@ links:</p>
 <br>
 </p>
 <p>This announcement is for Sec 1 to Sec 3 /2023 students only.
-<br>Application is now opened for <strong>The Straits Times School Pocket Money Fund 2024.</strong>
-<br><strong>Main Criteria:</strong>
+<br>Application is now opened for <strong>The Straits Times School Pocket Money Fund 2024.</strong> 
+<br><strong>Main Criteria:</strong> 
 <br>
 </p>
 <ol data-tight="true" class="tight">
@@ -281,7 +281,7 @@ links:</p>
 </li>
 <li>
 <p>Per Capita Income (PCI) of $750 per month or less
-<br>Application closing date to submit to school office: <strong>11 Sep 2023</strong>
+<br>Application closing date to submit to school office: <strong>11 Sep 2023</strong> 
 <br>Please collect the application form from the school office.</p>
 </li>
 </ol>
@@ -596,7 +596,7 @@ will keep students and parents informed should there be any changes.
 </tbody>
 </table>
 <h5><strong>23 June 2023</strong></h5>
-<p><strong>Welcome Back to School (26 June 2023)</strong>
+<p><strong>Welcome Back to School (26 June 2023)</strong> 
 <br>Dear students,
 <br>
 </p>
@@ -630,7 +630,7 @@ will keep students and parents informed should there be any changes.
 </li>
 </ul>
 <h5><strong>19 May 2023</strong></h5>
-<p><strong>Collection of SGC for Graduates from Sec 4NA and 5NA - (2022)</strong>
+<p><strong>Collection of SGC for Graduates from Sec 4NA and 5NA - (2022)</strong> 
 <br>Dear Graduates,
 <br>We are pleased to inform you that your School Graduation Certificates
 (SGC) are now ready for collection.</p>
@@ -683,7 +683,7 @@ an appointment before you come down for collection.
 to school for collection. Please avoid coming in large groups.</p>
 <p>Thank you.</p>
 <h5><strong>26 Apr 2023</strong></h5>
-<p><strong>Collection of SGC for Graduates from Sec 4 Express (2022)</strong>
+<p><strong>Collection of SGC for Graduates from Sec 4 Express (2022)</strong> 
 <br>Dear Graduates,
 <br>We are pleased to inform you that your School Graduation Certificates
 (SGC) are now ready for collection.</p>
@@ -734,7 +734,7 @@ an appointment before you come down for collection.
 to school for collection. Please avoid coming in large groups.</p>
 <p>Thank you.</p>
 <h5>&nbsp;<strong>20 Mar 2023</strong></h5>
-<p><strong>Calendar of School Events 2023</strong>
+<p><strong>Calendar of School Events 2023</strong> 
 <br>We may make changes to the information presented from time to time. We
 will keep students and parents informed should there be any changes.
 <br><strong>Term 2</strong>
