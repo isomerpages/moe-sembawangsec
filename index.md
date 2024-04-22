@@ -9,8 +9,8 @@ sections:
   - hero:
       subtitle: Leaders & Change Makers
       background: /images/dragon-boat-competition.jpeg
-      button: Secondary One Registration for 2024
-      url: /announcement/secondary-one-registration-for-2022/
+      button: Direct School Admission Exercise 2024
+      url: /announcement/direct-school-admission-exercise-2024/
       key_highlights:
         - title: Pearl
           description: Develop active learning
