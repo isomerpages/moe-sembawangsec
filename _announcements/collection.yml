@@ -2,8 +2,8 @@ collections:
   announcements:
     output: true
     order:
-      - Selection Process Key Dates/Direct School Admission Exercise 2024.md
-      - Selection Process Key Dates/.keep
+      - DSA Secondary Admission 2024/Direct School Admission Exercise 2024.md
+      - DSA Secondary Admission 2024/.keep
       - 2024 Term 2 Timetable.md
       - All Announcements.md
       - Secondary One Registration/.keep
