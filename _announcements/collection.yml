@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Selection Process Key Dates/Direct School Admission Exercise 2024.md
       - Selection Process Key Dates/.keep
       - 2024 Term 2 Timetable.md
       - All Announcements.md
