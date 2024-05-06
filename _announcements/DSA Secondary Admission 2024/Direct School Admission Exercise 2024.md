@@ -3,6 +3,7 @@ title: Direct School Admission Exercise 2024
 permalink: /announcement/direct-school-admission-exercise-2024/
 description: ""
 variant: tiptap
+third_nav_title: DSA Secondary Admission 2024
 ---
 <h3>DSA-Secondary Admission Exercise 2024</h3>
 <p>Sembawang Secondary School will be accepting DSA applications for the

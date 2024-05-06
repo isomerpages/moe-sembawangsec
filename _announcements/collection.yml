@@ -2,9 +2,11 @@ collections:
   announcements:
     output: true
     order:
+      - DSA Secondary Admission 2024/.keep
+      - DSA Secondary Admission 2024/Direct School Admission Exercise 2024.md
+      - DSA Secondary Admission 2024/Selection Process Criteria and Key Dates.md
       - 2024 Term 2 Timetable.md
       - All Announcements.md
-      - Direct School Admission Exercise 2024.md
       - Secondary One Registration/.keep
       - Secondary One Registration/Secondary One Registration for 2024.md
       - Secondary One Registration/Welcome Letter.md
