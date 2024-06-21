@@ -5,6 +5,88 @@ description: ""
 variant: tiptap
 ---
 <h2>Announcements</h2>
+<p>21 Jun 2024</p>
+<p><strong>Collection of SGC for Graduates from Sec 4NA and 4NT - (2023)</strong>
+</p>
+<p>Dear Graduates,</p>
+<p>We are pleased to inform you that your School Graduation Certificates
+(SGC) are now ready for collection.</p>
+<p>The details for collection are given in the table below.</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Class (2023)</strong>
+</p>
+</td>
+<td rowspan="2" colspan="1">
+<p><strong>Document to bring along</strong>
+</p>
+</td>
+<td rowspan="2" colspan="1">
+<p><strong>Dates of collection</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Time</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>From</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>To</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" colspan="1">
+<p>4TE3</p>
+<p>4TE4</p>
+<p>4TE5</p>
+<p>4TE6</p>
+</td>
+<td rowspan="6" colspan="1">
+<p>NRIC or Student Ezlink card</p>
+</td>
+<td rowspan="6" colspan="1">
+<p>02 July 2024 (Tue) - 05 July 2024 (Fri)&nbsp;</p>
+<p>and</p>
+<p>08 July 2024 (Mon) – 12 July 2024 (Fri)</p>
+</td>
+<td rowspan="6" colspan="1">
+<p>9.00 a.m.</p>
+</td>
+<td rowspan="6" colspan="1">
+<p>5.00 p.m.</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+</tbody>
+</table>
+<p></p>
+<p>If you are unable to come and collect your SGC within the stipulated time
+indicated in the table above, please call the school at 6756-6760 to make
+an appointment before you come down for collection.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>You will need to provide your particulars at the guard post when you report
+to school for collection.</p>
+<p>Please avoid coming in large groups.</p>
+<p>Thank you.</p>
+<p></p>
 <p>18 Apr 2024</p>
 <p><strong>Collection of SGC for Graduates from Sec 4E and 5NA - (2023)</strong>
 </p>
@@ -12,7 +94,14 @@ variant: tiptap
 <p>We are pleased to inform you that your School Graduation Certificates
 (SGC) are now ready for collection.</p>
 <p>The details for collection are given in the table below.</p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="2" colspan="1">
@@ -294,7 +383,12 @@ will keep students and parents informed should there be any changes.
 <p><strong>Term 3 2023</strong> 
 <br>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -635,7 +729,14 @@ will keep students and parents informed should there be any changes.
 <br>We are pleased to inform you that your School Graduation Certificates
 (SGC) are now ready for collection.</p>
 <p>The details for collection are given in the table below.</p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -688,7 +789,14 @@ to school for collection. Please avoid coming in large groups.</p>
 <br>We are pleased to inform you that your School Graduation Certificates
 (SGC) are now ready for collection.</p>
 <p>The details for collection are given in the table below.</p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -739,7 +847,12 @@ to school for collection. Please avoid coming in large groups.</p>
 will keep students and parents informed should there be any changes.
 <br><strong>Term 2</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1054,7 +1167,13 @@ May</p>
 <p>We are pleased to inform you that your School Graduation Certificates
 (SGC) are now ready for collection.</p>
 <p>The details for collection are given in the table below.</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1131,7 +1250,12 @@ your teachers and they will provide you with more information.
 <br>We may make changes to the information presented from time to time. We
 will keep students and parents informed should there be any changes.</p>
 <p>Term 1 2023</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">

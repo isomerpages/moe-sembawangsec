@@ -6,8 +6,16 @@ variant: tiptap
 ---
 <p>We may make changes to the information presented from time to time. We
 will keep students and parents informed should there be any changes.</p>
-<h4><strong>Term 2 2024</strong></h4>
-<table>
+<h4><strong>Term 3 and 4 2024</strong></h4>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -20,7 +28,7 @@ will keep students and parents informed should there be any changes.</p>
 <p>Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Affected Level</p>
+<p>Affected Level(s)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Event</p>
@@ -31,7 +39,7 @@ will keep students and parents informed should there be any changes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="6">
-<p><strong>Term 2 Week 2</strong>
+<p><strong>Term 3 Week 2</strong>
 </p>
 </td>
 </tr>
@@ -40,16 +48,16 @@ will keep students and parents informed should there be any changes.</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26/3/2024</p>
+<p>2 - 5/7/2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday</p>
+<p>Tuesday - Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 2-5</p>
+<p>Sec 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HBL</p>
+<p>Sec 1 Camp Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -57,7 +65,7 @@ will keep students and parents informed should there be any changes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="6">
-<p><strong>Term 2 Week 4</strong>
+<p><strong>Term 3 Week 4</strong>
 </p>
 </td>
 </tr>
@@ -66,16 +74,16 @@ will keep students and parents informed should there be any changes.</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9/4/2024</p>
+<p>18/7/2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday</p>
+<p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All</p>
+<p>Sec 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HBL</p>
+<p>Sec 2 NT Experience @ ITE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -83,7 +91,7 @@ will keep students and parents informed should there be any changes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="6">
-<p><strong>Term 2 Week 5</strong>
+<p><strong>Term 3 Week 5</strong>
 </p>
 </td>
 </tr>
@@ -92,16 +100,16 @@ will keep students and parents informed should there be any changes.</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19/4/2024</p>
+<p>23 - 25/07/2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday</p>
+<p>Tuesday - Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 2&nbsp;</p>
+<p>Sec 1 - 3 / 4E5N</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parent Engagement Session &amp; Awards Day</p>
+<p>HBL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -109,7 +117,7 @@ will keep students and parents informed should there be any changes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="6">
-<p><strong>Term 2 Week 6</strong>
+<p><strong>Term 3 Week 6</strong>
 </p>
 </td>
 </tr>
@@ -118,7 +126,34 @@ will keep students and parents informed should there be any changes.</p>
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>25/4/2024</p>
+<p>2/8/2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>VIA Community Outreach</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="6">
+<p><strong>Term 3 Week 7</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8/8/2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thursday</p>
@@ -127,35 +162,15 @@ will keep students and parents informed should there be any changes.</p>
 <p>All</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HBL</p>
+<p>National Day Celebration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>26/4/2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>All</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Awards and Partners Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Early dismissal</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="6">
-<p><strong>Term 2 Week 8</strong>
+<p><strong>Term 3 Week 10</strong>
 </p>
 </td>
 </tr>
@@ -164,53 +179,7 @@ will keep students and parents informed should there be any changes.</p>
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6/5/2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Monday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CCE Cohort LJ to National Museum</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Selected Classes</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7/5/2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tuesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CCE Cohort LJ to National Museum</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Selected Classes</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="6">
-<p><strong>Term 2 Week 9</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9/5/2024</p>
+<p>29/8/2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thursday</p>
@@ -219,10 +188,88 @@ will keep students and parents informed should there be any changes.</p>
 <p>All</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HBL</p>
+<p>Teachers' Day Celebration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Early dismissal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="6">
+<p><strong>Term 4 Week 1</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/9/2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 - 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA Stand Down</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="6">
+<p><strong>Term 4 Week 4</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8a</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4/10/2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 - 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Marking Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students do not need to report to school</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8b</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4/10/2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4/5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For Sec 4E/5N only</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="6">
+<p><strong>Term 4 Week 5</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -230,19 +277,25 @@ will keep students and parents informed should there be any changes.</p>
 <p>9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10/5/2024</p>
+<p>11/10/2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1</p>
+<p>Sec 1 - 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Literature Theatre Exposure</p>
+<p>Promotion Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Students do not need to report to school</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="6">
+<p><strong>Term 4 Week 6</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -250,19 +303,25 @@ will keep students and parents informed should there be any changes.</p>
 <p>10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14/5/2024</p>
+<p>14/10/2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday</p>
+<p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 2</p>
+<p>Sec 1 - 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Inter House Games</p>
+<p>CCA Resumption</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="6">
+<p><strong>Term 4 Week 7</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -270,16 +329,16 @@ will keep students and parents informed should there be any changes.</p>
 <p>11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15/5/2024 - 16/5/2024</p>
+<p>23/10/2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday - Thursday</p>
+<p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1</p>
+<p>Sec 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Code For Fun Program (Tentative)</p>
+<p>Financial Literacy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -290,7 +349,7 @@ will keep students and parents informed should there be any changes.</p>
 <p>12</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17/5/2024</p>
+<p>25/10/2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Friday</p>
@@ -299,7 +358,7 @@ will keep students and parents informed should there be any changes.</p>
 <p>All</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SMB Youth Run</p>
+<p>Last Day of School</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -307,7 +366,7 @@ will keep students and parents informed should there be any changes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="6">
-<p><strong>Term 2 Week 10</strong>
+<p><strong>Term 4 Week 8</strong>
 </p>
 </td>
 </tr>
@@ -316,19 +375,19 @@ will keep students and parents informed should there be any changes.</p>
 <p>13</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20/5/2024</p>
+<p>26 - 30/10/2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday</p>
+<p>Saturday - Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HBL</p>
+<p>Cultural Exchange Trip to Bangkok</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Selected students</p>
 </td>
 </tr>
 <tr>
@@ -336,7 +395,27 @@ will keep students and parents informed should there be any changes.</p>
 <p>14</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>24/5/2024</p>
+<p>28 -30/10/2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday - Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3 Extended Curriculum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1/11/2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Friday</p>
@@ -345,7 +424,7 @@ will keep students and parents informed should there be any changes.</p>
 <p>Sec 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parent Engagement Session and Awards Day</p>
+<p>Sec 3 Extended Curriculum</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -353,8 +432,28 @@ will keep students and parents informed should there be any changes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="6">
-<p><strong>Term 2 School Holidays</strong>
+<p><strong>Term 4 Week 10</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16/11//2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Open House</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Selected students</p>
 </td>
 </tr>
 </tbody>
