@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2>Announcements</h2>
 <p>21 Jun 2024</p>
-<p><strong>Collection of SGC for Graduates from Sec 4NA and 4NT - (2023)</strong>
+<p><strong>Collection of SGC for Graduates from Sec 4NA and 4NT - (2022)</strong>
 </p>
 <p>Dear Graduates,</p>
 <p>We are pleased to inform you that your School Graduation Certificates
