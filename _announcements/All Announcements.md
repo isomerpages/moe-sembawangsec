@@ -6,6 +6,10 @@ variant: tiptap
 ---
 <h2>Announcements</h2>
 <p>21 Jun 2024</p>
+<p>Dear students,</p>
+<p>Please access the timetable for Term 3, starting on 24 Jun 2024.</p>
+<p></p>
+<p>20 Jun 2024</p>
 <p><strong>Collection of SGC for Graduates from Sec 4NA and 4NT - (2023)</strong>
 </p>
 <p>Dear Graduates,</p>
