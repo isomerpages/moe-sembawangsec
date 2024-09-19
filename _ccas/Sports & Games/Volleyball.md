@@ -8,7 +8,7 @@ variant: tiptap
 <p><strong>Teacher-in-charge:</strong>&nbsp;</p>
 <p>Ms Eu (I/C)
 <br>Mdm Heryani
-<br>Ms Esther Tan</p>
+<br>Ms Esther</p>
 <h3>Training Schedule</h3>
 <table style="minWidth: 75px">
 <colgroup>
