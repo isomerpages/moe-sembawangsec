@@ -5,4 +5,58 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<h3>Teachers in charge:</h3><p>Ms&nbsp;Ang Lee Yong (I/C) <br>Ms Ding Moy Lee</p><h3>Practice Schedule</h3><table><tbody><tr><td rowspan="1" colspan="1"><p>Friday</p></td><td rowspan="1" colspan="1"><p>1:30pm – 4:30pm</p></td><td rowspan="1" colspan="1"><p>Hall</p></td></tr></tbody></table><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CD1.png"></div><p></p><div class="isomer-image-wrapper"><img style="width:80%" height="auto" width="100%" src="/images/Label.png"></div><p>A little introduction about us…</p><p>Sembawang&nbsp;Chinese&nbsp;Dance&nbsp;aims to foster deeper interest in&nbsp;dance&nbsp;and appreciation in&nbsp;Chinese&nbsp;Culture, and provide platforms for students to develop their talents through various performances. Through Sembawang&nbsp;Chinese&nbsp;Dance&nbsp;training sessions, students will be able to build up their level of&nbsp;<strong>confidence</strong>&nbsp;and sense of&nbsp;<strong>responsibilities</strong>. With the guidance of our dedicated instructor, students will be able to master and appreciate the art of&nbsp;Chinese&nbsp;Dance.</p><p></p><h3>Achievements</h3><p>SYF Arts Presentation</p><ul data-tight="true" class="tight"><li><p>Certificate of accomplishment in 2021</p></li><li><p>Certificate of accomplishment in 2019</p></li></ul><div class="iframe-wrapper"><iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cTSsYNOCoXI?start=1"></iframe></div><p></p>
+<h3>Teachers in charge:</h3>
+<p>Ms&nbsp;Ang (I/C)
+<br>Ms Ding</p>
+<h3>Practice Schedule</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1:30pm – 4:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hall</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CD1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:80%" height="auto" width="100%" src="/images/Label.png">
+</div>
+<p>A little introduction about us…</p>
+<p>Sembawang&nbsp;Chinese&nbsp;Dance&nbsp;aims to foster deeper interest
+in&nbsp;dance&nbsp;and appreciation in&nbsp;Chinese&nbsp;Culture, and provide
+platforms for students to develop their talents through various performances.
+Through Sembawang&nbsp;Chinese&nbsp;Dance&nbsp;training sessions, students
+will be able to build up their level of&nbsp;<strong>confidence</strong>&nbsp;and
+sense of&nbsp;<strong>responsibilities</strong>. With the guidance of our
+dedicated instructor, students will be able to master and appreciate the
+art of&nbsp;Chinese&nbsp;Dance.</p>
+<p></p>
+<h3>Achievements</h3>
+<p>SYF Arts Presentation</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Certificate of accomplishment in 2021</p>
+</li>
+<li>
+<p>Certificate of accomplishment in 2019</p>
+</li>
+</ul>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cTSsYNOCoXI?start=1"></iframe>
+</div>
+<p></p>
