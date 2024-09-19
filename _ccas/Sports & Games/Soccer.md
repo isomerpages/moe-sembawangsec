@@ -12,6 +12,7 @@ variant: tiptap
 <p>Ms Koh
 <br>
 </p>
+<p></p>
 <h3>Training Schedule</h3>
 <table style="minWidth: 75px">
 <colgroup>
