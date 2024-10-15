@@ -2,10 +2,11 @@
 title: Polytechnics
 permalink: /polytechnics/
 description: ""
+variant: markdown
 ---
 [Nanyang Polytechnic](https://www.nyp.edu.sg/)
 
-[Ngee Ann Polytechnic](https://www.np.edu.sg/Pages/default.aspx)
+[Ngee Ann Polytechnic](https://www.np.edu.sg/)
 
 [Republic Polytechnic](https://www.rp.edu.sg/)
 
