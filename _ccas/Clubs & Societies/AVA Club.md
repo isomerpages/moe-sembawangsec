@@ -7,9 +7,9 @@ variant: tiptap
 ---
 <p>The AVA Club is a service CCA which plays an essential role in managing
 the school’s audio-visual infrastructure and in providing photography services
-to support school events and functions.&nbsp;&nbsp;</p>
-<p>The Club aims to develop members to have strong technical and troubleshooting
-skills as well as confidence in operating the PA equipment.&nbsp;&nbsp;</p>
+to support school events and functions.&nbsp;The Club aims to develop members
+to have strong technical and troubleshooting skills as well as confidence
+in operating the PA equipment.&nbsp;&nbsp;</p>
 <p>Besides receiving training in photography and the choreography of stage
 lightings, members also learn to operate the different PA systems in the
 school. Leadership training is demonstrated as senior students mentor their
@@ -79,7 +79,6 @@ juniors and work as a cohesive and disciplined team.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AVA.jpg">
