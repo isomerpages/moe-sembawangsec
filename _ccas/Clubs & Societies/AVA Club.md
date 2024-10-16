@@ -35,7 +35,7 @@ juniors and work as a cohesive and disciplined team.</p>
 <p>Photography Workshop which includes outdoor photography&nbsp;</p>
 </li>
 </ul>
-<h3>Training Schedule</h3>
+<h3>Training Schedule:</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -62,7 +62,7 @@ juniors and work as a cohesive and disciplined team.</p>
 </tr>
 </tbody>
 </table>
-<h3>Teachers</h3>
+<h3>Teachers:</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
