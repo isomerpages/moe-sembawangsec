@@ -80,6 +80,7 @@ juniors and work as a cohesive and disciplined team.</p>
 </tbody>
 </table>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AVA.jpg">
 </div>
