@@ -34,21 +34,19 @@ experiences.&nbsp;</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Day</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Timing</strong>
-</p>
-</td>
+<th rowspan="1" colspan="1">
+<p>Day</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Timing</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Wednesday (Boys and Girls Team)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00 - 6:00PM</p>
+<p>3:00 – 6:00PM&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -56,12 +54,11 @@ experiences.&nbsp;</p>
 <p>Friday (School Team)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1:30 - 4:30PM</p>
+<p>1:30 – 4:30PM</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton1.jpg">
 </div>
