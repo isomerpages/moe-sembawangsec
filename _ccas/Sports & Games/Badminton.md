@@ -27,7 +27,7 @@ experiences.&nbsp;</p>
 </li>
 </ul>
 <h3>Training Schedule:</h3>
-<table style="minWidth: 50px">
+<table style="minWidth: 0px">
 <colgroup>
 <col>
 <col>
