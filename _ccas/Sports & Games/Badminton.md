@@ -65,11 +65,8 @@ experiences.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/badminton1.png">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/badminton%202.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton1.jpg">
 </div>
 <p></p>
