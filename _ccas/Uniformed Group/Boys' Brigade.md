@@ -7,11 +7,10 @@ variant: tiptap
 ---
 <p>Sembawang Secondary School’s Boys’ Brigade Company was founded in 1984
 as the 13th Singapore Company (BB) in Yio Chu Kang Secondary before it
-shifted over in 2000.&nbsp;</p>
-<p>There are many opportunities for our boys to grow physically and socially.
-Through a wide range of activities, the boys acquire many important life
-skills. They learn to communicate effectively and organise events, displaying
-servant leadership in the process.&nbsp;</p>
+shifted over in 2000.&nbsp;There are many opportunities for our boys to
+grow physically and socially. Through a wide range of activities, the boys
+acquire many important life skills. They learn to communicate effectively
+and organise events, displaying servant leadership in the process.&nbsp;</p>
 <p>To date, the 13<sup>th</sup> Company has been consistently performing well.
 With respect to awards, the Company has attained the JM Fraser Award for
 Excellence (Distinction) for several consecutive years, as well as produced
