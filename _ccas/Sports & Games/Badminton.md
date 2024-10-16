@@ -3,7 +3,7 @@ title: Badminton
 permalink: /co-curriculum/ccas/sports-games/badminton/
 description: ""
 third_nav_title: Sports & Games
-variant: markdown
+variant: tiptap
 ---
 <h3>About Us:</h3>
 <p>Join our CCA to enhance your badminton skills and game knowledge. Engage
@@ -27,7 +27,7 @@ experiences.&nbsp;</p>
 </li>
 </ul>
 <h3>Training Schedule:</h3>
-<table border="0" style="minWidth: 0px">
+<table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
