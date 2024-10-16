@@ -19,18 +19,12 @@ juniors and work as a cohesive and disciplined team.</p>
 <li>
 <p>Stage Lighting Training&nbsp;</p>
 </li>
-</ul>
-<ul>
 <li>
 <p>Weekly Training in the use of School PA System&nbsp;</p>
 </li>
-</ul>
-<ul>
 <li>
 <p><a href="https://www.oasispri.moe.edu.sg/mk-at-oasis/moe-photo-and-video-contest-2023/" class="Hyperlink SCXW43927239 BCX8" rel="noreferrer noopener" target="_blank">MOE (Our Schools, Our Stories) Photo Contest </a>&nbsp;</p>
 </li>
-</ul>
-<ul>
 <li>
 <p>Photography Workshop which includes outdoor photography&nbsp;</p>
 </li>
