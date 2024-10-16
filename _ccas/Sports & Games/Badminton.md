@@ -30,7 +30,7 @@ experiences.&nbsp;</p>
 <p>Friendly matches&nbsp;</p>
 </li>
 </ul>
-<h3>Training Schedule</h3>
+<h3>Training Schedule:</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
