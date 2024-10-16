@@ -49,7 +49,7 @@ their secondary school journey.</p>
 </li>
 </ul>
 <h3>Training Schedule:</h3>
-<table style="border-collapse: collapse; width: 100%; border-style: hidden">
+<table cellpadding="0" cellspacing="0">
 <colgroup>
 <col>
 <col>
