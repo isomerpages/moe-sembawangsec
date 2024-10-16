@@ -14,7 +14,7 @@ a player and leader. Embrace the chance to foster camaraderie while enjoying
 the dynamic environment of our badminton community. Your journey with us
 promises not just skill improvement but also personal growth and leadership
 experiences.&nbsp;</p>
-<h3><br>Programmes:</h3>
+<h3>Programmes:</h3>
 <ul>
 <li>
 <p>National School Games&nbsp;</p>
