@@ -44,10 +44,12 @@ juniors and work as a cohesive and disciplined team.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Day</p>
+<p><strong>Day</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Timing</p>
+<p><strong>Timing</strong>
+</p>
 </td>
 </tr>
 <tr>
