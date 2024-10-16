@@ -19,13 +19,9 @@ experiences.&nbsp;</p>
 <li>
 <p>National School Games&nbsp;</p>
 </li>
-</ul>
-<ul>
 <li>
 <p>June CCA Camp&nbsp;</p>
 </li>
-</ul>
-<ul>
 <li>
 <p>Friendly matches&nbsp;</p>
 </li>
