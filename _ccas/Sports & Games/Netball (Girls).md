@@ -23,6 +23,15 @@ up various leadership roles in the CCA.</p>
 <p>Friendly Matches</p>
 </li>
 </ul>
+<h3>Programmes: </h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Weekly Training</p>
+</li>
+<li>
+<p>CCA Bonding Activities</p>
+</li>
+</ul>
 <h3>Training Schedule:</h3>
 <table style="minWidth: 50px">
 <colgroup>
