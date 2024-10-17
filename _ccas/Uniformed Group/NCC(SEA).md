@@ -84,7 +84,6 @@ of our cadets:</p>
 </tr>
 </tbody>
 </table>
-<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC_SEA1.jpg">
 </div>
@@ -96,5 +95,4 @@ of our cadets:</p>
 <h3></h3>
 <p></p>
 <p></p>
-<h4></h4>
 <p></p>
