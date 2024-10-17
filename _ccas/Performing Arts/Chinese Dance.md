@@ -51,7 +51,7 @@ students will be able to master and appreciate the art of Chinese Dance.&nbsp;</
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1:30 – 4:30PM</p>
+<p>1:30 – 4:30 PM</p>
 </td>
 </tr>
 </tbody>
