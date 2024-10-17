@@ -5,42 +5,90 @@ description: ""
 third_nav_title: Sports & Games
 variant: tiptap
 ---
-<h3>Teacher-in-charge:</h3>
-<p>Mdm Suhartini (I/C)
-<br>Ms Salwiyah</p>
-<p>Ms Lisa</p>
-<h3>Training Schedule</h3>
-<table style="minWidth: 75px">
+<p>The Sembawang Netball CCA comprises members who are passionate and participate
+regularly in well-planned training programme to improve their ball handling
+skills, footwork and court movement. Under the guidance of an experienced
+coach and teachers, students learn to work in a team and become competent
+and resilient players. Opportunities are provided for students to take
+up various leadership roles in the CCA.</p>
+<h3>Competitions:</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>National School Games</p>
+</li>
+<li>
+<p>Netball Carnivals</p>
+</li>
+<li>
+<p>Friendly Matches</p>
+</li>
+</ul>
+<h3>Training Schedule:</h3>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wed
-<br>
+<p><strong>Day</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm – 5.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Parade Square / Basketball Court</p>
+<p><strong>Timing</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fri</p>
+<p>Wednesday
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1:00 pm - 3:00 pm</p>
+<p>3:00 – 5.30 PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISH</p>
+<p>1:00 - 3:00 PM</p>
 </td>
 </tr>
 </tbody>
 </table>
+<h3>Teachers:</h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Suhartini (Teacher OIC)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Salwiyah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Lisa</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Netball1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Netball2.jpg">
+</div>
 <p></p>
