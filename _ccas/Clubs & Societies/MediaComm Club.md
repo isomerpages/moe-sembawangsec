@@ -47,7 +47,7 @@ in the future when they become experts in their respective fields.</p>
 <p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm – 5:30pm</p>
+<p>3:00 – 5:30pm</p>
 </td>
 </tr>
 </tbody>
