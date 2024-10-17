@@ -8,17 +8,9 @@ variant: tiptap
 <p>In the Sembawang Vikings family, our cadets aspire to be a family that
 is strong, disciplined, and close-knitted. The Vikings symbolise the aspirations
 of our cadets:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>To be disciplined.</p>
-</li>
-<li>
-<p>To be fearless to explore the unknown.</p>
-</li>
-<li>
-<p>To be united and support each other – as a brotherhood and a family.</p>
-</li>
-</ol>
+<p>1. To be disciplined.</p>
+<p>2. To be fearless to explore the unknown.</p>
+<p>3. To be united and support each other - as a brotherhood and a family.</p>
 <h3>Programmes:</h3>
 <ul data-tight="true" class="tight">
 <li>
