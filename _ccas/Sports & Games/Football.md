@@ -5,63 +5,105 @@ description: ""
 third_nav_title: Sports & Games
 variant: tiptap
 ---
-<h3>Teacher-in-charge:</h3>
-<p>Mr Daryn (I/C)
-<br>Ms Munirah
-<br>Ms Marianne</p>
-<p>Ms Koh
+<p>At Sembawang Secondary School, our football CCA is a dynamic platform
+that provides students with numerous opportunities to participate in both
+competitive tournaments and friendly matches. These events not only sharpen
+their skills on the field but also instil invaluable life lessons that
+extend beyond the game.</p>
+<p>More than just kicking a ball, our programme is dedicated to cultivating
+student athletes who embody essential character traits. We believe in the
+holistic development of our players, emphasising attributes such as resilience,
+responsibility, discipline, leadership, sportsmanship and gratitude. Through
+a carefully crafted training programme, we aim to shape our students into
+individuals who can face challenges head-on and emerge stronger, both on
+and off the pitch.</p>
+<p>We aim to develop our students into the best versions of themselves. Whether
+it's honing their technical skills, fostering leadership qualities, or
+building a strong sense of camaraderie within the team, our football CCA
+endeavours to create an environment where every player can excel and contribute
+positively to the school community</p>
+<h3>Competitions:</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>National School Games B and C Division</p>
+</li>
+<li>
+<p>B and C Division Friendly Matches
 <br>
 </p>
-<p></p>
-<h3>Training Schedule</h3>
-<table style="minWidth: 75px">
+</li>
+</ul>
+<h3>Accomplishments:</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>2023 B Division League 2 Quarter Finals</p>
+</li>
+<li>
+<p>2023 C Division League 4</p>
+</li>
+</ul>
+<h3>Training Schedule:</h3>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p>Day</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Timing</p>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Wed</p>
+<p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00 pm – 6:00 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Soccer Field</p>
+<p>C Division: 3:00 – 4:30PM</p>
+<p>B Division: 4:30 – 6PM</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fri</p>
+<p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.30 pm - 5.30 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Soccer Field</p>
+<p>C Division: 2:30 – 4:00PM</p>
+<p>B Division: 4:00 – 5:30PM</p>
 </td>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/soccer%201.jpeg">
-</div>
+<h3>Teachers:</h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Daryn Tan (Teacher OIC)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Munirah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Marianne</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Koh</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/soccer%202.jpeg">
-</div>
-<h3>Our Achievements</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2016_17_achievement-1.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018_19_achievement-1.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2020-achievement.png">
-</div>
 <p></p>
