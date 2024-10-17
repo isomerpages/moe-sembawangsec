@@ -51,7 +51,7 @@ Band has attained Accomplishment status for the year, 2021 and 2023</p>
 <p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00 – 5:30pm</p>
+<p>3:00 – 5:30 PM</p>
 </td>
 </tr>
 <tr>
@@ -59,7 +59,7 @@ Band has attained Accomplishment status for the year, 2021 and 2023</p>
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:30 - 5:30PM</p>
+<p>2:30 - 5:30 PM</p>
 </td>
 </tr>
 </tbody>
