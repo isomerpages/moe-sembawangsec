@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Sports & Games
 variant: tiptap
 ---
-<h3>About Us:</h3>
 <p>Join our CCA to enhance your badminton skills and game knowledge. Engage
 in weekly training sessions, participate in exciting competitions, and
 cultivate resilience, commitment, and team spirit among students from diverse
@@ -59,7 +58,30 @@ experiences.&nbsp;</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton1a.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Badminton2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton3.jpg">
 </div>
 <p></p>
