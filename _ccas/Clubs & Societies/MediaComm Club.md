@@ -60,7 +60,7 @@ in the future when they become experts in their respective fields.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Alex (Teachr OIC)</p>
+<p>Mr Alex (Teacher OIC)</p>
 </td>
 </tr>
 <tr>
