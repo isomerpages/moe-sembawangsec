@@ -43,11 +43,19 @@ in the future when they become experts in their respective fields.</p>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p>Day</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Timing</p>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00 – 5:30pm</p>
+<p>3:00 - 5:00 PM</p>
 </td>
 </tr>
 </tbody>
