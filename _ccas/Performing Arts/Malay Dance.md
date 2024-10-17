@@ -83,7 +83,6 @@ Lumpur (Malaysia) and Ho Chi Minh City (Vietnam).</p>
 </tbody>
 </table>
 <hr>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Dance1.jpg">
 </div>
