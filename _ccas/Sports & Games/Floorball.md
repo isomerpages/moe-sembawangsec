@@ -50,8 +50,8 @@ as the National School Games, and friendly matches</p>
 <p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00 - 4:30PM</p>
-<p>4:30 - 6:00PM</p>
+<p>3:00 - 4:30 PM</p>
+<p>4:30 - 6:00 PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>'C' Division</p>
@@ -63,8 +63,8 @@ as the National School Games, and friendly matches</p>
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.30 – 3:30PM</p>
-<p>3:30 - 5:30PM</p>
+<p>1.30 – 3:30 PM</p>
+<p>3:30 - 5:30 PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All Girls</p>
