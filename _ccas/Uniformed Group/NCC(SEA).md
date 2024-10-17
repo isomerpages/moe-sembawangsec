@@ -5,29 +5,61 @@ description: ""
 third_nav_title: Uniformed Group
 variant: tiptap
 ---
-<h3>Teachers-in-charge</h3>
-<p>Mr Joe Wieky (I/C)
-<br>Mr Huang
-<br>Mr Sim</p>
-<p>Mr Tan</p>
-<p></p>
-<h3>Training Schedule</h3>
-<table style="minWidth: 75px">
+<p>In the Sembawang Vikings family, our cadets aspire to be a family that
+is strong, disciplined, and close-knitted. The Vikings symbolise the aspirations
+of our cadets:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>To be disciplined.</p>
+</li>
+<li>
+<p>To be fearless to explore the unknown.</p>
+</li>
+<li>
+<p>To be united and support each other – as a brotherhood and a family.</p>
+</li>
+</ol>
+<h3>Programmes:</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Weekly training: Foot-drills, Physical Fitness, and Games</p>
+</li>
+<li>
+<p>1-Star and 2-Star Kayaking Courses</p>
+</li>
+<li>
+<p>Dragonboat competition</p>
+</li>
+<li>
+<p>Naval Ship Visits</p>
+</li>
+<li>
+<p>Camps</p>
+</li>
+</ul>
+<h3>Training Schedule:</h3>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wed</p>
+<p><strong>Day</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00 pm - 5:00 pm</p>
+<p><strong>Timing</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>C1-1/2/3/4</p>
+<p>3:00 - 5:00 PM</p>
 </td>
 </tr>
 </tbody>
