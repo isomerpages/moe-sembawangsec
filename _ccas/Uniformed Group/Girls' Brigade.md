@@ -11,7 +11,7 @@ brigade aims to develop confidence and resilience in our members through
 allowing members to overcome challenges during physical activities. The
 brigade also strives to develop curiosity and a spirit of service in our
 members through giving them opportunities to learn new skills and serve
-the community</p>
+the community.</p>
 <h3>Programmes:</h3>
 <p>Across four years, members will acquire new skills as they attain the
 following GB badges</p>
