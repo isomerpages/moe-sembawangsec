@@ -69,7 +69,7 @@ their secondary school journey.</p>
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.30 - 5.30PM</p>
+<p>1.30 - 5.30 PM</p>
 </td>
 </tr>
 </tbody>
