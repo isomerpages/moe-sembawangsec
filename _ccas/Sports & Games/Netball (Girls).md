@@ -83,12 +83,27 @@ up various leadership roles in the CCA.</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Netball1.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Netball2.jpg">
 </div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
