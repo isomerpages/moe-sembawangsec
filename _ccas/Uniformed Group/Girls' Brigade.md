@@ -87,5 +87,8 @@ and as a team</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GB1.jpg">
+</div>
 <p></p>
 <p></p>
