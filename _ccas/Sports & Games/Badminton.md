@@ -45,7 +45,7 @@ experiences.&nbsp;</p>
 <p>Wednesday (Boys and Girls Team)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00 – 6:00PM&nbsp;</p>
+<p>3:00 – 6:00 PM&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -53,7 +53,7 @@ experiences.&nbsp;</p>
 <p>Friday (School Team)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1:30 – 4:30PM</p>
+<p>1:30 – 4:30 PM</p>
 </td>
 </tr>
 </tbody>
