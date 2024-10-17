@@ -7,7 +7,11 @@ third_nav_title: Our People
 ---
 <p><strong>Student Development</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -72,7 +76,11 @@ third_nav_title: Our People
 <p></p>
 <p>&nbsp;<strong>School Admin Team</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -129,7 +137,7 @@ third_nav_title: Our People
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Esther Lau</p>
+<p>Mr Jeff Tan</p>
 </td>
 </tr>
 <tr>
