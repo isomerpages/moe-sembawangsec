@@ -5,67 +5,87 @@ description: ""
 third_nav_title: Uniformed Group
 variant: tiptap
 ---
-<h3>Teacher-in-charge:</h3>
-<ol data-tight="true" class="tight">
+<p>The Girls’ Brigade (GB) aims to develop each member to her fullest potential
+by equipping, empowering and enabling every member to be a leader. The
+brigade aims to develop confidence and resilience in our members through
+allowing members to overcome challenges during physical activities. The
+brigade also strives to develop curiosity and a spirit of service in our
+members through giving them opportunities to learn new skills and serve
+the community</p>
+<h3>Programmes:</h3>
+<p>Across four years, members will acquire new skills as they attain the
+following GB badges</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Ms Kor (I/C)</p>
+<p>Made for More badge – Social emotional and relational skills</p>
 </li>
 <li>
-<p>Ms Tan</p>
+<p>Made for Good Works badge – Through participating in Values-in-Action
+programmes, members are required to identify areas of needs in community
+and develop plans to meet these needs</p>
 </li>
 <li>
-<p>Ms Lee</p>
+<p>Made for Future badge – Educational programmes where members are encouraged
+to learn new skills (e.g. Journalism/ paper quilling/ magic tricks)</p>
 </li>
-</ol>
+<li>
+<p>Made for Adventure badge – Overcoming physical challenges individually
+and as a team</p>
+</li>
+<li>
+<p>First Aid Badge – First aid skills</p>
+</li>
+</ul>
 <h3>Training Schedule</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wed</p>
+<p><strong>Day</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm – 5:30pm</p>
+<p><strong>Timing</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>C2-3/4</p>
+<p>3:00 - 5:30PM</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h3>Volunteer Adult Leaders:</h3>
-<ol data-tight="true" class="tight">
-<li>
-<p>Ms&nbsp;Joy Ann</p>
-</li>
-<li>
-<p>Ms June Tan</p>
-</li>
-<li>
-<p>Ms Mabel Seah</p>
-</li>
-<li>
-<p>Ms Christina Cheong</p>
-</li>
-<li>
-<p>Ms Lee Hwee Ing</p>
-</li>
-<li>
-<p>Wong Meili</p>
-</li>
-</ol>
-<h3></h3>
-<p><strong>Achievements</strong>
-</p>
-<p>The Girls’ Brigade Singapore Company Awards (Year of Assessment 2019)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Bronze</p>
-</li>
-</ul>
+<h3>Teachers:</h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Kor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Lee</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <p></p>
