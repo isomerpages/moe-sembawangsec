@@ -62,8 +62,8 @@ positively to the school community</p>
 <p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>C Division: 3:00 – 4:30PM</p>
-<p>B Division: 4:30 – 6PM</p>
+<p>C Division: 3:00 – 4:30 PM</p>
+<p>B Division: 4:30 – 6:00 PM</p>
 </td>
 </tr>
 <tr>
@@ -71,8 +71,8 @@ positively to the school community</p>
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>C Division: 2:30 – 4:00PM</p>
-<p>B Division: 4:00 – 5:30PM</p>
+<p>C Division: 2:30 – 4:00 PM</p>
+<p>B Division: 4:00 – 5:30 PM</p>
 </td>
 </tr>
 </tbody>
