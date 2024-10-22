@@ -5,169 +5,108 @@ description: ""
 third_nav_title: Uniformed Group
 variant: tiptap
 ---
-<h3>Teacher-in-charge:</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Ms Jenny (I/C)</p>
-</li>
-<li>
-<p>Mr Wong</p>
-</li>
-<li>
-<p>Mr Chua</p>
-</li>
-<li>
-<p>Mdm Bhagya</p>
+<p>Sembawang Secondary School’s Boys’ Brigade Company was founded in 1984
+as the 13th Singapore Company (BB) in Yio Chu Kang Secondary before it
+shifted over in 2000.&nbsp;There are many opportunities for our boys to
+grow physically and socially. Through a wide range of activities, the boys
+acquire many important life skills. They learn to communicate effectively
+and organise events, displaying servant leadership in the process.&nbsp;</p>
+<p>To date, the 13<sup>th</sup> Company has been consistently performing well.
+With respect to awards, the Company has attained the JM Fraser Award for
+Excellence (Distinction) for several consecutive years, as well as produced
+several Founders’ Men. The Founder's Award is the highest and most prestigious
+award in the Seniors Programme. To win the award, cadets need to participate
+in all approved Brigade's level activities, conceptualise a community project
+and develop their portfolio of achievements over the past four years of
+their secondary school journey.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB1.jpg">
+</div>
+<h3>Programmes:</h3>
+<ul>
+<li>
+<p>Weekly Parades&nbsp;</p>
+</li>
+<li>
+<p>Participation in BB Week&nbsp;</p>
+</li>
+<li>
+<p>Participation in BB Blaze competition&nbsp;</p>
+</li>
+<li>
+<p>Participation in BB Character Quest competition&nbsp;</p>
+</li>
+<li>
+<p>Annual School camps&nbsp;</p>
+</li>
+<li>
+<p>BB Share- A- Gift campaign&nbsp;</p>
+</li>
+<li>
+<p>National Leadership camp (NLC)&nbsp;</p>
+</li>
+</ul>
 <h3>Training Schedule:</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fri</p>
+<p><strong>Day</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.30 pm - 5.30 pm</p>
+<p><strong>Timing</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>C2-3/4</p>
+<p>1:30 - 5:30 PM</p>
 </td>
 </tr>
 </tbody>
 </table>
-</li>
-</ul>
+<h3>Teachers:</h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jenny (Teacher OIC)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Wong&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Bhagya&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chua&nbsp;&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB19.jpeg">
-</div>
-<p>Achievements</p>
-<p><strong>J M Fraser Award</strong> 2018: Bronze
-<br>2019: Bronze
-<br>2020: Bronze</p>
-<p><strong>BB Blaze</strong> 
-<br>2018: Silver Honours Roll
-<br>2019: Silver Honours Roll
-<br>
-</p>
-<p><strong>Character Quest</strong>
-<br>2018: Gold Honours Roll</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bb2.jpeg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bb3.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bb4.jpeg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bb5.jpeg">
-</div>
-<p><strong>National Education</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Total Defence Course</p>
-</li>
-<li>
-<p>Civil Defence Course</p>
-</li>
-</ul>
-<p><strong>Leadership</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Recruits Training Camp</p>
-</li>
-<li>
-<p>Leadership Development Camp</p>
-</li>
-<li>
-<p>Non-Commissioned Officers Camp</p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB9.jpeg">
-</div>
-<p><strong>Resilience</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Campcraft (Knots/Lashings/Tent Pitching/Flagstaff)</p>
-</li>
-<li>
-<p>Adventure Camp</p>
-</li>
-<li>
-<p>Abseiling</p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB10.jpeg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB11.jpeg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB12.jpeg">
-</div>
-<p><strong>Community Involvement</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>BB Cares</p>
-</li>
-<li>
-<p>Share-a-Gift</p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/BB13.jpeg">
-</div>
-<p>![](/images/BB14.jpeg)</p>
-<p><strong>Personal Development</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>First Aid Training</p>
-</li>
-<li>
-<p>Kayaking Course</p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB15.jpeg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB16.jpeg">
-</div>
-<p><strong>Company Bonding Activities</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Night Cycling at East Coast Park</p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/BB17.jpeg">
-</div>
-<ul data-tight="true" class="tight">
-<li>
-<p>Dragon Boat</p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB18.jpeg">
-</div>
+<p></p>
 <p></p>
