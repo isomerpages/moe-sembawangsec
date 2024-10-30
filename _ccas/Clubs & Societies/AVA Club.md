@@ -23,10 +23,11 @@ juniors and work as a cohesive and disciplined team.</p>
 <p>Weekly Training in the use of School PA System&nbsp;</p>
 </li>
 <li>
-<p><a href="https://www.oasispri.moe.edu.sg/mk-at-oasis/moe-photo-and-video-contest-2023/" class="Hyperlink SCXW43927239 BCX8" rel="noreferrer noopener" target="_blank">MOE (Our Schools, Our Stories) Photo Contest </a>&nbsp;</p>
+<p><a href="https://www.moe.gov.sg/our-schools-our-stories/contest" rel="noopener noreferrer nofollow" target="_blank">Our Schools, Our Stories (OSOS) Photo and Video Contest 2024 | MOE</a>
+</p>
 </li>
 <li>
-<p>Photography Workshop which includes outdoor photography&nbsp;</p>
+<p>Photography Workshop which includes outdoor photography</p>
 </li>
 </ul>
 <h3>Training Schedule:</h3>
