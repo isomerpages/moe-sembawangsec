@@ -29,6 +29,9 @@ juniors and work as a cohesive and disciplined team.</p>
 <li>
 <p>Photography Workshop which includes outdoor photography</p>
 </li>
+<li>
+<p>Photography Challenge</p>
+</li>
 </ul>
 <h3>Training Schedule:</h3>
 <table style="minWidth: 50px">
