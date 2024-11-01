@@ -9,8 +9,8 @@ sections:
   - hero:
       subtitle: Leaders & Change Makers
       background: /images/dragon-boat-competition.jpeg
-      button: Direct School Admission Exercise 2024
-      url: /announcement/direct-school-admission-exercise-2024/
+      button: Open House 16 Nov 2024
+      url: https://www.sembawangsec.moe.edu.sg/announcement/all-announcements/
       key_highlights:
         - title: Pearl
           description: Develop active learning
