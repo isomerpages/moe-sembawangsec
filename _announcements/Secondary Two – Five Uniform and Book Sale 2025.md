@@ -34,7 +34,7 @@ is within 5-7 working days)</p>
 slot for your class. (Refer to the schedule below) or</p>
 </li>
 <li>
-<p>Purchase online at ASENCIO Online Portal:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">asenciobookshop.sg</a>
+<p>Purchase online at ASENCIO Online Portal:&nbsp;<a href="https://asenciobookshop.sg/" rel="noopener noreferrer nofollow" target="_blank">asenciobookshop.sg</a>
 <br>For enquiries, please email to <a rel="noopener noreferrer nofollow" target="_blank">sembawang@ascensio.com.sg</a>
 </p>
 </li>
