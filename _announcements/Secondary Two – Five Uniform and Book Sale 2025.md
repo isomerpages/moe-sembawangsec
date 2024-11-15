@@ -102,7 +102,11 @@ slot for your class. (Refer to the schedule below) or</p>
 </tbody>
 </table>
 <h4><strong><u>Booklists 2025</u></strong></h4>
-<p>Secondary 2</p>
-<p>Secondary 3</p>
-<p>Secondary 4</p>
-<p>Secondary 5</p>
+<p><a href="/files/2025 Book &amp; Uniform List/Sembawang_Secondary_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
+</p>
+<p><a href="/files/2025 Book &amp; Uniform List/Sembawang_Secondary_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
+</p>
+<p><a href="/files/2025 Book &amp; Uniform List/Sembawang_Secondary_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4</a>
+</p>
+<p><a href="/files/2025 Book &amp; Uniform List/Sembawang_Secondary_5.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5</a>
+</p>
