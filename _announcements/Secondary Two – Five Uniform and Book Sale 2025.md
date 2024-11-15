@@ -101,7 +101,6 @@ slot for your class. (Refer to the schedule below) or</p>
 <tr></tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <h4><strong><u>Booklists 2025</u></strong></h4>
 <p>Secondary 2</p>
 <p>Secondary 3</p>
