@@ -23,3 +23,13 @@ school uniform or PE t-shirt and trousers/skit and be in proper grooming.</p>
 <p>Students who are feeling unwell should not report to school. Please inform
 your form teachers and they will provide you with more information.</p>
 <p>Wishing everyone the very best!</p>
+<h4><strong>2024 Release of N Level Results (Briefing Slides)</strong></h4>
+<p>Dear Parent / Guardian,</p>
+<p>The attached slides contain information that was shared during the Release
+of the N-Level Results on 16 Dec 2024. Should you or your child require
+clarification or support, please contact the General Office at Tel: 6756
+6760.</p>
+<p>We thank you for your partnership in supporting our children and we wish
+your child all the best as he/she progresses on his/her educational journey.</p>
+<p><a href="/files/Briefing_Slides__N_Level_Results_Release_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides</a> 
+</p>
