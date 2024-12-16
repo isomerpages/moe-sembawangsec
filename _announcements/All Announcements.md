@@ -31,5 +31,5 @@ clarification or support, please contact the General Office at Tel: 6756
 6760.</p>
 <p>We thank you for your partnership in supporting our children and we wish
 your child all the best as he/she progresses on his/her educational journey.</p>
-<p><a href="/files/Briefing_Slides__N_Level_Results_Release_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides</a> 
+<p><a href="/files/Briefing_Slides__N_Level_Results_Release_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides</a>
 </p>
