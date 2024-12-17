@@ -38,4 +38,4 @@ or
 <br>For enquiries, please email to sembawang@ascensio.com.sg
 
 **Payment Mode: Cash or PayNow**
-![](/images/img_3_24.JPG)
+![](/images/bookshop_schedule.jpg)
