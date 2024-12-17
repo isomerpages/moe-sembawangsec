@@ -10,17 +10,17 @@ variant: markdown
 
 **Note:**
 
-**For students with approved or pending FAS application, you will *not need* to make online orders for both uniform and books. Proceed to the General Office to submit your FAS approval letter before collection of the uniform and books. Please follow the schedule for collection as shown below.**
+**For students with approved or pending FAS application, you will *not need*  to make online orders for both uniform and books. Proceed to the General Office to submit your FAS approval letter before collection of the uniform and books. Please follow the schedule for collection as shown below.**
 
 **Uniform Sale**
 
 For school uniform and PE/House attire purchase, you can either:
 
 * Purchase in school<br>
-You are encouraged to purchase your uniform according to the allocated time slot for your class. (Refer to the schedule below)
+(Refer to the schedule below)
 or
 * Purchase [online](https://www.beauvoix.com.sg/products/sembawang-secondary-school) 
-<br> (Delivery charge of $7.00 is applicable for online orders and delivery is within 5-7 working days)
+<br> (Delivery charge - Delivery takes 5-7 working days and is charged at a flat fee. The cost of shipping will be displayed before order payment)
 
 **Payment Mode: Cash or PayNow
 <br>Please check your House allocation before purchasing the PE/House T-Shirts.**
@@ -32,10 +32,10 @@ or
 For books and stationery purchase, you can either:
 
 * Purchase in school; 
-<br>You are encouraged to purchase your books according to the allocated time slot for your class. (Refer to the schedule below)
+<br>(Refer to the schedule below)
 or
 * Purchase online at ASENCIO Online Portal: [asenciobookshop.sg](https://asenciobookshop.sg)
 <br>For enquiries, please email to sembawang@ascensio.com.sg
 
 **Payment Mode: Cash or PayNow**
-![](/images/img_3_24.JPG)
+![](/images/bookshop_schedule.jpg)

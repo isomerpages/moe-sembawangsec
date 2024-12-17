@@ -9,10 +9,10 @@ sections:
   - hero:
       subtitle: Leaders & Change Makers
       background: /images/dragon-boat-competition.jpeg
-      button: Open House 16 Nov 2024
-      url: https://www.sembawangsec.moe.edu.sg/announcement/all-announcements/
+      button: Secondary 1 Registration for 2025
+      url: https://www.sembawangsec.moe.edu.sg/announcement/secondary-one-registration-for-2022/
       key_highlights:
-        - title: Pearl
+        - title: PDLP
           description: Develop active learning
           url: /curriculum/Signature-Programme/pearl/
         - title: Applied Learning Programme
@@ -22,10 +22,10 @@ sections:
           description: Developing Community Leaders
           url: /curriculum/Signature-Programme/learning-for-life-programme/
   - infobar:
-      title: PEARL
-      description: Programme to Empower Active and Responsible Learning (PEARL) aims
-        to help students develop active learning habits through the use of
-        computers in the classroom.
+      title: PDLP
+      description: Personalised Digital Learning Programme aims to help students
+        develop active learning habits through the use of computers in the
+        classroom.
       button: Read more
       url: /curriculum/Signature-Programme/pearl/
   - infobar:
