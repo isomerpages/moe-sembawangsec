@@ -22,10 +22,10 @@ sections:
           description: Developing Community Leaders
           url: /curriculum/Signature-Programme/learning-for-life-programme/
   - infobar:
-      title: PEARL
-      description: Programme to Empower Active and Responsible Learning (PEARL) aims
-        to help students develop active learning habits through the use of
-        computers in the classroom.
+      title: PDLP
+      description: Personalised Digital Learning Programme aims to help students
+        develop active learning habits through the use of computers in the
+        classroom.
       button: Read more
       url: /curriculum/Signature-Programme/pearl/
   - infobar:
