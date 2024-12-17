@@ -9,10 +9,10 @@ sections:
   - hero:
       subtitle: Leaders & Change Makers
       background: /images/dragon-boat-competition.jpeg
-      button: Open House 16 Nov 2024
-      url: https://www.sembawangsec.moe.edu.sg/announcement/all-announcements/
+      button: Secondary 1 Registration for 2025
+      url: https://www.sembawangsec.moe.edu.sg/announcement/secondary-one-registration-for-2022/
       key_highlights:
-        - title: Pearl
+        - title: PDLP
           description: Develop active learning
           url: /curriculum/Signature-Programme/pearl/
         - title: Applied Learning Programme
