@@ -5,4 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Secondary One Registration
 ---
-<p>The class and House allocation will be sent directly (by <strong>21 December 2023</strong>) to the parents through <strong>Parents Gateway</strong>.</p>
+<p>The House allocation will be sent directly to parents through Parents
+Gateway by 19 Dec 2024. Please take note of your child's House allocation
+to ensure you purchase the correct PE attire, as the T-shirts are distinguishable
+by House colours.</p>
+<p>Class allocation will be communicated to parents through Parents Gateway
+by 30 Dec 2024.</p>
