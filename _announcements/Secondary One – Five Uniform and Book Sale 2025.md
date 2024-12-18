@@ -1,5 +1,5 @@
 ---
-title: Secondary Two – Five Uniform and Book Sale 2025
+title: Secondary One – Five Uniform and Book Sale 2025
 permalink: /secondary-two-five-uniform-and-book-sale-2025/
 variant: tiptap
 description: ""
@@ -70,7 +70,7 @@ slot for your class. (Refer to the schedule below) or</p>
 </tbody>
 </table>
 <p></p>
-<p><u>Schedule for Uniform / Book Collection / Sale (All Other Sec 2 – 5 Students)</u>
+<p><u>Schedule for Uniform / Book Collection / Sale (All Other Sec 1 – 5 Students)</u>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -102,6 +102,8 @@ slot for your class. (Refer to the schedule below) or</p>
 </tbody>
 </table>
 <h4><strong><u>Booklists 2025</u></strong></h4>
+<p><a href="/files/SMBSS_Sec_1_Booklist.pdf" rel="noopener nofollow" target="_blank">Secondary 1</a>
+</p>
 <p><a href="/files/2025 Book &amp; Uniform List/Sembawang_Secondary_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
 </p>
 <p><a href="/files/2025 Book &amp; Uniform List/Sembawang_Secondary_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
