@@ -70,7 +70,7 @@ slot for your class. (Refer to the schedule below) or</p>
 </tbody>
 </table>
 <p></p>
-<p><u>Schedule for Uniform / Book Collection / Sale (All Other Sec 2 – 5 Students)</u>
+<p><u>Schedule for Uniform / Book Collection / Sale (All Other Sec 1 – 5 Students)</u>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
