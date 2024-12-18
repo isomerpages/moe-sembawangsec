@@ -102,6 +102,8 @@ slot for your class. (Refer to the schedule below) or</p>
 </tbody>
 </table>
 <h4><strong><u>Booklists 2025</u></strong></h4>
+<p><a href="/files/SMBSS_Sec_1_Booklist.pdf" rel="noopener nofollow" target="_blank">Secondary 1</a>
+</p>
 <p><a href="/files/2025 Book &amp; Uniform List/Sembawang_Secondary_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
 </p>
 <p><a href="/files/2025 Book &amp; Uniform List/Sembawang_Secondary_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
