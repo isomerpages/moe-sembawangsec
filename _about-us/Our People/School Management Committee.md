@@ -5,8 +5,12 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<h2>School Management Committee 2024</h2>
-<table>
+<h2>School Management Committee 2025</h2>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -42,7 +46,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -67,22 +75,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Selvi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Faralina</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Heidi Low</p>
 </td>
 </tr>
 <tr>
@@ -162,14 +154,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Malay Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Sunita</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><em>Humanities</em>
 </p>
 </td>
@@ -183,14 +167,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jasvinder Kaur</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher (History)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chua SY</p>
 </td>
 </tr>
 <tr>
@@ -330,7 +306,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Student Leadership</em>
+<p><em>Educational Support</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -339,10 +315,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head</p>
+<p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Rajakumar</p>
+<p>Mdm Choong ML</p>
 </td>
 </tr>
 <tr>
@@ -356,7 +332,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Sec)</p>
+<p>Year Head (Upper Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Marc Ong</p>
@@ -364,31 +340,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Upper Sec)</p>
+<p>Year Head (Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Shamen Loke</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (Upper Sec)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Calvin Tan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (Lower Sec)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Zulqarnain</p>
+<p>Ms Sumithra</p>
 </td>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
