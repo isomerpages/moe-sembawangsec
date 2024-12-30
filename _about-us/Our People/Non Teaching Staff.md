@@ -28,7 +28,7 @@ third_nav_title: Our People
 <p>Special Education Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan CC</p>
+<p>Mdm Ida</p>
 </td>
 </tr>
 <tr>
@@ -52,7 +52,7 @@ third_nav_title: Our People
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chee AL</p>
+<p>Mr Simon Lee</p>
 </td>
 </tr>
 <tr>
@@ -102,34 +102,10 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nurul Hanis</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Jamilah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tay SC</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Management Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm May Lee</p>
 </td>
 </tr>
 <tr>
@@ -146,6 +122,14 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Suhailah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor – Laboratory</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ruby Tok</p>
 </td>
 </tr>
 <tr>
@@ -190,10 +174,10 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Allen</p>
 </td>
 </tr>
 </tbody>
