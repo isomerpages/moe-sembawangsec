@@ -23,7 +23,7 @@ up various leadership roles in the CCA.</p>
 <p>Friendly Matches</p>
 </li>
 </ul>
-<h3>Programmes: </h3>
+<h3>Programmes:</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Weekly Training</p>
@@ -83,11 +83,6 @@ up various leadership roles in the CCA.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Salwiyah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Lisa</p>
 </td>
 </tr>
 </tbody>
