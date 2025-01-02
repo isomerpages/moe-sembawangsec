@@ -55,7 +55,7 @@ in the future when they become experts in their respective fields.</p>
 <p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00 - 5:00 PM</p>
+<p>3:00 - 5:30 PM</p>
 </td>
 </tr>
 </tbody>
