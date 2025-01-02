@@ -80,11 +80,6 @@ Band has attained Accomplishment status for the year, 2021 and 2023</p>
 <p>Mdm Ho</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Fong</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
