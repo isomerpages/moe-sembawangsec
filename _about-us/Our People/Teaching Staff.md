@@ -270,7 +270,7 @@ variant: tiptap
 <p>4E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Joe Wieky</p>
+<p>Mr Joe</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Cai</p>
