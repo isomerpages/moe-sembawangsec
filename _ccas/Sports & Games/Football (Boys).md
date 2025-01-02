@@ -85,17 +85,17 @@ positively to the school community</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Daryn Tan (Teacher OIC)</p>
+<p>Ms Munirah (Teacher OIC)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Munirah</p>
+<p>Mr Daryn Tan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Marianne</p>
+<p>Ms Marianne</p>
 </td>
 </tr>
 <tr>
