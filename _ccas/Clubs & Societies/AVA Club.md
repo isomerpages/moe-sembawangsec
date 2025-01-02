@@ -68,7 +68,7 @@ juniors and work as a cohesive and disciplined team.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Samantha (Teacher OIC)&nbsp;</p>
+<p>Ms Ching (Teacher OIC)&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -78,7 +78,7 @@ juniors and work as a cohesive and disciplined team.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Zaetun Abbas&nbsp;</p>
+<p>Ms Esther</p>
 </td>
 </tr>
 </tbody>

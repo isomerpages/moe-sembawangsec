@@ -69,7 +69,7 @@ their secondary school journey.</p>
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1:30 - 5:30 PM</p>
+<p>1:30 - 5:00 PM</p>
 </td>
 </tr>
 </tbody>
@@ -82,17 +82,12 @@ their secondary school journey.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jenny (Teacher OIC)&nbsp;</p>
+<p>Mdm Bhagya&nbsp;(Teacher OIC)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Wong&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Bhagya&nbsp;</p>
+<p>Ms Jenny Kho</p>
 </td>
 </tr>
 <tr>
