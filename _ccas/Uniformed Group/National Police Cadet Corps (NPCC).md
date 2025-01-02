@@ -84,22 +84,22 @@ and keep Singapore safe.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ASP (NPCC) Mr Oon (Teacher OIC)</p>
+<p>Mr Chang (Teacher OIC)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Insp (NPCC) Mr Chang</p>
+<p>Mr Oon</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Insp (NPCC) Ms Kwong</p>
+<p>Ms Lisa</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Insp (NPCC) Mdm Sulastri</p>
+<p>Mdm Sulastri</p>
 </td>
 </tr>
 </tbody>
