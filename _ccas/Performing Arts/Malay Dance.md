@@ -77,7 +77,7 @@ Lumpur (Malaysia) and Ho Chi Minh City (Vietnam).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MS Tan HN</p>
+<p>Ms Tan</p>
 </td>
 </tr>
 </tbody>
