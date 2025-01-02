@@ -71,12 +71,17 @@ experiences.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chen</p>
+<p>Ms Adeline</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim</p>
+<p>Ms Samantha</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng</p>
 </td>
 </tr>
 </tbody>
