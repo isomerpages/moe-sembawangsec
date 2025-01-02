@@ -81,12 +81,12 @@ as the National School Games, and friendly matches</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Guan (Teacher OIC)</p>
+<p>Ms Chen(Teacher OIC)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cai</p>
+<p>Mdm Guan</p>
 </td>
 </tr>
 <tr>
