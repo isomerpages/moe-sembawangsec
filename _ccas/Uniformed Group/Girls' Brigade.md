@@ -71,12 +71,12 @@ and as a team</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Kor</p>
+<p>Ms Fong (Teacher OIC)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan</p>
+<p>Ms Cai</p>
 </td>
 </tr>
 <tr>
