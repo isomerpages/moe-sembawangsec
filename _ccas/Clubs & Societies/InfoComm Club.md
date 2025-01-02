@@ -76,11 +76,6 @@ in the future when they become experts in their respective fields.</p>
 <p>Ms Chong</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Kwang</p>
-</td>
-</tr>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
