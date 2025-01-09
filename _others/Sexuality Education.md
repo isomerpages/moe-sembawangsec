@@ -860,16 +860,16 @@ external providers.
 <li>
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <u>here</u>. The completed
-form is to be submitted by 28/02/2025.
+at the start of the year and is also downloadable <a href="/files/SEd_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>. The completed form is to
+be submitted by 28/02/2025.
 <br>
 </p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <u>here</u>. &nbsp;The
-completed form is to be submitted by 28/02/2025.
+at the start of the year and is also downloadable <a href="/files/SEd_Annex_B.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>. &nbsp;The completed form
+is to be submitted by 28/02/2025.
 <br>
 </p>
 </li>
