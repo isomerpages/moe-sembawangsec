@@ -87,7 +87,8 @@ need for peer acceptance can be overwhelmingly strong and hinder one’s
 ability to act responsibly.&nbsp; Given the pressures faced by the middle
 adolescent from within themselves and from peers, it is important to build
 a strong sense of self-worth, personal conviction and an understanding
-of the possible consequences of sexual behaviour.
+of the possible consequences of sexual behaviour.</p>
+<p>
 <br>
 </p>
 </li>
