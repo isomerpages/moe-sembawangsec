@@ -851,30 +851,31 @@ of assertiveness and responsible decision-making</p>
 <p></p>
 </li>
 <li>
-<p>Parents may opt their children out of the Sexuality Education lessons,&nbsp;<u>eTeens</u>&nbsp;and/or
-supplementary sexuality education programmes by MOE-approved external providers.
+<p>Parents may opt their children out of the Sexuality Education lessons,
+eTeens and/or supplementary sexuality education programmes by MOE-approved
+external providers.
 <br>
 </p>
 </li>
 <li>
-<p>Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
+<p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable&nbsp;<a href="/files/2024_Parent_Opt_out_form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed form is to be submitted by&nbsp;23/02/2024.
+at the start of the year and is also downloadable <u>here</u>. The completed
+form is to be submitted by 28/02/2025.
 <br>
 </p>
 </li>
 <li>
-<p>Parents who wish to opt their children out of the&nbsp;<strong><u>eTeens</u> programme</strong>&nbsp;need
+<p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable&nbsp;<a href="/files/e_Teens_Parents_Opt_out_form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 23/02/2024.
+at the start of the year and is also downloadable <u>here</u>. &nbsp;The
+completed form is to be submitted by 28/02/2025.
 <br>
 </p>
 </li>
 <li>
 <p>Parents can contact the school at (Tel: 67566760, e-mail:&nbsp;<a href="mailto: sembawang_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sembawang_ss@moe.edu.sg</a> for
-discussion or to seek clarification about the school’s sexuality education
+discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
 </li>
 </ol>
