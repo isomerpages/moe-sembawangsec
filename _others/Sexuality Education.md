@@ -754,9 +754,13 @@ learn the importance of making sound values-based decisions and acting
 in consideration of the well-being of themselves and others.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>· understand that we strengthen our character when we commit to sound
-values-based viewpoints (e.g. respect for life) and decisions, and speak
-and act in alignment with our beliefs</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>understand that we strengthen our character when we commit to sound values-based
+viewpoints (e.g. respect for life) and decisions, and speak and act in
+alignment with our beliefs</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 1</p>
@@ -768,12 +772,12 @@ and act in alignment with our beliefs</p>
 <p></p>
 </li>
 <li>
-<p><em>eTeens</em> is a programme developed by Health Promotion Board, in
-collaboration with the Ministry of Education, to provide Secondary 3 students
-with accurate information on STIs, HIV and protection from a health perspective. <em>eTeens</em> is
-conducted in two segments – a mass talk segment and a classroom-based programme.
-The desired outcome of the <em>eTeens</em> programme is that students are
-empowered to make wise, informed and sensible decisions.</p>
+<p>eTeens is a programme developed by Health Promotion Board, in collaboration
+with the Ministry of Education, to provide Secondary 3 students with accurate
+information on STIs, HIV and protection from a health perspective. eTeens
+is conducted in two segments – a mass talk segment and a classroom-based
+programme. The desired outcome of the eTeens programme is that students
+are empowered to make wise, informed and sensible decisions.</p>
 </li>
 <li>
 <p>Students are taught skills such as decision-making, assertiveness and
@@ -782,8 +786,8 @@ that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 <p></p>
-<p>At Sembawang Secondary School, the&nbsp;<u>eTeens</u>&nbsp;programme will
-be implemented as follows in 2024:</p>
+<p><strong>At Sembawang Secondary School, the&nbsp;<u>eTeens</u>&nbsp;programme will be implemented as follows in 2025:</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -801,20 +805,24 @@ be implemented as follows in 2024:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Time Period</strong>
+<p><strong>Time Period (e.g. Term 3 Week 9)</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
+<p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;Raise awareness and provide knowledge on:</p>
-<p>a)&nbsp;&nbsp;&nbsp; Infectious diseases (STIs and HIV): what it is, how
-it spreads, how to prevent infection mainly through ABC (abstinence, being
-faithful, correct, and consistent condom use).</p>
-<p>Managing relationships and risky situations in a healthy way.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Raise awareness and provide knowledge on:</p>
+</li>
+</ul>
+<p>a) Infectious diseases (STIs and HIV): what it is, how it spreads, how
+to prevent infection mainly through ABC (abstinence, being faithful, correct,
+and consistent condom use).</p>
+<p>b) Managing relationships and risky situations in a healthy way</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 5</p>
@@ -825,11 +833,15 @@ faithful, correct, and consistent condom use).</p>
 <p>Classroom-based Lesson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;Learn to negotiate their way out of a risky situation by applying
-skills of assertiveness and responsible decision-making</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn to negotiate their way out of a risky situation by applying skills
+of assertiveness and responsible decision-making</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 3 Week 7</p>
 </td>
 </tr>
 </tbody>
