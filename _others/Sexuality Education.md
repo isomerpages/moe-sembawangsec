@@ -779,6 +779,7 @@ information on STIs, HIV and protection from a health perspective. eTeens
 is conducted in two segments – a mass talk segment and a classroom-based
 programme. The desired outcome of the eTeens programme is that students
 are empowered to make wise, informed and sensible decisions.</p>
+<p></p>
 </li>
 <li>
 <p>Students are taught skills such as decision-making, assertiveness and
