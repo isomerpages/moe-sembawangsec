@@ -100,7 +100,7 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <p><strong>At Sembawang Secondary School, the following Sexuality Education lessons will be taught in&nbsp;2025:</strong>
 </p>
 <p></p>
-<p><strong>                                  2025 Sexuality Education Lessons in CCE </strong>
+<p><strong>2025 Sexuality Education Lessons in CCE </strong>
 <br>
 <br><strong>Secondary 1</strong>
 </p>
