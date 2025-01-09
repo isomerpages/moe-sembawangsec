@@ -424,18 +424,24 @@ Students will also learn that maturity and readiness are important when
 entering into a dating relationship.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Know that self-perception and identity
-have an impact on our self-esteem and how we interact with others and the
-choices we make, both online and offline.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand that expectations of
-oneself and others may differ and can affect one’s emotions, thoughts and
-behaviours.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recognise what healthy dating relationships
-involve and know that readiness is important when entering into a dating
-relationship.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>know that self-perception and identity have an impact on our self-esteem
+and how we interact with others and the choices we make, both online and
+offline</p>
+</li>
+<li>
+<p>understand that expectations of oneself and others may differ and can
+affect one’s emotions, thoughts and behaviours</p>
+</li>
+<li>
+<p>recognise what healthy dating relationships involve and know that readiness
+is important when entering into a dating relationship</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 6</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -445,7 +451,7 @@ relationship.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students will learn how to manage their emotions if they were to face
-a breakup and know that relationship building involves person emotions
+a breakup and know that relationship-building involves personal emotions
 and vulnerabilities, and changes and challenges. Students will also learn
 that a decision to end a relationship will have consequences on oneself
 and others, and that grief and loss due to rejections and broken relationships
@@ -454,19 +460,28 @@ that there are healthy ways of coping with breakdowns in relationships
 and that family and friends are important pillars of support.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Know that relationship-building
-involves personal emotions and vulnerabilities, and changes and challenges.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Know that a decision to end a relationship
-will have consequences on oneself and others.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Know that grief and loss due to
-rejections and broken relationships is normal and one can recover from
-the experience.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Know there are healthy ways of coping
-with broken relationships, and family and friends are important pillars
-of support.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>know that relationship-building involves personal emotions and vulnerabilities,
+and changes and challenges</p>
+</li>
+<li>
+<p>know that a decision to end a relationship will have consequences on oneself
+and others</p>
+</li>
+<li>
+<p>know that grief and loss due to rejections and broken relationships is
+normal and one can recover from the experience</p>
+</li>
+<li>
+<p>know there are healthy ways of coping with broken relationships, and family
+and friends are important pillars of support</p>
+<p></p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -488,19 +503,20 @@ never justifiable and they can seek help in times of need.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Recognise the importance of being informed of social and moral issues
+<p>recognise the importance of being informed of social and moral issues
 of the day and the need to reflect on these issues, and weigh them against
-our own moral standpoints as we form our perspectives about them.</p>
+our own moral standpoints as we form our perspectives about them</p>
 </li>
 <li>
-<p>Understand that we strengthen our character when we commit to sound values-based
+<p>understand that we strengthen our character when we commit to sound values-based
 viewpoints (e.g. respect for life) and decisions, and speak and act in
-alignment with our beliefs.</p>
+alignment with our beliefs</p>
 </li>
 </ul>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 9</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 </tbody>
