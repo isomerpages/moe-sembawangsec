@@ -572,15 +572,18 @@ to reframe their perspectives and not judge others based on their own or
 others’ values and principles, with regard to gender stereotypes.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand that the value of a person
-is not tied to one’s gender and not conforming to gender stereotypes does
-not negate one’s gender identity.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand what gender stereotypes
-comprise, e.g. notions of masculinity and femininity vary over time and
-space, and are shaped by societal expectations.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Know that imposing gender stereotypes
-on oneself and others can limit one’s experiences, cause harm to the self-esteem
-of oneself and others and should be avoided.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>understand what gender stereotypes comprise, e.g. notions of masculinity
+and femininity vary over time and space, and are shaped by societal expectations</p>
+</li>
+<li>
+<p>know that imposing gender stereotypes on oneself and others can limit
+one’s experiences, cause harm to the self-esteem of oneself and others
+and should be avoided</p>
+</li>
+</ul>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 1</p>
@@ -603,21 +606,31 @@ school counsellors) in the supportive environment that they have if they
 or their friends are involved in an unhealthy relationship.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Know there are healthy ways of coping
-with broken relationships, and family and friends are important pillars
-of support.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recognise emotions caused by traumatic
-situations, e.g. bullying, abuse and dating violence, and understand the
-physiological and psychological, social impact on victims.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand that we need moral courage
-and wisdom to recognise and end relationships that are unhealthy and cause
-harm to our mental and emotional well-being.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand the importance of ensuring
-that non-verbal messages match with verbal ones, when communicating personal
-and emotional boundaries in a relationship.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>know there are healthy ways of coping with broken relationships, and family
+and friends are important pillars of support</p>
+</li>
+<li>
+<p>recognise emotions caused by traumatic situations, e.g. bullying, abuse
+and dating violence, and understand the physiological and psychological,
+social impact on victims</p>
+</li>
+<li>
+<p>understand that we need moral courage and wisdom to recognise and end
+relationships that are unhealthy and cause harm to our mental and emotional
+well-being</p>
+</li>
+<li>
+<p>understand the importance of ensuring that non-verbal messages match with
+verbal ones, when communicating personal and emotional boundaries in a
+relationship</p>
+<p></p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 4</p>
+<p>Term 2 Week 2</p>
 </td>
 </tr>
 <tr>
@@ -630,21 +643,31 @@ and emotional boundaries in a relationship.</p>
 in a marriage. Students will understand that while a marriage, defined
 in Singapore as a union between a man and a woman, requires mutual commitment
 and effort like the other relationships in their lives, what sets a marriage
-apart is its lifelong commitment. Students will learn that what really
-matters to sustain and maintain a long-term romantic relationship leading
-to marriage is understanding the other person’s perspective and effectively
-communicating with each other.</p>
+apart is its lifelong commitment.</p>
+<p>Students will learn that what really matters in sustaining and maintaining
+a long-term romantic relationship that leads to marriage, is understanding
+the other person’s perspective and effectively communicating with each
+other.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Know that long-term romantic relationships
-leading to marriage involve understanding oneself and others in the intellectual,
-emotional, social and moral dimensions.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Know that marriage entails a union
-between a man and a woman based on love, trust, commitment, and requires
-mutual effort.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand that conflicts are normal
-in any relationship, including marriage, and the way in which a couple
-handles conflict is critical to the success of their marriage.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>know that long-term romantic relationships leading to marriage involve
+understanding oneself and others in the intellectual, emotional, social
+and moral dimensions</p>
+</li>
+<li>
+<p>know that marriage entails a union between a man and a woman based on
+love, trust, commitment, and requires mutual effort</p>
+</li>
+<li>
+<p>understand that conflicts are normal in any relationship, including marriage,
+and the way in which a couple handles conflict is critical to the success
+of their marriage</p>
+</li>
+</ul>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 5</p>
@@ -667,9 +690,13 @@ boundaries and overcoming difficulties in making sound decisions, to prevent
 themselves from encountering danger.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand that we strengthen our
-character when we commit to sound values-based viewpoints (e.g. respect
-for life) and decisions, and speak and act in alignment with our beliefs.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>understand that we strengthen our character when we commit to sound values-based
+viewpoints (e.g. respect for life) and decisions, and speak and act in
+alignment with our beliefs</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 6</p>
