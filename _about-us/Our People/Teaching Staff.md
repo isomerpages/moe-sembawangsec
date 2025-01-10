@@ -146,7 +146,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1F</p>
+<p>2F</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ho</p>
