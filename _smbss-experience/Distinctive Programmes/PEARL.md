@@ -37,37 +37,12 @@ The school has put in place some measures and policies to enable a safe and cond
 
 These are some useful resources for your reference:
 
-*   [Parent Handbook (Part 1)](/files/IP2-Parent-Handbook-I-on-Learning-with-a-PLD_8-Dec-21.pdf)
-*   [Parent Handbook (Part 2)](/files/IP3-Parent-Handbook-II-on-Learning-with-a-PLD_8-Dec-21.pdf)
+*  Personal Learning Device Information Kiosk - Handy information concerning the usage of PLDs (https://sites.google.com/moe.edu.sg/smbsspldinfokiosk/home) 
 *   [Parent kit on Cyber Wellness for your Child](/files/cyber-wellness-for-your-child.pdf)
 *   Practising Cyber Wellness ([https://www.moe.gov.sg/programmes/cyber-wellness/](https://www.moe.gov.sg/programmes/cyber-wellness/))
 *   Resources from Media Literacy Council ([https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&amp;persona=parents](https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&amp;persona=parents))
 
-**\*\* For Parents (Device Management Application – Mobile Guardian Access)**
-
-Dear Parents/Guardians
-
-The DMA Parent Portal (or Mobile Guardian) is made available for you to monitor your child/ward’s PLD activities. You will be receiving an activation e-mail via the e-mail address that you had previously provided to the school. If the activation e-mail is not found in your Inbox, please check the ‘Junk Folder’ or ‘Spam Folder’ for the e-mail notification.
-
-**\*Note: Please set a 12 character password with at least 1 uppercase and 1 special symbol.**
-
-The current DMA setting for all students is “Default“:
-
-![DMA-settings](/images/DMA_settings-1024x533.jpeg)
-
-Dma Settings
-
-**No action on your end**&nbsp;if you decide to stick to current “Default” settings for your child/ward. However, if you would like to opt for Option A, please email to sembawang_ss@moe.edu.sg to indicate the switch from “Default” to “Option A”, providing the name of your child and class. Once the system is updated, we will inform you via email.
-
-Please refer to the following guide for each of the options above:
-
-*   “Default” setting (as prescribed by school)["Default" Setting as prescribed by school](/files/dma%20parent%20guide-default%20option.pdf)
-*   Option A setting[Option A Setting](https://go.gov.sg/option-a)
-*   Option B setting[Option B Setting](https://go.gov.sg/option-dma-b)
-
 **Updates**
-
-*   Zoom and other applications have been pushed to your PLD. Please leave your PLD connected for at least 1 hour to your home wifi for the applications to be force-installed.
 *   Lockers will be allocated for all students. Form teachers will assign the lockers to students. 
 *   For incoming Secondary 1 students, briefing for parents will take place during Secondary 1 Parents' Engagement Session in January each year.  
 
