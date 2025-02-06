@@ -40,7 +40,7 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Johnny Quah</p>
+<p>Mr Ong Zhong Da</p>
 </td>
 </tr>
 <tr>
@@ -48,7 +48,7 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Zhong Da</p>
+<p>Mr Johnny Quah</p>
 </td>
 </tr>
 <tr>
