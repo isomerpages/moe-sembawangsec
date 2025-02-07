@@ -1,5 +1,5 @@
 collections:
-  application-for-canteen-staff:
+  application-for-canteen-stall:
     output: true
     order:
       - SMB School Canteen Advertisment.md
