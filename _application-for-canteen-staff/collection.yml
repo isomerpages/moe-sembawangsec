@@ -1,0 +1,4 @@
+collections:
+  application-for-canteen-staff:
+    output: true
+    order: []
