@@ -29,7 +29,8 @@ in person during operating hours;</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Download and complete the application
 form below. You may also request for a hardcopy from the School’s General
 Office at 9am – 5pm, Monday to Friday.&nbsp;</p>
-<p>Application Form</p>
+<p><a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form (Click to download)</a>
+</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Attach the following supporting documents
 together with the application form:</p>
 <p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A photocopy of applicant’s NRIC (front
