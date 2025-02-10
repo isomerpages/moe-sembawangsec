@@ -10,7 +10,7 @@ sections:
       subtitle: Leaders & Change Makers
       background: /images/dragon-boat-competition.jpeg
       button: Canteen Stall application 2025
-      url: https://www.sembawangsec.moe.edu.sg/smb-school-canteen-advertisment/
+      url: https://www.sembawangsec.moe.edu.sg/smbss-canteen-application-2025/
       key_highlights:
         - title: PDLP
           description: Develop active learning
