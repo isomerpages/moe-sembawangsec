@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - SMB School Canteen Advertisment.md
       - 2025 Timetable.md
       - Release of 2024 O Level Results.md
       - Secondary One – Five Uniform and Book Sale 2025.md
