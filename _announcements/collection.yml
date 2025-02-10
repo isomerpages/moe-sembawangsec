@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Canteen Application/SMBSS Canteen Application 2025.md
-      - Canteen Application/SMB School Canteen Advertisment.md
       - Canteen Application/.keep
       - 2025 Timetable.md
       - Release of 2024 O Level Results.md
