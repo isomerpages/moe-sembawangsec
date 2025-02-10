@@ -9,8 +9,8 @@ sections:
   - hero:
       subtitle: Leaders & Change Makers
       background: /images/dragon-boat-competition.jpeg
-      button: Secondary 1 Registration for 2025
-      url: https://www.sembawangsec.moe.edu.sg/announcement/secondary-one-registration-for-2022/
+      button: Canteen Stall application 2025
+      url: https://www.sembawangsec.moe.edu.sg/smb-school-canteen-advertisment/
       key_highlights:
         - title: PDLP
           description: Develop active learning
