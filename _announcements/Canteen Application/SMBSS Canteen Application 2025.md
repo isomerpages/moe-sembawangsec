@@ -30,7 +30,8 @@ in person during operating hours;</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Download and complete the application
 form below. You may also request for a hardcopy from the School’s General
 Office at 9am – 5pm, Monday to Friday.&nbsp;</p>
-<p><a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form (Click to download)</a>
+<p><a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form (Click to do</a>
+<a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener noreferrer nofollow" target="_blank">wnload)</a>
 </p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Attach the following supporting documents
 together with the application form:</p>
@@ -47,11 +48,15 @@ food stall (at school canteen or outside school), if applicable.</p>
 and supporting documents by closing date via email (<a rel="noopener noreferrer nofollow" target="_blank">sembawang.ss@moe.gov.sg</a>) OR to the
 School’s General Office at 9am – 5pm, Monday to Friday.</p>
 <p></p>
-<p>Address: 30 Sembawang Crescent, Singapore 757704</p>
-<p>Contact No: 6756 6760</p>
-<p>Contact Person: Mr Rahim Sal, Operations Manager</p>
+<p>Address: <strong>30 Sembawang Crescent, Singapore 757704</strong>
+</p>
+<p>Contact No: <strong>6756 6760</strong>
+</p>
+<p>Contact Person: <strong>Mr Rahim Sal, Operations Manager</strong>
+</p>
 <p>&nbsp;</p>
 <h4><u>Application Closing Date</u></h4>
-<p>17 March 2025, Monday</p>
+<p><strong>17 March 2025, Monday</strong>
+</p>
 <p>&nbsp;<em>Shortlisted applicants will be notified for an interview and required to provide food samples for the School Canteen Selection Committee at the applicant’s own expense</em>
 </p>
