@@ -1,9 +1,9 @@
 ---
-title: SMBSS Canteen Application 2025
+title: SMBSS Canteen Stall Application 2025
 permalink: /smbss-canteen-application-2025/
 variant: tiptap
 description: ""
-third_nav_title: Canteen Application
+third_nav_title: Canteen Stall Application
 ---
 <h2>School Canteen Advertisement</h2>
 <p>Sembawang Secondary School seeks applications to operate a Halal noodle
@@ -30,8 +30,7 @@ in person during operating hours;</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Download and complete the application
 form below. You may also request for a hardcopy from the School’s General
 Office at 9am – 5pm, Monday to Friday.&nbsp;</p>
-<p><a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form (Click to do</a>
-<a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener noreferrer nofollow" target="_blank">wnload)</a>
+<p><a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form (Click to download)</a>
 </p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Attach the following supporting documents
 together with the application form:</p>
