@@ -2,7 +2,7 @@ collections:
   announcements:
     output: true
     order:
-      - Canteen Stall Application/SMBSS Canteen Application 2025.md
+      - Canteen Stall Application/SMBSS Canteen Stall Application 2025.md
       - Canteen Stall Application/.keep
       - 2025 Timetable.md
       - Release of 2024 O Level Results.md
