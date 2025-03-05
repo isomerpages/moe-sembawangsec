@@ -47,4 +47,7 @@ sections:
       id: infobar
       button: View more
       url: /about-us/contact-us/
+  - resources:
+      title: Announcements
+      id: resources
 ---
