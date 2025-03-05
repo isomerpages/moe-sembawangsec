@@ -25,14 +25,14 @@ sections:
       title: Announcements
       id: resources
   - infobar:
-      title: Reach Us
-      id: infobar
-      button: more
-      url: /about-us/contact-us/
-  - infobar:
       title: Social Media
       id: infobar
       description: Instagram
       button: more
       url: https://www.instagram.com/sembawang_ss/
+  - infobar:
+      title: Reach Us
+      id: infobar
+      button: more
+      url: /about-us/contact-us/
 ---
