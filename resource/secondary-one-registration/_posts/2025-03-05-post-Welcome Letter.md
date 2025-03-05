@@ -7,3 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Please read the Welcome <a href="/files/Welcome_Letter_from_Principal_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter</a> from Our
+Principal.</p>
