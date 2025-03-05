@@ -26,15 +26,16 @@ sections:
       id: textcards
       cards:
         - title: Collection of School Graduation Certificates
-          description: Card description
+          description: Collection of 2024 School Graduation Certificates (SGC)
           linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
+          url: /collection-of-2024-school-graduation-certificates/
+        - title: Canteen Stall Application
+          description: Seeking applications to operate a Halal noodle stall. Closing date,
+            17/03/2025
           linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
+          url: /smbss-canteen-application-2025/
+        - title: 2025 Timetable
+          description: Timetable (sorted by class)
           linktext: Learn more
-          url: ""
+          url: /2025-timetable/
 ---
