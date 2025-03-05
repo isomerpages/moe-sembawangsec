@@ -29,4 +29,10 @@ sections:
       id: infobar
       button: View more
       url: /about-us/contact-us/
+  - infobar:
+      title: Social Media
+      id: infobar
+      description: Instagram
+      button: View more
+      url: https://www.instagram.com/sembawang_ss/
 ---
