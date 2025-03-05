@@ -38,4 +38,8 @@ sections:
           description: Timetable (sorted by class)
           linktext: Learn more
           url: /2025-timetable/
+  - infobar:
+      id: infobar
+      button: More announcements
+      url: https://cms.isomer.gov.sg/sites/moe-sembawangsec/folders/announcements
 ---
