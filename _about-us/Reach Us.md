@@ -4,7 +4,7 @@ permalink: /about-us/contact-us/
 description: ""
 variant: tiptap
 ---
-<h2>Contact Us</h2>
+<h2>Reach Us</h2>
 <p><strong>Mailing Address</strong>
 <br>Sembawang Secondary School
 <br>30 Sembawang Crescent
