@@ -5,22 +5,21 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Collection of 2024 School Graduation Certificates (SGC)</strong></h3>
-<p><strong>Dear Graduands,</strong>
-</p>
-<p><strong>We are pleased to inform you that your School Graduation Certificates (SGC) are now ready for collection from the School’s General Office.</strong>
-</p>
-<p><strong>If you are unable to collect your SGC within the stipulated time indicated in the table below, you may appoint a proxy to collect on your behalf using the form provided below.&nbsp;&nbsp;&nbsp;&nbsp;</strong>
-</p>
-<p><strong>You / your proxy will need to provide your identity document at the guard post for verification purpose before collecting the certificate at General Office. Please avoid coming in large groups.</strong>
-</p>
-<p><strong>Thank You.</strong>
-</p>
+<p>Dear Graduands,</p>
+<p>We are pleased to inform you that your School Graduation Certificates
+(SGC) are now ready for collection from the School’s General Office.</p>
+<p>If you are unable to collect your SGC within the stipulated time indicated
+in the table below, you may appoint a proxy to collect on your behalf using
+the form provided below.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>You / your proxy will need to provide your identity document at the guard
+post for verification purpose before collecting the certificate at General
+Office. Please avoid coming in large groups.</p>
+<p>Thank You.</p>
 <p><a href="/files/PROXY_FORM___SGC_Collection.pdf" rel="noopener noreferrer nofollow" target="_blank">Proxy Form (click to download)</a>
 </p>
-<p><strong>School Contact no: 67566760</strong>
+<p>School Contact no: <strong>67566760</strong>
 </p>
-<p><strong>The details for collection are given below:</strong>
-</p>
+<p>The details for collection are given below:</p>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
