@@ -15,6 +15,7 @@ description: ""
 </p>
 <p><strong>Thank You.</strong>
 </p>
+<p>Proxy Form (click to download)</p>
 <p><strong>School Contact no: 67566760</strong>
 </p>
 <p><strong>The details for collection are given below:</strong>
