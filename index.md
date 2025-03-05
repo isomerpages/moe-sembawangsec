@@ -23,7 +23,6 @@ sections:
           url: /curriculum/Signature-Programme/learning-for-life-programme/
   - resources:
       title: Announcements
-      subtitle: Add a preview and link to your Resource Room
       id: resources
   - infobar:
       title: Reach Us
