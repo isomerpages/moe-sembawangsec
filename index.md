@@ -21,15 +21,20 @@ sections:
         - title: Learning For Life Programme
           description: Developing Community Leaders
           url: /curriculum/Signature-Programme/learning-for-life-programme/
-  - infocols:
+  - textcards:
       title: Announcements
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
+      id: textcards
+      cards:
+        - title: Collection of School Graduation Certificates
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
