@@ -4,14 +4,14 @@ permalink: /collection-of-2024-school-graduation-certificates/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Collection of 2024 School Graduation Certificates</strong></h3>
-<p><strong>Graduands,</strong>
+<h3><strong>Collection of 2024 School Graduation Certificates (SGC)</strong></h3>
+<p><strong>Dear Graduands,</strong>
 </p>
-<p><strong>We are pleased to inform you that your School Graduation Certificates (SGC) are now ready for collection from the General Office.</strong>
+<p><strong>We are pleased to inform you that your School Graduation Certificates (SGC) are now ready for collection from the School’s General Office.</strong>
 </p>
-<p><strong>If you are unable to collect your SGC within the stipulated time indicated in the table below, you are kindly advised to call the school and make an appointment before you come down for collection.&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+<p><strong>If you are unable to collect your SGC within the stipulated time indicated in the table below, you may appoint a proxy to collect on your behalf using the form provided below.&nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
-<p><strong>You will need to provide your particulars at the guard post when you collect the certificate. Please avoid coming in large groups.</strong>
+<p><strong>You / your proxy will need to provide your identity document at the guard post for verification purpose before collecting the certificate at General Office. Please avoid coming in large groups.</strong>
 </p>
 <p><strong>Thank You.</strong>
 </p>
@@ -52,9 +52,9 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>10 Mar 2025 (Mon)&nbsp; -&nbsp; 14 Mar 2025 (Fri) </strong>
+<p><strong>10 Mar 2025 (Mon)&nbsp; -&nbsp; 14 Mar 2025 (Fri)</strong>
 </p>
-<p><strong>and </strong>
+<p><strong>and</strong>
 </p>
 <p><strong>17 Mar 2025 (Mon) - 21 Mar 2025 (Fri)</strong>
 </p>
