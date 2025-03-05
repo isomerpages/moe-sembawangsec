@@ -43,7 +43,7 @@ sections:
       button: More announcements
       url: https://cms.isomer.gov.sg/sites/moe-sembawangsec/folders/announcements
   - infobar:
-      title: Contact Us
+      title: Reach Us
       id: infobar
       button: View more
       url: /about-us/contact-us/
