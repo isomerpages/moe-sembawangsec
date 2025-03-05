@@ -15,7 +15,8 @@ description: ""
 </p>
 <p><strong>Thank You.</strong>
 </p>
-<p>Proxy Form (click to download)</p>
+<p><a href="/files/PROXY_FORM___SGC_Collection.pdf" rel="noopener noreferrer nofollow" target="_blank">Proxy Form (click to download)</a>
+</p>
 <p><strong>School Contact no: 67566760</strong>
 </p>
 <p><strong>The details for collection are given below:</strong>
