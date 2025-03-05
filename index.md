@@ -9,8 +9,8 @@ sections:
   - hero:
       subtitle: Leaders & Change Makers
       background: /images/dragon-boat-competition.jpeg
-      button: Canteen Stall application 2025
-      url: https://www.sembawangsec.moe.edu.sg/smbss-canteen-application-2025/
+      button: Collection of 2024 School Graduation Certificates
+      url: /collection-of-2024-school-graduation-certificates/
       key_highlights:
         - title: PDLP
           description: Develop active learning
