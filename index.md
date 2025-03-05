@@ -21,33 +21,12 @@ sections:
         - title: Learning For Life Programme
           description: Developing Community Leaders
           url: /curriculum/Signature-Programme/learning-for-life-programme/
-  - textcards:
+  - resources:
       title: Announcements
-      id: textcards
-      cards:
-        - title: Collection of School Graduation Certificates
-          description: Collection of 2024 School Graduation Certificates (SGC)
-          linktext: Learn more
-          url: /collection-of-2024-school-graduation-certificates/
-        - title: Canteen Stall Application
-          description: Seeking applications to operate a Halal noodle stall. Closing date,
-            17/03/2025
-          linktext: Learn more
-          url: /smbss-canteen-application-2025/
-        - title: 2025 Timetable
-          description: Timetable (sorted by class)
-          linktext: Learn more
-          url: /2025-timetable/
-  - infobar:
-      id: infobar
-      button: More announcements
-      url: https://cms.isomer.gov.sg/sites/moe-sembawangsec/folders/announcements
+      id: resources
   - infobar:
       title: Reach Us
       id: infobar
       button: View more
       url: /about-us/contact-us/
-  - resources:
-      title: Announcements
-      id: resources
 ---
