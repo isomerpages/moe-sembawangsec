@@ -1,5 +1,5 @@
 collections:
-  others:
+  resources:
     output: true
     order:
       - Canteen Openings.md
