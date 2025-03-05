@@ -2,15 +2,13 @@ logo: /images/cropped-logo1-2021.jpg
 links:
   - title: About Us
     collection: about-us
-  - title: Announcements
-    collection: announcements
   - title: CCAs
     collection: ccas
   - title: Partners Of Smbss
     collection: partners-of-smbss
-  - title: Smbss Experience
+  - title: the Smbss Experience
     collection: smbss-experience
-  - title: Others
+  - title: Resources
     url: /others
     sublinks:
       - title: SEAB
