@@ -2,15 +2,13 @@ logo: /images/cropped-logo1-2021.jpg
 links:
   - title: About Us
     collection: about-us
-  - title: Announcements
-    collection: announcements
   - title: CCAs
     collection: ccas
   - title: Partners Of Smbss
     collection: partners-of-smbss
-  - title: Smbss Experience
+  - title: the Smbss Experience
     collection: smbss-experience
-  - title: Others
+  - title: Helpful Links
     url: /others
     sublinks:
       - title: SEAB
@@ -29,3 +27,5 @@ links:
         url: https://portal.mims.moe.gov.sg/sspr/public/forgottenpassword
       - title: MOE Sexuality Education
         url: /others/sexualityeducation/
+      - title: PLD Information Kiosk
+        url: https://sites.google.com/moe.edu.sg/smbsspldinfokiosk/home

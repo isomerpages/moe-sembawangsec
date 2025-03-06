@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Collection of 2024 School Graduation Certificates.md
       - Canteen Stall Application/SMBSS Canteen Stall Application 2025.md
       - Canteen Stall Application/.keep
       - 2025 Timetable.md

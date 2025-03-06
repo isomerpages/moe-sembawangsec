@@ -37,7 +37,7 @@ The school has put in place some measures and policies to enable a safe and cond
 
 These are some useful resources for your reference:
 
-*  Personal Learning Device Information Kiosk - Handy information concerning the usage of PLDs (https://sites.google.com/moe.edu.sg/smbsspldinfokiosk/home) 
+*  Personal Learning Device Information Kiosk - Handy information concerning the usage of PLDs ([PLD Information Kiosk](https://sites.google.com/moe.edu.sg/smbsspldinfokiosk/home)) Click link to access
 *   [Parent kit on Cyber Wellness for your Child](/files/cyber-wellness-for-your-child.pdf)
 *   Practising Cyber Wellness ([https://www.moe.gov.sg/programmes/cyber-wellness/](https://www.moe.gov.sg/programmes/cyber-wellness/))
 *   Resources from Media Literacy Council ([https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&amp;persona=parents](https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&amp;persona=parents))

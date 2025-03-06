@@ -1,7 +1,10 @@
 ---
 title: SMB Home Based Learning
-permalink: /home-based-learning/
+permalink: /smb-home-based-learning/
+date: 2025-01-05
+layout: post
 description: ""
+image: ""
 variant: tiptap
 ---
 <p>Dear Students and Parents/Guardians,</p>
@@ -12,7 +15,6 @@ learning experiences during Home-Based Learning (HBL).</p>
 break specified in your time-table.</p>
 <p>The HBL schedule can be accessed via https://for.edu.sg/smbhbl</p>
 <p>
-<br>
 <br>
 </p>
 <table style="minWidth: 75px">
