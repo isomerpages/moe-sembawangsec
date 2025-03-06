@@ -25,7 +25,7 @@ sections:
       title: Announcements
       id: resources
   - infobar:
-      title: Find US on Social Media
+      title: Find Us on Social Media
       id: infobar
       description: Instagram
       button: more
