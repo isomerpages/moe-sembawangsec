@@ -85,6 +85,11 @@ up various leadership roles in the CCA.</p>
 <p>Mdm Salwiyah</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Eunice Yeo</p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">

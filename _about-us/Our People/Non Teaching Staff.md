@@ -60,7 +60,7 @@ third_nav_title: Our People
 <p>ASE Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Lim JY</p>
+<p>Ms Lim JY</p>
 </td>
 </tr>
 <tr>
