@@ -203,7 +203,7 @@ variant: tiptap
 <p>Mr Chang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Lee</p>
+<p>Ms Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -262,7 +262,7 @@ variant: tiptap
 <p>Ms Jenny Kho</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jamie Tan</p>
+<p>Ms Tan XY</p>
 </td>
 </tr>
 <tr>
