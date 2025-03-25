@@ -9,8 +9,6 @@ sections:
   - hero:
       subtitle: Leaders & Change Makers
       background: /images/dragon-boat-competition.jpeg
-      button: Collection of 2024 School Graduation Certificates
-      url: /collection-of-2024-school-graduation-certificates/
       key_highlights:
         - title: PDLP
           description: Develop active learning
