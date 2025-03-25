@@ -87,12 +87,12 @@ their secondary school journey.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jenny Kho</p>
+<p>Mr Chua</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chua&nbsp;&nbsp;</p>
+<p>Ms Tan&nbsp;</p>
 </td>
 </tr>
 </tbody>
