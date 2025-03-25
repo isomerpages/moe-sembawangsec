@@ -66,7 +66,7 @@ variant: tiptap
 <p>Ms Adeline Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Moganah</p>
+<p>Ms Moganah V</p>
 </td>
 </tr>
 <tr>
@@ -273,7 +273,7 @@ variant: tiptap
 <p>Ms Amrita</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Mohgana</p>
+<p>Ms Mohgana T</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Eunice Yeo</p>
