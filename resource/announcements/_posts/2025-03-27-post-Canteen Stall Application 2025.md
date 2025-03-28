@@ -1,7 +1,7 @@
 ---
 title: Canteen Stall Application 2025
 permalink: /canteen-stall-application/
-date: 2025-03-05
+date: 2025-03-27
 layout: post
 description: ""
 image: ""
@@ -57,7 +57,7 @@ School’s General Office at 9am – 5pm, Monday to Friday.</p>
 </p>
 <p>&nbsp;</p>
 <h4><u>Application Closing Date</u></h4>
-<p><strong>17 March 2025, Monday</strong>
+<p><strong>30 April 2025, Wednesday</strong>
 </p>
 <p>&nbsp;<em>Shortlisted applicants will be notified for an interview and required to provide food samples for the School Canteen Selection Committee at the applicant’s own expense.</em>
 </p>
