@@ -1,7 +1,7 @@
 ---
-title: Collection of 2024 School Graduation Certificates (SGC)
+title: Collection of 2024 School Graduation Certificates
 permalink: /collection-of-2024-school-graduation-certificates/
-date: 2025-03-06
+date: 2025-03-03
 layout: post
 description: ""
 image: ""

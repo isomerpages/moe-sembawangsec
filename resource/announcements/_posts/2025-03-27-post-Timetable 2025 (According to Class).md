@@ -1,7 +1,7 @@
 ---
 title: Timetable 2025 (According to Class)
 permalink: /timetable-2025/
-date: 2025-03-14
+date: 2025-03-27
 layout: post
 description: ""
 image: ""
