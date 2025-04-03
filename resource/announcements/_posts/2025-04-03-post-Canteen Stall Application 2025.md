@@ -10,7 +10,7 @@ variant: tiptap
 <h2>School Canteen Advertisement</h2>
 <p>Sembawang Secondary School seeks applications to operate a Halal noodle
 stall in the school canteen. If successful, operation of the new stall
-will likely commence from mid-April 2025.</p>
+will likely commence from July 2025.</p>
 <h4>&nbsp;<u>Application Criteria</u></h4>
 <p>Applicants should possess the following criteria:</p>
 <p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Must be a Singapore Citizen or Singapore
