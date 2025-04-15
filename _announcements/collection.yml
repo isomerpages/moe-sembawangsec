@@ -2,6 +2,8 @@ collections:
   announcements:
     output: true
     order:
+      - Collection of 2024 School Graduation Certificates (SGC) (For class 4D,
+        4E and 5A 2024).md
       - Collection of 2024 School Graduation Certificates.md
       - Canteen Stall Application/SMBSS Canteen Stall Application 2025.md
       - Canteen Stall Application/.keep
