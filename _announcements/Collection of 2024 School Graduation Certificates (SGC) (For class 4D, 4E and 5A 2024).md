@@ -11,7 +11,7 @@ description: ""
 <p>If you are unable to collect your SGC within the stipulated time indicated
 in the table below, you may appoint a proxy to collect on your behalf using
 the form provided below.</p>
-<p><a href="/files/PROXY_FORM___SGC_Collection.pdf" rel="noopener nofollow" target="_blank">Proxy Form (SGC Collection)</a> 
+<p><a href="/files/PROXY_FORM___SGC_Collection.pdf" rel="noopener nofollow" target="_blank">Proxy Form (SGC Collection)</a>
 </p>
 <p>You / your proxy will need to provide your identity document at the guard
 post for verification purpose before collecting the certificate at General
