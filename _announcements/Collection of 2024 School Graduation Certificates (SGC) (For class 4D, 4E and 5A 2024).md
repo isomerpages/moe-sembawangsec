@@ -27,18 +27,6 @@ Office. Please avoid coming in large groups.</p>
 <p>21 April 2025 (Mon) – 25 April 2025 (Fri)</p>
 <p>28 April 2025 (Mon) – 30 April 2025 (Wed)</p>
 <p><strong>Time</strong>: 9.00 am to 4.00 pm</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <p></p>
 <p></p>
