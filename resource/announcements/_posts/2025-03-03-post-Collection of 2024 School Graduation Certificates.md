@@ -56,13 +56,13 @@ Office. Please avoid coming in large groups.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>14 April 2025 (Mon) - 17 April 2025 (Thurs)  </strong>
+<p><strong>14 April 2025 (Mon) - 17 April 2025 (Thurs)</strong>
 </p>
-<p><strong>and   </strong>
+<p><strong>and</strong>
 </p>
 <p><strong>21 April 2025 (Mon) – 25 April 2025 (Fri)</strong>
 </p>
-<p><strong>  and</strong>
+<p><strong>and</strong>
 </p>
 <p><strong>28 April 2025 (Mon) – 30 April 2025 (Wed)</strong>
 </p>
