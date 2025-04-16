@@ -1,5 +1,5 @@
 collections:
-  announcements:
+  announcements-not-used:
     output: true
     order:
       - Collection of 2024 School Graduation Certificates (SGC) (For class 4D,
