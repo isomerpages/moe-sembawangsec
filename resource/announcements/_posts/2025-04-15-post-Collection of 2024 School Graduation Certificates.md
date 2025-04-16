@@ -1,13 +1,13 @@
 ---
 title: Collection of 2024 School Graduation Certificates
 permalink: /collection-of-2024-school-graduation-certificates/
-date: 2025-03-03
+date: 2025-04-15
 layout: post
 description: ""
 image: ""
 variant: tiptap
 ---
-<h3><strong>Collection of 2024 School Graduation Certificates (SGC)</strong></h3>
+<h3><strong>Collection of 2024 School Graduation Certificates (SGC), (For class 4D, 4E and 5A/ 2024)</strong></h3>
 <p>Dear Graduands,</p>
 <p>We are pleased to inform you that your School Graduation Certificates
 (SGC) are now ready for collection from the School’s General Office.</p>
@@ -48,7 +48,7 @@ Office. Please avoid coming in large groups.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4TE6</strong>
+<p><strong>4D, 4E and 5A</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -56,11 +56,15 @@ Office. Please avoid coming in large groups.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>10 Mar 2025 (Mon)&nbsp; -&nbsp; 14 Mar 2025 (Fri)</strong>
+<p><strong>14 April 2025 (Mon) - 17 April 2025 (Thurs)</strong>
 </p>
 <p><strong>and</strong>
 </p>
-<p><strong>17 Mar 2025 (Mon) - 21 Mar 2025 (Fri)</strong>
+<p><strong>21 April 2025 (Mon) – 25 April 2025 (Fri)</strong>
+</p>
+<p><strong>and</strong>
+</p>
+<p><strong>28 April 2025 (Mon) – 30 April 2025 (Wed)</strong>
 </p>
 <p></p>
 </td>
