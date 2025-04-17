@@ -19,8 +19,9 @@ sections:
         - title: Learning For Life Programme
           description: Developing Community Leaders
           url: /curriculum/Signature-Programme/learning-for-life-programme/
-      url: /canteen-stall-application/
-      button: Canteen Stall application 2025
+      url: /collection-of-2024-school-graduation-certificates/
+      button: Collection of 2024 School Graduation Certificates (For class 4D, 4E and
+        5A/ 2024)
   - resources:
       title: Announcements
       id: resources
