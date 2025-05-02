@@ -2,6 +2,9 @@ collections:
   resources:
     output: true
     order:
+      - Privacy Statement.md
+      - Terms of Use.md
+      - FAQs.md
       - Canteen Openings.md
       - Cyber Wellness.md
       - FAMILY MATTERS @SCHOOL.md
