@@ -24,7 +24,7 @@ as Student Councilor, CCA Leader, Peer Support Leader or Sports Leader</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leading in planning and supporting
 various key school programmes and events</p>
 <p></p>
-<p><strong>&nbsp;Application Process</strong>
+<p><strong>Application Process</strong>
 </p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from <strong>7 May 2025, 11am to 3 Jun 2025, 3pm</strong>.</p>
@@ -59,7 +59,7 @@ an offer.</p>
 if your child has been shortlisted to undergo Direct School Admission (DSA)
 selection.</p>
 <p>All applicants will receive their application outcomes between <strong>25 Aug</strong> and <strong>4 Sep 2025</strong>.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Contact Information</strong>
 </p>
 <p>For further clarification, you may contact the school via email at <a href="mailto:sembawang_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sembawang_ss@moe.edu.sg</a>.
