@@ -19,9 +19,8 @@ sections:
         - title: Learning For Life Programme
           description: Developing Community Leaders
           url: /curriculum/Signature-Programme/learning-for-life-programme/
-      url: /collection-of-2024-school-graduation-certificates/
-      button: Collection of 2024 School Graduation Certificates (For class 4D, 4E and
-        5A/ 2024)
+      url: /dsa-secondary-admission-exercise-2025/
+      button: DSA-Secondary Admission Exercise 2025
   - resources:
       title: Announcements
       id: resources
