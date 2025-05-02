@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - FAQs.md
       - Canteen Openings.md
       - Cyber Wellness.md
       - FAMILY MATTERS @SCHOOL.md
