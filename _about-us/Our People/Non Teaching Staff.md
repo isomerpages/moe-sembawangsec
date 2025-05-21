@@ -52,7 +52,7 @@ third_nav_title: Our People
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Simon Lee</p>
+<p>Ms Shamini Sathiadevan</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +97,7 @@ third_nav_title: Our People
 <p>Administrative Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Eileen So</p>
+<p>Mdm Eileen So</p>
 </td>
 </tr>
 <tr>
