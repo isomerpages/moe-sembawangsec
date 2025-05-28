@@ -52,7 +52,7 @@ third_nav_title: Our People
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Simon Lee</p>
+<p>Ms Shamini</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +97,7 @@ third_nav_title: Our People
 <p>Administrative Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Eileen So</p>
+<p>Mdm Eileen So</p>
 </td>
 </tr>
 <tr>
@@ -185,7 +185,7 @@ third_nav_title: Our People
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Arsi</p>
+<p>Mdm Arasi</p>
 </td>
 </tr>
 <tr>
@@ -193,7 +193,7 @@ third_nav_title: Our People
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Allen</p>
+<p>Mr Allen Ang</p>
 </td>
 </tr>
 </tbody>
