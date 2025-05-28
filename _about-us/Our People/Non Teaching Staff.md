@@ -52,7 +52,7 @@ third_nav_title: Our People
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shamini Sathiadevan</p>
+<p>Ms Shamini</p>
 </td>
 </tr>
 <tr>
@@ -185,7 +185,7 @@ third_nav_title: Our People
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Arsi</p>
+<p>Mdm Arasi</p>
 </td>
 </tr>
 <tr>
