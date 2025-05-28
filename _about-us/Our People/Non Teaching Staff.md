@@ -193,7 +193,7 @@ third_nav_title: Our People
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Allen</p>
+<p>Mr Allen Ang</p>
 </td>
 </tr>
 </tbody>
