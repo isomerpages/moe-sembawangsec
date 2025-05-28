@@ -18,7 +18,8 @@ the form provided below.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 guard post for verification purposes before collecting the certificate
 at the General Office. Please avoid coming in large groups.</p>
 <p>Thank You.</p>
-<p><a href="/files/PROXY_FORM___SGC_Collection.pdf" rel="noopener noreferrer nofollow" target="_blank">Proxy Form (click to download)</a>
+<p><a href="/files/PROXY_FORM___SGC_Collection.pdf" rel="noopener noreferrer nofollow" target="_blank">Proxy Form (click to</a>
+<a href="/files/May25_PROXY_FORM___SGC_Collection.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/PROXY_FORM___SGC_Collection.pdf" rel="noopener noreferrer nofollow" target="_blank"> download)</a>
 </p>
 <p>School Contact no: <strong>67566760</strong>
 </p>
