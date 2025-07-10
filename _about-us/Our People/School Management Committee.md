@@ -301,7 +301,7 @@ variant: tiptap
 <p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Choong ML</p>
+<p>Mdm Rachel Choong</p>
 </td>
 </tr>
 <tr>
