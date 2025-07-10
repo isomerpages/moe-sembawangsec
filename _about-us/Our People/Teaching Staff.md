@@ -49,7 +49,7 @@ variant: tiptap
 <p>Ms Samantha Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ethan</p>
+<p>Mr Ethan Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -80,7 +80,7 @@ variant: tiptap
 <p>Ms Lisa Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Wanda Loh</p>
 </td>
 </tr>
 <tr>
@@ -94,7 +94,7 @@ variant: tiptap
 <p>Mr Chua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Shatihish</p>
 </td>
 </tr>
 <tr>
@@ -105,7 +105,7 @@ variant: tiptap
 <p>Mr Alex Choh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Saheera</p>
+<p>Mrs Saheera Banu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -122,7 +122,7 @@ variant: tiptap
 <p>Ms Nurul'Ain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tatiyana</p>
 </td>
 </tr>
 <tr>
@@ -214,13 +214,13 @@ variant: tiptap
 <p>3B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Marianne Das</p>
+<p>Ms Marianne</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tan JX</p>
 </td>
 </tr>
 <tr>
@@ -259,7 +259,7 @@ variant: tiptap
 <p>Ms Munirah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jenny Kho</p>
+<p>Mr Seak</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan XY</p>
@@ -329,7 +329,7 @@ variant: tiptap
 <p>Ms Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Esther Sim</p>
+<p>Ms Esther Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -357,10 +357,10 @@ variant: tiptap
 <p>Mdm Jayanthi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sulastri</p>
+<p>Mr Leet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Sulastri</p>
 </td>
 </tr>
 <tr>

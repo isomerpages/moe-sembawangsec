@@ -91,7 +91,7 @@ variant: tiptap
 <p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wang CY</p>
+<p>Mdm Shirley Teo</p>
 </td>
 </tr>
 <tr>
@@ -192,23 +192,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sabrina Lim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em>Physical Education and Co-curricular Activities</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Zeng HG</p>
 </td>
 </tr>
 <tr>
@@ -318,7 +301,7 @@ variant: tiptap
 <p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Choong ML</p>
+<p>Mdm Rachel Choong</p>
 </td>
 </tr>
 <tr>
