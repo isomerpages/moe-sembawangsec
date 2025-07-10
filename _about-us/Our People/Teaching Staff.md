@@ -94,7 +94,7 @@ variant: tiptap
 <p>Mr Chua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MR Shatihish</p>
+<p>Mr Shatihish</p>
 </td>
 </tr>
 <tr>
