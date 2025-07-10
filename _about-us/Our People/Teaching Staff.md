@@ -259,7 +259,7 @@ variant: tiptap
 <p>Ms Munirah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jenny Kho</p>
+<p>Mr Seak</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan XY</p>
@@ -329,7 +329,7 @@ variant: tiptap
 <p>Ms Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Esther Sim</p>
+<p>Ms Esther Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
