@@ -360,7 +360,7 @@ variant: tiptap
 <p>Mr Leet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sulastri</p>
+<p></p>
 </td>
 </tr>
 <tr>
