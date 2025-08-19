@@ -7,7 +7,6 @@ permalink: /
 notification: Sembawang Secondary School
 sections:
   - hero:
-      subtitle: Leaders & Change Makers
       background: /images/dragon-boat-competition.jpeg
       key_highlights:
         - title: PDLP
@@ -19,8 +18,7 @@ sections:
         - title: Learning For Life Programme
           description: Developing Community Leaders
           url: /curriculum/Signature-Programme/learning-for-life-programme/
-      url: /dsa-secondary-admission-exercise-2025/
-      button: DSA-Secondary Admission Exercise 2025
+      title: Leaders & Change Makers
   - resources:
       title: Announcements
       id: resources
