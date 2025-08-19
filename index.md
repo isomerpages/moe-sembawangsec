@@ -18,7 +18,7 @@ sections:
         - title: Learning For Life Programme
           description: Developing Community Leaders
           url: /curriculum/Signature-Programme/learning-for-life-programme/
-      title: Leaders & Change Makers
+      subtitle: Leaders & Change Makers
   - resources:
       title: Announcements
       id: resources
