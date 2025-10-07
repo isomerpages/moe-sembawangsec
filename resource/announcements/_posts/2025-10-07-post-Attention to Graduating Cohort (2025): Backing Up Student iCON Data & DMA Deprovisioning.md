@@ -28,7 +28,7 @@ variant: tiptap
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/For_Graduating_Students_Google_Takeout_Guide_for_Student_iCON__2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">Google Takeout Guide (step by step guide)</a>
+<p><a href="/files/For_Graduating_Students_Google_Takeout_Guide_for_Student_iCON__2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">Google Takeout Guide (step by step backup instructions)</a>
 </p>
 </td>
 </tr>
