@@ -37,7 +37,8 @@ variant: tiptap
 <p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Google Takeout Guide e-Poster</p>
+<p><a href="/files/For_Graduating_Students_iCON_Google_Takeout_E_Poster__2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">Google Takeout Guide e-Poster</a>
+</p>
 </td>
 </tr>
 </tbody>
