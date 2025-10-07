@@ -43,7 +43,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Device Management Deprovisioning 2025 scheduled to be on <strong>12th November 2025</strong>:</h3>
+<h3>Device Management Deprovisioning (Scheduled Date - <strong>12th November 2025</strong>):</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
