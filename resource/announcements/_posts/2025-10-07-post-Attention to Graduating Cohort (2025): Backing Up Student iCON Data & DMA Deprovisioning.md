@@ -8,7 +8,41 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h3>Attention to Graduating Cohort (Secondary 4 &amp; 5 Students):</h3>
+<h3>Backing up of Student iCON data by <strong>31st December 2025</strong>:</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Item:</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Resources (Downloadable PDF Files):</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/For_Graduating_Students_Google_Takeout_Guide_for_Student_iCON__2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">Google Takeout Guide (step by step guide)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Google Takeout Guide e-Poster</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Device Management Deprovisioning 2025 scheduled to be on <strong>12th November 2025</strong>:</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -20,23 +54,16 @@ variant: tiptap
 <p>Item</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Resources</p>
+<p>Resources (Downloadable PDF Files):</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/DMA_Uninstallation__ChromeOS_.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Uninstallation Guide (ChromeOS)</a>
+</p>
 </td>
 </tr>
 </tbody>
