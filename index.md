@@ -19,6 +19,8 @@ sections:
           description: Developing Community Leaders
           url: /curriculum/Signature-Programme/learning-for-life-programme/
       subtitle: Leaders & Change Makers
+      url: /smbss-open-house-22nd-nov-2025/
+      button: open house 2025
   - resources:
       title: Announcements
       id: resources
