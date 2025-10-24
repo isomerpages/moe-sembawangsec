@@ -5,5 +5,5 @@ layout: file
 description: ""
 image: ""
 variant: tiptap
-file_url: /files/2025_Sec_3_Extended_Curriculum_TT_Classes.pdf
+file_url: /files/Sec_3_Extended_Curriculum_TT_Classes_School_Website_2025.pdf
 ---
