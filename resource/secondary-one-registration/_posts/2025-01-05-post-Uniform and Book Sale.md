@@ -69,6 +69,8 @@ flat fee. The cost of shipping will be displayed before order payment)</p>
 <p></p>
 <p></p>
 <p></p>
+<p></p>
+<p></p>
 <p>9.00 A.M. - 3.00 P.M.</p>
 </td>
 <td rowspan="2" colspan="1">
