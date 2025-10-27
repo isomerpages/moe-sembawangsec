@@ -1,7 +1,7 @@
 ---
 title: Uniform and Book Sale
 permalink: /uniform-and-book-sale/
-date: 2025-01-05
+date: 2025-10-27
 layout: post
 description: ""
 image: ""
@@ -43,7 +43,8 @@ flat fee. The cost of shipping will be displayed before order payment)</p>
 </ul>
 <p><strong>Payment Mode: Cash or PayNow</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bookshop_schedule.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Books.png">
 </div>
 <p></p>
