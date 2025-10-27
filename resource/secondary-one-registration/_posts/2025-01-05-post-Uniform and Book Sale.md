@@ -43,7 +43,74 @@ flat fee. The cost of shipping will be displayed before order payment)</p>
 </ul>
 <p><strong>Payment Mode: Cash or PayNow</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bookshop_schedule.jpg">
-</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Level</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26th - 28th Nov 2025</p>
+</td>
+<td rowspan="4" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p>9.00 A.M. - 3.00 P.M.</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>All Levels (Non-FAS Students)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1st - 5th, 8th- 9th, 26th, 29th - 30th Dec 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10th - 12 Dec 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2 - 4 / Yeat 2026 - FAS Students Only</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22nd - 23rd Dec 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 / Yeat 2026 Students Only (FAS &amp; Non-FAS)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<ol data-tight="true" class="tight">
+<li>
+<p>12.30pm to 1.00pm (closed for lunch break)</p>
+</li>
+<li>
+<p>The dates for Secondary 1 students to purchase their books and uniforms
+are 22nd – 23rd December 2025. You are encouraged to make your purchases
+on the designated days to avoid congestion. If you are unable to do so,
+you may also visit during other timeslots.</p>
+</li>
+<li>
+<p>Sale dates in 2026 include: 2nd, 5th, 6th, 8th, 13th, 15th, 20th, 22nd,
+27th and 29th Jan 2026 (10 A/M. – 3 P.M).</p>
+</li>
+</ol>
 <p></p>
