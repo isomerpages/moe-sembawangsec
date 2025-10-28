@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - For Parents/.keep
-      - Helpful Links for Parents.md
       - Privacy Statement.md
       - Terms of Use.md
       - Canteen Openings.md
