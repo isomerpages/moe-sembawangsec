@@ -5,8 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: For Students
 ---
-<blockquote>
-<p><a href="https://sites.google.com/moe.edu.sg/smbsspldinfokiosk/home" rel="noopener nofollow" target="_blank">PLD Information Kiosk Homepage</a>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="https://sites.google.com/moe.edu.sg/smbsspldinfokiosk/home" rel="noopener nofollow" target="_blank">Personal Learning Device Information Kiosk</a>
 </p>
-</blockquote>
+</li>
+</ol>
 <p></p>
