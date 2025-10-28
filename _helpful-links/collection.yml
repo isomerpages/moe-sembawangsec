@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - For Staff/.keep
+      - For Students/Student Learning Space.md
       - For Students/Polytechnics.md
       - For Students/ITE.md
       - For Students/.keep
