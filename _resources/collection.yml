@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Helpful Links for Staff.md
       - Helpful Links for Students.md
       - Helpful Links for Parents.md
       - Privacy Statement.md
