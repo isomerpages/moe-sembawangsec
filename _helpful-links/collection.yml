@@ -2,6 +2,7 @@ collections:
   helpful-links:
     output: true
     order:
+      - For Staff/For Staff.md
       - For Staff/.keep
       - For Students/.keep
       - For Students/Overview of Post Secondary Education Institutions PSEI.md
