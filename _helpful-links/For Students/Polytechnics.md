@@ -5,7 +5,8 @@ description: ""
 variant: tiptap
 third_nav_title: For Students
 ---
-<h2>Polytechnics</h2>
+<h3><a href="https://www.moe.gov.sg/post-secondary/overview" rel="noopener nofollow" target="_blank">Overview of Post-Secondary Education Institutions (PSEI)</a></h3>
+<h3>Polytechnics</h3>
 <blockquote>
 <p><a href="https://www.nyp.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Nanyang Polytechnic</a>
 </p>
@@ -18,7 +19,7 @@ third_nav_title: For Students
 <p><a href="https://www.tp.edu.sg/eae/" rel="noopener noreferrer nofollow" target="_blank">Temasek Polytechnic</a>
 </p>
 </blockquote>
-<h2>Institute of Technical Education (ITE)</h2>
+<h3>Institute of Technical Education (ITE)</h3>
 <blockquote>
 <p><a href="https://www.ite.edu.sg/colleges/ite-college-central" rel="noopener nofollow" target="_blank">ITE College Central</a>
 </p>
