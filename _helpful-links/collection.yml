@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - For Staff/.keep
+      - For Students/ITE.md
       - For Students/.keep
       - For Parents/Cyber Wellness.md
       - For Parents/.keep
