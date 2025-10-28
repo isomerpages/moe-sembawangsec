@@ -9,7 +9,4 @@ links:
   - title: the Smbss Experience
     collection: smbss-experience
   - title: Helpful Links
-    url: /others
-    sublinks:
-      - title: New submenu
-        url: /permalink
+    collection: helpful-links
