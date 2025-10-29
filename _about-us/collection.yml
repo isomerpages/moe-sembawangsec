@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Privacy Statement.md
       - Principal’s Message.md
       - Our Identity/.keep
       - Our Identity/Our Vision, Mission, Motto and Values.md
