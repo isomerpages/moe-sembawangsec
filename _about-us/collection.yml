@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Personal Data Protection.md
       - Terms of Use.md
       - Privacy Statement.md
       - Principal’s Message.md
