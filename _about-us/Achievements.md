@@ -2,11 +2,301 @@
 title: Achievements
 permalink: /about-us/achievements/
 description: ""
+variant: tiptap
 ---
-## Sembawang Secondary School – Achievements for 2020
-
-<table width="491" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; color: rgb(34, 34, 34); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; height: 290px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 481.6px; text-align: left;"><strong style="box-sizing: inherit; font-weight: bold;">Sports, Physical Health &amp; Well – Being</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 481.6px;"><p style="box-sizing: inherit; font-size: 1em; text-align: left;"><span style="box-sizing: inherit; text-decoration: underline;">Singapore Olympic – Peter Lim Scholarship 2020</span></p><ul style="box-sizing: inherit;"><li style="box-sizing: inherit; text-align: left;">Marcus S/O Mosses (Sec 3IN3) – Football</li></ul></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 481.6px;"><strong style="box-sizing: inherit; font-weight: bold;">Environmental Awareness &amp; Practice</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 481.6px;"><span style="box-sizing: inherit; text-decoration: underline;">School’s Green Audit (SGA) Awards</span><p style="box-sizing: inherit; font-size: 1em;"></p><ul style="box-sizing: inherit;"><li style="box-sizing: inherit;">Sustained Lotus Award (Highest SGA award for green efforts)</li></ul></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 481.6px;"><strong style="box-sizing: inherit; font-weight: bold;">Community Awards</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 481.6px;"><span style="box-sizing: inherit; text-decoration: underline;">North West Outstanding School Partner Awards (SPA) 2020</span><p style="box-sizing: inherit; font-size: 1em;"></p><ul style="box-sizing: inherit;"><li style="box-sizing: inherit;">Silver</li></ul></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 481.6px;"></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 481.6px; text-align: center;"><strong style="box-sizing: inherit; font-weight: bold;">Student Awards</strong></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 481.6px; text-align: center;"><strong style="box-sizing: inherit; font-weight: bold;">Cognitive</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 481.6px;"><p style="box-sizing: inherit; font-size: 1em; font-weight: 400;">21<sup style="box-sizing: inherit; font-size: 12px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;">st</sup>&nbsp;Science Elements Competition (2020) – Gold Award</p><ul style="box-sizing: inherit; font-weight: 400;"><li style="box-sizing: inherit;">Chan Ting Ting Adelia Faith, 4TE1</li><li style="box-sizing: inherit;">Oon Shi En, 4TE1</li><li style="box-sizing: inherit;">Kyla Samuel David, 4TE1</li><li style="box-sizing: inherit;">Alagu Lakshmi Thiruppathi, 4TE1</li><li style="box-sizing: inherit;">Cheong Ying Zhe Justin, 4TE1</li></ul></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 481.6px;"><p style="box-sizing: inherit; font-size: 1em; font-weight: 400;">SUTD 3D Printing and Design Innovation Challenge 2020</p><ul style="box-sizing: inherit; font-weight: 400;"><li style="box-sizing: inherit;">Runner-up</li></ul></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 481.6px;"><p style="box-sizing: inherit; font-size: 1em; font-weight: 400;">2020 Animation and Game Making (AGM) Competition</p><ul style="box-sizing: inherit; font-weight: 400;"><li style="box-sizing: inherit;">Montoro Shannen Perez, 2CO5 – Animation category – Bronze</li><li style="box-sizing: inherit;">Kok Jun Qi, 3IN5 – Game category – Bronze</li></ul></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 481.6px;"><p style="box-sizing: inherit; font-size: 1em; font-weight: 400;">18th National Secondary Schools Chinese Creative Writing Competition (organized by Singapore Hokkien Huay Kuan)</p><ul style="box-sizing: inherit; font-weight: 400;"><li style="box-sizing: inherit;">Teoh Ji En, 2CO1 – Lower Secondary Bronze Award</li></ul></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 481.6px;"><p style="box-sizing: inherit; font-size: 1em; font-weight: 400;">Live On Design Competition (organized by National Organ Transplant Unit)</p><ul style="box-sizing: inherit; font-weight: 400;"><li style="box-sizing: inherit;">Ong Zi Yan, 3IN3 – Distinction</li></ul></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 481.6px;"><p style="box-sizing: inherit; font-size: 1em; font-weight: 400;"><b style="box-sizing: inherit; font-weight: bold;">Community Awards</b></p></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 481.6px;"><p style="box-sizing: inherit; font-size: 1em; font-weight: 400;">North West Outstanding All Rounder Student (OARS) Award 2020</p><ul style="box-sizing: inherit;"><li style="box-sizing: inherit; font-weight: 400;">Jezebel Olsen (Sec 4TE4)</li><li style="box-sizing: inherit; font-weight: 400;">Loke Lagu (Sec 4TE4)</li></ul></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 481.6px;"><p style="box-sizing: inherit; font-size: 1em; font-weight: 400;"><b style="box-sizing: inherit; font-weight: bold;">Community service, adventure, skills development and physical recreation</b></p></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 481.6px;"><p style="box-sizing: inherit; font-size: 1em; font-weight: 400;">National Youth Achievement Award
-</p><ul style="box-sizing: inherit;"><li style="box-sizing: inherit; font-weight: 400;">Silver (15 students)</li><li style="box-sizing: inherit; font-weight: 400;">Bronze (47 students)</li></ul></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
-	
-<td style="box-sizing: inherit; padding: 5px 10px; width: 481.6px; text-align: center;"><span lang="EN-SG" style="box-sizing: inherit;"><b style="box-sizing: inherit; font-weight: bold;">Staff Awards</b></span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 481.6px; text-align: center;"><span lang="EN-SG" style="box-sizing: inherit;"><b style="box-sizing: inherit; font-weight: bold;">National Day Awards</b></span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 481.6px;"><p style="box-sizing: inherit; font-size: 1em; font-weight: 400;">The Commendation Medal</p><ul style="box-sizing: inherit; font-weight: 400;"><li style="box-sizing: inherit;">Mr Loke Cheok Meng Shamen (Year Head (Upper Sec)</li></ul></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 481.6px;"><p style="box-sizing: inherit; font-size: 1em; font-weight: 400;">The Long Service Medal
-</p><ul style="box-sizing: inherit;"><li style="box-sizing: inherit; font-weight: 400;">Mdm Ng Lai Peng (HOD/MT)</li><li style="box-sizing: inherit; font-weight: 400;">Mr Abdul Rashid Bin Jumadi (Education Workshop Instructor)</li></ul></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 481.6px; text-align: center;"><b style="box-sizing: inherit; font-weight: bold;">Caring Teacher Awards</b></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 481.6px;"><p style="box-sizing: inherit; font-size: 1em; font-weight: 400;">The Caring Teacher Awards 2020 (organized by NIE) – School Level (Secondary)</p><ul style="box-sizing: inherit;"><li style="box-sizing: inherit; font-weight: 400;">Ms Tan Qian Ying</li><li style="box-sizing: inherit; font-weight: 400;">Mr Oon Boon Keong</li><li style="box-sizing: inherit; font-weight: 400;">Mdm Zhou Yi Ting</li></ul></td></tr></tbody></table>
+<h2>Sembawang Secondary School – Achievements</h2>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4><strong>Students Achievements 2023</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Performing Arts</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Singapore Youth Festival (SYF) Arts Presentation 2023</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chinese Dance – Certificate of Accomplishment</p>
+</li>
+<li>
+<p>Concert Band – Certificate of Accomplishment</p>
+</li>
+<li>
+<p>Malay Dance – Certificate of Distinction</p>
+</li>
+<li>
+<p>Percussion Ensemble – Certificate of Distinction</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Uniform Groups</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<ul data-tight="true" class="tight">
+<li>
+<p>Boys’ Brigade – JM Fraser Award 2023 (Distinction)</p>
+</li>
+<li>
+<p>Girls’ Brigade – Fancy Drill Competition 2023 (Bronze)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Student Achievements 2020</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sports, Physical Health &amp; Well – Being</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Olympic – Peter Lim Scholarship 2020</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Marcus S/O Mosses (Sec 3IN3) – Football</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Environmental Awareness &amp; Practice</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School’s Green Audit (SGA) Awards</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sustained Lotus Award (Highest SGA award for green efforts)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Community Awards</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Northwest Outstanding School Partner Awards (SPA) 2020</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Silver</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Cognitive</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21<sup>st</sup>&nbsp;Science Elements Competition (2020) – Gold Award</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chan Ting Ting Adelia Faith, 4TE1</p>
+</li>
+<li>
+<p>Oon Shi En, 4TE1</p>
+</li>
+<li>
+<p>Kyla Samuel David, 4TE1</p>
+</li>
+<li>
+<p>Alagu Lakshmi Thiruppathi, 4TE1</p>
+</li>
+<li>
+<p>Cheong Ying Zhe Justin, 4TE1</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SUTD 3D Printing and Design Innovation Challenge 2020</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Runner-up</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2020 Animation and Game Making (AGM) Competition</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Montoro Shannen Perez, 2CO5 – Animation category – Bronze</p>
+</li>
+<li>
+<p>Kok Jun Qi, 3IN5 – Game category – Bronze</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18th National Secondary Schools Chinese Creative Writing Competition (organized
+by Singapore Hokkien Huay Kuan)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Teoh Ji En, 2CO1 – Lower Secondary Bronze Award</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Live On Design Competition (organized by National Organ Transplant Unit)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ong Zi Yan, 3IN3 – Distinction</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Community Awards</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Northwest Outstanding All Rounder Student (OARS) Award 2020</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Jezebel Olsen (Sec 4TE4)</p>
+</li>
+<li>
+<p>Loke Lagu (Sec 4TE4)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Community service, adventure, skills development and physical recreation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Youth Achievement Award</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Silver (15 students)</p>
+</li>
+<li>
+<p>Bronze (47 students)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Staff Achievements 2020</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>National Day Awards</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Commendation Medal</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Loke Cheok Meng Shamen (Year Head (Upper Sec)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Long Service Medal</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mdm Ng Lai Peng (HOD/MT)</p>
+</li>
+<li>
+<p>Mr Abdul Rashid Bin Jumadi (Education Workshop Instructor)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Caring Teacher Awards</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Caring Teacher Awards 2020 (organized by NIE) – School Level (Secondary)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Tan Qian Ying</p>
+</li>
+<li>
+<p>Mr Oon Boon Keong</p>
+</li>
+<li>
+<p>Mdm Zhou Yi Ting</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
