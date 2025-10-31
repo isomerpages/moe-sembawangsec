@@ -2,9 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Personal Data Protection.md
-      - Terms of Use.md
-      - Privacy Statement.md
       - Principal’s Message.md
       - Our Identity/.keep
       - Our Identity/Our Vision, Mission, Motto and Values.md
@@ -15,6 +12,9 @@ collections:
       - Our People/School Management Committee.md
       - Our People/Teaching Staff.md
       - Our People/Non Teaching Staff.md
-      - Achievements 2023.md
       - Achievements.md
       - Reach Us.md
+      - Personal Data Protection.md
+      - Terms of Use.md
+      - Privacy Statement.md
+      - Achievements 2023.md
