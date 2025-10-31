@@ -97,6 +97,90 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="3">
 <p>Honourable Mention</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Teoh En Xin (2CO2)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Animation and Game Making Competition 2023</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<ul data-tight="true" class="tight">
+<li>
+<p>Animation (Bronze) - Ling Jia En (2CO6)</p>
+</li>
+<li>
+<p>Game Making (Silver) - Nurul Atiqah Asyura Binti Mohamad Latiff (3IN6)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>24th International Elementz Fair (Senior)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Certificate of Commendation</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Naresh S/O Govindarajan (3IN1)</p>
+</li>
+<li>
+<p>Sri Karrunesh (3IN2)</p>
+</li>
+<li>
+<p>Le Minh Phong (3IN2)</p>
+</li>
+<li>
+<p>Chermaine Tan Shi Tong (3IN1)</p>
+</li>
+<li>
+<p>Lim Zi Ting (3IN1)</p>
+</li>
+<li>
+<p>Yeo Hui Xuan Rachel (3IN1)</p>
+</li>
+<li>
+<p>Kamalnath Ishaani (3IN1)</p>
+</li>
+</ul>
+<p>Silver Award</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Annabelle Chan Si En (3IN1)</p>
+</li>
+<li>
+<p>Chong Shen Yin (3IN1)</p>
+</li>
+<li>
+<p>Clara Choo Xuan Qi (3IN1)</p>
+</li>
+<li>
+<p>Precious Grace Lim Jia En (3IN1)</p>
+</li>
+<li>
+<p>Cabrera Cecilia Gabrielle Manibo (3IN1)</p>
+</li>
+<li>
+<p>Natalie Jolene Gamboa Fu (3IN1)</p>
+</li>
+<li>
+<p>Zhuo Yiting (3IN1)</p>
+</li>
+<li>
+<p>Chloe Lim Jing Yi (3IN1)</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
