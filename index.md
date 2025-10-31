@@ -30,9 +30,4 @@ sections:
       description: Instagram
       button: more
       url: https://www.instagram.com/sembawang_ss/
-  - infobar:
-      title: Reach Us
-      id: infobar
-      button: more
-      url: /about-us/contact-us/
 ---
