@@ -305,6 +305,79 @@ variant: tiptap
 <h4><strong>Staff Achievements 2023</strong></h4>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>National Day Awards 2023</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>The Commendation Medal</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Muzaffar Bin Johari (School Staff Developer)</p>
+</li>
+</ul>
+<p>The Long Service Medal</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Goh Kee Yong (Vice Principal)</p>
+</li>
+<li>
+<p>Mr Long Chee Yong (Senior Teacher, Mathematics)</p>
+</li>
+<li>
+<p>Ms Chong Nyet Ting (Computer Applications Teacher)</p>
+</li>
+<li>
+<p>Ms Rahimah Bte Januri (Malay Language Teacher)</p>
+</li>
+<li>
+<p>Mdm Suhartini Binte Masod (Physical Education Teacher)</p>
+</li>
+</ul>
+<p>National Awards (COVID-19) - COVID-19 Resilience Medal</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Cheong Hon Toong (Former Operations Manager)</p>
+</li>
+<li>
+<p>Mr Goh Jiang Wee (HOD ICT)</p>
+</li>
+<li>
+<p>Mr Goh Kee Yong @ Goh Chong Heng (Vice Principal)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>MOE Service Excellence Awards 2023</strong>
+</p>
+<p>Silver</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mdm Ho Yam Chiew (Music Teacher)</p>
+</li>
+<li>
+<p>Mr Mohamad Zulqarnain B Mohamad Noor (Assistant Year Head)</p>
+</li>
+<li>
+<p>Mr Muzaffar Bin Johari (School Staff Developer)</p>
+</li>
+<li>
+<p>Ms Tan Hui Nah (Physics Teacher)</p>
+</li>
+<li>
+<p>Mdm Tay Siew Ching (Corporate Service Officer)</p>
+</li>
+<li>
+<p>Mdm V Pennarsi (Operations Support Officer)</p>
+</li>
+</ul>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 25px">
