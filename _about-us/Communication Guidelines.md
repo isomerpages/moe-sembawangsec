@@ -6,7 +6,7 @@ description: ""
 ---
 <h3><strong>Our Engagement Charter</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comm_Guidelines.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comm_Guidelines.jpg">
 </div>
 <p>At Sembawang Secondary School, we believe that strong school-home-community
 partnerships are fundamental to student success and wellbeing. Through
