@@ -220,6 +220,51 @@ variant: tiptap
 </ul>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Singapore Science and Engineering Fair 2023</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Certificate of Participation</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Priyanka Grace (4TE2)</p>
+</li>
+<li>
+<p>Tasneem D/O Mohammed Gaffer (4TE2)</p>
+</li>
+<li>
+<p>Sheryl Airina David (4TE2)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>IgnITE</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Mobile Robots Challenge (Top 10 Team)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tiara Cheah Yu Shan (2CO3)</p>
+</li>
+<li>
+<p>Nurul Nazeera Bte Ahmad Roslee (2CO3)</p>
+</li>
+<li>
+<p>Isaac Sanjiv S/O Selva Kumar (2CO3)</p>
+</li>
+</ul>
+<p>Data Escape Room (Top 10 Team)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 25px">
