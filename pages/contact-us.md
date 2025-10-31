@@ -18,7 +18,7 @@ contacts:
   - content:
       - phone: +65 6756 6760
       - email: sembawang_ss@moe.edu.sg
-      - other: "Bus Services: 859, 962 Nearest MRT Station: Sembawang"
+      - other: ""
     title: General Enquiries & Feedback
 feedback: ""
 ---
