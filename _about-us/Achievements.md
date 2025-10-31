@@ -355,6 +355,10 @@ variant: tiptap
 <td rowspan="1" colspan="3">
 <p><strong>MOE Service Excellence Awards 2023</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
 <p>Silver</p>
 <ul data-tight="true" class="tight">
 <li>
