@@ -183,6 +183,43 @@ variant: tiptap
 </ul>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>24th International Elementz Fair (Junior)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Certificate of Commendation</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Goh Rhou Hui (2CO1)</p>
+</li>
+<li>
+<p>Kuan Wen Le Kingston (2CO1)</p>
+</li>
+<li>
+<p>Perene Teo Xin Er (2CO1)</p>
+</li>
+<li>
+<p>Yeddu Jaya Jannah Nissi (2CO1)</p>
+</li>
+</ul>
+<p>Gold Award</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Benjamin Bharathan S/O Kumaravel (2CO2)</p>
+</li>
+<li>
+<p>Lee Jun Hao (2CO2)</p>
+</li>
+<li>
+<p>Riyaskhan Rahil Nafeez (2CO2)</p>
+</li>
+</ul>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 25px">
@@ -254,19 +291,19 @@ variant: tiptap
 <p>21<sup>st</sup>&nbsp;Science Elements Competition (2020) – Gold Award</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Chan Ting Ting Adelia Faith, 4TE1</p>
+<p>Chan Ting Ting Adelia Faith (4TE1)</p>
 </li>
 <li>
-<p>Oon Shi En, 4TE1</p>
+<p>Oon Shi En (4TE1)</p>
 </li>
 <li>
-<p>Kyla Samuel David, 4TE1</p>
+<p>Kyla Samuel David (4TE1)</p>
 </li>
 <li>
-<p>Alagu Lakshmi Thiruppathi, 4TE1</p>
+<p>Alagu Lakshmi Thiruppathi (4TE1)</p>
 </li>
 <li>
-<p>Cheong Ying Zhe Justin, 4TE1</p>
+<p>Cheong Ying Zhe Justin (4TE1)</p>
 </li>
 </ul>
 </td>
@@ -369,7 +406,7 @@ by Singapore Hokkien Huay Kuan)</p>
 <p>The Commendation Medal</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Loke Cheok Meng Shamen (Year Head (Upper Sec)</p>
+<p>Mr Loke Cheok Meng Shamen (Year Head - Upper Sec)</p>
 </li>
 </ul>
 </td>
