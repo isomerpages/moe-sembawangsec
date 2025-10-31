@@ -61,14 +61,42 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="3">
+<p><strong>National Design Challenge 2023</strong>
+</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Certificate of Distinction</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Natalie Jolene Gamboa Fu (3IN1)</p>
+</li>
+<li>
+<p>Muhammad Farhan (3(IN2)</p>
+</li>
+<li>
+<p>Nuralyssa Eudora Bte Mohamad Rahim (3IN2)</p>
+</li>
+<li>
+<p>Nur Emelda Bte Eirie (3IN2)</p>
+</li>
+<li>
+<p>Kaung Nyan Hein (3IN2)</p>
+</li>
+</ul>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Mathematics Olympiad</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Honourable Mention</p>
 </td>
 </tr>
 </tbody>
