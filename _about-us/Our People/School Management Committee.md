@@ -25,7 +25,15 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Low Chee Wai</p>
+<p>Mdm Jessie Koh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Justin Lee</p>
 </td>
 </tr>
 <tr>
@@ -34,14 +42,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr William Chan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Jonah Lim</p>
 </td>
 </tr>
 </tbody>
