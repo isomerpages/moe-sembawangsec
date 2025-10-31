@@ -263,6 +263,46 @@ variant: tiptap
 </li>
 </ul>
 <p>Data Escape Room (Top 10 Team)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Putri Syazana Bte Shaik Mohamad (3IN3)</p>
+</li>
+<li>
+<p>Sng Suo Lei Gaias (3IN3)</p>
+</li>
+<li>
+<p>Mohamed Muqresh Bin Kamaluthin (3IN4)</p>
+</li>
+</ul>
+<p>X-Bots</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Bryan Lim (4TE4)</p>
+</li>
+<li>
+<p>Mohamed Irfan Bin Mohamed Ismail (4TE4)</p>
+</li>
+<li>
+<p>Ooi Wei Khang (4TE5)</p>
+</li>
+</ul>
+<p>Mobile Robots Challenge</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Aarthikeyan S/O Pragas (2CO3)</p>
+</li>
+<li>
+<p>Shayann Sharma S/O Citran (2CO3)</p>
+</li>
+<li>
+<p>Joshua Ryan S/O John Pandiri (2CO3)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<h4><strong>Staff Achievements 2023</strong></h4>
 </td>
 </tr>
 </tbody>
