@@ -4,7 +4,7 @@ permalink: /privacy/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Personal Data Protection - Sembawang Secondary School</strong></h4>
+<h4><strong>Personal Data Protection</strong></h4>
 <p>Sembawang Secondary School is committed to the responsible management
 of our student’s and visitor’s personal data.</p>
 <p><strong>Regarding Use of Photographs and Videos</strong>
@@ -25,12 +25,8 @@ shared without your consent or with other entities, except where such entities
 have been authorised to carry out specific Government services.</p>
 <p>To safeguard your personal data, all electronic storage and transmission
 of personal data are secured with appropriate security technologies.</p>
-<ol data-tight="true" class="tight">
-<li>
 <p>This is a Sembawang Secondary School website. Thank you for examining
 our privacy statement.</p>
-</li>
-</ol>
 <p>2. If you are only browsing this website, we do not capture data that
 allows us to identify you individually.</p>
 <p>3. If you choose to make an application or send us an e-mail for which
