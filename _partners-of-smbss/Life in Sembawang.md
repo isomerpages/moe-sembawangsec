@@ -5,284 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h1>Life in Sembawang Secondary</h1>
-<h1></h1>
-<p><strong>School Awards 2021</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>School’s Green Audit (SGA) Awards</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>Sustained Lotus Award (highest SGA award for green efforts)</p>
-</li>
-</ul>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p>North West Outstanding School Partner Award (SPA) 2021</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>Bronze</p>
-</li>
-</ul>
-<p><strong>Students’ Achievements 2021</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>22nd International Elementz Fair</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>2 Silver</p>
-</li>
-<li>
-<p>2 Bronze</p>
-</li>
-<li>
-<p>1 Certificate of Commendation</p>
-</li>
-</ul>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p>National Schools Literature Festival</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>Winner, ‘Unseen Debate’</p>
-</li>
-</ul>
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p>2021 International Competitions and Assessment for Schools (ICAS) Assessments
-– English</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>5 Credit</p>
-</li>
-<li>
-<p>10 Participation</p>
-</li>
-</ul>
-<ol start="4" data-tight="true" class="tight">
-<li>
-<p>2021 International Competitions and Assessment for Schools (ICAS) Assessments
-– Science</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>1 Distinction</p>
-</li>
-<li>
-<p>5 Credit</p>
-</li>
-<li>
-<p>5 Merit</p>
-</li>
-<li>
-<p>8 Participation</p>
-</li>
-</ul>
-<ol start="5" data-tight="true" class="tight">
-<li>
-<p>Advocacy Module of the 2021 National Cyber-wellness Advocacy Challenge
-(NCAC)</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>Gold Award</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Chew Yan Xi, 3IN1</p>
-</li>
-<li>
-<p>Jahnavi Singh, 3IN1</p>
-</li>
-<li>
-<p>Farzeen Shanza d/o Mohamed Ismail, 3IN2</p>
-</li>
-<li>
-<p>Vijayan Suriyakanth, 3IN2</p>
-</li>
-</ul>
-</li>
-</ul>
-<ol start="6" data-tight="true" class="tight">
-<li>
-<p>Anugerah Pena Emas 2021 [national literary writing competition (Malay
-category) organized by Arts House Limited]</p>
-</li>
-</ol>
-<ul>
-<li>
-<p>Top 30 + Gold + Publication of essay in a book</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Nur Azira Binte Muhammad Salleh, 2CO3</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Gold</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Noor Raiqa Binte Mohamad Razaly, 2CO1&nbsp;</p>
-</li>
-<li>
-<p>Andrea Annahdhah Binti Ahmad Kassim, 2CO2&nbsp;</p>
-</li>
-<li>
-<p>Mohamad Heryan Bin Mohamad Hermantino, 2CO5&nbsp;</p>
-</li>
-<li>
-<p>Naurah Usyazwani Binte Abdullah, 2CO5&nbsp;</p>
-</li>
-<li>
-<p>Ajda Wardina Ondek, 3IN1&nbsp;</p>
-</li>
-<li>
-<p>Siti Nur Farhana Binte Ab Halim, 3IN2&nbsp;</p>
-</li>
-<li>
-<p>Farah Binte Basirrudin, 3IN3&nbsp;</p>
-</li>
-<li>
-<p>Nur Irsalina Simatupang, 3IN3&nbsp;</p>
-</li>
-<li>
-<p>Mohamed Noor Ilhan Bin Mohd Salim, 3IN4&nbsp;</p>
-</li>
-<li>
-<p>Muhammad Zulhelmy Irfan Bin Kasmat, 3IN4</p>
-</li>
-</ul>
-</li>
-</ul>
-<ol start="7" data-tight="true" class="tight">
-<li>
-<p>2021 International Competitions and Assessment for Schools (ICAS) Assessments
-– EL Writing</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>1 Distinction</p>
-</li>
-<li>
-<p>1 Credit</p>
-</li>
-<li>
-<p>3 Participation</p>
-</li>
-</ul>
-<p><strong>Students’ Achievements in CCA 2021</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Malay Dance</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>Certificate of Distinction in SYF Arts Presentation 2021</p>
-</li>
-</ul>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p>Chinese Dance</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>Certificate of Accomplishment in SYF Arts Presentation 2021</p>
-</li>
-</ul>
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p>Concert Band</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>Certificate of Accomplishment in SYF Arts Presentation 2021</p>
-</li>
-</ul>
-<ol start="4" data-tight="true" class="tight">
-<li>
-<p>SPF-NPCC Badge</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>Nur Hidyati (Sec 4TE4)</p>
-</li>
-</ul>
-<p><strong>Staff Awards 2021</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>National Day 2021 Awards</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>The Commendation Medal: Mdm Jayanthi d/o Sangiah (SH/CCE)</p>
-</li>
-<li>
-<p>The Long Service Medal: Mdm Jayanthi d/o Sangiah (SH/CCE)</p>
-</li>
-</ul>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p>MOE Service Excellence Awards – Silver</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>Chua Si Yuan, ST/History</p>
-</li>
-<li>
-<p>Hoe Wieky, Teacher</p>
-</li>
-<li>
-<p>Jonathan Lau Keng Chong, Teacher</p>
-</li>
-<li>
-<p>Lee Sek Koi, School Attendant</p>
-</li>
-<li>
-<p>Lee Siew May, Corporate Support Officer</p>
-</li>
-<li>
-<p>Lim Wee Yin Sabrina, HOD/C&amp;T</p>
-</li>
-<li>
-<p>Low Huixian Heidi, ST/EL</p>
-</li>
-<li>
-<p>Ng Lai Peng, HOD/MTL&nbsp;</p>
-</li>
-<li>
-<p>Ngoh Wai Fong, School Counsellor</p>
-</li>
-<li>
-<p>Tan Qian Ying, Teacher</p>
-</li>
-<li>
-<p>Teo Chee Yong, Teacher</p>
-</li>
-<li>
-<p>Zhou Yi Ting, Teacher</p>
-</li>
-</ul>
 <p><strong>Secondary 1 VIA:</strong>
 </p>
 <p>Students educated their classmates on the importance of keeping the school
@@ -348,7 +70,6 @@ Council.</p>
 <td rowspan="1" colspan="1">
 <p><u>School’s Green Audit (SGA) Awards</u>
 </p>
-<p>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Sustained Lotus Award (Highest SGA award for green efforts)</p>
@@ -366,17 +87,11 @@ Council.</p>
 <td rowspan="1" colspan="1">
 <p><u>North West Outstanding School Partner Awards (SPA) 2020</u>
 </p>
-<p>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Silver</p>
 </li>
 </ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -485,7 +200,6 @@ by Singapore Hokkien Huay Kuan)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>National Youth Achievement Award</p>
-<p>&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Silver (15 students)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bronze (47 students)</p>
 </td>
@@ -515,7 +229,6 @@ by Singapore Hokkien Huay Kuan)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>The Long Service Medal</p>
-<p>&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mdm Ng Lai Peng
 (HOD/MT)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr Abdul Rashid
@@ -531,7 +244,6 @@ Bin Jumadi (Education Workshop Instructor)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>The Caring Teacher Awards 2020 (organized by NIE) – School Level (Secondary)</p>
-<p>&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ms Tan Qian Ying</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr Oon Boon Keong</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mdm Zhou Yi Ting</p>
