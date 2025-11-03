@@ -6,10 +6,14 @@ description: ""
 ---
 <p><strong>Terms of Use</strong>
 </p>
+<ol data-tight="true" class="tight">
+<li>
 <p>Thank you for visiting <a href="https://www.sembawangsec.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.sembawangsec.moe.edu.sg/</a>.
 By accessing and using this web site, you shall be deemed to have accepted
 to be legally bound by these Terms of Use. If you do not agree to these
 Terms of Use, please do not use this web site.</p>
+</li>
+</ol>
 <p><strong>General</strong>
 </p>
 <p>2. These Terms of Use may be changed from time to time. Changes will be
