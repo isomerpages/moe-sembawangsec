@@ -810,4 +810,70 @@ category) organized by Arts House Limited]</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4>Staff Achievements 2021</h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>National Day 2021 Awards</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The Commendation Medal: Mdm Jayanthi d/o Sangiah (SH/CCE)</p>
+</li>
+<li>
+<p>The Long Service Medal: Mdm Jayanthi d/o Sangiah (SH/CCE)</p>
+</li>
+</ul>
+<p>MOE Service Excellence Awards – Silver</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chua Si Yuan, ST/History</p>
+</li>
+<li>
+<p>Hoe Wieky, Teacher</p>
+</li>
+<li>
+<p>Jonathan Lau Keng Chong, Teacher</p>
+</li>
+<li>
+<p>Lee Sek Koi, School Attendant</p>
+</li>
+<li>
+<p>Lee Siew May, Corporate Support Officer</p>
+</li>
+<li>
+<p>Lim Wee Yin Sabrina, HOD/C&amp;T</p>
+</li>
+<li>
+<p>Low Huixian Heidi, ST/EL</p>
+</li>
+<li>
+<p>Ng Lai Peng, HOD/MTL&nbsp;</p>
+</li>
+<li>
+<p>Ngoh Wai Fong, School Counsellor</p>
+</li>
+<li>
+<p>Tan Qian Ying, Teacher</p>
+</li>
+<li>
+<p>Teo Chee Yong, Teacher</p>
+</li>
+<li>
+<p>Zhou Yi Ting, Teacher</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
