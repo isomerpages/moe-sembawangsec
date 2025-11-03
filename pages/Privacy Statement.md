@@ -46,7 +46,8 @@ of our student’s and visitor’s personal data.</p>
 programmes, and related activities. We may use and publish such photographs
 and/or video recordings in school publications, website, social media channels,
 and other official school communication channels. Please alert the school
-if you do not wish to any of your images to be published on this school
-web site. Refer to the 'Communication Guidelines' page to get in touch.</p>
+if you do not wish to have any of your images published on this school
+web site. Refer to the '<a href="/about-us/communication-guidelines/" rel="noopener nofollow" target="_blank">'Communication Guidelines'</a>'
+page to get in touch.</p>
 <p>CCTVs may be in operation in and around our premises as necessary in the
 interest of security.</p>
