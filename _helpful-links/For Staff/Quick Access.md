@@ -20,7 +20,7 @@ third_nav_title: For Staff
 </p>
 </li>
 <li>
-<p><a href="https://iexams.seab.gov.sg/sso/login" rel="noopener nofollow" target="_blank">iExams</a>
+<p><a href="https://iexams.seab.gov.sg/sso/login" rel="noopener nofollow" target="_blank">iExams2</a>
 </p>
 </li>
 <li>
@@ -32,7 +32,7 @@ third_nav_title: For Staff
 </p>
 </li>
 <li>
-<p><a href="https://pg.moe.edu.sg/" rel="noopener nofollow" target="_blank">Parents Gateway</a> 
+<p><a href="https://pg.moe.edu.sg/" rel="noopener nofollow" target="_blank">Parents Gateway</a>
 </p>
 </li>
 <li>
