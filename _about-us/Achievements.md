@@ -393,6 +393,38 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
+<h4><strong>School Awards 2021</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>School’s Green Audit (SGA) Awards</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sustained Lotus Award (Highest SGA award for green efforts)</p>
+</li>
+<li>
+<p>Northwest Outstanding School Partner Award (SPA) 2021</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Bronze</p>
+</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
 <h4><strong>Students' Achievements 2021</strong></h4>
 </th>
 </tr>
@@ -838,38 +870,6 @@ by Singapore Hokkien Huay Kuan)</p>
 </li>
 <li>
 <p>Mdm Zhou Yi Ting</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<h4><strong>School Awards 2021</strong></h4>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>School’s Green Audit (SGA) Awards</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Sustained Lotus Award (Highest SGA award for green efforts)</p>
-</li>
-<li>
-<p>Northwest Outstanding School Partner Award (SPA) 2021</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Bronze</p>
-</li>
-</ul>
 </li>
 </ul>
 </td>
