@@ -610,4 +610,204 @@ by Singapore Hokkien Huay Kuan)</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4><strong>School Awards 2021</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>School’s Green Audit (SGA) Awards</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sustained Lotus Award (Highest SGA award for green efforts)</p>
+</li>
+<li>
+<p>Northwest Outstanding School Partner Award (SPA) 2021</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Bronze</p>
+</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4>Students' Achievements 2021</h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>22nd International Elementz Fair</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2 Silver</p>
+</li>
+<li>
+<p>2 Bronze</p>
+</li>
+<li>
+<p>1 Certificate of Commendation</p>
+</li>
+</ul>
+<p>National Schools Literature Festival</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Winner, ‘Unseen Debate’</p>
+</li>
+</ul>
+<p>2021 International Competitions and Assessment for Schools (ICAS) Assessments
+– English</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>5 Credit</p>
+</li>
+<li>
+<p>10 Participation</p>
+</li>
+</ul>
+<p>2021 International Competitions and Assessment for Schools (ICAS) Assessments
+– Science</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>1 Distinction</p>
+</li>
+<li>
+<p>5 Credit</p>
+</li>
+<li>
+<p>5 Merit</p>
+</li>
+<li>
+<p>8 Participation</p>
+</li>
+</ul>
+<p>Advocacy Module of the 2021 National Cyber-wellness Advocacy Challenge
+(NCAC)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Gold Award</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chew Yan Xi (3IN1)</p>
+</li>
+<li>
+<p>Jahnavi Singh (3IN1)</p>
+</li>
+<li>
+<p>Farzeen Shanza d/o Mohamed Ismail (3IN2)</p>
+</li>
+<li>
+<p>Vijayan Suriyakanth (3IN2)</p>
+</li>
+</ul>
+</li>
+</ul>
+<p>Anugerah Pena Emas 2021 [national literary writing competition (Malay
+category) organized by Arts House Limited]</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Top 30 + Gold + Publication of essay in a book</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nur Azira Binte Muhammad Salleh (2CO3)</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Gold</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Noor Raiqa Binte Mohamad Razaly (2CO1)&nbsp;</p>
+</li>
+<li>
+<p>Andrea Annahdhah Binti Ahmad Kassim (2CO2)&nbsp;</p>
+</li>
+<li>
+<p>Mohamad Heryan Bin Mohamad Hermantino (2CO5)&nbsp;</p>
+</li>
+<li>
+<p>Naurah Usyazwani Binte Abdullah (2CO5)&nbsp;</p>
+</li>
+<li>
+<p>Ajda Wardina Ondek (3IN1)&nbsp;</p>
+</li>
+<li>
+<p>Siti Nur Farhana Binte Ab Halim (3IN2)&nbsp;</p>
+</li>
+<li>
+<p>Farah Binte Basirrudin (3IN3)&nbsp;</p>
+</li>
+<li>
+<p>Nur Irsalina Simatupang (3IN3)&nbsp;</p>
+</li>
+<li>
+<p>Mohamed Noor Ilhan Bin Mohd Salim (3IN4)&nbsp;</p>
+</li>
+<li>
+<p>Muhammad Zulhelmy Irfan Bin Kasmat (3IN4)</p>
+</li>
+</ul>
+</li>
+</ul>
+<p>2021 International Competitions and Assessment for Schools (ICAS) Assessments
+– EL Writing</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>1 Distinction</p>
+</li>
+<li>
+<p>1 Credit</p>
+</li>
+<li>
+<p>3 Participation</p>
+</li>
+</ul>
+<p>Achievements in CCA 2021</p>
+<p>Malay Dance</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Certificate of Distinction in SYF Arts Presentation 2021</p>
+</li>
+</ul>
+<p>Chinese Dance</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Certificate of Accomplishment in SYF Arts Presentation 2021</p>
+</li>
+</ul>
+<p>Concert Band</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Certificate of Accomplishment in SYF Arts Presentation 2021</p>
+</li>
+</ul>
+<p>SPF-NPCC Badge</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nur Hidyati (Sec 4TE4)</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
