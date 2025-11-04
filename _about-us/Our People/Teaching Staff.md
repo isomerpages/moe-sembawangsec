@@ -109,7 +109,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Caroline Eu Ai Ming</p>
-<p><a href="mailto:eu_ai_ming_caroline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eu_ai_ming_caroline@moe.edu.sg</a> 
+<p><a href="mailto:eu_ai_ming_caroline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eu_ai_ming_caroline@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -126,10 +126,15 @@ variant: tiptap
 <p>1F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Alex Choh</p>
+<p>Mr Alex Choh Chee Yang</p>
+<p><a href="mailto:alex_choh_chee_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alex_choh_chee_yang@moe.edu.sg</a>
+</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Saheera Banu</p>
+<p>Mrs Saheera Banu Sherfudeen</p>
+<p><a href="mailto:saheera_banu_sherfudeen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">saheera_banu_sherfudeen@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -140,10 +145,14 @@ variant: tiptap
 <p>2A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Isabelle Khoo</p>
+<p>Ms Isabelle Khoo Kia Hwee</p>
+<p><a href="mailto:khoo_kia_hwee_isabelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_kia_hwee_isabelle@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurul'Ain</p>
+<p>Ms Nurul'Ain Nazrin</p>
+<p><a href="mailto:nurulain_nazrin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurulain_nazrin@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -244,7 +253,7 @@ variant: tiptap
 <p>Ms Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan JX</p>
+<p></p>
 </td>
 </tr>
 <tr>
