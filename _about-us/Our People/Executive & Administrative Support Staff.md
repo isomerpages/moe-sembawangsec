@@ -157,7 +157,7 @@ third_nav_title: Our People
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee SK</p>
+<p>Mr Lee Sek Koi</p>
 </td>
 </tr>
 <tr>
@@ -165,7 +165,7 @@ third_nav_title: Our People
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Arasi</p>
+<p>Mdm Pennarsi</p>
 </td>
 </tr>
 <tr>
@@ -173,7 +173,7 @@ third_nav_title: Our People
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Allen Ang</p>
+<p>Mr Allen Ang Chee Huat</p>
 </td>
 </tr>
 </tbody>
