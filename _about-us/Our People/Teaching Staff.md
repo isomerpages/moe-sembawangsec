@@ -410,7 +410,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kirubakaram</p>
+<p>Mdm Kirubakaram Vimalanathan</p>
 <p><a href="mailto:kirubakaram_vimalanathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kirubakaram_vimalanathan@moe.edu.sg</a>
 </p>
 </td>
@@ -423,10 +423,14 @@ variant: tiptap
 <p>4D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ang</p>
+<p>Ms Ang Lee Yong</p>
+<p><a href="mailto:ang_lee_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_lee_yong@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Esther Tan</p>
+<p>Ms Esther Tan Yinli</p>
+<p><a href="mailto:esther_tan_yinli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">esther_tan_yinli@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -437,10 +441,14 @@ variant: tiptap
 <p>4E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Joe</p>
+<p>Mr Joe Wieky</p>
+<p><a href="mailto:joe_wieky@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joe_wieky@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cai</p>
+<p>Ms Cai Xinyu</p>
+<p><a href="mailto:cai_xinyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cai_xinyu@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -451,10 +459,14 @@ variant: tiptap
 <p>4F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jayanthi</p>
+<p>Mdm Jayanthi Sangiah</p>
+<p><a href="mailto:jayanthi_sangiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jayanthi_sangiah@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Leet</p>
+<p>Mr Leet Tagore</p>
+<p><a href="mailto:leet_tagore@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leet_tagore@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -465,10 +477,14 @@ variant: tiptap
 <p>5A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Julistiara</p>
+<p>Mdm Julistiara Sujae</p>
+<p><a href="mailto:julistiara_sujae@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">julistiara_sujae@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ching</p>
+<p>Ms Ching Qing Ting</p>
+<p><a href="mailto:ching_qing_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ching_qing_ting@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
