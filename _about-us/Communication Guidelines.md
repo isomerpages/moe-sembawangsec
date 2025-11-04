@@ -107,6 +107,10 @@ school operating hours. Our teachers may be in class or unavailable.</p>
 <h4>Teachers’ Contact Information</h4>
 <ul data-tight="true" class="tight">
 <li>
+<p>You may wish to email our staff at their email address which can be found
+on our school website.</p>
+</li>
+<li>
 <p>Please note that teachers are not obliged to share their personal mobile
 numbers, and your understanding is appreciated.</p>
 </li>

@@ -1,5 +1,5 @@
 ---
-title: Executive & Administrative Support Staff
+title: Executive & Administrative Staff
 permalink: /about-us/our-people/permalink/
 variant: tiptap
 description: ""
