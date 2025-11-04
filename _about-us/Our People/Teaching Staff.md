@@ -273,10 +273,14 @@ variant: tiptap
 <p>3B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Marianne</p>
+<p>Ms Marianne Louise Das</p>
+<p><a href="mailto:marianne_louise_das@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">marianne_louise_das@moe.edu.sg</a> 
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Koh</p>
+<p>Ms Koh Yu Qi</p>
+<p><a href="mailto:koh_yu_qi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_yu_qi@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
