@@ -48,7 +48,7 @@ third_nav_title: Our People
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rahim Sal</p>
+<p>Mr Rahim Sal</p>
 <p><a href="mailto:rahim_sal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>rahim_sal@moe.edu.sg</u></a>
 </p>
 </td>
