@@ -201,7 +201,9 @@ variant: tiptap
 <p>2D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sharon Tan</p>
+<p>Ms Sharon Tan Suey Leng</p>
+<p><a href="mailto:tan_suey_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_suey_leng@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Huang</p>
