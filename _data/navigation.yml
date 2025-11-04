@@ -4,28 +4,9 @@ links:
     collection: about-us
   - title: CCAs
     collection: ccas
-  - title: Partners Of Smbss
+  - title: Partners Of SMBSS
     collection: partners-of-smbss
-  - title: the Smbss Experience
+  - title: The SMBSS Experience
     collection: smbss-experience
   - title: Helpful Links
-    url: /others
-    sublinks:
-      - title: SEAB
-        url: https://www.seab.gov.sg/
-      - title: Sports Education Programme
-        url: https://www.sportsingapore.gov.sg/sports-education/sports-education-programme
-      - title: Polytechnics
-        url: /polytechnics
-      - title: ITE
-        url: /ite
-      - title: Personal Data Protection
-        url: /others/personal-data-protection
-      - title: Student Learning Space
-        url: https://vle.learning.moe.edu.sg/login
-      - title: MIMS Self Reset Password
-        url: https://portal.mims.moe.gov.sg/sspr/public/forgottenpassword
-      - title: MOE Sexuality Education
-        url: /others/sexualityeducation/
-      - title: PLD Information Kiosk
-        url: https://sites.google.com/moe.edu.sg/smbsspldinfokiosk/home
+    collection: helpful-links
