@@ -387,10 +387,14 @@ variant: tiptap
 <p>4B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Bhagya</p>
+<p>Mdm C Bhagyalakshmi</p>
+<p><a href="mailto:c_bhagyalakshmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">c_bhagyalakshmi@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Daryn Tan</p>
+<p>Mr Daryn Tan Fu Ern</p>
+<p><a href="mailto:daryn_tan_fu_ern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">daryn_tan_fu_ern@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -401,10 +405,14 @@ variant: tiptap
 <p>4C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Long</p>
+<p>Mr Long Chee Yong</p>
+<p><a href="mailto:long_chee_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">long_chee_yong@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Kirubakaram</p>
+<p><a href="mailto:kirubakaram_vimalanathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kirubakaram_vimalanathan@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
