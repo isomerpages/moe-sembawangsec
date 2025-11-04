@@ -387,7 +387,7 @@ variant: tiptap
 <p>4B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm C Bhagyalakshmi</p>
+<p>Mdm Bhagyalakshmi</p>
 <p><a href="mailto:c_bhagyalakshmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">c_bhagyalakshmi@moe.edu.sg</a>
 </p>
 </td>
