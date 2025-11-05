@@ -26,7 +26,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Jessie Koh</p>
-<p><a href="mailto:koh_jessie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_jessie@schools.gov.sg</a>
+<p><a href="mailto:sembawang_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sembawang_ss@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -36,7 +36,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Justin Lee Yong Kiang</p>
-<p><a href="mailto:lee_yong_kiang_justin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yong_kiang_justin@schools.gov.sg</a>
+<p><a href="mailto:sembawang_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sembawang_ss@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -46,7 +46,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr William Chan Ying Chung</p>
-<p><a href="mailto:chan_ying_chung@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_ying_chung@schools.gov.sg</a>
+<p><a href="mailto:sembawang_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sembawang_ss@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
