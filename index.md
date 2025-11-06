@@ -19,8 +19,7 @@ sections:
       url: /uniform-and-book-sale/
       button: Uniform & Book sale
   - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
+      title: Announcements
       id: resources
   - infopic:
       title: Open House 2025
