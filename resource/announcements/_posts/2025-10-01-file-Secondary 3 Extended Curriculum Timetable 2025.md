@@ -1,6 +1,6 @@
 ---
 title: Secondary 3 Extended Curriculum Timetable 2025
-date: 2025-10-24
+date: 2025-10-01
 layout: file
 description: ""
 image: ""

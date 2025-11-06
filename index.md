@@ -21,6 +21,13 @@ sections:
   - resources:
       title: Announcements
       id: resources
+  - infopic:
+      title: Open House 2025
+      id: infopic
+      image: /images/SMBSS_Open_House_2025.png
+      alt: Image alt text
+      subtitle: come join us!
+      url: /smbss-open-house-22nd-nov-2025/
   - infobar:
       title: Find Us on Social Media
       id: infobar

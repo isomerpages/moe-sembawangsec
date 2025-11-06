@@ -2,7 +2,7 @@
 title: "Attention to Graduating Cohort (2025): Backing Up Student iCON Data &
   DMA Deprovisioning"
 permalink: /backing-up-student-icon-data-dma-deprovisioning/
-date: 2025-10-07
+date: 2025-11-06
 layout: post
 description: ""
 image: ""
