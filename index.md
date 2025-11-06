@@ -7,7 +7,7 @@ permalink: /
 notification: Sembawang Secondary School
 sections:
   - hero:
-      background: /images/Gif1.gif
+      background: /images/dragon-boat-competition.jpeg
       key_highlights:
         - title: PDLP
           description: Develop active learning
