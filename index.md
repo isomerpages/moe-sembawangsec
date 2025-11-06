@@ -18,12 +18,10 @@ sections:
       subtitle: Leaders & Change Makers
       url: /smbss-open-house-22nd-nov-2025/
       button: open house 2025
-  - infobar:
-      title: Find Us on Social Media
-      id: infobar
-      description: Instagram
-      button: more
-      url: https://www.instagram.com/sembawang_ss/
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
   - infopic:
       title: Open House 2025
       id: infopic
@@ -31,4 +29,10 @@ sections:
       alt: Image alt text
       subtitle: come join us!
       url: /smbss-open-house-22nd-nov-2025/
+  - infobar:
+      title: Find Us on Social Media
+      id: infobar
+      description: Instagram
+      button: more
+      url: https://www.instagram.com/sembawang_ss/
 ---
