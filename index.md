@@ -29,7 +29,7 @@ sections:
       subtitle: come join us!
       url: /smbss-open-house-22nd-nov-2025/
   - infobar:
-      title: Find Us on Social Media
+      title: Follow us on Social Media
       id: infobar
       description: Instagram
       button: more
