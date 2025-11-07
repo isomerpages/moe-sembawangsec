@@ -7,7 +7,7 @@ permalink: /
 notification: Strive, Serve and Soar
 sections:
   - hero:
-      background: /images/dragon-boat-competition.jpeg
+      background: /images/Leaders___change_makers.gif
       key_highlights:
         - title: PDLP
           description: Develop active learning
