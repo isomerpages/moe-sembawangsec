@@ -4,7 +4,7 @@ title: Sembawang Secondary School
 description: Leaders & Change Makers
 image: /images/cropped-logo1-2021.jpg
 permalink: /
-notification: Strive, Serve and Soar
+notification: Sembawang Secondary School
 sections:
   - hero:
       background: /images/Leaders___change_makers.gif
@@ -17,7 +17,6 @@ sections:
           url: /curriculum/Signature-Programme/learning-for-life-programme/
       url: /smbss-open-house-22nd-nov-2025/
       button: open house 2025
-      subtitle: Leaders & Change Makers
   - resources:
       title: Announcements
       id: resources
