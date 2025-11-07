@@ -7,7 +7,7 @@ permalink: /
 notification: Sembawang Secondary School
 sections:
   - hero:
-      background: /images/Untitled_design.gif
+      background: /images/leaders___change_makers__1_.gif
       key_highlights:
         - title: PDLP
           description: Develop active learning
@@ -15,7 +15,6 @@ sections:
         - title: Learning For Life Programme
           description: Developing Community Leaders
           url: /curriculum/Signature-Programme/learning-for-life-programme/
-      subtitle: Leaders & Change Makers
       url: /smbss-open-house-22nd-nov-2025/
       button: open house 2025
   - resources:
