@@ -17,7 +17,7 @@ sections:
           url: /curriculum/Signature-Programme/learning-for-life-programme/
       url: /smbss-open-house-22nd-nov-2025/
       button: open house 2025
-      title: Leaders & Change Makers
+      subtitle: Leaders & Change Makers
   - resources:
       title: Announcements
       id: resources
