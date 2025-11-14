@@ -111,7 +111,8 @@ portal.</p>
 </div>
 </li>
 </ol>
-<p>*Insurance coverage is for the main device only and does not cover accessories</p>
+<p>**Insurance coverage is for the <strong>main device only</strong> and <strong>does not cover accessories</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><em>What is the expected shelf life of the device? What happens to the device after the student graduates?</em>
