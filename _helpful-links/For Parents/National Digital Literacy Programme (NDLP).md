@@ -27,6 +27,9 @@ Students may use funds from their Edusave Account&nbsp;to pay for the PLD.</p>
 <li>
 <p>Finance Related Questions</p>
 </li>
+<li>
+<p>PLD Information Kiosk</p>
+</li>
 </ul>
 <p><strong>PLD Initiative:</strong>
 </p>
@@ -79,8 +82,16 @@ portal.</p>
 <li>
 <p><em>What device model will the student be getting?</em>
 </p>
+<p><a href="https://techtoday.lenovo.com/sg/en/solutions/media/21280" rel="noopener nofollow" target="_blank">Lenovo 500e Yoga Chromebook Gen4</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chromebook.png">
+</div>
+<p>Accessories included (1x Carrying case, 1x Power Adaptor, 1x Stylus pen
+&amp; 1x USB Mouse)</p>
+</li>
+<li>
 <p></p>
 </li>
 </ol>
-<p></p>
 <p></p>
