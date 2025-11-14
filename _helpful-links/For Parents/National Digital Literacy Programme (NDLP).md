@@ -65,6 +65,16 @@ OS and have similar technical specifications that allows the MOE Device
 Management Application (DMA) to be installed.</p>
 <ol start="3" data-tight="true" class="tight">
 <li>
+<p><em>What is Device Management Application (DMA)?</em>
+</p>
+</li>
+</ol>
+<p>Your child's Personal Learning Device (PLD) will be installed with a Device
+Management Application (DMA) to provide a safer digital environment for
+learning. The DMA will be funded by MOE &amp; be uninstalled when your
+child graduates or leave school</p>
+<ol start="4" data-tight="true" class="tight">
+<li>
 <p><em>Do students/parents buy from the vendor purchasing portals or do schools do the mass purchase for the students?</em>
 </p>
 </li>
