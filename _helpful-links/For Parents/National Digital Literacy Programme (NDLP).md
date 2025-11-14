@@ -101,6 +101,15 @@ portal.</p>
 &amp; 1x USB Mouse)</p>
 </li>
 <li>
+<p>What does the warranty covers?</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/w1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/w2.png">
+</div>
+</li>
+<li>
 <p><em>Can students share one device with their siblings?</em>
 </p>
 </li>
@@ -117,4 +126,8 @@ siblings.</p>
 </p>
 </li>
 </ol>
-<p></p>
+<p>Every student is required to have a device for learning purposes. They
+are encouraged to purchase one through the school via the MOE Device Bulk
+Tender. Students who already own a device running on the same OS and do
+not wish to purchase another device will have to seek approval from the
+school before they can pursue this option.</p>
