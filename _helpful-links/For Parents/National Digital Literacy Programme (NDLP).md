@@ -90,7 +90,7 @@ portal.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><em>What device model will the student be getting?</em>
+<p><em>Which device model will the students be getting?</em>
 </p>
 <p><a href="https://techtoday.lenovo.com/sg/en/solutions/media/21280" rel="noopener nofollow" target="_blank">Lenovo 500e Yoga Chromebook Gen4</a>
 </p>
@@ -101,7 +101,8 @@ portal.</p>
 &amp; 1x USB Mouse)</p>
 </li>
 <li>
-<p>What does the insurance &amp; warranty covers?</p>
+<p><em>What do the insurance &amp; warranty cover?</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/w1.png">
 </div>
@@ -109,6 +110,19 @@ portal.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/w2.png">
 </div>
 </li>
+</ol>
+<p>*Insurance coverage is for the main device only and does not cover accessories</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><em>What is the expected shelf life of the device? What happens to the device after the student graduates?</em>
+</p>
+</li>
+</ol>
+<p>The devices have an average shelf life of 3-4 years, which sufficiently
+covers the time a student is in secondary school. The school will uninstall
+the DMA from the devices upon students’ graduation, and graduated students
+will have full control over their devices</p>
+<ol start="4" data-tight="true" class="tight">
 <li>
 <p><em>Can students share one device with their siblings?</em>
 </p>
@@ -120,7 +134,7 @@ tap on different devices for Teaching &amp; Learning. In addition, as students
 will be required to use the devices in school daily and for their learning
 after school, it might not be practical to share the device with their
 siblings.</p>
-<ol start="3" data-tight="true" class="tight">
+<ol start="5" data-tight="true" class="tight">
 <li>
 <p><em>Can students opt not to purchase the device?</em>
 </p>
