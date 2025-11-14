@@ -5,3 +5,82 @@ variant: tiptap
 description: ""
 third_nav_title: For Parents
 ---
+<h4>The National Digital Literacy Programme</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>The NDLP was launched in March 2020 to help students <strong>strengthen their digital literacy and</strong>  <strong>acquire digital skills </strong>needed
+to navigate an increasingly digitalised world.</p>
+</li>
+<li>
+<p>Under the NDLP, every secondary school student will <strong>own a school-prescribed Personal Learning Device (PLD)</strong>.
+Students may use funds from their Edusave Account&nbsp;to pay for the PLD.</p>
+</li>
+</ul>
+<h4>FAQs</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>PLD Initiative</p>
+</li>
+<li>
+<p>Device Related Questions</p>
+</li>
+<li>
+<p>Finance Related Questions</p>
+</li>
+</ul>
+<p><strong>PLD Initiative:</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><em>How does the PLD Initiative impact Teaching and Learning (T&amp;L)?</em>
+</p>
+</li>
+</ol>
+<p>The PLD Initiative will enhance T&amp;L by:</p>
+<p>a) Supporting greater customization and differentiation in learning.</p>
+<p>b) Empowering students to engage in self-directed learning anytime and
+anywhere.</p>
+<p>c) Enhancing the development of 21st Century Competencies and Digital
+Literacy.</p>
+<p>d) Empowering teachers with deeper data-driven insights into student learning.</p>
+<p>The PLD Initiative also supports the pervasive use of the Singapore Student
+Learning Space (SLS) in schools which allows students to have seamless
+access to online learning in and out of class.</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><em>Do all students in a school have to use the same device? What about students who opt out of using the school-selected device and wish to use their own?</em>
+</p>
+</li>
+</ol>
+<p>For a smooth learning experience, students should use a device with the
+same Operating System (OS) and similar technical specifications as the
+model prescribed by the school. Students who do not wish to purchase the
+school-prescribed device and would like to use their own computing devices
+must seek approval from the school before they can pursue this option.
+The school will ascertain whether the students’ devices run on the same
+OS and have similar technical specifications that allows the MOE Device
+Management Application (DMA) to be installed.</p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><em>Do students/parents buy from the vendor purchasing portals or do schools do the mass purchase for the students?</em>
+</p>
+</li>
+</ol>
+<p>Schools will facilitate the purchase of the PLD from the MOE Device Bulk
+Tender on their students’ behalf.</p>
+<p>For students using a compatible student-owned device who wish to purchase
+these accessories separately without purchasing the school-prescribed PLD,
+schools may advise them to do so via the respective vendor’s purchasing
+portal. However, EPF cannot be used for these purchases from the vendor’s
+portal.</p>
+<p><strong>Device Related Questions:</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><em>What device model will the student be getting?</em>
+</p>
+<p></p>
+</li>
+</ol>
+<p></p>
+<p></p>
