@@ -8,6 +8,10 @@ third_nav_title: For Staff
 <h4>Quick Access</h4>
 <ol data-tight="true" class="tight">
 <li>
+<p><a href="https://intranet.moe.gov.sg/itd/Pages/byte-it.aspx" rel="noopener nofollow" target="_blank">BYTE IT! (Bite size tech news &amp; tips - Intranet)</a>
+</p>
+</li>
+<li>
 <p><a href="https://www.hrp.gov.sg/hrp/#/" rel="noopener nofollow" target="_blank">HRP Portal</a>
 </p>
 </li>
@@ -36,7 +40,7 @@ third_nav_title: For Staff
 </p>
 </li>
 <li>
-<p><a href="https://pair.gov.sg/login" rel="noopener nofollow" target="_blank">Pair Chat (Intranet)</a>
+<p><a href="https://pair.gov.sg/login" rel="noopener nofollow" target="_blank">Pair Chat (AI Assistant Bot - Intranet)</a>
 </p>
 </li>
 <li>
