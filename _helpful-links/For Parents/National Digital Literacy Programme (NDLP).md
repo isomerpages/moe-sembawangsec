@@ -97,11 +97,24 @@ portal.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chromebook.png">
 </div>
-<p>Accessories included (1x Carrying case, 1x Power Adaptor, 1x Stylus pen
+<p>Accessories included (1x Carrying Case, 1x Power Adaptor, 1x Stylus Pen
 &amp; 1x USB Mouse)</p>
 </li>
 <li>
-<p></p>
+<p><em>Can students share one device with their siblings?</em>
+</p>
+</li>
+</ol>
+<p>For a smooth learning experience, each student should have his/her own
+device as prescribed by the school. This is because different schools may
+tap on different devices for Teaching &amp; Learning. In addition, as students
+will be required to use the devices in school daily and for their learning
+after school, it might not be practical to share the device with their
+siblings.</p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><em>Can students opt not to purchase the device?</em>
+</p>
 </li>
 </ol>
 <p></p>
