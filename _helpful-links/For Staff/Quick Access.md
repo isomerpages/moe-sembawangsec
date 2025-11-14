@@ -12,6 +12,10 @@ third_nav_title: For Staff
 </p>
 </li>
 <li>
+<p><a href="https://intranet.moe.gov.sg/hronline/Pages/Home.aspx" rel="noopener nofollow" target="_blank">HR Online</a>
+</p>
+</li>
+<li>
 <p><a href="https://www.hrp.gov.sg/hrp/#/" rel="noopener nofollow" target="_blank">HRP Portal</a>
 </p>
 </li>
