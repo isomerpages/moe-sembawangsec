@@ -51,9 +51,8 @@ in supporting your child/ward in this journey.</p>
 <p>These are some useful resources for your reference:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Personal Learning Device Information Kiosk - Handy information concerning
-the usage of PLDs (<a href="https://sites.google.com/moe.edu.sg/smbsspldinfokiosk/home" rel="noopener noreferrer nofollow" target="_blank">PLD Information Kiosk</a>)
-Click link to access</p>
+<p><a href="https://sites.google.com/moe.edu.sg/smbsspldinfokiosk/home" rel="noopener nofollow" target="_blank">Personal Learning Device Information Kiosk</a>
+</p>
 </li>
 <li>
 <p><a href="/files/cyber-wellness-for-your-child.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent kit on Cyber Wellness for your Child</a>
@@ -64,7 +63,8 @@ Click link to access</p>
 </p>
 </li>
 <li>
-<p>Resources from Media Literacy Council (<a href="https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&amp;persona=parents" rel="noopener noreferrer nofollow" target="_blank">https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&amp;persona=parents</a>)</p>
+<p><a href="https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&amp;persona=parents" rel="noopener nofollow" target="_blank">Media Literacy Council</a>
+</p>
 </li>
 </ul>
 <p><strong>Updates</strong>
@@ -81,6 +81,6 @@ during Secondary 1 Parents' Engagement Session in January each year.</p>
 </ul>
 <p><strong>Enquiries</strong>
 </p>
-<p>Should there by any further enquiries, please feel free to email to us
+<p>Should there be any further enquiries, please feel free to email to us
 at&nbsp;<strong><em>sembawang_ss@moe.edu.sg</em></strong>
 </p>
