@@ -213,6 +213,6 @@ could apply for subsidies, particularly those whose Gross Household Income
 <p>Please approach the school General Office for more details.</p>
 </li>
 </ul>
-<h4> For more information on PLDs, please visit the <a href="https://sites.google.com/moe.edu.sg/smbsspldinfokiosk/home" rel="noopener nofollow" target="_blank">PLD Information Kiosk</a> microsite.</h4>
+<h4>For more information on PLDs, please visit the <a href="https://sites.google.com/moe.edu.sg/smbsspldinfokiosk/home" rel="noopener nofollow" target="_blank">PLD Information Kiosk</a> microsite.</h4>
 <p></p>
 <p></p>
