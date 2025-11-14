@@ -113,7 +113,7 @@ portal.</p>
 </ol>
 <p>**Insurance coverage is for the <strong>main device only</strong> and <strong>does not cover accessories</strong>
 </p>
-<ol data-tight="true" class="tight">
+<ol start="3" data-tight="true" class="tight">
 <li>
 <p><em>What is the expected shelf life of the device? What happens to the device after the student graduates?</em>
 </p>
