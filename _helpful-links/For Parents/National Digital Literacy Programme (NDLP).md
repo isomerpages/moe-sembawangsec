@@ -101,7 +101,7 @@ portal.</p>
 &amp; 1x USB Mouse)</p>
 </li>
 <li>
-<p>What does the warranty covers?</p>
+<p>What does the insurance &amp; warranty covers?</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/w1.png">
 </div>
