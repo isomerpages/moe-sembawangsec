@@ -27,9 +27,6 @@ Students may use funds from their Edusave Account&nbsp;to pay for the PLD.</p>
 <li>
 <p>Finance Related Questions</p>
 </li>
-<li>
-<p>PLD Information Kiosk</p>
-</li>
 </ul>
 <h4><strong>PLD Initiative:</strong></h4>
 <ol data-tight="true" class="tight">
@@ -144,5 +141,78 @@ are encouraged to purchase one through the school via the MOE Device Bulk
 Tender. Students who already own a device running on the same OS and do
 not wish to purchase another device will have to seek approval from the
 school before they can pursue this option.</p>
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p>What to do if device is damaged or lost?</p>
+</li>
+</ol>
+<p>Faulty Device: Students can bring the device to <a href="https://www.servlink.com.sg/pages/product-repair-support" rel="noopener nofollow" target="_blank">Lenovo Service Center</a> or
+pass the device to the school's ICT Helpdesk. A stand-in Chromebook will
+be loaned to student for curriculum use and must be returned on the day
+itself.</p>
+<p>Lost Device: Students to report incident to Form Teacher &amp; school
+ICT Helpdesk. Parent/Guardian to file an e-police report which is necessary
+for insurance claim &amp; email all supporting documents to Lenovo. Vendor
+will advise the parent accordingly. More details can be found on the
+<a href="https://sites.google.com/moe.edu.sg/smbsspldinfokiosk/home" rel="noopener nofollow" target="_blank">SMBSS PLD Information Kiosk</a>microsite.</p>
 <h4>Financial Related Questions:</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><em>What is the funding support for Singapore Citizen (SC) Students?</em>
+</p>
+</li>
+</ol>
+<p>The cost of the device bundle can be paid using your child’s/ward’s Edusave
+account, after setting aside provision for payment of miscellaneous fees</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>For SC students who are on MOE Financial Assistance Scheme or whose family’s
+monthly income meets the following criteria:</p>
+<p>&nbsp;Gross Household Income (GHI) ≤ $3,000, or Per Capita Income (PCI)
+≤ $750</p>
+<p>MOE will subsidise 50% of device bundle cost or $350, whichever is lower.
+The remaining amount will be payable from the students’ Edusave account.
+If there is insufficient balance in the students’ Edusave account for the
+remaining amount, MOE will provide additional subsidy so that the cash
+out-of-pocket (OOP) is $0.</p>
+</li>
+<li>
+<p>For SC students whose family’s monthly income is:</p>
+<p>$3,000 &lt; Gross Household Income (GHI) ≤ $4,400, or $750 &lt; Per Capita
+Income (PCI) ≤ $1,100</p>
+<p>MOE will subsidise 30% of device bundle cost or $200, whichever is lower.
+The remaining amount will be payable from the students’ Edusave account.
+If there is insufficient balance in the students’ Edusave account for the
+remaining amount, MOE will provide additional subsidy so that the cash
+out-of-pocket (OOP) is not more than $50.</p>
+</li>
+<li>
+<p>SC students whose family’s monthly Gross Household Income (GHI) &gt; $4,400
+or monthly Per Capita Income (PCI) &gt; $1,100, no subsidy will be provided.
+Parents/Guardians can use their child’s/ward’s Edusave or cash to defray
+the device bundle cost.</p>
+</li>
+<li>
+<p>Edusave Account Enquiry Hotline: <a href="tel:+6562600777" rel="noopener noreferrer nofollow" target="_blank"><u>6260 0777</u></a>
+</p>
+</li>
+</ul>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><em>What is the funding support for Non-Singapore Citizen Students?</em>
+</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Permanent residents (PR) and international students (IS) who need support
+could apply for subsidies, particularly those whose Gross Household Income
+(GHI) is below $4,400 or Per Capita Income (PCI) is below $1,100.</p>
+</li>
+<li>
+<p>Please approach the school General Office for more details.</p>
+</li>
+</ul>
+<h4> For more information on PLDs, please visit the <a href="https://sites.google.com/moe.edu.sg/smbsspldinfokiosk/home" rel="noopener nofollow" target="_blank">PLD Information Kiosk</a> microsite.</h4>
+<p></p>
 <p></p>
