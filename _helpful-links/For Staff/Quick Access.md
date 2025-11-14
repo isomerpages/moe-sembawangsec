@@ -32,6 +32,10 @@ third_nav_title: For Staff
 </p>
 </li>
 <li>
+<p><a href="https://www.office.com/" rel="noopener nofollow" target="_blank">Microsoft  365</a>
+</p>
+</li>
+<li>
 <p><a href="https://www.mesrc.net/" rel="noopener nofollow" target="_blank">MOE Sports and Recreation Club</a>
 </p>
 </li>
