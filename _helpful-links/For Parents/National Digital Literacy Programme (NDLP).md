@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: For Parents
 ---
-<h4>The National Digital Literacy Programme</h4>
+<h3>The National Digital Literacy Programme</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>The NDLP was launched in March 2020 to help students <strong>strengthen their digital literacy and</strong>  <strong>acquire digital skills </strong>needed
@@ -16,7 +16,7 @@ to navigate an increasingly digitalised world.</p>
 Students may use funds from their Edusave Account&nbsp;to pay for the PLD.</p>
 </li>
 </ul>
-<h4>FAQs</h4>
+<h3>FAQs</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>PLD Initiative</p>
@@ -31,8 +31,7 @@ Students may use funds from their Edusave Account&nbsp;to pay for the PLD.</p>
 <p>PLD Information Kiosk</p>
 </li>
 </ul>
-<p><strong>PLD Initiative:</strong>
-</p>
+<h4><strong>PLD Initiative:</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><em>How does the PLD Initiative impact Teaching and Learning (T&amp;L)?</em>
@@ -86,8 +85,7 @@ these accessories separately without purchasing the school-prescribed PLD,
 schools may advise them to do so via the respective vendor’s purchasing
 portal. However, EPF cannot be used for these purchases from the vendor’s
 portal.</p>
-<p><strong>Device Related Questions:</strong>
-</p>
+<h4><strong>Device Related Questions:</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><em>Which device model will the students be getting?</em>
@@ -146,3 +144,5 @@ are encouraged to purchase one through the school via the MOE Device Bulk
 Tender. Students who already own a device running on the same OS and do
 not wish to purchase another device will have to seek approval from the
 school before they can pursue this option.</p>
+<h4>Financial Related Questions:</h4>
+<p></p>
