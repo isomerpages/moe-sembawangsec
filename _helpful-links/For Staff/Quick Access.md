@@ -32,7 +32,15 @@ third_nav_title: For Staff
 </p>
 </li>
 <li>
-<p><a href="https://idp.mims.moe.gov.sg/nidp/app/login?locale=en_US" rel="noopener nofollow" target="_blank">MIMS Portal</a>
+<p><a href="https://www.mesrc.net/" rel="noopener nofollow" target="_blank">MOE Sports and Recreation Club</a>
+</p>
+</li>
+<li>
+<p><a href="https://idp.mims.moe.gov.sg/nidp/app/login?locale=en_US" rel="noopener nofollow" target="_blank">MOE Identity Management System (MIMS) Portal</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary/about/myskillsfuture-for-students.html" rel="noopener nofollow" target="_blank">My Skills Future (Students)</a>
 </p>
 </li>
 <li>
