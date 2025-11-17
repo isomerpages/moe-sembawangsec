@@ -209,10 +209,9 @@ the device bundle cost.</p>
 could apply for subsidies, particularly those whose Gross Household Income
 (GHI) is below $4,400 or Per Capita Income (PCI) is below $1,100.</p>
 </li>
-<li>
-<p>Please approach the school General Office for more details.</p>
-</li>
 </ul>
-<h4>For more information on PLDs, please visit the <a href="https://sites.google.com/moe.edu.sg/smbsspldinfokiosk/home" rel="noopener nofollow" target="_blank">PLD Information Kiosk</a> microsite.</h4>
+<p>For more details on the various types of financial aids, please approach
+the school <strong>General Office</strong> staff for assistance.</p>
+<h4>Visit the <a href="https://sites.google.com/moe.edu.sg/smbsspldinfokiosk/home" rel="noopener nofollow" target="_blank">PLD Information Kiosk</a> microsite for technical related topics.</h4>
 <p></p>
 <p></p>
