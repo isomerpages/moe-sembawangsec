@@ -147,9 +147,9 @@ school before they can pursue this option.</p>
 </li>
 </ol>
 <p>Faulty Device: Students can bring the device to <a href="https://www.servlink.com.sg/pages/product-repair-support" rel="noopener nofollow" target="_blank">Lenovo Service Center</a> or
-pass the device to the school's ICT Helpdesk. A stand-in Chromebook will
-be loaned to student for curriculum use and must be returned on the day
-itself.</p>
+hand the device over to the school's ICT Helpdesk. A stand-in Chromebook
+will be loaned to student for curriculum usage and must be returned on
+the day of loaning itself.</p>
 <p>Lost Device: Students to report incident to Form Teacher &amp; school
 ICT Helpdesk. Parent/Guardian to file an e-police report which is necessary
 for insurance claim &amp; email all supporting documents to Lenovo. Vendor
