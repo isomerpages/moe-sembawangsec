@@ -55,7 +55,7 @@ in supporting your child/ward in this journey.</p>
 </p>
 </li>
 <li>
-<p><a href="/national-digital-literacy-programme-ndlp/" rel="noopener nofollow" target="_blank">National Digital Learning Programme FAQs</a>
+<p><a href="/national-digital-literacy-programme-ndlp/" rel="noopener nofollow" target="_blank">FAQs on National Digital Learning Programme/PLDs</a>
 </p>
 </li>
 <li>
