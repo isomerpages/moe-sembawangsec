@@ -8,6 +8,14 @@ third_nav_title: For Staff
 <h4>Quick Access</h4>
 <ol data-tight="true" class="tight">
 <li>
+<p><a href="https://intranet.moe.gov.sg/itd/Pages/byte-it.aspx" rel="noopener nofollow" target="_blank">BYTE IT! (Bite size tech news &amp; tips - Intranet)</a>
+</p>
+</li>
+<li>
+<p><a href="https://intranet.moe.gov.sg/hronline/Pages/Home.aspx" rel="noopener nofollow" target="_blank">HR Online</a>
+</p>
+</li>
+<li>
 <p><a href="https://www.hrp.gov.sg/hrp/#/" rel="noopener nofollow" target="_blank">HRP Portal</a>
 </p>
 </li>
@@ -24,7 +32,19 @@ third_nav_title: For Staff
 </p>
 </li>
 <li>
-<p><a href="https://idp.mims.moe.gov.sg/nidp/app/login?locale=en_US" rel="noopener nofollow" target="_blank">MIMS Portal</a>
+<p><a href="https://www.office.com/" rel="noopener nofollow" target="_blank">Microsoft  365</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.mesrc.net/" rel="noopener nofollow" target="_blank">MOE Sports and Recreation Club</a>
+</p>
+</li>
+<li>
+<p><a href="https://idp.mims.moe.gov.sg/nidp/app/login?locale=en_US" rel="noopener nofollow" target="_blank">MOE Identity Management System (MIMS) Portal</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary/about/myskillsfuture-for-students.html" rel="noopener nofollow" target="_blank">My Skills Future (Students)</a>
 </p>
 </li>
 <li>
@@ -36,7 +56,7 @@ third_nav_title: For Staff
 </p>
 </li>
 <li>
-<p><a href="https://pair.gov.sg/login" rel="noopener nofollow" target="_blank">Pair Chat (Intranet)</a>
+<p><a href="https://pair.gov.sg/login" rel="noopener nofollow" target="_blank">Pair Chat (AI Assistant Bot - Intranet)</a>
 </p>
 </li>
 <li>
