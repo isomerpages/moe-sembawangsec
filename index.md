@@ -7,7 +7,7 @@ permalink: /
 notification: Sembawang Secondary School
 sections:
   - hero:
-      background: /images/Leaders___change_makers.gif
+      background: /images/SMB_Landingpage_Cover_gif.gif
       key_highlights:
         - title: PDLP
           description: Develop active learning
