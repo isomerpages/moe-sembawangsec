@@ -11,10 +11,10 @@ sections:
       key_highlights:
         - title: PDLP
           description: Develop Active Learning
-          url: ""
+          url: /curriculum/signatureprogramme/pearl/
         - title: Learning for Life Programme
           description: Developing Community Leaders
-          url: ""
+          url: /curriculum/signatureprogramme/learningforlifeprogramme/
   - resources:
       title: Announcements
       id: resources
