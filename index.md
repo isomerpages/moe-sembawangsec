@@ -4,10 +4,10 @@ title: Sembawang Secondary School
 description: Leaders & Change Makers
 image: /images/cropped-logo1-2021.jpg
 permalink: /
-notification: Sembawang Secondary School
+notification: ""
 sections:
   - hero:
-      background: /images/SMB_Landingpage_Cover_gif.gif
+      background: /images/Adobe_Express___Leaders___change_makers__1_.gif
       key_highlights:
         - title: PDLP
           description: Develop active learning
