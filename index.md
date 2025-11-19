@@ -8,13 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/Adobe_Express___Leaders___change_makers__1_.gif
-      key_highlights:
-        - title: PDLP
-          description: Develop active learning
-          url: /curriculum/Signature-Programme/pearl/
-        - title: Learning For Life Programme
-          description: Developing Community Leaders
-          url: /curriculum/Signature-Programme/learning-for-life-programme/
   - resources:
       title: Announcements
       id: resources
