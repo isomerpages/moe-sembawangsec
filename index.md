@@ -8,6 +8,13 @@ notification: ""
 sections:
   - hero:
       background: /images/Adobe_Express___Leaders___change_makers__1_.gif
+      key_highlights:
+        - title: PDLP
+          description: Develop Active Learning
+          url: ""
+        - title: Learning for Life Programme
+          description: Developing Community Leaders
+          url: ""
   - resources:
       title: Announcements
       id: resources
