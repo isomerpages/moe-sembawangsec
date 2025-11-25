@@ -5,5 +5,44 @@ variant: tiptap
 description: ""
 third_nav_title: For Students
 ---
-<h4><a href="https://sites.google.com/moe.edu.sg/smbsspldinfokiosk/home" rel="noopener nofollow" target="_blank">Personal Learning Device Information Kiosk</a></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Student_MIMS_Security_Questions_Setup_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">MIMS - Challenge Questions Setup Guide</a>
+</p>
+</li>
+<li>
+<p><a href="https://form.gov.sg/67fc86677b1d7d6a5dcfdc2f" rel="noopener nofollow" target="_blank">MIMS - Password Reset Request Form (Singpass required)</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary/about/myskillsfuture-for-students.html" rel="noopener nofollow" target="_blank">My SkillsFuture (Students)</a>
+</p>
+</li>
+<li>
+<p><a href="https://sites.google.com/moe.edu.sg/smbsspldinfokiosk/home" rel="noopener nofollow" target="_blank">Personal Learning Device Information Kiosk</a>
+</p>
+</li>
+<li>
+<p><a href="https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fworkspace.google.com%2Fdashboard&amp;dsh=S-2094166372%3A1764057374422461&amp;followup=https%3A%2F%2Fworkspace.google.com%2Fdashboard&amp;ifkv=ARESoU2Zigl_LJh7DgNs-4gHAwPORLzEVnjwPUUVLzRgzqpzuOYvn8Bo556f4OUAAeYcpnn3LuLwrg&amp;passive=1209600&amp;flowName=GlifWebSignIn&amp;flowEntry=ServiceLogin" rel="noopener nofollow" target="_blank">Student iCON Login Page (Google Workspace)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Student_iCON_Login_MIMS.pdf" rel="noopener noreferrer nofollow" target="_blank">Student iCON Login Guide - MIMS</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.learning.moe.edu.sg/" rel="noopener nofollow" target="_blank">Student Learning Space Login Page</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.learning.moe.edu.sg/students/password-and-technical-support/" rel="noopener nofollow" target="_blank">SLS Password &amp; Technical Support</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.sportsingapore.gov.sg/sport-education/sports-education-programme/" rel="noopener nofollow" target="_blank">Sports education programme</a>
+</p>
+</li>
+</ol>
+<p></p>
+<p></p>
 <p></p>
