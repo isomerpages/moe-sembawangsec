@@ -21,7 +21,6 @@ sections:
   - infopic:
       title: Uniform and Book Sale
       id: infopic
-      description: Click to find out more
       button: more
       url: /uniform-and-book-sale/
       image: /images/360_F_1244924142_vHrEw4PsPsgKn0CLJtPuDdsC8AjbUxmW.jpg
