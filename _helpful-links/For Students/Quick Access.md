@@ -39,7 +39,7 @@ third_nav_title: For Students
 </p>
 </li>
 <li>
-<p><a href="https://www.sportsingapore.gov.sg/sport-education/sports-education-programme/" rel="noopener nofollow" target="_blank">Sports education programme</a>
+<p><a href="https://www.sportsingapore.gov.sg/sport-education/sports-education-programme/" rel="noopener nofollow" target="_blank">Sports Education Programme</a>
 </p>
 </li>
 </ol>
