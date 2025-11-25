@@ -30,6 +30,24 @@ flat fee. The cost of shipping will be displayed before order payment)</p>
 </p>
 <p><strong>Book and Stationery Sale</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Sembawang_2026___Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist – Sec 2</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Sembawang_2026___Sec_3_R_10_11_25.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist – Sec 3</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Sembawang_2026___Sec_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist – Sec 4</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Sembawang_2026___Sec_5_R_10_11_25.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist – Sec 5</a>
+</p>
+</li>
+</ul>
 <p>For books and stationery purchase, you can either:</p>
 <ul data-tight="true" class="tight">
 <li>
