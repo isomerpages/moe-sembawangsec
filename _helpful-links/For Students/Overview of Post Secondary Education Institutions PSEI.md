@@ -5,7 +5,25 @@ description: ""
 variant: tiptap
 third_nav_title: For Students
 ---
-<h4><a href="https://www.moe.gov.sg/post-secondary/overview" rel="noopener nofollow" target="_blank">Overview of Post-Secondary Education Institutions (PSEI)</a></h4>
+<h4>Information on Post Secondary School Education</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">Course Finder (MOE)</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener nofollow" target="_blank">Joint Admissions Exercise (JAE)</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/post-secondary/overview" rel="noopener nofollow" target="_blank">Overview of Post-Secondary Education Institutions (PSEI)</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/schoolfinder" rel="noopener nofollow" target="_blank">School Finder (MOE)</a>
+</p>
+</li>
+</ul>
 <h4>Polytechnics</h4>
 <ol data-tight="true" class="tight">
 <li>
