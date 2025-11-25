@@ -1,6 +1,6 @@
 ---
 title: PEARL
-permalink: /curriculum/Signature-Programme/pearl/
+permalink: /curriculum/signatureprogramme/pearl/
 description: ""
 third_nav_title: Distinctive Programmes
 variant: tiptap

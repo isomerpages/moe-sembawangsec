@@ -1,6 +1,6 @@
 ---
 title: Learning for Life Programme
-permalink: /curriculum/Signature-Programme/learning-for-life-programme/
+permalink: /curriculum/signatureprogramme/learningforlifeprogramme/
 description: ""
 third_nav_title: Distinctive Programmes
 variant: tiptap
