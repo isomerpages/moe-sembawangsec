@@ -18,6 +18,14 @@ sections:
   - resources:
       title: Announcements
       id: resources
+  - infopic:
+      title: Uniform and Book Sale
+      id: infopic
+      description: Click to find out more
+      button: more
+      url: /uniform-and-book-sale/
+      image: /images/WhatsApp_Image_2025_11_25_at_15_29_45.jpg
+      alt: Image alt text
   - infobar:
       title: Follow us on Social Media
       id: infobar
