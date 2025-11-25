@@ -25,7 +25,17 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Low Chee Wai</p>
+<p>Mdm Jessie Koh</p>
+<p><a href="mailto:sembawang_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sembawang_ss@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Justin Lee Yong Kiang</p>
 <p><a href="mailto:sembawang_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sembawang_ss@moe.edu.sg</u></a>
 </p>
 </td>
@@ -36,16 +46,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr William Chan Ying Chung</p>
-<p><a href="mailto:sembawang_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sembawang_ss@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Jonah Lim Tuck Hway</p>
 <p><a href="mailto:sembawang_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sembawang_ss@moe.edu.sg</u></a>
 </p>
 </td>
