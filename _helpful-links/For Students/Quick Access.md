@@ -5,9 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: For Students
 ---
+<h4>Quick Access:</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Student_MIMS_Security_Questions_Setup_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">MIMS - Challenge Questions Setup Guide</a>
+<p><a href="https://idp.mims.moe.gov.sg/nidp/app/login?locale=en_US" rel="noopener nofollow" target="_blank">MOE Identity Management System (MIMS) Portal</a>
 </p>
 </li>
 <li>
@@ -27,10 +28,6 @@ third_nav_title: For Students
 </p>
 </li>
 <li>
-<p><a href="/files/Student_iCON_Login_MIMS.pdf" rel="noopener noreferrer nofollow" target="_blank">Student iCON Login Guide - MIMS</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.learning.moe.edu.sg/" rel="noopener nofollow" target="_blank">Student Learning Space Login Page</a>
 </p>
 </li>
@@ -43,6 +40,23 @@ third_nav_title: For Students
 </p>
 </li>
 </ol>
-<p></p>
-<p></p>
+<h4>Useful Resources:</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Student_MIMS_Security_Questions_Setup_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">MIMS - Challenge Questions Setup Guide</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Student_iCON_Login_MIMS.pdf" rel="noopener noreferrer nofollow" target="_blank">MIMS - Student iCON Login Guide</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1txITYjk4HZZUr7pPg1ZTs63sGExp97RE/view?usp=drive_link" rel="noopener nofollow" target="_blank">Microsoft Teams (Students)</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1XOgBadACly_DYAhKwH_pQ6UjGjWqfpHm/view?usp=drive_link" rel="noopener nofollow" target="_blank">Student iCON (Mail) Backup Guide</a>
+</p>
+</li>
+</ol>
 <p></p>
