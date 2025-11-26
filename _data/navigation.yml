@@ -10,3 +10,5 @@ links:
     collection: smbss-experience
   - title: Helpful Links
     collection: helpful-links
+  - title: Secondary One Reg
+    resource_room: true
