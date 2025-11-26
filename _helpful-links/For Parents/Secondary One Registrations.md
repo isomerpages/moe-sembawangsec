@@ -1,9 +1,0 @@
----
-title: Secondary One Registrations
-permalink: /secondary-one-registrations/
-variant: tiptap
-description: ""
-third_nav_title: For Parents
----
-<h4>Click <a href="https://www.sembawangsec.moe.edu.sg/resource/secondary-one-registration/" rel="noopener nofollow" target="_blank">here</a> to access all relevant resources on Secondary One registration.</h4>
-<p></p>
