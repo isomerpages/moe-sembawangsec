@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: For Students
 ---
-<h4>Quick Access:</h4>
+<h4>Quick Links:</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="https://idp.mims.moe.gov.sg/nidp/app/login?locale=en_US" rel="noopener nofollow" target="_blank">MOE Identity Management System (MIMS) Portal</a>
