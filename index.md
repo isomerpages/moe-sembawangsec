@@ -15,6 +15,9 @@ sections:
         - title: Learning for Life Programme
           description: Developing Community Leaders
           url: /curriculum/signatureprogramme/learningforlifeprogramme/
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: https://www.sembawangsec.moe.edu.sg/resource/secondary-one-registration/
   - resources:
       title: Announcements
       id: resources
