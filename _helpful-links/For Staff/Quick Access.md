@@ -82,7 +82,7 @@ third_nav_title: For Staff
 </p>
 </li>
 </ol>
-<h4>Misc: </h4>
+<h4>Misc:</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="https://forms.gle/faJUztT2Me6U4meP9" rel="noopener nofollow" target="_blank">ICT Fault Reporting Form</a>
