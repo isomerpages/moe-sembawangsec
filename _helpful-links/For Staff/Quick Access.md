@@ -5,7 +5,18 @@ variant: tiptap
 description: ""
 third_nav_title: For Staff
 ---
-<h4>Quick Access</h4>
+<h4>Human Resource:</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="https://intranet.moe.gov.sg/hronline/Pages/Home.aspx" rel="noopener nofollow" target="_blank">HR Online</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.hrp.gov.sg/hrp/#/" rel="noopener nofollow" target="_blank">HRP Portal</a>
+</p>
+</li>
+</ol>
+<h4>MOE Applications:</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="https://forms.moe.edu.sg/" rel="noopener nofollow" target="_blank">All Ears Form Builder</a>
@@ -16,11 +27,7 @@ third_nav_title: For Staff
 </p>
 </li>
 <li>
-<p><a href="https://intranet.moe.gov.sg/hronline/Pages/Home.aspx" rel="noopener nofollow" target="_blank">HR Online</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.hrp.gov.sg/hrp/#/" rel="noopener nofollow" target="_blank">HRP Portal</a>
+<p><a href="https://form.gov.sg/login" rel="noopener nofollow" target="_blank">FormSG</a>
 </p>
 </li>
 <li>
@@ -28,35 +35,11 @@ third_nav_title: For Staff
 </p>
 </li>
 <li>
-<p><a href="https://forms.gle/faJUztT2Me6U4meP9" rel="noopener nofollow" target="_blank">ICT Fault Reporting Form</a>
-</p>
-</li>
-<li>
-<p><a href="https://iexams.seab.gov.sg/sso/login" rel="noopener nofollow" target="_blank">iExams2</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.office.com/" rel="noopener nofollow" target="_blank">Microsoft 365</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.mesrc.net/" rel="noopener nofollow" target="_blank">MOE Sports and Recreation Club</a>
-</p>
-</li>
-<li>
 <p><a href="https://idp.mims.moe.gov.sg/nidp/app/login?locale=en_US" rel="noopener nofollow" target="_blank">MOE Identity Management System (MIMS) Portal</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary/about/myskillsfuture-for-students.html" rel="noopener nofollow" target="_blank">My Skills Future (Students)</a>
-</p>
-</li>
-<li>
 <p><a href="https://idm.opal2.moe.edu.sg/Account/Login?ReturnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fresponse_type%3Dcode%26client_id%3DOpal2WebApp%26state%3DbXJKZlUyQ3FSdnVaOVJCUGdIckFNd0Y1SVc2RWY2Wlpra1hVa05QaER0TTFF%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fapp%252Findex.html%26scope%3Droles%2520profile%2520cxprofile%2520openid%2520cxDomainInternalApi%26code_challenge%3DlyC7MJpOMjGHhULCBR5lVdwojyqX-brD8Ti24V8Gb2M%26code_challenge_method%3DS256%26nonce%3DbXJKZlUyQ3FSdnVaOVJCUGdIckFNd0Y1SVc2RWY2Wlpra1hVa05QaER0TTFF" rel="noopener nofollow" target="_blank">OPAL 2.0</a>
-</p>
-</li>
-<li>
-<p><a href="https://pg.moe.edu.sg/" rel="noopener nofollow" target="_blank">Parents Gateway</a>
 </p>
 </li>
 <li>
@@ -67,8 +50,19 @@ third_nav_title: For Staff
 <p><a href="https://intranet.moe.gov.sg/my-workspace-admin/Pages/applications/index.aspx" rel="noopener nofollow" target="_blank">Quick Links to All MOE Apps (Intranet)</a>
 </p>
 </li>
+</ol>
+<h4>Teaching &amp; Learning:</h4>
+<ol data-tight="true" class="tight">
 <li>
-<p><a href="https://rbs.avero-tech.com/login.html" rel="noopener nofollow" target="_blank">Resource Booking System</a>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary/about/myskillsfuture-for-students.html" rel="noopener nofollow" target="_blank">My Skills Future (Students)</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.mesrc.net/" rel="noopener nofollow" target="_blank">MOE Sports and Recreation Club</a>
+</p>
+</li>
+<li>
+<p><a href="https://pg.moe.edu.sg/" rel="noopener nofollow" target="_blank">Parents Gateway</a>
 </p>
 </li>
 <li>
@@ -86,6 +80,22 @@ third_nav_title: For Staff
 <li>
 <p><a href="https://www.seab.gov.sg/" rel="noopener nofollow" target="_blank">SEAB</a>
 </p>
+</li>
+</ol>
+<h4>Misc: </h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="https://forms.gle/faJUztT2Me6U4meP9" rel="noopener nofollow" target="_blank">ICT Fault Reporting Form</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.office.com/" rel="noopener nofollow" target="_blank">Microsoft 365 Login</a>
+</p>
+</li>
+<li>
+<p><a href="https://rbs.avero-tech.com/login.html" rel="noopener nofollow" target="_blank">Resource Booking System</a>
+</p>
+<p></p>
 </li>
 </ol>
 <p></p>
