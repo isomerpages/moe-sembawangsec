@@ -8,6 +8,10 @@ third_nav_title: For Staff
 <h4>Quick Access</h4>
 <ol data-tight="true" class="tight">
 <li>
+<p><a href="https://forms.moe.edu.sg/" rel="noopener nofollow" target="_blank">All Ears Form Builder</a>
+</p>
+</li>
+<li>
 <p><a href="https://intranet.moe.gov.sg/itd/Pages/byte-it.aspx" rel="noopener nofollow" target="_blank">BYTE IT! (Bite size tech news &amp; tips - Intranet)</a>
 </p>
 </li>
@@ -32,7 +36,7 @@ third_nav_title: For Staff
 </p>
 </li>
 <li>
-<p><a href="https://www.office.com/" rel="noopener nofollow" target="_blank">Microsoft  365</a>
+<p><a href="https://www.office.com/" rel="noopener nofollow" target="_blank">Microsoft 365</a>
 </p>
 </li>
 <li>
@@ -65,6 +69,10 @@ third_nav_title: For Staff
 </li>
 <li>
 <p><a href="https://rbs.avero-tech.com/login.html" rel="noopener nofollow" target="_blank">Resource Booking System</a>
+</p>
+</li>
+<li>
+<p><a href="https://scmobile.moe.edu.sg/login" rel="noopener nofollow" target="_blank">SC Mobile</a>
 </p>
 </li>
 <li>
