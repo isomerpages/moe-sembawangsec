@@ -12,9 +12,6 @@ sections:
         - title: PDLP
           description: Develop Active Learning
           url: /curriculum/signatureprogramme/pearl/
-        - title: Secondary One Registrations
-          description: "2026"
-          url: https://www.sembawangsec.moe.edu.sg/resource/secondary-one-registration/
         - title: Learning for Life Programme
           description: Developing Community Leaders
           url: /curriculum/signatureprogramme/learningforlifeprogramme/
