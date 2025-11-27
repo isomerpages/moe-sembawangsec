@@ -40,7 +40,7 @@ third_nav_title: For Students
 </p>
 </li>
 </ol>
-<h4>Useful Resources:</h4>
+<h4>Guides &amp; References:</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="/files/Student_MIMS_Security_Questions_Setup_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">MIMS - Challenge Questions Setup Guide</a>
