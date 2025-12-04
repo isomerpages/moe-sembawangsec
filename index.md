@@ -16,7 +16,7 @@ sections:
           description: Developing Community Leaders
           url: /curriculum/signatureprogramme/learningforlifeprogramme/
   - resources:
-      title: Announcements
+      title: Highlights
       id: resources
   - infopic:
       title: Uniform and Book Sale
