@@ -50,6 +50,10 @@ third_nav_title: For Staff
 <p><a href="https://intranet.moe.gov.sg/my-workspace-admin/Pages/applications/index.aspx" rel="noopener nofollow" target="_blank">Quick Links to All MOE Apps (Intranet)</a>
 </p>
 </li>
+<li>
+<p><a href="https://www.smartcompose.gov.sg/" rel="noopener nofollow" target="_blank">Smart Compose (Intranet)</a>
+</p>
+</li>
 </ol>
 <h4>Teaching &amp; Learning:</h4>
 <ol data-tight="true" class="tight">
