@@ -2,7 +2,6 @@ collections:
   smbss-experience:
     output: true
     order:
-      - Life in Sembawang.md
       - English Language & English Literature.md
       - Mathematics.md
       - Science.md
@@ -20,3 +19,4 @@ collections:
       - Distinctive Programmes/.keep
       - Distinctive Programmes/Learning for Life Programme.md
       - Distinctive Programmes/PEARL.md
+      - Life in Sembawang.md
