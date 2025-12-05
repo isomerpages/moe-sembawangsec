@@ -2,6 +2,7 @@ collections:
   smbss-experience:
     output: true
     order:
+      - Life in Sembawang.md
       - English Language & English Literature.md
       - Mathematics.md
       - Science.md
