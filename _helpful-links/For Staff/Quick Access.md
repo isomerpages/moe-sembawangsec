@@ -51,6 +51,10 @@ third_nav_title: For Staff
 </p>
 </li>
 <li>
+<p><a href="https://rbs.avero-tech.com/login.html" rel="noopener nofollow" target="_blank">Resource Booking System (RBS)</a>
+</p>
+</li>
+<li>
 <p><a href="https://www.smartcompose.gov.sg/" rel="noopener nofollow" target="_blank">Smart Compose (Intranet)</a>
 </p>
 </li>
@@ -95,10 +99,7 @@ third_nav_title: For Staff
 <li>
 <p><a href="https://www.office.com/" rel="noopener nofollow" target="_blank">Microsoft 365 Login</a>
 </p>
-</li>
-<li>
-<p><a href="https://rbs.avero-tech.com/login.html" rel="noopener nofollow" target="_blank">Resource Booking System</a>
-</p>
+<p></p>
 <p></p>
 </li>
 </ol>
