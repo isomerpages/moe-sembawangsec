@@ -63,6 +63,6 @@ flat fee. The cost of shipping will be displayed before order payment)</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Books.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Books_and_Uniforms_2025.png">
 </div>
 <p></p>
