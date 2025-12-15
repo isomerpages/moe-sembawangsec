@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Adobe_Express___Leaders___change_makers__1_.gif
+      background: /images/Banner___Leaders___change_makers.gif
       key_highlights:
         - title: PDLP
           description: Develop Active Learning
