@@ -9,22 +9,15 @@ sections:
   - hero:
       background: /images/Adobe_Express___Leaders___change_makers__1_.gif
       key_highlights:
-        - title: GCE N Level Results Release 2025
-          description: 18th December 2025
-          url: /release-of-gce-n-level-examination-results-2025/
-        - title: Uniform & Book Sale 2026
-          description: Find Out More
-          url: /uniform-and-book-sale/
+        - title: PDLP
+          description: Develop Active Learning
+          url: /curriculum/signatureprogramme/pearl/
+        - title: Learning for Life Programme
+          description: Developing Community Leaders
+          url: /curriculum/signatureprogramme/learningforlifeprogramme/
   - resources:
-      title: Highlights
+      title: Announcements
       id: resources
-  - infopic:
-      title: Uniform and Book Sale
-      id: infopic
-      button: more
-      url: /uniform-and-book-sale/
-      image: /images/360_F_1244924142_vHrEw4PsPsgKn0CLJtPuDdsC8AjbUxmW.jpg
-      alt: Image alt text
   - infobar:
       title: Follow us on Social Media
       id: infobar
