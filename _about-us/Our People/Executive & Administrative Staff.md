@@ -178,4 +178,38 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
+<p><strong>MRL &amp; Support Staff</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Librarian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Mazlina Wahab</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Khairul Zahier</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Melvin Ting Qi Han</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>

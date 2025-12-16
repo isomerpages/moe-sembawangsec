@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Adobe_Express___Leaders___change_makers__1_.gif
+      background: /images/Leaders___change_makers__3_.gif
       key_highlights:
         - title: PDLP
           description: Develop Active Learning
@@ -18,13 +18,6 @@ sections:
   - resources:
       title: Announcements
       id: resources
-  - infopic:
-      title: Uniform and Book Sale
-      id: infopic
-      button: more
-      url: /uniform-and-book-sale/
-      image: /images/360_F_1244924142_vHrEw4PsPsgKn0CLJtPuDdsC8AjbUxmW.jpg
-      alt: Image alt text
   - infobar:
       title: Follow us on Social Media
       id: infobar
