@@ -7,11 +7,11 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner___Leaders___change_makers.gif
+      background: /images/Adobe_Express___Leaders___change_makers__1_.gif
       key_highlights:
-        - title: PDLP
-          description: Develop Active Learning
-          url: /curriculum/signatureprogramme/pearl/
+        - title: GCE N Level Results Release 2025
+          description: 18th December 2025
+          url: /release-of-gce-n-level-examination-results-2025/
         - title: Learning for Life Programme
           description: Developing Community Leaders
           url: /curriculum/signatureprogramme/learningforlifeprogramme/
