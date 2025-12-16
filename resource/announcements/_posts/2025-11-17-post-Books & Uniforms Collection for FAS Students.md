@@ -14,7 +14,4 @@ Your child will only be able to use his/ her Student Smart Card (Ezlink
 Card) to purchase food in the school canteen. Please ask your child to
 bring his/her own Ezlink card to the General Office to activate for the
 Meal Subsidy System on the same day.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FAS.png">
-</div>
 <p></p>
