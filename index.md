@@ -14,7 +14,7 @@ sections:
           url: /release-of-gce-n-level-examination-results-2025/
         - title: Uniform & Book Sale 2026
           description: Find Out More
-          url: /curriculum/signatureprogramme/learningforlifeprogramme/
+          url: /uniform-and-book-sale/
   - resources:
       title: Highlights
       id: resources
