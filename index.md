@@ -12,8 +12,8 @@ sections:
         - title: GCE N Level Results Release 2025
           description: 18th December 2025
           url: /release-of-gce-n-level-examination-results-2025/
-        - title: Learning for Life Programme
-          description: Developing Community Leaders
+        - title: Uniform & Book Sale 2026
+          description: Find Out More
           url: /curriculum/signatureprogramme/learningforlifeprogramme/
   - resources:
       title: Highlights
