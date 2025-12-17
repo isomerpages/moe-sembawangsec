@@ -63,4 +63,4 @@ Education.</p>
 </p>
 <p>Students who intent to transfer out to another school are required to
 submit the completed and endorsed form<strong> “Annex G” </strong>from
-the receiving school to our school’s General Officeto effect the transfer.</p>
+the receiving school to our school’s General Office to effect the transfer.</p>
