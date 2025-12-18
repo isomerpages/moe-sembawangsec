@@ -51,7 +51,7 @@ thoroughly.</p>
 </p>
 <p>Students who wish to request for a transfer to Sembawang Secondary School
 may use the online form<strong> </strong>to submit your application.</p>
-<p>School Transfer form : <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/schooltransfer-smbss</a>
+<p>School Transfer form : <a href="https://go.gov.sg/schooltransfer-smbss" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/schooltransfer-smbss</a>
 </p>
 <p>The transfer appeal outcome will be dependent on available vacancies and
 the school’s admission criteria.</p>
