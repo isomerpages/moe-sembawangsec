@@ -7,15 +7,13 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>Welcome to Sembawang Secondary School!</strong>
-</p>
+<h3><strong>Welcome to Sembawang Secondary School!</strong></h3>
 <p>Dear students, congratulations on your posting to Sembawang Secondary
 School. As you embark on a new and exciting phase of your education journey,
 we are delighted to welcome you into the Sembawang family. We look forward
 to partnering you and your parents in nurturing you to become Leaders and
 Change Makers who <em>Strive, Serve and Soar</em>.</p>
-<p><strong>Secondary One e-Registration</strong>
-</p>
+<h4><strong>1. Secondary One e-Registration</strong></h4>
 <p>Please note that e-Registration for all new Secondary One students will
 be conducted on Friday, 19 December 2025. There is no need to report to
 the school physically on that day.</p>
@@ -45,9 +43,8 @@ thoroughly.</p>
 <p><strong>Note: All parents must register their child/ward, even if they wish to transfer their child/ward out for non-medical reasons. Students seeking transfers should continue to attend their posted secondary school until the transfer is approved.</strong>
 </p>
 <p></p>
-<p><strong>Application for School Transfer (Non-Medical)</strong>
-</p>
-<p><strong><u>Transfer In Application</u></strong>
+<h4><strong>2. Application for School Transfer (Non-Medical)</strong></h4>
+<p><strong>a. <u>Transfer In Application</u></strong>
 </p>
 <p>Students who wish to request for a transfer to Sembawang Secondary School
 may use the online form<strong> </strong>to submit your application.</p>
@@ -59,7 +56,7 @@ the school’s admission criteria.</p>
 result of the appeal will only be released <u>after</u>  <strong>30 Dec 2025 </strong>following
 the outcome of the Medical Appeal Exercise conducted by the Ministry of
 Education.</p>
-<p><strong><u>Transfer Out Application</u></strong>
+<p><strong>b. <u>Transfer Out Application</u></strong>
 </p>
 <p>Students who intent to transfer out to another school are required to
 submit the completed and endorsed form<strong> “Annex G” </strong>from
