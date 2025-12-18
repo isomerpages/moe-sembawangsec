@@ -15,6 +15,9 @@ sections:
         - title: Learning for Life Programme
           description: Developing Community Leaders
           url: /curriculum/signatureprogramme/learningforlifeprogramme/
+        - title: Secondary One Registration 2026
+          description: Registration Process
+          url: https://www.sembawangsec.moe.edu.sg/secondary-one-registration-2026/
   - resources:
       title: Announcements
       id: resources
