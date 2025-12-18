@@ -59,5 +59,5 @@ Education.</p>
 <p><strong>b. <u>Transfer Out Application</u></strong>
 </p>
 <p>Students who intent to transfer out to another school are required to
-submit the completed and endorsed form<strong> “Annex G” </strong>from
+submit the completed and endorsed form<strong> “Annex F” </strong>from
 the receiving school to our school’s General Office to effect the transfer.</p>
