@@ -22,8 +22,8 @@ the school physically on that day.</p>
 <p>Parents/guardians to complete the e-Registration via Parents Gateway.</p>
 </li>
 <li>
-<p>The e-Registration portal will open on Friday, <strong>19 December 2025</strong>  <strong>from 5.00pm onwards</strong>
-</p>
+<p>Parents/guardians will receive a notification on Parent Gateway on <strong>19 December 2025</strong> at <strong>5.00pm</strong> to
+complete the e-registration.</p>
 </li>
 <li>
 <p>Please submit the e-Registration by Monday, <strong>22 December 2025, 5:00 pm.</strong>
