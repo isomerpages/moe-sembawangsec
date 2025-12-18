@@ -33,7 +33,7 @@ the school physically on that day.</p>
 </li>
 <li>
 <p>More information (e.g Purchase of Books/Uniform) can be found in the Parent <em>Information Kit for Secondary One Registration </em>in
-the <em><u>link.</u></em>
+the <em><a href="/files/2026_Secondary_1_Registration_Parent_Information_Kit.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a><u>.</u></em>
 </p>
 </li>
 </ul>
