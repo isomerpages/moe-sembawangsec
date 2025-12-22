@@ -35,7 +35,7 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Justin Lee Yong Kiang</p>
+<p>Mr William Chan Ying Chung</p>
 <p><a href="mailto:sembawang_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sembawang_ss@moe.edu.sg</u></a>
 </p>
 </td>
@@ -45,7 +45,7 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr William Chan Ying Chung</p>
+<p>Mr Jonah Lim Tuck Hway</p>
 <p><a href="mailto:sembawang_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sembawang_ss@moe.edu.sg</u></a>
 </p>
 </td>
