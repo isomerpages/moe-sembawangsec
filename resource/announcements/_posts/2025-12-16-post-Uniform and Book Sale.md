@@ -32,6 +32,10 @@ flat fee. The cost of shipping will be displayed before order payment)</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Sembawang_2026___Sec_1_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist - Sec 1</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Sembawang_2026___Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist – Sec 2</a>
 </p>
 </li>
