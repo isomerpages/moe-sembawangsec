@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Leaders___change_makers__3_.gif
+      background: /images/Banner_GIF.gif
       key_highlights:
         - title: PDLP
           description: Develop Active Learning
