@@ -55,16 +55,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Yegambaram Sankaran</p>
-<p><a href="mailto:yegambaram_t_v_sankaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yegambaram_t_v_sankaran@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -79,9 +69,7 @@ third_nav_title: Our People
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rosalind Chay Suet Fen</p>
-<p><a href="mailto:chay_suet_fei_rosalind@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chay_suet_fei_rosalind@moe.edu.sg</a>
-</p>
+<p>Ms Heng Sock Mun</p>
 </td>
 </tr>
 <tr>
@@ -174,6 +162,14 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Allen Ang Chee Huat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Siew Lan Jessie</p>
 </td>
 </tr>
 </tbody>
