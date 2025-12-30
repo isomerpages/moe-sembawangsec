@@ -87,6 +87,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Subject Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Victor Joseph Francis</p>
+<p><a href="mailto:victor_joseph_francis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">victor_joseph_francis@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><em>Mathematics</em>
 </p>
 </td>
@@ -291,17 +301,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Department</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ong Wei Jin</p>
-<p><a href="mailto:ong_wei_jin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_wei_jin@moe.edu.sg</a>
-</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Subject Head</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -374,6 +373,26 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Sumithra Nair</p>
 <p><a href="mailto:sumithra_nair_venu_gopal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sumithra_nair_venu_gopal@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nurhafeza Hanem</p>
+<p><a href="mailto:nurhafeza_hanem_a_azal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurhafeza_hanem_a_azal@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Christine Tan Cheng Gek</p>
+<p><a href="mailto:tan_cheng_gek_christine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_cheng_gek_christine@moe.edu.sg</a>
 </p>
 </td>
 </tr>
