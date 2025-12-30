@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<h2>School Management Committee 2025</h2>
+<h2>School Management Committee 2026</h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -439,16 +439,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Rahim Sal</p>
 <p><a href="mailto:rahim_sal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rahim_sal@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Yegambaram Sankaran</p>
-<p><a href="mailto:yegambaram_t_v_sankaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yegambaram_t_v_sankaran@moe.edu.sg</a>
 </p>
 </td>
 </tr>
