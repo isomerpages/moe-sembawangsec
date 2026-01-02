@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: tiptap
 ---
-<p>The Infocomm Club is a CCA which plays an essential role in recording
+<p>The MediaComm Club is a CCA which plays an essential role in recording
 the school’s events and activities via videography.&nbsp; The club also
 aims to develop the videographic skills of the members by providing opportunities
 to gain exposure through competitions with other schools.</p>
@@ -68,12 +68,12 @@ in the future when they become experts in their respective fields.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Alex (Teacher OIC)</p>
+<p>Mr Alex Choh (Teacher OIC)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chong</p>
+<p>Mdm Majidah Mahmood</p>
 </td>
 </tr>
 </tbody>
