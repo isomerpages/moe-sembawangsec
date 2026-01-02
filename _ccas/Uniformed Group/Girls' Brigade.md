@@ -55,10 +55,10 @@ and as a team</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wednesday</p>
+<p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00 - 5:30 PM</p>
+<p>1:30 - 5:00 PM</p>
 </td>
 </tr>
 </tbody>
@@ -71,17 +71,17 @@ and as a team</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Fong (Teacher OIC)</p>
+<p>Ms Fong Man Lin (Teacher OIC)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cai</p>
+<p>Ms Cai Xinyu</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Lee</p>
+<p>Ms Lee Wen Jie</p>
 </td>
 </tr>
 </tbody>
