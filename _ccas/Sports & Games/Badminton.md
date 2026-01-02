@@ -66,22 +66,22 @@ experiences.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhou (Teacher OIC)</p>
+<p>Mdm Zhou Yiting (Teacher OIC)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Adeline</p>
+<p>Ms Adeline Lim</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Samantha</p>
+<p>Ms Samantha Lim</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ng</p>
+<p>Mr Ng Chao Xiang</p>
 </td>
 </tr>
 </tbody>
