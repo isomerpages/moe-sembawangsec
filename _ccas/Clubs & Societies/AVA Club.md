@@ -68,17 +68,17 @@ juniors and work as a cohesive and disciplined team.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ching (Teacher OIC)&nbsp;</p>
+<p>Ms Ching Qing Ting (Teacher OIC)&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Yeo&nbsp;&nbsp;</p>
+<p>Mdm Yeo&nbsp;Moei Leng</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Esther</p>
+<p>Ms Esther Tan</p>
 </td>
 </tr>
 </tbody>

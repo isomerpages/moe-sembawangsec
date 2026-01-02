@@ -66,12 +66,12 @@ friendships among their peers.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Eu (Teacher OIC)</p>
+<p>Ms Caroline Eu (Teacher OIC)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Zaetun</p>
+<p>Mdm Ng Mei Ferng</p>
 </td>
 </tr>
 <tr>

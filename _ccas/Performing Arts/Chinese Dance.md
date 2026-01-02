@@ -64,12 +64,12 @@ students will be able to master and appreciate the art of Chinese Dance.&nbsp;</
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ang (Teacher OIC)</p>
+<p>Ms Ang Lee Yong (Teacher OIC)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ding</p>
+<p>Ms Ding Moy Lee</p>
 </td>
 </tr>
 </tbody>

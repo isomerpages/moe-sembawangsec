@@ -72,12 +72,17 @@ Band has attained Accomplishment status for the year, 2021 and 2023</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan (Teacher OIC)</p>
+<p>Ms Christine Tan (Teacher OIC)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ho</p>
+<p>Mdm Ho Yam Chiew</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Munirah Saini</p>
 </td>
 </tr>
 </tbody>

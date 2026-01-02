@@ -64,7 +64,7 @@ up various leadership roles in the CCA.</p>
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1:00 - 3:00 PM</p>
+<p>1:30 - 3:30 PM</p>
 </td>
 </tr>
 </tbody>
@@ -88,6 +88,11 @@ up various leadership roles in the CCA.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Eunice Yeo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wanda Loh</p>
 </td>
 </tr>
 </tbody>
