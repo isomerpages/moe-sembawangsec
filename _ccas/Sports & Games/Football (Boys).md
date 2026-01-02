@@ -105,7 +105,7 @@ positively to the school community</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Koh</p>
+<p>Ms Koh Yu Qi</p>
 </td>
 </tr>
 </tbody>
