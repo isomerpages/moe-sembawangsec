@@ -63,7 +63,7 @@ as the National School Games, and friendly matches</p>
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.30 – 3:30 PM</p>
+<p>1.30 – 4:00 PM</p>
 <p>3:30 - 5:30 PM</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -81,12 +81,12 @@ as the National School Games, and friendly matches</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chen(Teacher OIC)</p>
+<p>Ms Jessica Chen (Teacher OIC)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Guan</p>
+<p>Mdm Guan Qiuhua</p>
 </td>
 </tr>
 <tr>
