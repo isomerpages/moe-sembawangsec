@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<h2>School Management Committee 2025</h2>
+<h2>School Management Committee 2026</h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -25,7 +25,7 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jessie Koh</p>
+<p>Mr Low Chee Wai</p>
 <p><a href="mailto:sembawang_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sembawang_ss@moe.edu.sg</u></a>
 </p>
 </td>
@@ -82,6 +82,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Muthamil Selvi</p>
 <p><a href="mailto:muthamil_selvi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muthamil_selvi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Victor Joseph Francis</p>
+<p><a href="mailto:victor_joseph_francis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">victor_joseph_francis@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -291,17 +301,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Department</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ong Wei Jin</p>
-<p><a href="mailto:ong_wei_jin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_wei_jin@moe.edu.sg</a>
-</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Subject Head</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -377,6 +376,26 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nurhafeza Hanem</p>
+<p><a href="mailto:nurhafeza_hanem_a_azal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurhafeza_hanem_a_azal@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Christine Tan Cheng Gek</p>
+<p><a href="mailto:tan_cheng_gek_christine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_cheng_gek_christine@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">
@@ -420,16 +439,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Rahim Sal</p>
 <p><a href="mailto:rahim_sal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rahim_sal@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Yegambaram Sankaran</p>
-<p><a href="mailto:yegambaram_t_v_sankaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yegambaram_t_v_sankaran@moe.edu.sg</a>
 </p>
 </td>
 </tr>
