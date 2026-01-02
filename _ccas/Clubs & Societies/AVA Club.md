@@ -68,7 +68,7 @@ juniors and work as a cohesive and disciplined team.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ching Qing Ting(Teacher OIC)&nbsp;</p>
+<p>Ms Ching Qing Ting (Teacher OIC)&nbsp;</p>
 </td>
 </tr>
 <tr>
