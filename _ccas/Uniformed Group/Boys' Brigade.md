@@ -87,17 +87,12 @@ their secondary school journey.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chua</p>
+<p>Mr Chua Micaiah</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jenny Kho</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tan&nbsp;XY</p>
+<p>Ms Tan&nbsp;Xin Yi</p>
 </td>
 </tr>
 </tbody>
