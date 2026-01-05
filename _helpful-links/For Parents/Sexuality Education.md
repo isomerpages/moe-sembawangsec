@@ -44,12 +44,9 @@ and</p>
 <p>(d) Abstinence before marriage is the best protection against STIs/HIV
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones</p>
-<p>
-<br>
-</p>
+<p></p>
 <p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.</p>
-<p></p>
 <p></p>
 <p><strong>Overview of Sembawang Secondary School’s Sexuality Education Programme for 2026</strong>
 <br>
@@ -102,148 +99,11 @@ issues related to sexuality, which are of prime concern at this age</p>
 <br><strong>Secondary 1</strong>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s1.png">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s12.png">
-</div>
 <p><strong>Secondary 2</strong>
 </p>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Unit</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Lesson Title / Duration</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Lesson Overview</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Lesson Objectives</strong> 
-<br>At the end of the lesson, students will be able to:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Time Period</strong> 
-<br>(e.g. Term 1 Week 2)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>Respectful Relationships &amp; Safety</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A Role for Everyone Lesson 1
-<br>(60&nbsp; mins)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This lesson focus on how the family, culture and society can influence
-one’s perception of their gender roles. Students will learn what gender
-stereotypes are (e.g. males traditionally as breadwinners and females traditionally
-as doing household chores) and how gender stereotypes are formed. &nbsp;Students
-will discuss how one’s understanding of gender roles should not be limited
-by gender stereotypes, for example women can be pilots, while men can be
-nurses.</p>
-<p>Students learn to focus on their personal strengths to pursue their interests
-and build their self- confidence.</p>
-<p>Students will also learn about the definitions of biological sex, gender
-identity, gender expression and sexual orientation. They will learn to
-treat everyone with respect and empathy.</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>know that one’s understanding of gender roles should not be limited by
-gender stereotypes</p>
-</li>
-<li>
-<p>develop an appreciation of one’s own unique qualities and characteristics
-as a male or female</p>
-</li>
-<li>
-<p>understand what sexual orientation entails</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3 Week 3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Online Safety Challenge Lesson 2A
-<br>(60 mins)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This lesson focuses on the issue of online grooming and cyber-flashing.
-It emphasises the need for help-seeking, peer support and positive peer
-influence. The lesson encourages the safe and responsible use of social
-media, and aims to deepen students’ conviction, and extend a call to action
-to students to taking appropriate decisions to safeguard their well-being
-and safety.</p>
-<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>recognise one’s vulnerability to risky situations and the importance of
-exercising discretion to reduce risks and avoid negative consequences,
-both online and offline</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Do I or Don’t I Lesson 2B
-<br>(60 mins)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This lesson focuses on respect for personal boundaries; and how to be
-safe from risky sexual behaviour, teenage pregnancy and abortion. Students
-will learn the importance of respecting one another’s boundaries in relationships.
-This lesson emphasises the importance of responsible decision-making, the
-value of sexual abstinence, the need for help seeking. Students will be
-aware of Singapore laws protecting minors, such as the legal consequences
-of having sex with a minor, abortion and the abandonment of babies.&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>recognise the importance of self-respect and respect for others in relating
-to members of the opposite sex</p>
-</li>
-<li>
-<p>recognise one’s vulnerability to risky situations and the importance of
-exercising discretion to reduce risks and avoid negative consequences,
-both offline and online</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3 Week 7</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
+<p></p>
 <h3>Secondary 3</h3>
 <table style="minWidth: 125px">
 <colgroup>
