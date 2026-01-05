@@ -98,7 +98,6 @@ issues related to sexuality, which are of prime concern at this age</p>
 <br>
 <br><strong>Secondary 1</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/s1.png">
 </div>
@@ -108,7 +107,6 @@ issues related to sexuality, which are of prime concern at this age</p>
 </div>
 <p><strong>Secondary 2</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/s2.png">
 </div>
@@ -136,7 +134,6 @@ issues related to sexuality, which are of prime concern at this age</p>
 </div>
 <p><strong>Secondary 5</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/s5.png">
 </div>
