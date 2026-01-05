@@ -31,7 +31,6 @@ sexuality matters.</p>
 others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society</p>
 <p></p>
-<p></p>
 </li>
 <li>
 <p>The <strong>Key Messages</strong> of Sexuality Education are:</p>
