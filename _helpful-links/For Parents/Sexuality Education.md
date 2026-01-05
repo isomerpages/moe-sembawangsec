@@ -101,141 +101,16 @@ issues related to sexuality, which are of prime concern at this age</p>
 <br>
 <br><strong>Secondary 1</strong>
 </p>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Unit</strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s12.png">
+</div>
+<p><strong>Secondary 2</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Lesson Title / Duration</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Lesson Overview</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Lesson Objectives</strong>
-<br>At the end of the lesson, students will be able to:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Time Period</strong>
-<br>(e.g. Term 1 Week 2)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>Respectful Relationships &amp; Safety</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Steady or Not Lesson 1
-<br>(60 mins)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This lesson helps students understand more about relationship building
-and the different types of love (e.g. familial, platonic, romantic). They
-will have the opportunity to better understand the considerations involved
-in making responsible decisions towards dating and romantic relationships
-and understand how to build healthy and supportive relationships, both
-online and offline.</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>recognise the importance of monitoring and managing our emotional reactions,
-in helpful ways that are reflective of our values and principles.</p>
-</li>
-<li>
-<p>recognise that there are different forms of love (e.g. familial, platonic,
-romantic love)</p>
-</li>
-<li>
-<p>recognise the importance of, and understand what builds healthy and supportive
-relationships, both online and offline</p>
-</li>
-<li>
-<p>understand what dating is, and recognise that the readiness and interest
-in dating vary among individuals</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3 Week 7</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Being Aware, Being Safe Lesson 2
-<br>(60 mins)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This lesson focuses on helping students to be safe from the dangers of
-sexual grooming and on respecting one’s right to safety. Students will
-also learn about the legal provisions against sexual abuse, and the impact
-of sexual abuse on victims, including the psychological impact on the sense
-of self.</p>
-<p>&nbsp;<em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>understand that physical and psychological abuse from others, especially
-those we know and trust, can have strong negative effects on a person’s
-self-concept.</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>More than Meets the Eye Lesson 3
-<br>(60 mins)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This lesson touches on two areas relevant to an adolescent’s curiosity
-on matters related to sexuality – masturbation and pornography. Students
-will gain awareness of the health, legal and moral issues related to viewing,
-downloading and/or distributing pornography. While students may perceive
-watching pornography as a private issue without consequences to bear, they
-will learn that it could lead to addiction and/or other risky sexual behaviours.</p>
-<p>&nbsp;<em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>understand and accept that as we work towards becoming our best self,
-there will be times when we make mistakes, and recognise the importance
-of exercising moral courage in facing up to consequences</p>
-</li>
-<li>
-<p>recognise that there are moral and legal consequences of risky sexual
-behaviours, pornography access and acting irresponsibly or maliciously
-when online (e.g. spreading of online falsehoods, flouting copyright laws,
-etc.)</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3>Secondary 2</h3>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
