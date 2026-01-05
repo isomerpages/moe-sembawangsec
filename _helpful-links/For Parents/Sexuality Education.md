@@ -99,7 +99,13 @@ issues related to sexuality, which are of prime concern at this age</p>
 <br><strong>Secondary 1</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s1.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s12.png">
+</div>
 <p><strong>Secondary 2</strong>
 </p>
 <p></p>
@@ -151,16 +157,16 @@ external providers
 <li>
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons </strong>need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also available here. The completed form
-is to be submitted by 12/02/2026
+at the start of the year and is also available <a href="/files/Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed form is to be submitted
+by 12/02/2026.
 <br>
 </p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em></strong>  <strong>programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also available here. The completed form
-is to be submitted by 12/02/2026
+at the start of the year and is also available <a href="/files/Annex_B.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed form is to be submitted
+by 12/02/2026.
 <br>
 </p>
 </li>
