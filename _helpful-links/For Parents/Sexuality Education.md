@@ -51,7 +51,7 @@ ones</p>
 information on MOE Sexuality Education.</p>
 <p></p>
 <p></p>
-<p><strong>Overview of Sembawang Secondary School’s Sexuality Education Programme for 2025 </strong>
+<p><strong>Overview of Sembawang Secondary School’s Sexuality Education Programme for 2026</strong>
 <br>
 </p>
 </li>
@@ -82,22 +82,22 @@ maturity may result in a tendency to act on impulse, experiment with various
 activities (including sexual activities), sometimes without understanding
 the unpleasant consequences that may arise from such experimentation. The
 need for peer acceptance can be overwhelmingly strong and hinder one’s
-ability to act responsibly.&nbsp; Given the pressures faced by the middle
-adolescent from within themselves and from peers, it is important to build
-a strong sense of self-worth, personal conviction and an understanding
-of the possible consequences of sexual behaviour.</p>
+ability to act responsibly. Given the pressures faced by the middle adolescent
+from within themselves and from peers, it is important to build a strong
+sense of self-worth, personal conviction and an understanding of the possible
+consequences of sexual behaviour.</p>
 <p></p>
 </li>
 <li>
 <p>Through the Sexuality Education lessons, secondary students will have
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
-issues related to sexuality, which are of prime concern at this age.</p>
+issues related to sexuality, which are of prime concern at this age</p>
 <p></p>
 <p><strong>At Sembawang Secondary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2025</u>:</strong>
 </p>
 <p></p>
-<p><strong>2025 Sexuality Education Lessons in CCE </strong>
+<p><strong>2026 Sexuality Education Lessons in CCE </strong>
 <br>
 <br><strong>Secondary 1</strong>
 </p>
