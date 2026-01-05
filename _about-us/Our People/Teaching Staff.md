@@ -335,7 +335,7 @@ variant: tiptap
 <p>3E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Huang Ting Fei</p>
+<p>Mdm Suhartini</p>
 <p><a href="mailto:huang_ting_fei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>huang_ting_fei@moe.edu.sg</u></a>
 </p>
 </td>
