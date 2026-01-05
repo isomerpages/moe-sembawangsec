@@ -109,16 +109,33 @@ issues related to sexuality, which are of prime concern at this age</p>
 <p><strong>Secondary 2</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s2.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s22.png">
+</div>
 <p><strong>Secondary 3</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s3.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s32.png">
+</div>
 <p><strong>Secondary 4</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s4.png">
+</div>
 <p><strong>Secondary 5</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s5.png">
+</div>
 <h3><u>eTeens</u> Programme:</h3>
 <p></p>
 </li>
@@ -144,6 +161,9 @@ Abstinence and upholding family values are the key messages</p>
 <p><strong>At Sembawang Secondary School, the&nbsp;<u>eTeens</u>&nbsp;programme will be implemented as follows in 2026:</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/et.png">
+</div>
 <h3>Information for Parents</h3>
 <p></p>
 </li>
