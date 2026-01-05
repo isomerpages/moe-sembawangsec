@@ -130,6 +130,10 @@ issues related to sexuality, which are of prime concern at this age</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/s4.png">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s42.png">
+</div>
 <p><strong>Secondary 5</strong>
 </p>
 <p></p>
