@@ -94,7 +94,7 @@ the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age</p>
 <p></p>
-<p><strong>At Sembawang Secondary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2025</u>:</strong>
+<p><strong>At Sembawang Secondary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2026</u>:</strong>
 </p>
 <p></p>
 <p><strong>2026 Sexuality Education Lessons in CCE </strong>
