@@ -98,7 +98,6 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <br><strong>Secondary 1</strong>
 </p>
 <p></p>
-<p></p>
 <p><strong>Secondary 2</strong>
 </p>
 <p></p>
