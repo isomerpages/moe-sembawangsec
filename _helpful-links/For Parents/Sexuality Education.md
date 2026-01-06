@@ -18,7 +18,7 @@ family as the basic unit of society. This means encouraging healthy, heterosexua
 marriages and stable nuclear family units with extended family support.
 The teaching and learning of SEd is based on respect for the values and
 beliefs of the different ethnic and religious communities in Singapore
-on sexuality issues</p>
+on sexuality issues.</p>
 <p></p>
 </li>
 <li>
@@ -29,7 +29,7 @@ changes as they grow up and develop safe and healthy relationships.</p>
 sexuality matters.</p>
 <p>(c) Help students develop a moral compass and respect for themselves and
 others by having positive mainstream values and attitudes about sexuality
-that are premised on the family as the basic unit of society</p>
+that are premised on the family as the basic unit of society.</p>
 <p></p>
 </li>
 <li>
@@ -42,7 +42,7 @@ the foundation for strong families);</p>
 and</p>
 <p>(d) Abstinence before marriage is the best protection against STIs/HIV
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
-ones</p>
+ones.</p>
 <p></p>
 <p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.</p>
@@ -56,7 +56,7 @@ information on MOE Sexuality Education.</p>
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
 Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a> for
-more information on the scope of Sexuality Education in the school curriculum</p>
+more information on the scope of Sexuality Education in the school curriculum.</p>
 <p></p>
 </li>
 <li>
@@ -88,7 +88,7 @@ consequences of sexual behaviour.</p>
 <p>Through the Sexuality Education lessons, secondary students will have
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
-issues related to sexuality, which are of prime concern at this age</p>
+issues related to sexuality, which are of prime concern at this age.</p>
 <p></p>
 <p><strong>At Sembawang Secondary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2026</u>:</strong>
 </p>
@@ -98,45 +98,18 @@ issues related to sexuality, which are of prime concern at this age</p>
 <br><strong>Secondary 1</strong>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s1.png">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s12.png">
-</div>
 <p><strong>Secondary 2</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s2.png">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s22.png">
-</div>
 <p><strong>Secondary 3</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s3.png">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s32.png">
-</div>
 <p><strong>Secondary 4</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s4.png">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s42.png">
-</div>
 <p><strong>Secondary 5</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/s5.png">
-</div>
 <h3><u>eTeens</u> Programme:</h3>
 <p></p>
 </li>
@@ -149,7 +122,7 @@ With the formation of the Communicable Diseases Agency (CDA) on 1 April
 Division instead of HPB. eTeens is conducted in two segments – a mass talk
 segment and a classroom-based programme. The desired outcome of the eTeens
 programme is that students are empowered to make wise, informed and sensible
-decisions to protect themselves from sexually transmitted infectious diseases</p>
+decisions to protect themselves from sexually transmitted infectious diseases.</p>
 <p></p>
 </li>
 <li>
@@ -157,7 +130,7 @@ decisions to protect themselves from sexually transmitted infectious diseases</p
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
-Abstinence and upholding family values are the key messages</p>
+Abstinence and upholding family values are the key messages.</p>
 <p></p>
 <p><strong>At Sembawang Secondary School, the&nbsp;<u>eTeens</u>&nbsp;programme will be implemented as follows in 2026:</strong>
 </p>
@@ -171,7 +144,7 @@ Abstinence and upholding family values are the key messages</p>
 <li>
 <p>Parents may opt their children out of the Sexuality Education lessons,
 eTeens and/or supplementary sexuality education programmes by MOE-approved
-external providers
+external providers.
 <br>
 </p>
 </li>
@@ -192,7 +165,7 @@ by 12/02/2026.
 </p>
 </li>
 <li>
-<p>Parents can contact the school at (Tel: 67566760, e-mail:&nbsp;<a href="mailto: sembawang_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sembawang_ss@moe.edu.sg</a> for
+<p>Parents can contact the school at (Tel: 67566760, email:&nbsp;<a href="mailto: sembawang_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sembawang_ss@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
 </li>
