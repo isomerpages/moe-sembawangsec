@@ -93,10 +93,7 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <p><strong>At Sembawang Secondary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2026</u>:</strong>
 </p>
 <p></p>
-<p><strong>2026 Sexuality Education Lessons in CCE </strong>
-<br>
-<br><strong>Secondary 1</strong>
-</p>
+<h4><strong>2026 Sexuality Education Lessons in CCE </strong><br><br><strong>Secondary 1</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -244,8 +241,7 @@ etc.)</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Secondary 2</strong>
-</p>
+<h4><strong>Secondary 2</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -391,8 +387,7 @@ both offline and online</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Secondary 3</strong>
-</p>
+<h4><strong>Secondary 3</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -547,8 +542,7 @@ alignment with our beliefs</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Secondary 4</strong>
-</p>
+<h4><strong>Secondary 4</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -740,8 +734,7 @@ alignment with our beliefs</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Secondary 5</strong>
-</p>
+<h4><strong>Secondary 5</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -921,7 +914,7 @@ by 12/02/2026.
 <li>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em></strong>  <strong>programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also available <a href="/files/Annex_B.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed form is to be submitted
+at the start of the year and is also available <a href="/files/Annex_B.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a><a href="/files/Annex_B__002_.pdf" rel="noopener nofollow" target="_blank">file</a> The completed form is to be submitted
 by 12/02/2026.
 <br>
 </p>
