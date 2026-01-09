@@ -16,8 +16,8 @@ sections:
           description: Developing Community Leaders
           url: /curriculum/signatureprogramme/learningforlifeprogramme/
         - title: 2025 O-Level Results Release
-          description: Find out more
-          url: ""
+          description: ""
+          url: /release-of-gce-o-level-examination-results-2025/
   - resources:
       title: Announcements
       id: resources
