@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p>The 2025 GCE O-Level results will be released on <strong>Wednesday, 14 January 2026.</strong>
 </p>
-<p>Students from Sec <strong>4D, Sec 4E, Sec 5A and students from Sec 4A, 4B and 4C</strong>,
+<p>Students from<strong> Sec 4D, Sec 4E, Sec 5A and students from Sec 4A, 4B and 4C</strong>,
 who have sat for papers at the O-Level Exam, are to report to the school
 hall by <strong>1.45pm on 14 January 2026</strong> to attend an important
 briefing regarding post-secondary courses before collecting your result
