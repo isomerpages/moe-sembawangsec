@@ -15,6 +15,9 @@ sections:
         - title: Learning for Life Programme
           description: Developing Community Leaders
           url: /curriculum/signatureprogramme/learningforlifeprogramme/
+        - title: 2025 O-Level Results Release
+          description: Find out more
+          url: ""
   - resources:
       title: Announcements
       id: resources
