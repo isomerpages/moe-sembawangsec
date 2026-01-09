@@ -22,13 +22,16 @@ provide you with more information.</p>
 on how you can better support your child/ward.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Letter</p>
+<p><a href="/files/Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter to Parents - 2025 O-Level Examination Results Release</a>
+</p>
 </li>
 <li>
-<p>2025</p>
+<p><a href="/files/Parent_Info_Sheet__O_Level_Results_Release_.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Information Sheet</a>
+</p>
 </li>
 <li>
-<p>Proxy</p>
+<p><a href="/files/Proxy_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Proxy Form</a>
+</p>
 </li>
 </ul>
 <p>Wishing everyone the very best!</p>
