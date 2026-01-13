@@ -40,6 +40,5 @@ where every Sembawang student is supported to <strong>strive with purpose, serve
 their unique strengths to light up the lives of others and <strong>become the leaders and change-makers of tomorrow</strong>.</p>
 <p>Yours sincerely,</p>
 <p>Chee Wai, William, and Jonah</p>
-<p>School Leadership Team</p>
-<p>Sembawang Secondary School</p>
+<p>School Leadership Team, Sembawang Secondary School</p>
 <p></p>
