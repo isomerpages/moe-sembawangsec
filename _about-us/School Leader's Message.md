@@ -4,9 +4,7 @@ permalink: /principals-message/
 description: ""
 variant: tiptap
 ---
-<h2>School Leader's Message</h2>
-<p><strong>A Message from the School Leaders</strong>
-</p>
+<h4><strong>A Message from the School Leaders</strong></h4>
 <p>Education is never only about reaching the next milestone—it is about
 shaping who our young people become along the way. In today's rapidly changing
 and highly connected world, our calling is to <strong>nurture every student holistically</strong>,
