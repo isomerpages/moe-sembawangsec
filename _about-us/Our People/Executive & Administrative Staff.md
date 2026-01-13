@@ -70,6 +70,8 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Heng Sock Mun</p>
+<p><a href="mailto:heng_sook_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_sook_mun@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
