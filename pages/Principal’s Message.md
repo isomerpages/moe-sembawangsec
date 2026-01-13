@@ -4,50 +4,44 @@ permalink: /principals-message/
 description: ""
 variant: tiptap
 ---
-<h2>Principal's Message</h2>
-<p>As we celebrate Singapore’s 60<sup>th</sup> birthday in 2025, we are grateful
-for the vision and hard work of those who paved the way for us. Along the
-way, we have faced obstacles, yet our unity, resilience and determination
-have allowed us to emerge stronger each time.
-<br>
+<h2>School Leader's Message</h2>
+<p><strong>A Message from the School Leaders</strong>
 </p>
-<p>As stewards of tomorrow, our students have vital role in shaping Singapore’s
-future. Their shared values, actions and dreams will steer our nation through
-future challenges. Our School Mission, <strong><em>Nurturing Reflective Learners and Contributing Citizens</em></strong>,
-defines our purpose as educators in nurturing our students as <strong><em>Leaders and Change-makers</em></strong>.
-We want our students to be Leaders of Good Character and Active Contributors
-- to be caring, confident and resilient leaders who contribute to the community,
-to be equipped with media and digital literacies, skills and dispositions
-to excel in learning, and to discover their strengths and pursue their
-interests and aspirations.
-<br>
-</p>
-<p>Our students are privileged to have caring and committed teachers, allied
-educators and school administration team in their journey. I am deeply
-appreciative of my colleagues in Sembawang Secondary who often go the extra
-mile for our students. They put much thought into conceptualizing, planning
-and executing the learning experiences for our students, and in guiding
-them in reflecting on their learning.
-<br>
-</p>
-<p>I thank our students’ parents who continue to partner us in nurturing
-them. We appreciate that our parents keep in touch with us on matters pertaining
-to their children and for making time for their children in our various
-engagement sessions. We look forward to your continued partnership.
-<br>
-</p>
-<p>My appreciation also goes to our School Advisory Committee, alumni and
-community partners for their support and contributions in providing a quality
-holistic education for our children.
-<br>
-</p>
-<p>To all students of Sembawang Secondary, hold close to your hearts our
-school values - <strong><em>Resilience, Responsibility, Respect, Empathy, Integrity, Gratitude</em></strong>.<strong><em> </em></strong>Embrace
-learning opportunities that come your way, rise above challenges and bring
-out the best that is in you.
-<br>
-</p>
-<p><strong>Strive, Serve and Soar!</strong>
-</p>
-<p>Mdm Jessie Koh
-<br>Principal</p>
+<p>Education is never only about reaching the next milestone—it is about
+shaping who our young people become along the way. In today's rapidly changing
+and highly connected world, our calling is to <strong>nurture every student holistically</strong>,
+anchoring them with fundamental values whilst equipping them with the resilience
+and skills to thrive in a future yet to unfold.&nbsp;</p>
+<p>We believe that all children want to learn and do well to the best of
+their abilities, and that learning is most impactful when it is fuelled
+by curiosity and purpose. When our students learn to identify societal
+needs, envision a better world, and take action to create change, they
+discover deep meaning in their education. This is why we place strong emphasis
+on helping our students <strong>find their identity, their place in society, and discover their purpose</strong>—for
+purpose will anchor them in something meaningful as they pursue their hopes,
+dreams, and aspirations.</p>
+<p>At Sembawang Secondary School, we are committed to celebrating diverse
+success by <strong>creating multiple pathways for achievement </strong>that
+honour talents beyond the academic. Through diverse learning experiences,
+co-curricular programmes and leadership opportunities, we prioritise <strong>student agency</strong>,
+empowering our students to speak up, collaborate across multiple perspectives,
+and develop adaptive thinking skills. We also guide them in developing <strong>digital literacy</strong>,
+learning to use technology thoughtfully, responsibly and with purpose.</p>
+<p>At the heart of our school are the <strong>relationships we build and the care we show to one another</strong>.
+Our dedicated teachers work closely with students, parents, and partners
+to support learning and well-being, understanding that growth takes time,
+trust, and encouragement. This vital work cannot be done alone – together
+with our parents and the community, we co-create a nurturing environment
+where every student feels seen, valued, and empowered.</p>
+<p>To our students, we encourage you to approach each day with curiosity,
+perseverance, and kindness. To our parents and partners, thank you for
+your continued trust and support. As the saying goes, "We may not be able
+to prepare the future for our children, but we can at least prepare our
+children for the future." Together, we will continue to create a school
+where every Sembawang student is supported to <strong>strive with purpose, serve with heart, and soar with confidence</strong>—using
+their unique strengths to light up the lives of others and <strong>become the leaders and change-makers of tomorrow</strong>.</p>
+<p>Yours sincerely,</p>
+<p>Chee Wai, William, and Jonah</p>
+<p>School Leadership Team</p>
+<p>Sembawang Secondary School</p>
+<p></p>
