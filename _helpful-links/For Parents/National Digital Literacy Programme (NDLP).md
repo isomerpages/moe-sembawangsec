@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: For Parents
 ---
-<h4>Click on the resources below for more relevant information on NDLP:</h4>
+<h4>Click on the resources below for more relevant information pertaining to NDLP:</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="/files/SMBSS_Parent_Engagement_Slides__NDLP__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">SMBSS Parent Engagement Deck - NDLP</a>
