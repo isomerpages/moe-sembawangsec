@@ -38,7 +38,7 @@ to prepare the future for our children, but we can at least prepare our
 children for the future." Together, we will continue to create a school
 where every Sembawang student is supported to <strong>strive with purpose, serve with heart, and soar with confidence</strong>—using
 their unique strengths to light up the lives of others and <strong>become the leaders and change-makers of tomorrow</strong>.</p>
-<p>Yours sincerely,</p>
-<p>Chee Wai, William, and Jonah</p>
-<p>School Leadership Team, Sembawang Secondary School</p>
+<p>Yours sincerely,
+<br>Chee Wai, William, and Jonah
+<br>School Leadership Team, Sembawang Secondary School</p>
 <p></p>
