@@ -25,7 +25,7 @@ third_nav_title: For Parents
 </li>
 <li>
 <p>Visit the <a href="https://sites.google.com/moe.edu.sg/smbsspldinfokiosk/home" rel="noopener nofollow" target="_blank">PLD Information Kiosk</a> microsite
-for more technical related topics to Personal Learning Devices.</p>
+for technical topics relating to Personal Learning Devices.</p>
 </li>
 </ol>
 <p></p>
