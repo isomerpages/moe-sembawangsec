@@ -264,7 +264,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Staff Learning &amp; Development</strong>
+<p><em>Staff Learning &amp; Development</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -283,7 +283,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Student Development</strong>
+<p><em>Student Development</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
