@@ -119,8 +119,8 @@ third_nav_title: Our People
 <p>STEM Instructor – Workshop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Johan Abdullah</p>
-<p><a href="mailto:johan_abdullah_selva_ra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">johan_abdullah_selva_ra@moe.edu.sg</a>
+<p>Mr Mohammed Amin</p>
+<p><a href="mailto:amin_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amin_abdul_rahman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
