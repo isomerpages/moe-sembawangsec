@@ -301,6 +301,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Head of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Rachel Choong Mei Ling</p>
+<p><a href="mailto:choong_mei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choong_mei_ling@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Subject Head</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -325,25 +335,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Kenneth Ng Chee Meng</p>
 <p><a href="mailto:kenneth_ng_chee_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kenneth_ng_chee_meng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em>Educational Support</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Department</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Rachel Choong Mei Ling</p>
-<p><a href="mailto:choong_mei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choong_mei_ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
