@@ -99,8 +99,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Certificate of Commendation:</p>
-<p>Team 1:</p>
+<p>Certificate of Commendation:
+<br>Team 1:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ramasamy Veera Barani (3E)</p>
@@ -279,7 +279,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>National Day Awards 2025</strong>
+<p><strong>National Day Awards </strong>
 </p>
 </td>
 </tr>
