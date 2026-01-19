@@ -129,7 +129,7 @@ third_nav_title: Our People
 <p>STEM Instructor – Workshop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammed Amin</p>
+<p>Mr Mohammed Amin Abdul Rahman</p>
 <p><a href="mailto:amin_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amin_abdul_rahman@moe.edu.sg</a>
 </p>
 </td>
