@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our People
 ---
-<p><strong>School Admin Team</strong>
+<p><strong>School Admin Team (S.A.T)</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
