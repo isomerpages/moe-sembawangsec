@@ -182,7 +182,7 @@ variant: tiptap
 <p>Lee Jun Hao (Sec 4D)</p>
 </li>
 <li>
-<p>Woon Zhee Loong (Sec 4D)</p>
+<p>Woon Zhee Loong (4D)</p>
 </li>
 <li>
 <p>Lee Yee Ning (Sec 4E)</p>
