@@ -189,58 +189,40 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>IgnITE</strong>
+<p><strong>“新蕾奖“ 23rd National Secondary School Chinese Creative Writing Competition</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Mobile Robots Challenge (Top 10 Team)</p>
+<p>Story Writing:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tiara Cheah Yu Shan (2CO3)</p>
+<p>Zhao Yu Qi (Sec 2E)</p>
 </li>
 <li>
-<p>Nurul Nazeera Bte Ahmad Roslee (2CO3)</p>
+<p>Teo Shu Hao (Sec 2F)</p>
 </li>
 <li>
-<p>Isaac Sanjiv S/O Selva Kumar (2CO3)</p>
+<p>Wang Yunhan (Sec 2F)</p>
+</li>
+<li>
+<p>Lu Xuyang (Sec 3D)</p>
+</li>
+<li>
+<p>Esmel Kiew Xin Yi (Sec 4A)</p>
+</li>
+<li>
+<p>Lee Jun Hao (Sec 4D)</p>
 </li>
 </ul>
-<p>Data Escape Room (Top 10 Team)</p>
+<p>Poetry Writing:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Putri Syazana Bte Shaik Mohamad (3IN3)</p>
+<p>Wang Yihan (Sec 1B)</p>
 </li>
 <li>
-<p>Sng Suo Lei Gaias (3IN3)</p>
-</li>
-<li>
-<p>Mohamed Muqresh Bin Kamaluthin (3IN4)</p>
-</li>
-</ul>
-<p>X-Bots</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Bryan Lim (4TE4)</p>
-</li>
-<li>
-<p>Mohamed Irfan Bin Mohamed Ismail (4TE4)</p>
-</li>
-<li>
-<p>Ooi Wei Khang (4TE5)</p>
-</li>
-</ul>
-<p>Mobile Robots Challenge</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Aarthikeyan S/O Pragas (2CO3)</p>
-</li>
-<li>
-<p>Shayann Sharma S/O Citran (2CO3)</p>
-</li>
-<li>
-<p>Joshua Ryan S/O John Pandiri (2CO3)</p>
+<p>Chen Minrui (Sec 4D)</p>
 </li>
 </ul>
 </td>
