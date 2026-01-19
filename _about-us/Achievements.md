@@ -106,7 +106,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="3">
 <p>Certificate of Commendation:
-<br>Team 1:</p>
+<br>Team 1</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ramasamy Veera Barani (3E)</p>
@@ -121,7 +121,7 @@ variant: tiptap
 <p>Nesaraman Kabishika (3D)</p>
 </li>
 </ul>
-<p>Team 2:</p>
+<p>Team 2</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Dexton Ang Wei Le (3D)</p>
@@ -146,7 +146,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Gold Award:</p>
+<p>Gold</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Niranjanaa D/O Mariappan (2A)</p>
@@ -201,7 +201,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Story Writing:</p>
+<p>Story Writing</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Zhao Yu Qi (2E)</p>
@@ -313,7 +313,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Gold Award:</p>
+<p>Gold</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mr Goh Jiang Wee</p>
@@ -328,7 +328,7 @@ variant: tiptap
 <p>Mdm Tay Siew Ching</p>
 </li>
 </ul>
-<p>Silver Award:</p>
+<p>Silver</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mr Chang Lok</p>
