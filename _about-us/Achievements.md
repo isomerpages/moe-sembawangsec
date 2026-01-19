@@ -14,12 +14,12 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h4><strong>CCA Achievements</strong></h4>
+<h4><strong>Students Achievements 2025</strong></h4>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Chinese Dance</strong>
+<p><strong>Preforming Arts</strong>
 </p>
 </td>
 </tr>
@@ -47,38 +47,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Girls’ Brigade – Fancy Drill Competition 2023 (Bronze)</p>
+<p>Girls’ Brigade Music Drill Competition - Certificate of Achievement</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>National Design Challenge 2023</strong>
+<p><strong>Sports &amp; Games</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Certificate of Distinction</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Natalie Jolene Gamboa Fu (3IN1)</p>
-</li>
-<li>
-<p>Muhammad Farhan (3(IN2)</p>
-</li>
-<li>
-<p>Nuralyssa Eudora Bte Mohamad Rahim (3IN2)</p>
-</li>
-<li>
-<p>Nur Emelda Bte Eirie (3IN2)</p>
-</li>
-<li>
-<p>Kaung Nyan Hein (3IN2)</p>
+<p>NSG Volleyball 'B' Division (North Zone (Top 4)</p>
 </li>
 </ul>
 </td>
@@ -91,17 +77,92 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
+<p>Bronze</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Zhao Yuqi (2E)</p>
+</li>
+</ul>
 <p>Honourable Mention</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Teoh En Xin (2CO2)</p>
+<p>Rouvin Singh (2C)</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Animation and Game Making Competition 2023</strong>
+<p><strong>26th International Elementz Fair 2025 (Senior)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Certificate of Commendation:</p>
+<p>Team 1:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ramasamy Veera Barani (3E)</p>
+</li>
+<li>
+<p>Hon Kah Jon (3D)</p>
+</li>
+<li>
+<p>Wong Wei Han (3D)</p>
+</li>
+<li>
+<p>Nesaraman Kabishika (3D)</p>
+</li>
+</ul>
+<p>Team 2:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Dexton Ang Wei Le (3D)</p>
+</li>
+<li>
+<p>Lu Xuyang (3D)</p>
+</li>
+<li>
+<p>Jason Suan Tiong Choon (3E)</p>
+</li>
+<li>
+<p>Jaira Joy Aquiatan Perez (3E)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>23rd Elementz Science Project Competition 2025 (Junior)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Gold Award:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Niranjanaa D/O Mariappan (2A)</p>
+</li>
+<li>
+<p>Eva Yeo Jing Wen (2B)</p>
+</li>
+<li>
+<p>Sui Dawt Hnem Sung (2A)</p>
+</li>
+<li>
+<p>Nandita Balasubbiramaniyan (2B)</p>
+</li>
+<li>
+<p>Koh Alexander Maximus (2C)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>5th Nanyang Young Chinese Literature Award</strong>
 </p>
 </td>
 </tr>
@@ -109,130 +170,19 @@ variant: tiptap
 <td rowspan="1" colspan="3">
 <ul data-tight="true" class="tight">
 <li>
-<p>Animation (Bronze) - Ling Jia En (2CO6)</p>
+<p>Zhao Yu Qi (Sec 2E)</p>
 </li>
 <li>
-<p>Game Making (Silver) - Nurul Atiqah Asyura Binti Mohamad Latiff (3IN6)</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>24th International Elementz Fair (Senior)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>Certificate of Commendation</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Naresh S/O Govindarajan (3IN1)</p>
+<p>Lee Jun Hao (Sec 4D)</p>
 </li>
 <li>
-<p>Sri Karrunesh (3IN2)</p>
+<p>Woon Zhee Loong (Sec 4D)</p>
 </li>
 <li>
-<p>Le Minh Phong (3IN2)</p>
+<p>Lee Yee Ning (Sec 4E)</p>
 </li>
 <li>
-<p>Chermaine Tan Shi Tong (3IN1)</p>
-</li>
-<li>
-<p>Lim Zi Ting (3IN1)</p>
-</li>
-<li>
-<p>Yeo Hui Xuan Rachel (3IN1)</p>
-</li>
-<li>
-<p>Kamalnath Ishaani (3IN1)</p>
-</li>
-</ul>
-<p>Silver Award</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Annabelle Chan Si En (3IN1)</p>
-</li>
-<li>
-<p>Chong Shen Yin (3IN1)</p>
-</li>
-<li>
-<p>Clara Choo Xuan Qi (3IN1)</p>
-</li>
-<li>
-<p>Precious Grace Lim Jia En (3IN1)</p>
-</li>
-<li>
-<p>Cabrera Cecilia Gabrielle Manibo (3IN1)</p>
-</li>
-<li>
-<p>Natalie Jolene Gamboa Fu (3IN1)</p>
-</li>
-<li>
-<p>Zhuo Yiting (3IN1)</p>
-</li>
-<li>
-<p>Chloe Lim Jing Yi (3IN1)</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>24th International Elementz Fair (Junior)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>Certificate of Commendation</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Goh Rhou Hui (2CO1)</p>
-</li>
-<li>
-<p>Kuan Wen Le Kingston (2CO1)</p>
-</li>
-<li>
-<p>Perene Teo Xin Er (2CO1)</p>
-</li>
-<li>
-<p>Yeddu Jaya Jannah Nissi (2CO1)</p>
-</li>
-</ul>
-<p>Gold Award</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Benjamin Bharathan S/O Kumaravel (2CO2)</p>
-</li>
-<li>
-<p>Lee Jun Hao (2CO2)</p>
-</li>
-<li>
-<p>Riyaskhan Rahil Nafeez (2CO2)</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>Singapore Science and Engineering Fair 2023</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>Certificate of Participation</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Priyanka Grace (4TE2)</p>
-</li>
-<li>
-<p>Tasneem D/O Mohammed Gaffer (4TE2)</p>
-</li>
-<li>
-<p>Sheryl Airina David (4TE2)</p>
+<p>Pang Hao Jie (Sec 4E)</p>
 </li>
 </ul>
 </td>
