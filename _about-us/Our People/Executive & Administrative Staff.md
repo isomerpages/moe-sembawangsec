@@ -28,7 +28,7 @@ third_nav_title: Our People
 <p>Administrative Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Eileen So Tsz Ying</p>
+<p>Mdm So Tsz Ying, Eileen</p>
 <p><a href="mailto:so_tsz_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">so_tsz_ying@moe.edu.sg</a>
 </p>
 </td>
@@ -58,7 +58,7 @@ third_nav_title: Our People
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jeff Tan Zi Khiang</p>
+<p>Mr Tan Zi Khiang, Jeff</p>
 <p><a href="mailto:tan_zi_khiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_zi_khiang@moe.edu.sg</a>
 </p>
 <p></p>
@@ -109,18 +109,8 @@ third_nav_title: Our People
 <p>STEM Instructor – Laboratory</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ruby Tok Hui Yin</p>
+<p>Mdm Tok Hui Yin, Ruby</p>
 <p><a href="mailto:tok_hui_yin_ruby@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tok_hui_yin_ruby@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>STEM Instructor – Workshop</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Mohammed Amin</p>
-<p><a href="mailto:amin_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amin_abdul_rahman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -131,6 +121,16 @@ third_nav_title: Our People
 <td rowspan="1" colspan="1">
 <p>Mr Abdul Rashid Jumadi</p>
 <p><a href="mailto:abdul_rashid_jumadi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_rashid_jumadi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor – Workshop</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohammed Amin</p>
+<p><a href="mailto:amin_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amin_abdul_rahman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -163,7 +163,7 @@ third_nav_title: Our People
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Allen Ang Chee Huat</p>
+<p>Mr Ang Chee Huat, Allen</p>
 </td>
 </tr>
 <tr>
@@ -171,7 +171,7 @@ third_nav_title: Our People
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Siew Lan Jessie</p>
+<p>Mdm Lim Siew Lan, Jessie</p>
 </td>
 </tr>
 </tbody>
@@ -205,7 +205,7 @@ third_nav_title: Our People
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Melvin Ting Qi Han</p>
+<p>Mr Ting Qi Han, Melvin</p>
 </td>
 </tr>
 </tbody>
