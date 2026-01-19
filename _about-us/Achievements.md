@@ -70,7 +70,7 @@ variant: tiptap
 <td rowspan="1" colspan="3">
 <ul data-tight="true" class="tight">
 <li>
-<p>NSG Volleyball 'B' Division (North Zone (Top 4)</p>
+<p>NSG Volleyball 'B' Division [North Zone (Top 4)]</p>
 </li>
 </ul>
 </td>
