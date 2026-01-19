@@ -198,31 +198,140 @@ variant: tiptap
 <p>Story Writing:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Zhao Yu Qi (Sec 2E)</p>
+<p>Zhao Yu Qi (2E)</p>
 </li>
 <li>
-<p>Teo Shu Hao (Sec 2F)</p>
+<p>Teo Shu Hao (2F)</p>
 </li>
 <li>
-<p>Wang Yunhan (Sec 2F)</p>
+<p>Wang Yunhan (2F)</p>
 </li>
 <li>
-<p>Lu Xuyang (Sec 3D)</p>
+<p>Lu Xuyang (3D)</p>
 </li>
 <li>
-<p>Esmel Kiew Xin Yi (Sec 4A)</p>
+<p>Esmel Kiew Xin Yi (4A)</p>
 </li>
 <li>
-<p>Lee Jun Hao (Sec 4D)</p>
+<p>Lee Jun Hao (4D)</p>
 </li>
 </ul>
 <p>Poetry Writing:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Wang Yihan (Sec 1B)</p>
+<p>Wang Yihan (1B)</p>
 </li>
 <li>
-<p>Chen Minrui (Sec 4D)</p>
+<p>Chen Minrui (4D)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Essay publication in《星月银河映初心》SG60</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<ul data-tight="true" class="tight">
+<li>
+<p>Woon Zhee Loong (4D)</p>
+</li>
+<li>
+<p>Lee Jia Xuan (4E)</p>
+</li>
+<li>
+<p>Ling Jia En (4F)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>NUS Geography Challenge 2025 Top Performing School - Creative Component</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chin Yong Zhen (4D)</p>
+</li>
+<li>
+<p>Kuan Wen Le Kingston (4D)</p>
+</li>
+<li>
+<p>Lee Yee Ning (4E)</p>
+</li>
+<li>
+<p>Teoh En Xin (4D)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<h4><strong>Staff Achievements 2025</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>National Day Awards 2025</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Long Service Medal</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Goh Jiang Wee – HOD ICT</p>
+</li>
+<li>
+<p>Mdm Julistiara Sujae – ST Geography</p>
+</li>
+<li>
+<p>Mr Alex Choh Chee Yang – D&amp;T Teacher</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>MOE Service Excellence Awards</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Gold Award:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Goh Jiang Wee</p>
+</li>
+<li>
+<p>Mr Lee Sek Koi</p>
+</li>
+<li>
+<p>Ms Nur Hidayah Bibi Binti Haji Mohamed Omar</p>
+</li>
+<li>
+<p>Mdm Tay Siew Ching</p>
+</li>
+</ul>
+<p>Silver Award:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Chang Lok</p>
+</li>
+<li>
+<p>Ms Munirah Binte Saini</p>
+</li>
+<li>
+<p>Mr Rahim Bin Sal</p>
 </li>
 </ul>
 </td>
