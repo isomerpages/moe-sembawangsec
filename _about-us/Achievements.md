@@ -14,18 +14,18 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h4><strong>Students Achievements 2023</strong></h4>
+<h4><strong>Students Achievements 2025</strong></h4>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Performing Arts</strong>
+<p><strong>Preforming Arts</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Singapore Youth Festival (SYF) Arts Presentation 2023</p>
+<p>Singapore Youth Festival (SYF) Arts Presentation 2025</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Chinese Dance – Certificate of Accomplishment</p>
@@ -36,8 +36,11 @@ variant: tiptap
 <li>
 <p>Malay Dance – Certificate of Distinction</p>
 </li>
+</ul>
+<p>Singapore Youth Festival (SYF) Arts Presentation (Ensemble)</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Percussion Ensemble – Certificate of Distinction</p>
+<p>Concert Band – Certificate of Distinction</p>
 </li>
 </ul>
 </td>
@@ -52,38 +55,22 @@ variant: tiptap
 <td rowspan="1" colspan="3">
 <ul data-tight="true" class="tight">
 <li>
-<p>Boys’ Brigade – JM Fraser Award 2023 (Distinction)</p>
-</li>
-<li>
-<p>Girls’ Brigade – Fancy Drill Competition 2023 (Bronze)</p>
+<p>Girls’ Brigade Music Drill Competition - Certificate of Achievement</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>National Design Challenge 2023</strong>
+<p><strong>Sports &amp; Games</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Certificate of Distinction</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Natalie Jolene Gamboa Fu (3IN1)</p>
-</li>
-<li>
-<p>Muhammad Farhan (3(IN2)</p>
-</li>
-<li>
-<p>Nuralyssa Eudora Bte Mohamad Rahim (3IN2)</p>
-</li>
-<li>
-<p>Nur Emelda Bte Eirie (3IN2)</p>
-</li>
-<li>
-<p>Kaung Nyan Hein (3IN2)</p>
+<p>NSG Volleyball 'B' Division [North Zone (Top 4)]</p>
 </li>
 </ul>
 </td>
@@ -96,780 +83,261 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
+<p>Bronze</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Zhao Yuqi (2E)</p>
+</li>
+</ul>
 <p>Honourable Mention</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Teoh En Xin (2CO2)</p>
+<p>Rouvin Singh (2C)</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Animation and Game Making Competition 2023</strong>
+<p><strong>26th International Elementz Fair 2025 (Senior)</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
+<p>Certificate of Commendation:
+<br>Team 1</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Animation (Bronze) - Ling Jia En (2CO6)</p>
+<p>Ramasamy Veera Barani (3E)</p>
 </li>
 <li>
-<p>Game Making (Silver) - Nurul Atiqah Asyura Binti Mohamad Latiff (3IN6)</p>
+<p>Hon Kah Jon (3D)</p>
+</li>
+<li>
+<p>Wong Wei Han (3D)</p>
+</li>
+<li>
+<p>Nesaraman Kabishika (3D)</p>
+</li>
+</ul>
+<p>Team 2</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Dexton Ang Wei Le (3D)</p>
+</li>
+<li>
+<p>Lu Xuyang (3D)</p>
+</li>
+<li>
+<p>Jason Suan Tiong Choon (3E)</p>
+</li>
+<li>
+<p>Jaira Joy Aquiatan Perez (3E)</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>24th International Elementz Fair (Senior)</strong>
+<p><strong>23rd Elementz Science Project Competition 2025 (Junior)</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Certificate of Commendation</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Naresh S/O Govindarajan (3IN1)</p>
-</li>
-<li>
-<p>Sri Karrunesh (3IN2)</p>
-</li>
-<li>
-<p>Le Minh Phong (3IN2)</p>
-</li>
-<li>
-<p>Chermaine Tan Shi Tong (3IN1)</p>
-</li>
-<li>
-<p>Lim Zi Ting (3IN1)</p>
-</li>
-<li>
-<p>Yeo Hui Xuan Rachel (3IN1)</p>
-</li>
-<li>
-<p>Kamalnath Ishaani (3IN1)</p>
-</li>
-</ul>
-<p>Silver Award</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Annabelle Chan Si En (3IN1)</p>
-</li>
-<li>
-<p>Chong Shen Yin (3IN1)</p>
-</li>
-<li>
-<p>Clara Choo Xuan Qi (3IN1)</p>
-</li>
-<li>
-<p>Precious Grace Lim Jia En (3IN1)</p>
-</li>
-<li>
-<p>Cabrera Cecilia Gabrielle Manibo (3IN1)</p>
-</li>
-<li>
-<p>Natalie Jolene Gamboa Fu (3IN1)</p>
-</li>
-<li>
-<p>Zhuo Yiting (3IN1)</p>
-</li>
-<li>
-<p>Chloe Lim Jing Yi (3IN1)</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>24th International Elementz Fair (Junior)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>Certificate of Commendation</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Goh Rhou Hui (2CO1)</p>
-</li>
-<li>
-<p>Kuan Wen Le Kingston (2CO1)</p>
-</li>
-<li>
-<p>Perene Teo Xin Er (2CO1)</p>
-</li>
-<li>
-<p>Yeddu Jaya Jannah Nissi (2CO1)</p>
-</li>
-</ul>
-<p>Gold Award</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Benjamin Bharathan S/O Kumaravel (2CO2)</p>
-</li>
-<li>
-<p>Lee Jun Hao (2CO2)</p>
-</li>
-<li>
-<p>Riyaskhan Rahil Nafeez (2CO2)</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>Singapore Science and Engineering Fair 2023</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>Certificate of Participation</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Priyanka Grace (4TE2)</p>
-</li>
-<li>
-<p>Tasneem D/O Mohammed Gaffer (4TE2)</p>
-</li>
-<li>
-<p>Sheryl Airina David (4TE2)</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>IgnITE</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>Mobile Robots Challenge (Top 10 Team)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Tiara Cheah Yu Shan (2CO3)</p>
-</li>
-<li>
-<p>Nurul Nazeera Bte Ahmad Roslee (2CO3)</p>
-</li>
-<li>
-<p>Isaac Sanjiv S/O Selva Kumar (2CO3)</p>
-</li>
-</ul>
-<p>Data Escape Room (Top 10 Team)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Putri Syazana Bte Shaik Mohamad (3IN3)</p>
-</li>
-<li>
-<p>Sng Suo Lei Gaias (3IN3)</p>
-</li>
-<li>
-<p>Mohamed Muqresh Bin Kamaluthin (3IN4)</p>
-</li>
-</ul>
-<p>X-Bots</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Bryan Lim (4TE4)</p>
-</li>
-<li>
-<p>Mohamed Irfan Bin Mohamed Ismail (4TE4)</p>
-</li>
-<li>
-<p>Ooi Wei Khang (4TE5)</p>
-</li>
-</ul>
-<p>Mobile Robots Challenge</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Aarthikeyan S/O Pragas (2CO3)</p>
-</li>
-<li>
-<p>Shayann Sharma S/O Citran (2CO3)</p>
-</li>
-<li>
-<p>Joshua Ryan S/O John Pandiri (2CO3)</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<h4><strong>Staff Achievements 2023</strong></h4>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>National Day Awards 2023</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>The Commendation Medal</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mr Muzaffar Bin Johari (School Staff Developer)</p>
-</li>
-</ul>
-<p>The Long Service Medal</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mr Goh Kee Yong (Vice Principal)</p>
-</li>
-<li>
-<p>Mr Long Chee Yong (Senior Teacher, Mathematics)</p>
-</li>
-<li>
-<p>Ms Chong Nyet Ting (Computer Applications Teacher)</p>
-</li>
-<li>
-<p>Ms Rahimah Bte Januri (Malay Language Teacher)</p>
-</li>
-<li>
-<p>Mdm Suhartini Binte Masod (Physical Education Teacher)</p>
-</li>
-</ul>
-<p>National Awards (COVID-19) - COVID-19 Resilience Medal</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mr Cheong Hon Toong (Former Operations Manager)</p>
-</li>
-<li>
-<p>Mr Goh Jiang Wee (HOD ICT)</p>
-</li>
-<li>
-<p>Mr Goh Kee Yong @ Goh Chong Heng (Vice Principal)</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>MOE Service Excellence Awards 2023</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>Silver</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mdm Ho Yam Chiew (Music Teacher)</p>
-</li>
-<li>
-<p>Mr Mohamad Zulqarnain B Mohamad Noor (Assistant Year Head)</p>
-</li>
-<li>
-<p>Mr Muzaffar Bin Johari (School Staff Developer)</p>
-</li>
-<li>
-<p>Ms Tan Hui Nah (Physics Teacher)</p>
-</li>
-<li>
-<p>Mdm Tay Siew Ching (Corporate Service Officer)</p>
-</li>
-<li>
-<p>Mdm V Pennarsi (Operations Support Officer)</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<h4><strong>School Awards 2021</strong></h4>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>School’s Green Audit (SGA) Awards</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Sustained Lotus Award (Highest SGA award for green efforts)</p>
-</li>
-<li>
-<p>Northwest Outstanding School Partner Award (SPA) 2021</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Bronze</p>
-</li>
-</ul>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<h4><strong>Students' Achievements 2021</strong></h4>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>22nd International Elementz Fair</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>2 Silver</p>
-</li>
-<li>
-<p>2 Bronze</p>
-</li>
-<li>
-<p>1 Certificate of Commendation</p>
-</li>
-</ul>
-<p>National Schools Literature Festival</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Winner, ‘Unseen Debate’</p>
-</li>
-</ul>
-<p>2021 International Competitions and Assessment for Schools (ICAS) Assessments
-– English</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>5 Credit</p>
-</li>
-<li>
-<p>10 Participation</p>
-</li>
-</ul>
-<p>2021 International Competitions and Assessment for Schools (ICAS) Assessments
-– Science</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>1 Distinction</p>
-</li>
-<li>
-<p>5 Credit</p>
-</li>
-<li>
-<p>5 Merit</p>
-</li>
-<li>
-<p>8 Participation</p>
-</li>
-</ul>
-<p>Advocacy Module of the 2021 National Cyber-wellness Advocacy Challenge
-(NCAC)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Gold Award</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Chew Yan Xi (3IN1)</p>
-</li>
-<li>
-<p>Jahnavi Singh (3IN1)</p>
-</li>
-<li>
-<p>Farzeen Shanza d/o Mohamed Ismail (3IN2)</p>
-</li>
-<li>
-<p>Vijayan Suriyakanth (3IN2)</p>
-</li>
-</ul>
-</li>
-</ul>
-<p>Anugerah Pena Emas 2021 [national literary writing competition (Malay
-category) organized by Arts House Limited]</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Top 30 + Gold + Publication of essay in a book</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Nur Azira Binte Muhammad Salleh (2CO3)</p>
-</li>
-</ul>
-</li>
-<li>
 <p>Gold</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Noor Raiqa Binte Mohamad Razaly (2CO1)&nbsp;</p>
+<p>Niranjanaa D/O Mariappan (2A)</p>
 </li>
 <li>
-<p>Andrea Annahdhah Binti Ahmad Kassim (2CO2)&nbsp;</p>
+<p>Eva Yeo Jing Wen (2B)</p>
 </li>
 <li>
-<p>Mohamad Heryan Bin Mohamad Hermantino (2CO5)&nbsp;</p>
+<p>Sui Dawt Hnem Sung (2A)</p>
 </li>
 <li>
-<p>Naurah Usyazwani Binte Abdullah (2CO5)&nbsp;</p>
+<p>Nandita Balasubbiramaniyan (2B)</p>
 </li>
 <li>
-<p>Ajda Wardina Ondek (3IN1)&nbsp;</p>
-</li>
-<li>
-<p>Siti Nur Farhana Binte Ab Halim (3IN2)&nbsp;</p>
-</li>
-<li>
-<p>Farah Binte Basirrudin (3IN3)&nbsp;</p>
-</li>
-<li>
-<p>Nur Irsalina Simatupang (3IN3)&nbsp;</p>
-</li>
-<li>
-<p>Mohamed Noor Ilhan Bin Mohd Salim (3IN4)&nbsp;</p>
-</li>
-<li>
-<p>Muhammad Zulhelmy Irfan Bin Kasmat (3IN4)</p>
-</li>
-</ul>
-</li>
-</ul>
-<p>2021 International Competitions and Assessment for Schools (ICAS) Assessments
-– EL Writing</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>1 Distinction</p>
-</li>
-<li>
-<p>1 Credit</p>
-</li>
-<li>
-<p>3 Participation</p>
-</li>
-</ul>
-<p>Achievements in CCA 2021</p>
-<p>Malay Dance</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Certificate of Distinction in SYF Arts Presentation 2021</p>
-</li>
-</ul>
-<p>Chinese Dance</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Certificate of Accomplishment in SYF Arts Presentation 2021</p>
-</li>
-</ul>
-<p>Concert Band</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Certificate of Accomplishment in SYF Arts Presentation 2021</p>
-</li>
-</ul>
-<p>SPF-NPCC Badge</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Nur Hidyati (Sec 4TE4)</p>
+<p>Koh Alexander Maximus (2C)</p>
 </li>
 </ul>
 </td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<h4><strong>Staff Achievements 2021</strong></h4>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>National Day 2021 Awards</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>The Commendation Medal: Mdm Jayanthi d/o Sangiah (SH/CCE)</p>
-</li>
-<li>
-<p>The Long Service Medal: Mdm Jayanthi d/o Sangiah (SH/CCE)</p>
-</li>
-</ul>
-<p>MOE Service Excellence Awards – Silver</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Chua Si Yuan, ST/History</p>
-</li>
-<li>
-<p>Hoe Wieky, Teacher</p>
-</li>
-<li>
-<p>Jonathan Lau Keng Chong, Teacher</p>
-</li>
-<li>
-<p>Lee Sek Koi, School Attendant</p>
-</li>
-<li>
-<p>Lee Siew May, Corporate Support Officer</p>
-</li>
-<li>
-<p>Lim Wee Yin Sabrina, HOD/C&amp;T</p>
-</li>
-<li>
-<p>Low Huixian Heidi, ST/EL</p>
-</li>
-<li>
-<p>Ng Lai Peng, HOD/MTL&nbsp;</p>
-</li>
-<li>
-<p>Ngoh Wai Fong, School Counsellor</p>
-</li>
-<li>
-<p>Tan Qian Ying, Teacher</p>
-</li>
-<li>
-<p>Teo Chee Yong, Teacher</p>
-</li>
-<li>
-<p>Zhou Yi Ting, Teacher</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<h4><strong>Student Achievements 2020</strong></h4>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sports, Physical Health &amp; Well – Being</strong>
+<p><strong>5th Nanyang Young Chinese Literature Award</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Singapore Olympic – Peter Lim Scholarship 2020</p>
+<td rowspan="1" colspan="3">
 <ul data-tight="true" class="tight">
 <li>
-<p>Marcus S/O Mosses (Sec 3IN3) – Football</p>
+<p>Zhao Yu Qi (2E)</p>
+</li>
+<li>
+<p>Lee Jun Hao (4D)</p>
+</li>
+<li>
+<p>Woon Zhee Loong (4D)</p>
+</li>
+<li>
+<p>Lee Yee Ning (4E)</p>
+</li>
+<li>
+<p>Pang Hao Jie (4E)</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Environmental Awareness &amp; Practice</strong>
+<td rowspan="1" colspan="3">
+<p><strong>“新蕾奖“ 23rd National Secondary School Chinese Creative Writing Competition</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>School’s Green Audit (SGA) Awards</p>
+<td rowspan="1" colspan="3">
+<p>Story Writing</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sustained Lotus Award (Highest SGA award for green efforts)</p>
+<p>Zhao Yu Qi (2E)</p>
+</li>
+<li>
+<p>Teo Shu Hao (2F)</p>
+</li>
+<li>
+<p>Wang Yunhan (2F)</p>
+</li>
+<li>
+<p>Lu Xuyang (3D)</p>
+</li>
+<li>
+<p>Esmel Kiew Xin Yi (4A)</p>
+</li>
+<li>
+<p>Lee Jun Hao (4D)</p>
+</li>
+</ul>
+<p>Poetry Writing:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Wang Yihan (1B)</p>
+</li>
+<li>
+<p>Chen Minrui (4D)</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Community Awards</strong>
+<td rowspan="1" colspan="3">
+<p><strong>Essay publication in《星月银河映初心》SG60</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Northwest Outstanding School Partner Awards (SPA) 2020</p>
+<td rowspan="1" colspan="3">
 <ul data-tight="true" class="tight">
 <li>
-<p>Silver</p>
+<p>Woon Zhee Loong (4D)</p>
+</li>
+<li>
+<p>Lee Jia Xuan (4E)</p>
+</li>
+<li>
+<p>Ling Jia En (4F)</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Cognitive</strong>
+<td rowspan="1" colspan="3">
+<p><strong>NUS Geography Challenge 2025 Top Performing School - Creative Component</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>21<sup>st</sup>&nbsp;Science Elements Competition (2020) – Gold Award</p>
+<td rowspan="1" colspan="3">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chan Ting Ting Adelia Faith (4TE1)</p>
+<p>Chin Yong Zhen (4D)</p>
 </li>
 <li>
-<p>Oon Shi En (4TE1)</p>
+<p>Kuan Wen Le Kingston (4D)</p>
 </li>
 <li>
-<p>Kyla Samuel David (4TE1)</p>
+<p>Lee Yee Ning (4E)</p>
 </li>
 <li>
-<p>Alagu Lakshmi Thiruppathi (4TE1)</p>
-</li>
-<li>
-<p>Cheong Ying Zhe Justin (4TE1)</p>
+<p>Teoh En Xin (4D)</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>SUTD 3D Printing and Design Innovation Challenge 2020</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Runner-up</p>
-</li>
-</ul>
+<td rowspan="1" colspan="3">
+<h4><strong>Staff Achievements 2025</strong></h4>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>2020 Animation and Game Making (AGM) Competition</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Montoro Shannen Perez, 2CO5 – Animation category – Bronze</p>
-</li>
-<li>
-<p>Kok Jun Qi, 3IN5 – Game category – Bronze</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>18th National Secondary Schools Chinese Creative Writing Competition (organized
-by Singapore Hokkien Huay Kuan)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Teoh Ji En, 2CO1 – Lower Secondary Bronze Award</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Live On Design Competition (organized by National Organ Transplant Unit)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Ong Zi Yan, 3IN3 – Distinction</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Community Awards</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Northwest Outstanding All Rounder Student (OARS) Award 2020</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Jezebel Olsen (Sec 4TE4)</p>
-</li>
-<li>
-<p>Loke Lagu (Sec 4TE4)</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Community service, adventure, skills development and physical recreation</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Youth Achievement Award</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Silver (15 students)</p>
-</li>
-<li>
-<p>Bronze (47 students)</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h4><strong>Staff Achievements 2020</strong></h4>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p><strong>National Day Awards</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>The Commendation Medal</p>
+<td rowspan="1" colspan="3">
+<p>Long Service Medal</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Loke Cheok Meng Shamen (Year Head - Upper Sec)</p>
+<p>Mr Goh Jiang Wee – HOD ICT</p>
+</li>
+<li>
+<p>Mdm Julistiara Sujae – ST Geography</p>
+</li>
+<li>
+<p>Mr Alex Choh Chee Yang – D&amp;T Teacher</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>The Long Service Medal</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mdm Ng Lai Peng (HOD/MT)</p>
-</li>
-<li>
-<p>Mr Abdul Rashid Bin Jumadi (Education Workshop Instructor)</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Caring Teacher Awards</strong>
+<td rowspan="1" colspan="3">
+<p><strong>MOE Service Excellence Awards</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>The Caring Teacher Awards 2020 (organized by NIE) – School Level (Secondary)</p>
+<td rowspan="1" colspan="3">
+<p>Gold</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Tan Qian Ying</p>
+<p>Mr Goh Jiang Wee</p>
 </li>
 <li>
-<p>Mr Oon Boon Keong</p>
+<p>Mr Lee Sek Koi</p>
 </li>
 <li>
-<p>Mdm Zhou Yi Ting</p>
+<p>Ms Nur Hidayah Bibi Binti Haji Mohamed Omar</p>
+</li>
+<li>
+<p>Mdm Tay Siew Ching</p>
+</li>
+</ul>
+<p>Silver</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Chang Lok</p>
+</li>
+<li>
+<p>Ms Munirah Binte Saini</p>
+</li>
+<li>
+<p>Mr Rahim Bin Sal</p>
 </li>
 </ul>
 </td>
