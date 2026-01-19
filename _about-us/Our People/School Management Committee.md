@@ -35,7 +35,7 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr William Chan Ying Chung</p>
+<p>Mr Chan Ying Chung, William</p>
 <p><a href="mailto:sembawang_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sembawang_ss@moe.edu.sg</u></a>
 </p>
 </td>
@@ -45,7 +45,7 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jonah Lim Tuck Hway</p>
+<p>Mr Lim Tuck Hway, Jonah</p>
 <p><a href="mailto:sembawang_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sembawang_ss@moe.edu.sg</u></a>
 </p>
 </td>
@@ -109,7 +109,7 @@ variant: tiptap
 <p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shirley Teo Ann Lay</p>
+<p>Mdm Teo Ann Lay, Shirley</p>
 <p><a href="mailto:teo_ann_lay_shirley@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_ann_lay_shirley@moe.edu.sg</a>
 </p>
 </td>
@@ -119,7 +119,7 @@ variant: tiptap
 <p>Subject Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Isabelle Khoo Kia Hwee</p>
+<p>Ms Khoo Kia Hwee, Isabelle</p>
 <p><a href="mailto:khoo_kia_hwee_isabelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_kia_hwee_isabelle@moe.edu.sg</a>
 </p>
 </td>
@@ -148,7 +148,7 @@ variant: tiptap
 <p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Serwin Leong Wei Jie</p>
+<p>Mr Leong Wei Jie, Serwin</p>
 <p><a href="mailto:leong_wei_jie_serwin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_wei_jie_serwin@moe.edu.sg</a>
 </p>
 </td>
@@ -226,7 +226,7 @@ variant: tiptap
 <p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sabrina Lim Wee Yin</p>
+<p>Ms Lim Wee Yin, Sabrina</p>
 <p><a href="mailto:lim_wee_yin_sabrina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_wee_yin_sabrina@moe.edu.sg</a>
 </p>
 </td>
@@ -245,7 +245,7 @@ variant: tiptap
 <p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Alan Goh Jiang Wee</p>
+<p>Mr Goh Jiang Wee, Alan</p>
 <p><a href="mailto:goh_jiang_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_jiang_wee@moe.edu.sg</a>
 </p>
 <p></p>
@@ -304,7 +304,7 @@ variant: tiptap
 <p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rachel Choong Mei Ling</p>
+<p>Mdm Choong Mei Ling, Rachel</p>
 <p><a href="mailto:choong_mei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choong_mei_ling@moe.edu.sg</a>
 </p>
 </td>
@@ -333,7 +333,7 @@ variant: tiptap
 <p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kenneth Ng Chee Meng</p>
+<p>Mr Ng Chee Meng, Kenneth</p>
 <p><a href="mailto:kenneth_ng_chee_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kenneth_ng_chee_meng@moe.edu.sg</a>
 </p>
 </td>
@@ -352,7 +352,7 @@ variant: tiptap
 <p>Year Head (Upper Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Marc Ong Yew Kang</p>
+<p>Mr Ong Yew Kang, Marc</p>
 <p><a href="mailto:ong_yew_kang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_yew_kang@moe.edu.sg</a>
 </p>
 </td>
@@ -382,7 +382,7 @@ variant: tiptap
 <p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Christine Tan Cheng Gek</p>
+<p>Mdm Tan Cheng Gek, Christine</p>
 <p><a href="mailto:tan_cheng_gek_christine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_cheng_gek_christine@moe.edu.sg</a>
 </p>
 </td>
@@ -408,7 +408,7 @@ variant: tiptap
 <p>Administrative Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Eileen So Tsz Ying</p>
+<p>Mdm So Tsz Ying, Eileen</p>
 <p><a href="mailto:so_tsz_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">so_tsz_ying@moe.edu.sg</a>
 </p>
 </td>
