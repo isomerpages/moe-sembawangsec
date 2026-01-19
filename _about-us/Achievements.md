@@ -31,10 +31,16 @@ variant: tiptap
 <p>Chinese Dance – Certificate of Accomplishment</p>
 </li>
 <li>
-<p>Concert Band – Certificate of Accomplishment &amp; Certificate of Distinction</p>
+<p>Concert Band – Certificate of Accomplishment</p>
 </li>
 <li>
 <p>Malay Dance – Certificate of Distinction</p>
+</li>
+</ul>
+<p>Singapore Youth Festival (SYF) Arts Presentation (Ensemble)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Concert Band – Certificate of Distinction</p>
 </li>
 </ul>
 </td>
