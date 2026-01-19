@@ -279,7 +279,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>National Day Awards </strong>
+<p><strong>National Day Awards</strong>
 </p>
 </td>
 </tr>
