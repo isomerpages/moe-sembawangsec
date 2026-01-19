@@ -176,19 +176,19 @@ variant: tiptap
 <td rowspan="1" colspan="3">
 <ul data-tight="true" class="tight">
 <li>
-<p>Zhao Yu Qi (Sec 2E)</p>
+<p>Zhao Yu Qi (2E)</p>
 </li>
 <li>
-<p>Lee Jun Hao (Sec 4D)</p>
+<p>Lee Jun Hao (4D)</p>
 </li>
 <li>
 <p>Woon Zhee Loong (4D)</p>
 </li>
 <li>
-<p>Lee Yee Ning (Sec 4E)</p>
+<p>Lee Yee Ning (4E)</p>
 </li>
 <li>
-<p>Pang Hao Jie (Sec 4E)</p>
+<p>Pang Hao Jie (4E)</p>
 </li>
 </ul>
 </td>
