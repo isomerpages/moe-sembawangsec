@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <p>Dear Parents/Guardians,</p>
-<p><u>INVITATION TO JOIN PARENTS SUPPORT GROUP (PSG) </u>
+<p><u>INVITATION TO JOIN PARENTS SUPPORT GROUP (PSG)</u>
 </p>
 <p>The school is setting up a Parents Support Group (PSG) for the parents
 of the students from Sembawang Secondary School. The function of the PSG
@@ -31,7 +31,7 @@ school website. More details will be shared with you in due time.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SMBSS_PSG.jpg">
 </div>
-<p>Warm regards,</p>
-<p>Partnership Committee</p>
-<p>Sembawang Secondary School</p>
+<p>Warm regards,
+<br>Partnership Committee
+<br>Sembawang Secondary School</p>
 <p></p>
