@@ -69,7 +69,7 @@ third_nav_title: Our People
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Heng Sock Mun</p>
+<p>Ms Heng Sook Mun</p>
 <p><a href="mailto:heng_sook_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_sook_mun@moe.edu.sg</a>
 </p>
 </td>
