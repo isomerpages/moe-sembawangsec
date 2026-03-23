@@ -7,3 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Dear Students,</p>
+<p>Please access the latest version of timetable for Term 2:</p>
+<p></p>
