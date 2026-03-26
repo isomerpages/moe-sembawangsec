@@ -7,19 +7,18 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h3><strong>Collection of 2025 School Graduation Certificates (SGC) </strong></h3>
+<h3><strong>Collection of 2025 School Graduation Certificates (SGC)</strong></h3>
 <p>Dear Graduates,</p>
 <p>We are pleased to inform you that your School Graduation Certificates
-(SGC) are now ready for collection from the General Office.</p>
-<p>If you are unable to collect your SGC within the stipulated time indicated
+(SGC) are now ready for collection from the General Office.
+<br>If you are unable to collect your SGC within the stipulated time indicated
 in the table below, you are kindly advised to call the school and make
-an appointment before you come down for collection.</p>
-<p>You will need to provide your particulars at the guard post when you collect
+an appointment before you come down for collection.
+<br>You will need to provide your particulars at the guard post when you collect
 the certificate. Please avoid coming in large groups.</p>
-<p>Thank You.</p>
-<p>School Contact no: <strong>67566760 </strong>
-</p>
-<p>The details for collection are given below</p>
+<p>Thank You.
+<br>School Contact no: <strong>67566760</strong>
+<br>The details for collection are given below</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -53,10 +52,8 @@ the certificate. Please avoid coming in large groups.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>6 April 2026 (Mon) - 10 April 2026 (Fri)</strong>
-</p>
-<p><strong> and </strong>
-</p>
-<p><strong>12 April 2026 (Mon) - 17 April 2026 (Fri)</strong>
+<br><strong>and</strong>
+<br><strong>12 April 2026 (Mon) - 17 April 2026 (Fri)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
