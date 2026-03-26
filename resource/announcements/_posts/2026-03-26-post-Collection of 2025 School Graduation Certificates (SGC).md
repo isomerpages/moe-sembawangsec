@@ -7,3 +7,63 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<h3><strong>Collection of 2025 School Graduation Certificates (SGC) </strong></h3>
+<p>Dear Graduates,</p>
+<p>We are pleased to inform you that your School Graduation Certificates
+(SGC) are now ready for collection from the General Office.</p>
+<p>If you are unable to collect your SGC within the stipulated time indicated
+in the table below, you are kindly advised to call the school and make
+an appointment before you come down for collection.</p>
+<p>You will need to provide your particulars at the guard post when you collect
+the certificate. Please avoid coming in large groups.</p>
+<p>Thank You.</p>
+<p>School Contact no: <strong>67566760 </strong>
+</p>
+<p>The details for collection are given below</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Documents to bring</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Dates of collection</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>4F</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NRIC / Student Ezlink card</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>6 April 2026 (Mon) - 10 April 2026 (Fri)</strong>
+</p>
+<p><strong> and </strong>
+</p>
+<p><strong>12 April 2026 (Mon) - 17 April 2026 (Fri)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>9:00 A.M. to 4:00 P.M.</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
