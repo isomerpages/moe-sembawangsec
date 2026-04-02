@@ -155,7 +155,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Heng Swee Kian</p>
+<p><a href="heng_swee_kian@moe.edu.sg" rel="noopener nofollow" target="_blank">heng_swee_kian@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -193,7 +195,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tan Wei Xuan, Rachel</p>
+<p><a href="tan_wei_xuan_rachel@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_wei_xuan_rachel@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
