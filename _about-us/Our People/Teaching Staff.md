@@ -482,7 +482,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Muhammad Ridzuan Haja Maiden</p>
+<p>MuhammadRidzuan Haja Maiden</p>
 <p><a href="mailto:muhammad_ridzuan_haja_maiden@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_ridzuan_haja_maiden@moe.edu.sg</a>
 </p>
 </td>
