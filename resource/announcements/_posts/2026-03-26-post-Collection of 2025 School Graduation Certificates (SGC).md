@@ -53,7 +53,7 @@ the certificate. Please avoid coming in large groups.</p>
 <td rowspan="1" colspan="1">
 <p><strong>6 April 2026 (Mon) - 10 April 2026 (Fri)</strong>
 <br><strong>and</strong>
-<br><strong>12 April 2026 (Mon) - 17 April 2026 (Fri)</strong>
+<br><strong>13 April 2026 (Mon) - 17 April 2026 (Fri)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
