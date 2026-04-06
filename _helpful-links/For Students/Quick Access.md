@@ -12,7 +12,7 @@ third_nav_title: For Students
 </p>
 </li>
 <li>
-<p><a href="https://form.gov.sg/67fc86677b1d7d6a5dcfdc2f" rel="noopener nofollow" target="_blank">MIMS - Password Reset Request Form (Singpass required)</a>
+<p><a href="https://form.gov.sg/67fc86677b1d7d6a5dcfdc2f" rel="noopener nofollow" target="_blank">MIMS - Password Reset Request Form</a>
 </p>
 </li>
 <li>
