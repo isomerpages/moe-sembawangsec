@@ -19,7 +19,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Preforming Arts</strong>
+<p><strong>Performing Arts</strong>
 </p>
 </td>
 </tr>
