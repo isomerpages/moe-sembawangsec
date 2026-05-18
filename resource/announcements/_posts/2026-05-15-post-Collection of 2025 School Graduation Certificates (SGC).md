@@ -1,7 +1,7 @@
 ---
 title: Collection of 2025 School Graduation Certificates (SGC)
 permalink: /collection-of-2025-school-graduation-certificates-sgc/
-date: 2026-04-24
+date: 2026-05-15
 layout: post
 description: ""
 image: ""
@@ -43,7 +43,7 @@ the certificate. Please avoid coming in large groups.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>5A</strong>
+<p><strong>4D,4E</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -51,9 +51,9 @@ the certificate. Please avoid coming in large groups.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>27 April 2026 (Mon) - 30 April 2026 (Thur) </strong>
+<p><strong>18 May 2026 (Mon) – 22 May 2026 (Fri)&nbsp;</strong>
 <br><strong>and</strong>
-<br><strong>4 May 2026 (Mon) - 8 May 2026 (Fri)</strong>
+<br>*<strong><em>25 May 2026 (Mon) – 29 </em>May 2026 <em>(Fri)</em></strong><em><br>*</em><strong><em>27 May (Wed) is a PH</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
