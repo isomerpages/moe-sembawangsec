@@ -1,9 +1,11 @@
 ---
-title: Timetable
-permalink: /timetable/
-variant: tiptap
+title: Timetable Term 2 Week 10
+permalink: /timetable-term-2-week-10/
+date: 2026-05-21
+layout: post
 description: ""
-third_nav_title: For Students
+image: ""
+variant: tiptap
 ---
 <h4>Dear Students, please refer to the <u>Term 2 Week 10</u> timetable according to your respective levels:</h4>
 <ul data-tight="true" class="tight">
