@@ -10,8 +10,11 @@ locations:
       - Singapore 757704
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 4.30pm
-        description: Closed on Public Holidays
+        time: 7am - 5pm
+        description: School Term (Closed on Public Holidays)
+      - days: Mon - Fri
+        time: 8am - 4.30pm
+        description: School Holidays (Closed on Public Holidays)
     maps_link: https://maps.app.goo.gl/AYghvuVd3Rqqqg8Y6
     title: Mailing Address
 contacts:
