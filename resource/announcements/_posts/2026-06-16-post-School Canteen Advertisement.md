@@ -30,7 +30,7 @@ hours;</p>
 <br>Download and complete the application form below. You may also request
 for a hardcopy from the School’s General Office at 9am – 5pm, Monday to
 Friday.</p>
-<p><u>Application Form</u>
+<p><strong><a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a></strong>
 </p>
 <p>Attach the following supporting documents together with the application
 form:
