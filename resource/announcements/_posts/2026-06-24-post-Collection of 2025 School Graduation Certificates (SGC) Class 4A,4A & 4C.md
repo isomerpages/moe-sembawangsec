@@ -73,7 +73,7 @@ the certificate. Please avoid coming in large groups.
 </td>
 <td rowspan="6" colspan="1">
 <p><strong>*7 July 2026 (Tues) – 10 July 2026 (Fri)&nbsp;</strong>
-<br> <strong>and</strong>
+<br><strong>and</strong>
 <br><strong>13 July 2026 (Mon) – 17 July 2026 (Fri)</strong>
 <br><strong>*6&nbsp;July (Mon) is Youth Day Holiday</strong>
 </p>
