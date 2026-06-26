@@ -16,7 +16,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2026_Sem_2_TT_Sec_2_website.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
+<p><a href="/files/2026_Sem_2_TT_Sec_2_website_v2_Compressed.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
 </p>
 </li>
 <li>
