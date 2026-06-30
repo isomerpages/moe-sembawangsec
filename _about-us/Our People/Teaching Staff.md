@@ -67,10 +67,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Xian Qing</p>
 <p></p>
-<p><a href="mailto:ong_xian_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_xian_qing@moe.edu.sg</a>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -91,7 +88,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ong Xian Qing</p>
+<p><a href="mailto:ong_xian_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_xian_qing@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
