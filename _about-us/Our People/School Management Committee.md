@@ -210,25 +210,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><em>Craft &amp; Technology</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Department</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Wee Yin, Sabrina</p>
-<p><a href="mailto:lim_wee_yin_sabrina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_wee_yin_sabrina@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="2">
 <p><em>Information &amp; Communications Technology</em>
 </p>
