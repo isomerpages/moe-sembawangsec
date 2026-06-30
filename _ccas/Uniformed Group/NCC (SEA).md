@@ -64,7 +64,7 @@ of our cadets:</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Joe Wieky (Teacher OIC)</p>
+<p>Mr Seah You Liang (Teacher OIC)</p>
 </td>
 </tr>
 <tr>
@@ -74,7 +74,7 @@ of our cadets:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Seah You Liang</p>
+<p>Ms Ong Xian Qing</p>
 </td>
 </tr>
 <tr>
@@ -85,6 +85,11 @@ of our cadets:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Ethan Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nr Heng Swee Kian</p>
 </td>
 </tr>
 </tbody>
