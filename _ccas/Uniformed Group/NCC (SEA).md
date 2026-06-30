@@ -48,10 +48,10 @@ of our cadets:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friday</p>
+<p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1:30 - 5:30 PM</p>
+<p>3:30 - 5:30 PM</p>
 </td>
 </tr>
 </tbody>
