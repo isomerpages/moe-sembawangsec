@@ -102,6 +102,11 @@ and keep Singapore safe.</p>
 <p>Ms Yasmin</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Loh Yin Sheng, Matthew</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
