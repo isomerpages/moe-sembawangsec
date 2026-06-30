@@ -469,14 +469,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Marianne Louise Das</p>
-<p><a href="mailto:marianne_louise_das@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>marianne_louise_das@moe.edu.sg</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Koh Yu Qi</p>
 <p><a href="mailto:koh_yu_qi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>koh_yu_qi@moe.edu.sg</u></a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
